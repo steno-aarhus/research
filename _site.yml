@@ -1,5 +1,7 @@
 name: "research"
 title: "SDCA Research"
+include:
+    - "README.html"
 exclude:
     - "LICENSE.md"
     - "LICENSE.html"
@@ -11,19 +13,24 @@ theme: theme.css
 repository_url: https://github.com/steno-aarhus/research
 creative_commons: CC BY
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Common docs"
+      menu:
+        - text: "Onboarding"
+          href: onboarding.html
     - text: "Admin"
       menu:
         - text: "Contributing"
           href: CONTRIBUTING.html
-    - icon: fab fa-github
-      href: https://github.com/steno-aarhus/research
+        - text: "Code of Conduct"
+          href: CONDUCT.html
+  source_url: true
 output:
     distill::distill_article:
         toc: true
         toc_depth: 2
-        toc_float: true

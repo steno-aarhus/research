@@ -3,3 +3,9 @@ title: "SDCA Research"
 site: distill::distill_website
 #listing: posts
 ---
+
+```{r website-bug-fix, include=FALSE}
+# This is used to fix a bug in the website builder.
+rmarkdown::render("README.md", output_format = "html_document")
+```
+

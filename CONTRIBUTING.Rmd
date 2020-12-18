@@ -3,7 +3,6 @@ title: "Contributing guidelines"
 description: |
   Guidelines for contributing to the documents.
 date: "`r Sys.Date()`"
-output: distill::distill_article
 ---
 
 This document contains instructions for how to contribute to developing these
