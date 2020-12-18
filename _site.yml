@@ -1,0 +1,29 @@
+name: "research"
+title: "SDCA Research"
+exclude:
+    - "LICENSE.md"
+    - "LICENSE.html"
+    - "DESCRIPTION"
+description: |
+  SDCA Research
+output_dir: "_site"
+theme: theme.css
+repository_url: https://github.com/steno-aarhus/research
+creative_commons: CC BY
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Admin"
+      menu:
+        - text: "Contributing"
+          href: CONTRIBUTING.html
+    - icon: fab fa-github
+      href: https://github.com/steno-aarhus/research
+output:
+    distill::distill_article:
+        toc: true
+        toc_depth: 2
+        toc_float: true

@@ -1,0 +1,21 @@
+---
+title: "Onboarding Material"
+description: |
+  Material for onboarding new researchers at SDCA.
+author:
+  - name: Luke W. Johnston
+    url: https://lukewjohnston.com
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
