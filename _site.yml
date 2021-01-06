@@ -23,6 +23,8 @@ navbar:
       menu:
         - text: "Onboarding"
           href: onboarding.html
+        - text: "Data application"
+          href: data-application.html
     - text: "Admin"
       menu:
         - text: "Contributing"
