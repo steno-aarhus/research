@@ -24,3 +24,4 @@ Learn more about using Distill for R Markdown at <https://rstudio.github.io/dist
 
 # More stuff
 
+![Image caption, explaining stuff](image/figure.png)
