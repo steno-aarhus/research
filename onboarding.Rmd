@@ -14,7 +14,11 @@ Distill is a publication format for scientific and technical writing, native to 
 
 Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
+# Header 1
+## Header 2
 
+**bold** and *italic*
 
-
+- list 1
+- list 2
 
