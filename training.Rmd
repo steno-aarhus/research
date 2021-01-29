@@ -4,7 +4,7 @@ title: "Training and other support"
 
 # Introduction
 
-This content is about *types* of training **available**.
+This content is about *types* of training available.
 
 - Item 1
 - Item 2
