@@ -5,6 +5,11 @@ description: |
 date: "`r Sys.Date()`"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(vembedr)
+```
+
 This document contains instructions for how to contribute to developing these
 documents.
 
@@ -48,7 +53,55 @@ the content).
 
 # Governance
 
-# Adding new content
+# Navigating the GitHub project
+
+The below video is a quick tutorial on how to navigate this project
+on GitHub.
+
+```{r video-tutorial-1}
+embed_youtube("GoT_7DRRatw", height = 400) %>% 
+    use_bs_responsive() %>% 
+    use_align("center")
+```
+
+There are some terms used in the video:
+
+- **Repository**: A [repository] is everything that is contained within
+the project. In this case, the repository is the website with the 
+[Issues], files, and subfolders for this project.
+- **Issue**: An [Issue] is a task or to-do item that needs to be
+completed. These to-do items can be assigned to people and can be
+checked off as being done ("Closed").
+- **Branch**: A [branch] is a separate, parallel set of files and
+folders related to the project. In this project there is the "main"
+branch that only the admin can edit. In order to add content
+to the main branch, you need to create your own branch and create a
+[Pull Request] of your changes and additions that you want added to
+the main files. Branches and Pull Requests are heavily used in the
+"[GitHub workflow]" that this project (and many many others) use.
+More details about this are in the next section and video. Branches are
+in some ways like separate files that you would email between other
+contributors, but instead of everyone having different versions of the
+file, here they are all contained in the same place (in the repository).
+- **Pull Request**: A [Pull Request] is a request to add changes
+you've made to files in your branch and have them put into the main
+branch. When you make a Pull Request, it allows others to review what
+you've changed and make comments on it. Think of it like "Track changes"
+and the "Add comment" features of Word.
+
+[Pull Request]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+[GitHub workflow]: https://guides.github.com/introduction/flow/
+[Issue]: https://guides.github.com/features/issues/
+[repository]: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories
+[branch]: https://docs.github.com/en/github/getting-started-with-github/github-glossary#branch
+
+# Adding new or modifying content as a team member
+
+```{r video-tutorial-2, eval=FALSE}
+embed_youtube("", height = 400) %>% 
+    use_bs_responsive() %>% 
+    use_align("center")
+```
 
 # Modifying existing content
 
