@@ -44,3 +44,5 @@ title: "Administrative and legal demands in research"
       - Item 5.2 Storage at RM
             - Item 5.2.1 Patient and trial data (patient sensitive): RedCap through RM
             - Item 5.2.2 Larger data files: MidtX, needs to be setup through RM-IT so that logging is possible.  
+
+#Datahandling agreements.......
