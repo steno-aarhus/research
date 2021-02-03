@@ -1,0 +1,33 @@
+```
+title: "Administrative and legal demands in research"
+```
+
+#Clinical studies
+      - Item 1.1 Preparing for a study
+      - Item  1.1.1 Research within the region (AUH) or University (AU)?
+      - Item  1.1.2 Report to VEK (obs research biobank vs biobank, research in children and whole genome issues)
+      - Item  1.1.3 Clinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))
+           
+      - Item 1.2. Lab used?
+      - Item  1.2.1 M-lab
+      - Item  1.2.2 Patolab
+      - Item  1.2.3 Collaborating with dep. of biochemistry (klinisk biokemisk)
+      
+      - Item 1.3. Biobank
+      
+ #Access to patient data (not through Statistics Denmark)
+      - Item 2.1 Research project or quality control study
+      
+      - Item 2.2 Research project using Patient Data
+      - Item  2.2.1 Report to Styrelsen for patientsikkerhed - obs blev dette ændret
+      - Item  2.2.2 Attachment to the department where the patient data is being collected (get a unpaid job...)
+      
+      - Item 2.3 Quality control study
+      - Item  2.3.1 Aquire permission from head of department
+      
+ #Report to Danish Data Authorities (Datatilsynet - Paraply anmeldelse under RM eller via AU)
+      - Item 3.1 Report to RM
+      - Item  3.1.2 Obs Requires acces to a RM computer (https://www.rm.dk/sundhed/faginfo/forskning/Forskningsprojekter/)
+ 
+ #Datastorage of sensitive patient data
+      - Item 4.1 
