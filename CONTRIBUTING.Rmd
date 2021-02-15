@@ -137,3 +137,23 @@ the main branch (so they can be put on the website), click the "pull
 request" button, write a short message as a title on what you are
 changing or adding in the pull request, and click "Create pull request".
 Now your changes can be reviewed!
+
+## The basics of writing in Markdown
+
+The video below is a tutorial on the basics of using Markdown to write the content
+of this website. When you write content for any documents on this repository,
+the content needs to be written in Markdown. So take some time to watch the
+video and learn a bit about Markdown. I promise, it won't take long to learn!
+
+```{r video-tutorial-markdown}
+embed_youtube("_ovKJek9-Rk", height = 400) %>% 
+    use_bs_responsive() %>% 
+    use_align("center")
+```
+
+For more guides and references on writing in Markdown, see GitHub's Guide
+[*Mastering Markdown*](https://guides.github.com/features/mastering-markdown/)
+or, for a more reference and list style of documentation, GitHub's 
+[*Writing on GitHub*](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+documentation. To see a "real-world" example, check out how the Code of Conduct
+is [written](https://github.com/steno-aarhus/research/blob/main/CONDUCT.Rmd).
