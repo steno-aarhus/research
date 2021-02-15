@@ -1,5 +1,6 @@
 name: "research"
 title: "SDCA Research"
+base_url: https://steno-aarhus.github.io/research/
 include:
     - "README.html"
 exclude:
@@ -7,7 +8,7 @@ exclude:
     - "LICENSE.html"
     - "DESCRIPTION"
 description: |
-  SDCA Research
+  Common documents, standard procedures, and on-boarding material for Steno Diabetes Center Aarhus Research.
 output_dir: "_site"
 theme: theme.css
 repository_url: https://github.com/steno-aarhus/research
