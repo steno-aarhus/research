@@ -20,6 +20,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Blog"
+      href: blog.html
     - text: "Common docs"
       menu:
         - text: "Onboarding"
