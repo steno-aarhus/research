@@ -1,0 +1,20 @@
+---
+title: "Applications for data"
+description: |
+  Material for applying to various data sources, including the Danish registers.
+# author:
+#   - name: Luke W. Johnston
+#     url: https://lukewjohnston.com
+#     affiliation: Steno Diabetes Center Aarhus
+#     affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+---
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
