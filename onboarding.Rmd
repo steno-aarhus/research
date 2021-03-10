@@ -28,11 +28,13 @@ Your buddy will walk you through the relevant tables below and give you an overv
 The purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encoutered  any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.
 
 # SDCA management
-![SDCA management](https://user-images.githubusercontent.com/48243937/110253049-8d6ddf80-7f88-11eb-9f16-0926d55025fb.jpg)
+
+![SDCA management](images/sdca-management-structure.jpg)
 
 As opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.
  
-The board at SDCA consists of
+The board at SDCA consists of:
+
 -	Ole Thomsen (chairman), Head of Corporate Management, Central Denmark Region
 -	Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
 -	Pia Ulv Helleland, CEO, Lemvig Municipality
@@ -41,30 +43,31 @@ The board at SDCA consists of
 -	Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
 
 For more information, please visit:
-https://www.stenoaarhus.dk/english/    
 
-https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf 
-
-www.linkedin.com/company/steno-diabetes-center-aarhus   
-
-www.twitter.com/stenoaarhus  
+- https://www.stenoaarhus.dk/english/    
+- https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf 
+- www.linkedin.com/company/steno-diabetes-center-aarhus   
+- www.twitter.com/stenoaarhus  
 
 # Research groups at SDCA
-![Research groups](https://user-images.githubusercontent.com/48243937/110253157-1ab13400-7f89-11eb-8e26-042a0f38e18a.jpg)
+
+![Research groups](images/sdca-research-groups.jpg)
 
 Steno Diabetes Center Aarhus covers a wide range of research areas. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans.
 
 We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.
 
 For more information on the research groups, please visit:
-https://www.stenoaarhus.dk/Research/
 
-https://twitter.com/stenoaarhusres 
+- https://www.stenoaarhus.dk/Research/
+- https://twitter.com/stenoaarhusres 
 
 # General information to all researchers
+
 *table coming soon*
 
 # PhD students
+
 *table coming soon*
 
 
