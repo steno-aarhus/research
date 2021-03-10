@@ -3,14 +3,19 @@ title: "Onboarding Material"
 description: |
   Material for onboarding new researchers at SDCA.
 authors:
-  - name: Luke W. Johnston, Daniel B. Ibsen, Tinne Laurberg
-    affiliation: Steno Diabetes Center Aarhus
+    # Order alphabetical by last name
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus, Denmark
+  - name: Luke W. Johnston
+    affiliation: Steno Diabetes Center Aarhus, Denmark
+  - name: Tinne Laurberg
+    affiliation: Steno Diabetes Center Aarhus, Denmark
 date: "`r Sys.Date()`"
 ---
 
-# Wellcome and how to get started
+# Welcome and getting started
 
-Wellcome to the Steno Diabetes Center Aarhus (SDCA).
+Welcome to the Steno Diabetes Center Aarhus (SDCA)!
 
 We have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.
 
