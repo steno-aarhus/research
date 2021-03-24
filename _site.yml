@@ -24,6 +24,9 @@ navbar:
       menu:
         - text: "Onboarding"
           href: onboarding.html
+    - text: "Templates"
+      menu:
+        - text: "Welcome email"
     - text: "Admin"
       menu:
         - text: "Contributing"
