@@ -55,3 +55,6 @@ Or in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.
     * Larger data files: MidtX, needs to be setup through RM-IT so that logging is possible.  
 
 # Datahandling agreements
+
+<!-- COMMENT: We could redesign this into something more of a like a narrative: -->
+<!-- "researcher comes in, what do the do first? After that? And next steps, etc. -->
