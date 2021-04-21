@@ -1,5 +1,0 @@
----
-title: "About"
-description: |
-  To fill in later.
----
