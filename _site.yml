@@ -24,6 +24,8 @@ navbar:
           href: onboarding.html
         - text: "Setting up studies"
           href: setup-studies.html
+        - text: "Running meetings"
+          href: general-meetings.html
     - text: "Templates"
       menu:
         - text: "Welcome email"
