@@ -9,3 +9,5 @@ site: distill::distill_website
 rmarkdown::render("README.md", output_format = "html_document")
 ```
 
+```{r disclaimer, child="includes/disclaimer.Rmd"}
+```
