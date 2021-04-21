@@ -1,8 +1,16 @@
 ---
 title: "SDCA Research"
+description: | 
+    Resources and support for conducting research at Steno Diabetes Center Aarhus.
 site: distill::distill_website
 #listing: posts
 ---
+
+<br>
+
+```{r, fig.align='center', out.width='100%'}
+knitr::include_graphics("images/banner.png")
+```
 
 ```{r website-bug-fix, include=FALSE}
 # This is used to fix a bug in the website builder.
