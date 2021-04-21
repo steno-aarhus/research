@@ -9,6 +9,9 @@ author:
     affiliation_url: https://stenoaarhus.dk
 ---
 
+```{r disclaimer, child="includes/disclaimer.Rmd"}
+```
+
 # Clinical studies
 
 * Preparing for a study
