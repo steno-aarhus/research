@@ -90,3 +90,7 @@ d-appendix {
     border-bottom: 5px solid #ddd;
     border-bottom-color: rgb(221, 221, 221);
 }
+
+d-title {
+    background: url("images/banner-transparent.png");
+}
