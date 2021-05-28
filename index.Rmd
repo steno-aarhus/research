@@ -6,12 +6,6 @@ site: distill::distill_website
 #listing: posts
 ---
 
-<br>
-
-```{r, fig.align='center', out.width='100%'}
-knitr::include_graphics("images/banner.png")
-```
-
 ```{r website-bug-fix, include=FALSE}
 # This is used to fix a bug in the website builder.
 rmarkdown::render("README.md", output_format = "html_document")
@@ -19,3 +13,18 @@ rmarkdown::render("README.md", output_format = "html_document")
 
 ```{r disclaimer, child="includes/disclaimer.Rmd"}
 ```
+
+# Purpose
+
+There are a few purposes for having this website:
+
+1. As a resource for newcomers to SDCA, so they know some basic details about 
+getting started, where to find help, 
+2. As a way for us to have a shared, and explicit, description of how we can
+collaborate together and help each other out.
+3. 
+
+
+# About us
+
+We are a group of researchers working within the Steno Diabetes Center Aarhus. 
