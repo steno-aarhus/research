@@ -2,17 +2,86 @@
 title: "Onboarding Material"
 description: |
   Material for onboarding new researchers at SDCA.
-author:
+authors:
+    # Order alphabetical by last name
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus, Denmark
   - name: Luke W. Johnston
-    url: https://lukewjohnston.com
-    affiliation: Steno Diabetes Center Aarhus
-    affiliation_url: https://stenoaarhus.dk
+    affiliation: Steno Diabetes Center Aarhus, Denmark
+  - name: Tinne Laurberg
+    affiliation: Steno Diabetes Center Aarhus, Denmark
 date: "`r Sys.Date()`"
 ---
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+# Welcome and getting started
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+Welcome to the Steno Diabetes Center Aarhus (SDCA)!
+
+We have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.
+
+As a new member of our research team, there is a lot of things you need learn about the organization, the culture (both research and social) and a lot of practical stuff. The page here is thought of as your initial entry point, where you can get an overview. This is also an atlas for you to return to when you need to look up specific information. 
+
+To get an introduction to the research team and this document you will be teamed up with an experienced member from research. It is your supervisor's responsibility to find you a "buddy." Please ask your supervisor if this is not already in place.
+
+Your buddy will walk you through the relevant tables below and give you an overview of all the topics that you need to be aware of. The agenda for the meeting is:
+
+1. Introduce yourselves
+2. Go through the table below
+3. Take a tour around the research facility
+4. Arrange follow-up talk
+
+The purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encoutered  any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.
+
+# SDCA management
+
+![SDCA management](images/sdca-management-structure.jpg)
+
+As opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.
+ 
+The board at SDCA consists of:
+
+-	Ole Thomsen (chairman), Head of Corporate Management, Central Denmark Region
+-	Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
+-	Pia Ulv Helleland, CEO, Lemvig Municipality
+-	Lars Bo Nielsen, Dean, Health - Aarhus University
+-	Claus Thomsen, Chief Medical Officer, Aarhus University Hospital
+-	Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
+
+For more information, please visit:
+
+- https://www.stenoaarhus.dk/english/    
+- https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf 
+- www.linkedin.com/company/steno-diabetes-center-aarhus   
+- www.twitter.com/stenoaarhus  
+
+# Research groups at SDCA
+
+![Research groups](images/sdca-research-groups.jpg)
+
+Steno Diabetes Center Aarhus covers a wide range of research areas. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans.
+
+We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.
+
+For more information on the research groups, please visit:
+
+- https://www.stenoaarhus.dk/Research/
+- https://twitter.com/stenoaarhusres 
+
+# General information to all researchers
+
+*table coming soon*
+
+# PhD students
+
+*table coming soon*
+
+
+
+
+
+
+
+
 
 
 
