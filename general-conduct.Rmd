@@ -14,7 +14,7 @@ Distill is a publication format for scientific and technical writing, native to 
 
 Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
-# Expected Behavior#
+# Expected Behavior
 We treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:
 
 - Show courtesy and respect towards others.
@@ -24,10 +24,10 @@ We treat each other with respect and courtesy, whether it be online or in-person
 - Gracefully accept constructive criticism.
 - Focus on what is best for the community overall.
 
-Read the "four social rules" for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way.
-# Need to add link to the "four social rules" (really good), but don't know how. Can U help? #
+Read the ["four social rules"](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way.
 
 # Unacceptable Behavior
+
 Examples of unacceptable behavior include, but are not limited to:
 
 - Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group.
@@ -45,7 +45,11 @@ Examples of unacceptable behavior include, but are not limited to:
 - Publication of private communication without consent.
 
 # Consequences of Unacceptable Behavior
-If you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.
-Unacceptable behavior has to stop immediately after being pointed out. Sanctions include??
 
-Note: the region has an e-dok instruction on harassment. Will need to check e-dok and add to this document.
+If you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.
+<!--  Comment:
+Uncomment after adding link to consequences. 
+Unacceptable behavior is not tolerated and if continued may lead to ...
+--> 
+
+<!-- TODO: the region has an e-dok instruction on harassment. Add the e-dok here. -->
