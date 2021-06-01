@@ -13,11 +13,17 @@ output_dir: "_site"
 theme: theme.css
 repository_url: https://github.com/steno-aarhus/research
 creative_commons: CC BY
+collections:
+    support:
+        categories: true
+    onboarding:
+        categories: true
 navbar:
   search: true
-  right:
-    - text: "Home"
+  left:
+    - icon: "fas fa-home"
       href: index.html
+  right:
     - text: "Common docs"
       menu:
         - text: "Onboarding"

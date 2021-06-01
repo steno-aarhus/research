@@ -1,0 +1,12 @@
+---
+title: "Data analysis tips and help"
+description: |
+  Material and resources for best practices, learning, and support for doing data analysis.
+author:
+  - name: Luke W. Johnston
+date: 06-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+

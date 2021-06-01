@@ -6,10 +6,11 @@ author:
   - name: Alisa Devedzic Kjærgaard 
     affiliation: Steno Diabetes Center Aarhus
     affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
-
-```{r disclaimer, child="includes/disclaimer.Rmd"}
-```
 
 Effective meetings have a potential to improve productivity and work satisfaction and inspire greater collaboration.
 
