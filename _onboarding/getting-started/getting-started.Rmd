@@ -46,28 +46,6 @@ meeting is:
 
 The purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered  any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.
 
-# SDCA management
-
-![SDCA management](images/sdca-management-structure.jpg)
-
-As opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.
- 
-The board at SDCA consists of:
-
--	Ole Thomsen (chairman), Head of Corporate Management, Central Denmark Region
--	Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
--	Pia Ulv Helleland, CEO, Lemvig Municipality
--	Lars Bo Nielsen, Dean, Health - Aarhus University
--	Claus Thomsen, Chief Medical Officer, Aarhus University Hospital
--	Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
-
-For more information, please visit:
-
-- https://www.stenoaarhus.dk/english/    
-- https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf 
-- www.linkedin.com/company/steno-diabetes-center-aarhus   
-- www.twitter.com/stenoaarhus  
-
 # Research groups at SDCA
 
 ![Research groups](images/sdca-research-groups.jpg)

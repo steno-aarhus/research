@@ -14,6 +14,8 @@ theme: theme.css
 repository_url: https://github.com/steno-aarhus/research
 creative_commons: CC BY
 collections:
+    organization:
+        categories: true
     support:
         categories: true
     onboarding:
@@ -28,13 +30,10 @@ navbar:
       menu:
         - text: "Onboarding"
           href: onboarding.html
-        - text: "Setting up studies"
-          href: setup-studies.html
-        - text: "Running meetings"
-          href: general-meetings.html
-    - text: "Templates"
-      menu:
-        - text: "Welcome email"
+        - text: "Support"
+          href: support.html
+        - text: "Organization"
+          href: organization.html
     - text: "Admin"
       menu:
         - text: "Contributing"
