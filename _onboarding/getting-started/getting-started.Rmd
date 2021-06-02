@@ -6,8 +6,6 @@ authors:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
     affiliation: Steno Diabetes Center Aarhus, Denmark
-  - name: Luke W. Johnston
-    affiliation: Steno Diabetes Center Aarhus, Denmark
   - name: Tinne Laurberg
     affiliation: Steno Diabetes Center Aarhus, Denmark
 date: "`r Sys.Date()`"
