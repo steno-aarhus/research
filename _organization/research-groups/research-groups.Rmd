@@ -1,22 +1,26 @@
 ---
-title: "research-groups"
+title: "Research groups at SDCA"
 description: |
-  A short description of the post.
-author:
-  - name: Luke W. Johnston
-date: 06-01-2021
+  The different research groups and topics at SDCA
+authors:
+    # Order alphabetical by last name
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus, Denmark
+  - name: Tinne Laurberg
+    affiliation: Steno Diabetes Center Aarhus, Denmark
+date: "`r Sys.Date()`"
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+![Research groups](../../images/sdca-research-groups.jpg)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+Steno Diabetes Center Aarhus covers a wide range of research areas. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans.
 
-Distill is a publication format for scientific and technical writing, native to the web.
+We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+For more information on the research groups, please visit:
 
-
+- https://www.stenoaarhus.dk/Research/
+- https://twitter.com/stenoaarhusres 
