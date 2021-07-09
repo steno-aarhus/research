@@ -4,4 +4,5 @@ License: CC BY 4.0
 Encoding: UTF-8
 Imports: 
     distill,
+    htmltools,
     vembedr

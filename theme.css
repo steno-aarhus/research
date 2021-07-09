@@ -64,14 +64,14 @@ d-appendix {
   --text-color:       white;
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #8b0000;
+  --bkgd-color:       #990032;
 }
 
 .distill-site-footer {
   --text-color:       white;
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #8b0000;
+  --bkgd-color:       #990033;
 }
 
 /*-- Additional custom styles --*/
@@ -89,4 +89,21 @@ d-appendix {
     background: #eee;
     border-bottom: 5px solid #ddd;
     border-bottom-color: rgb(221, 221, 221);
+}
+
+d-title {
+    background: url("images/banner-transparent.png");
+}
+
+.icon-link {
+    background-color: #990033;
+    color: white;
+    padding: 3px 5px 3px 5px;
+    margin: 0 2px 0 2px;
+    border-radius: 5px; /* Rounded edges */
+}
+
+.icon-link:hover {
+    background-color: #fb0052;
+    color: white;
 }

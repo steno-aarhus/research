@@ -40,8 +40,14 @@ navbar:
           href: CONTRIBUTING.html
         - text: "Code of Conduct"
           href: CONDUCT.html
+    - icon: "fas fa-globe"
+      href: "https://www.stenoaarhus.dk/research"
+    - icon: "fab fa-twitter"
+      href: "https://twitter.com/StenoAarhusRes"
   source_url: true
 output:
     distill::distill_article:
         toc: true
         toc_depth: 2
+        includs:
+            before_body: "_common.R"

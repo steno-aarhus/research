@@ -1,13 +1,27 @@
 ---
 title: "SDCA Research"
+description: | 
+    Resources and support for conducting research at Steno Diabetes Center Aarhus.
 site: distill::distill_website
-#listing: posts
 ---
-
-```{r website-bug-fix, include=FALSE}
-# This is used to fix a bug in the website builder.
-rmarkdown::render("README.md", output_format = "html_document")
-```
 
 ```{r disclaimer, child="includes/disclaimer.Rmd"}
 ```
+
+# Purpose
+
+There are a few purposes for this website:
+
+1. We want this to be an "entry point" for newcomers to SDCA to use in getting
+started, to learning the culture at SDCA, how to do common tasks, and generally
+getting help overall.
+2. This is a way for us to explicitly describe the research culture so we can
+more easily collaborate with, get help from, and generally support each other.
+3. To begin documenting how to do things so others can learn and benefit from
+our experiences, and so that we can make use of others' experiences and knowledge.
+
+# About us
+
+We are a group of researchers working within the Steno Diabetes Center Aarhus. 
+Our research spans multiple fields, all of which are tied by the study of
+diabetes.
