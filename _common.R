@@ -1,6 +1,5 @@
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, error = FALSE, message = FALSE)
 
-
 # Functions for adding icons ----------------------------------------------
 
 make_icon <- function(icon) {
