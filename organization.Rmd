@@ -1,9 +1,4 @@
 ---
-title: "Organizational information"
+title: "Organizational Information about SDCA"
 listing: organization
 ---
-
-```{r disclaimer, child="includes/disclaimer.Rmd"}
-```
-
-Resources on the organization at SDCA.

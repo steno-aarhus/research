@@ -2,7 +2,7 @@
 title: "Welcome and getting started"
 description: |
   Material for onboarding new researchers at SDCA.
-authors:
+author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
     affiliation: Steno Diabetes Center Aarhus, Denmark
@@ -14,7 +14,10 @@ output:
     self_contained: false
 ---
 
-Welcome to the Steno Diabetes Center Aarhus (SDCA)!
+```{r disclaimer, child="../../includes/disclaimer.Rmd"}
+```
+
+# Welcome to the Steno Diabetes Center Aarhus (SDCA)!
 
 We have high ambitions at SDCA. We believe that people with diabetes can have a
 good life. We will make a difference to all people with or at risk of getting
@@ -40,7 +43,13 @@ meeting is:
 3. Take a tour around the research facility
 4. Arrange follow-up talk
 
-The purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered  any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.
+The purpose of the follow-up talk is to catch up on how you have settled in. If
+you have any specific questions you can also ask them. As the final thing, you
+and your buddy will evaluate the introduction. You will be given responsibility
+to update this website if you have encountered  any information that was not up
+to date and you should add any other information you would have liked the page
+to contain. This is a very important step because it ensures that this material
+is always current and helps the next new team member.
 
 # General information to all researchers
 

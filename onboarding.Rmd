@@ -1,9 +1,4 @@
 ---
-title: "Onboarding Material"
+title: "Onboarding Material for New Researchers at SDCA"
 listing: onboarding
 ---
-
-```{r disclaimer, child="includes/disclaimer.Rmd"}
-```
-
-Material for onboarding new researchers at SDCA.

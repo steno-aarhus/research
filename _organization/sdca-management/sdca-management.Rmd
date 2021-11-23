@@ -2,7 +2,7 @@
 title: "SDCA management structure"
 description: |
   Structure of the management team at SDCA
-authors:
+author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
     affiliation: Steno Diabetes Center Aarhus, Denmark
@@ -13,6 +13,10 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+
+```{r disclaimer, child="../../includes/disclaimer.Rmd"}
+```
+
 
 ![Overview of SDCA management team](../../images/sdca-management-structure.jpg)
 

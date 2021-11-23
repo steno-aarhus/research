@@ -12,6 +12,9 @@ output:
     self_contained: false
 ---
 
+```{r disclaimer, child="../../includes/disclaimer.Rmd"}
+```
+
 # Expected Behavior
 
 We treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:

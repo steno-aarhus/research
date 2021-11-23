@@ -12,6 +12,9 @@ output:
     self_contained: false
 ---
 
+```{r disclaimer, child="../../includes/disclaimer.Rmd"}
+```
+
 Effective meetings have a potential to improve productivity and work satisfaction and inspire greater collaboration.
 
 # Types of meetings

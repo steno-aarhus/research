@@ -49,5 +49,3 @@ output:
     distill::distill_article:
         toc: true
         toc_depth: 2
-        includs:
-            before_body: "_common.R"
