@@ -53,18 +53,19 @@ is always current and helps the next new team member.
 
 # General information to all researchers
 
-```{r}
+```{r, echo=FALSE}
 library(googlesheets4)
 
 googlesheets4::gs4_deauth()
 
-General_info_sheet <- read_sheet("https://docs.google.com/spreadsheets/d/1Be4YskAsAALO9GWmLmRFQhK-WuDo4ciKzqxa-0auM9M/edit?usp=sharing", range = "A1:B43")
+General_info_sheet <- read_sheet("https://docs.google.com/spreadsheets/d/1Be4YskAsAALO9GWmLmRFQhK-WuDo4ciKzqxa-0auM9M/edit?usp=sharing", range = "A1:C34")
+
+options(knitr.kable.NA = "")
 
 General_info_sheet %>% 
   knitr::kable()
 
 ```
-
 
 # PhD students
 

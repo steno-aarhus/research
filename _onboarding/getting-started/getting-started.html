@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #20794d; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,14 +77,13 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.sc { color: #20794d; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
-
 
   <!--radix_placeholder_meta_tags-->
   <title>Welcome and getting started</title>
@@ -93,8 +92,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2021-11-23"/>
-  <meta property="article:created" itemprop="dateCreated" content="2021-11-23"/>
+  <meta property="article:published" itemprop="datePublished" content="2021-12-09"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-12-09"/>
   <meta name="article:author" content="Daniel B. Ibsen"/>
   <meta name="article:author" content="Tinne Laurberg"/>
 
@@ -113,12 +112,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Welcome and getting started"]},{"type":"character","attributes":{},"value":["Material for onboarding new researchers at SDCA.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Daniel B. Ibsen"]},{"type":"character","attributes":{},"value":["Steno Diabetes Center Aarhus, Denmark"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Tinne Laurberg"]},{"type":"character","attributes":{},"value":["Steno Diabetes Center Aarhus, Denmark"]}]}]},{"type":"character","attributes":{},"value":["2021-11-23"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Welcome and getting started"]},{"type":"character","attributes":{},"value":["Material for onboarding new researchers at SDCA.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Daniel B. Ibsen"]},{"type":"character","attributes":{},"value":["Steno Diabetes Center Aarhus, Denmark"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Tinne Laurberg"]},{"type":"character","attributes":{},"value":["Steno Diabetes Center Aarhus, Denmark"]}]}]},{"type":"character","attributes":{},"value":["2021-12-09"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"NULL"}
+  {"type":"character","attributes":{},"value":["getting-started_files/anchor-4.2.2/anchor.min.js","getting-started_files/bowser-1.9.3/bowser.min.js","getting-started_files/distill-2.2.21/template.v2.js","getting-started_files/header-attrs-2.11.3/header-attrs.js","getting-started_files/jquery-3.6.0/jquery-3.6.0.js","getting-started_files/jquery-3.6.0/jquery-3.6.0.min.js","getting-started_files/jquery-3.6.0/jquery-3.6.0.min.map","getting-started_files/popper-2.6.0/popper.min.js","getting-started_files/tippy-6.2.7/tippy-bundle.umd.min.js","getting-started_files/tippy-6.2.7/tippy-light-border.css","getting-started_files/tippy-6.2.7/tippy.css","getting-started_files/tippy-6.2.7/tippy.umd.min.js","getting-started_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1265,10 +1264,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refs = $(this).attr('data-cites').split(" ");
-        var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
-        }).join("\n");
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -1439,8 +1435,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="getting-started_files/header-attrs-2.11.3/header-attrs.js"></script>
-  <script src="getting-started_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="getting-started_files/header-attrs-2.9/header-attrs.js"></script>
+  <script src="getting-started_files/jquery-1.11.3/jquery.min.js"></script>
   <script src="getting-started_files/popper-2.6.0/popper.min.js"></script>
   <link href="getting-started_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="getting-started_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -1460,7 +1456,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Welcome and getting started","description":"Material for onboarding new researchers at SDCA.","authors":[{"author":"Daniel B. Ibsen","authorURL":"#","affiliation":"Steno Diabetes Center Aarhus, Denmark","affiliationURL":"#","orcidID":""},{"author":"Tinne Laurberg","authorURL":"#","affiliation":"Steno Diabetes Center Aarhus, Denmark","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-11-23T00:00:00.000+01:00","citationText":"Ibsen & Laurberg, 2021"}
+{"title":"Welcome and getting started","description":"Material for onboarding new researchers at SDCA.","authors":[{"author":"Daniel B. Ibsen","authorURL":"#","affiliation":"Steno Diabetes Center Aarhus, Denmark","affiliationURL":"#","orcidID":""},{"author":"Tinne Laurberg","authorURL":"#","affiliation":"Steno Diabetes Center Aarhus, Denmark","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-12-09T00:00:00.000+01:00","citationText":"Ibsen & Laurberg, 2021"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1481,12 +1477,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
 ,   Tinne Laurberg  (Steno Diabetes Center Aarhus, Denmark)
   
-<br/>2021-11-23
+<br/>2021-12-09
 </div>
 
 <div class="d-article">
 <div class="alert alert-info">
-<p>Note: This website and its contents are being actively developed and are at various states of completion.</p>
+<p>🚧🛠️ <strong>Note</strong>: This website and its contents are being actively developed and are at various states of completion. 🚧🛠️</p>
 </div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <h1 id="welcome-to-the-steno-diabetes-center-aarhus-sdca">Welcome to the Steno Diabetes Center Aarhus (SDCA)!</h1>
@@ -1502,7 +1498,200 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ol>
 <p>The purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.</p>
 <h1 id="general-information-to-all-researchers">General information to all researchers</h1>
-<p><em>table coming soon</em></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://github.com/tidyverse/googlesheets4'>googlesheets4</a></span><span class='op'>)</span>
+
+<span class='fu'>googlesheets4</span><span class='fu'>::</span><span class='fu'><a href='https://rdrr.io/pkg/googlesheets4/man/gs4_deauth.html'>gs4_deauth</a></span><span class='op'>(</span><span class='op'>)</span>
+
+<span class='va'>General_info_sheet</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/pkg/googlesheets4/man/range_read.html'>read_sheet</a></span><span class='op'>(</span><span class='st'>"https://docs.google.com/spreadsheets/d/1Be4YskAsAALO9GWmLmRFQhK-WuDo4ciKzqxa-0auM9M/edit?usp=sharing"</span>, range <span class='op'>=</span> <span class='st'>"A1:C34"</span><span class='op'>)</span>
+
+<span class='va'>General_info_sheet</span> <span class='op'>%&gt;%</span> 
+  <span class='fu'>knitr</span><span class='fu'>::</span><span class='fu'><a href='https://rdrr.io/pkg/knitr/man/kable.html'>kable</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 22%" />
+<col style="width: 69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Topic</th>
+<th style="text-align: left;">Subtopic</th>
+<th style="text-align: left;">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Practicalities</td>
+<td style="text-align: left;">Access card</td>
+<td style="text-align: left;">Ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Intranet</td>
+<td style="text-align: left;">If problems ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Printer</td>
+<td style="text-align: left;">Note the name of the printer from someone in your office e.g. your Buddy. Otherwise contact: SDCA printer: Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a>; AU printer in SDCA: Karin Ørbæk Kristensen, <a href="mailto:karin@clin.au.dk" class="email">karin@clin.au.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Office supplies</td>
+<td style="text-align: left;">You find office supplies the secretary outside Karin Ørbæk Kristensen’s office in SDCA. If you need anything that you can’t find contact Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Physical mail box</td>
+<td style="text-align: left;">Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Parking at SDCA, Hedeager</td>
+<td style="text-align: left;">Ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> about the parking rules. There is a difference in whether you are employed in Central Denmark Region or Aarhus University</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">MUS talks</td>
+<td style="text-align: left;">MUS talks depend on one’s terms of employment. Ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> if you have questions regarding this.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Employee information</td>
+<td style="text-align: left;">Office hours and working from home</td>
+<td style="text-align: left;">Office hours: mostly between 8-16 CET but the office is always open if you have an access card</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Calling in sick</td>
+<td style="text-align: left;">Depends on terms of employment; PhD etc. email your supervisor and xxxx (the one who register sickness???). Post doc etc. in SDCA – email Niels Jessen (<a href="mailto:niels.jessen@biomed.au.dk" class="email">niels.jessen@biomed.au.dk</a>) and Maria Siggaard <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> for registration</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Holiday, days off, “first day with sick child” and “omsorgsdage”</td>
+<td style="text-align: left;">Depends on terms of employment; PhD etc. email your supervisor and xxxx (the one who register holidays, sick child etc). Post doc etc. in SDCA – email Maria Siggaard <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> for registration</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Salary</td>
+<td style="text-align: left;">Contract. If question talk to Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Maternity/paternity leave and other leaves</td>
+<td style="text-align: left;">Ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Workplace culture</td>
+<td style="text-align: left;">Office hours, eating lunch together, coffee, fruit, where to get lunch, attendance to meetings, expectations, cleaning in the kitchen etc.</td>
+<td style="text-align: left;">In Hedeager/Palle Juhl-Jensens Boulevard: Your Buddy will tell and show you all necessary information. Otherwise ask Maria Siggaard, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Social activities</td>
+<td style="text-align: left;">Large meetings and conferences</td>
+<td style="text-align: left;">ASD – once a year (in English); ADA – once a year (in English); Research Retreat – once a year (in English); Staff meetings (in Danish) – only for those employed in Central Denmark Region</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Social events</td>
+<td style="text-align: left;">Newcomers are encouraged to help arrange these social activities to better integrate; We have Christmas dinner, DHL-run, Summer Party etc.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Regular meetings, journal clubs and email lists</td>
+<td style="text-align: left;">Meetings</td>
+<td style="text-align: left;">Steno Thursdays – scientific meetings each Thursday afternoon; Research meetings on Mondays for Head of Research and post docs etc. connected to SDCA; Regular meetings within one’s research area</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Journal clubs</td>
+<td style="text-align: left;">www.stenoaarhus.dk/research/research-meetings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Email lists</td>
+<td style="text-align: left;">www.stenoaarhus.dk/research</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Newsletters</td>
+<td style="text-align: left;">Steno News will be publiced every month (in Danish)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">IT-introduction</td>
+<td style="text-align: left;">Computer and a user login</td>
+<td style="text-align: left;">Depends on your terms of employment. SDCA/Central Denmark Region – ask Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a>; AU – ask Karin, <a href="mailto:karin@clin.au.dk" class="email">karin@clin.au.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Drives</td>
+<td style="text-align: left;">Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">VPN</td>
+<td style="text-align: left;">Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Outlook</td>
+<td style="text-align: left;">Mail signature, calendar, booking of meeting rooms; Buddy as part of the introduction – or Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Programmes</td>
+<td style="text-align: left;">Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a>; R, GitHub, Trello</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Templates</td>
+<td style="text-align: left;">SDCA templates you need to use Citrix. E.g. ask Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> if you have questions.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">IT-support</td>
+<td style="text-align: left;">SDCA/Central Denmark Region: +45 78412345 (if English e.g. contact Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> at first)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Courses and seminars</td>
+<td style="text-align: left;">Internal</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">External</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Travelling</td>
+<td style="text-align: left;">MasterCard</td>
+<td style="text-align: left;">In Central Danmark Region it’s only the managers who have a Mastercard. In SDCA Head of Research Niels Jessen has one. Contact Maria, <a href="mailto:marsig@rm.dk" class="email">marsig@rm.dk</a> if you need to borrow – or buy something by using the MasterCard. For those affiliated through Aarhus University, one can apply for an employee mastercard here: <a href="https://medarbejdere.au.dk/en/administration/finance/travel-booking/policy-for-credit-card-at-aarhus-university/" class="uri">https://medarbejdere.au.dk/en/administration/finance/travel-booking/policy-for-credit-card-at-aarhus-university/</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">RejsUd</td>
+<td style="text-align: left;">Rejsekort; Work+; Lone, <a href="mailto:Lone.Schmidt@rm.dk" class="email">Lone.Schmidt@rm.dk</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Going to conferences</td>
+<td style="text-align: left;">Where and how to print a poster</td>
+<td style="text-align: left;">www.trykkeri.au.dk/en/</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Funding applications</td>
+<td style="text-align: left;">Research professional</td>
+<td style="text-align: left;">www.stenoaarhus.dk/research/steno-collaborative-grants</td>
+</tr>
+</tbody>
+</table>
+</div>
 <h1 id="phd-students">PhD students</h1>
 <p><em>table coming soon</em></p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
