@@ -67,3 +67,7 @@ Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enoug
 
 ![Flow chart to get help with your coding problems](Flowchart_where_to_get_help.jpeg)
 
+Here you can find additional material to reproducible, ethical and collaborative data science:
+https://the-turing-way.netlify.app/welcome
+
+
