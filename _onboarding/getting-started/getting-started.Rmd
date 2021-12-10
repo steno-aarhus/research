@@ -12,12 +12,13 @@ date: "`r Sys.Date()`"
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
 ---
 
 ```{r disclaimer, child="../../includes/disclaimer.Rmd"}
 ```
 
-# Welcome to the Steno Diabetes Center Aarhus (SDCA)!
+# Welcome!!
 
 We have high ambitions at SDCA. We believe that people with diabetes can have a
 good life. We will make a difference to all people with or at risk of getting
@@ -51,9 +52,35 @@ to date and you should add any other information you would have liked the page
 to contain. This is a very important step because it ensures that this material
 is always current and helps the next new team member.
 
-# General information to all researchers
+# General information
 
-*table coming soon*
+```{r generate-info-from-spreadsheet, echo=FALSE, results='asis'}
+library(googlesheets4)
+library(tidyr)
+library(magrittr)
+library(gt)
+options(knitr.kable.NA = "")
+
+# Don't need an access token to read in the sheet
+gs4_deauth()
+
+info_sheet <- read_sheet("1Be4YskAsAALO9GWmLmRFQhK-WuDo4ciKzqxa-0auM9M", range = "A1:C100") %>% 
+    fill(Topic) %>% 
+    na.omit()
+
+for (topic in split(info_sheet, info_sheet$Topic)) {
+    cat(paste0("\n\n## ", unique(topic$Topic), "\n\n"))
+    
+    gt(topic[-1]) %>% 
+        opt_row_striping() %>% 
+        tab_style(
+            style = cell_text(weight = "bold"),
+            locations = cells_column_labels()
+        ) %>% 
+        tab_options(table.width = pct(100)) %>% 
+        print()
+}
+```
 
 # PhD students
 
