@@ -1,0 +1,70 @@
+[
+  {
+    "path": "support/data-analysis/",
+    "title": "Data analysis tips and help",
+    "description": "Material and resources for best practices, learning, and support for doing data analysis.",
+    "author": [
+      {
+        "name": "Omar Silverman",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-10",
+    "categories": [],
+    "contents": "\nSome general practices doing data analysis\nData management\nSave the raw data\nEnsure that raw data are backed up in more than one location\nCreate the data you wish to see in the world\nCreate analysis-friendly data\nRecord all the steps used to process data\nAanticipate the need to use multiple tables, and use iunique identifier for every record\nSubmit data to a reptable DOI-issuing repository so that others can acces and cite it\nSoftware\nPlace a brief explanatory comment at the start of every program\nDecompose programs into functions\nBe ruthless about eliminating duplication\nAlways search for well-maintained software libraries that do what you need\nTest libraries before relying on them\nGive functions and variables meaningful names\nMake dependencies and requirements explicit\nDo not comment and uncomment sections of code to control a program’s behavior\nProvide a simple example or test data set\nSubmit code to a reputable DOI-issuing repository\nCollaboration\nCreate an overview of your project\nCreate s shared “to-do” list for the project\nDecide on communication strategies\nMake the license explicit\nMake the project citable\nProject organization\nPut each project in its own directory, which is named after the project\nPut text documents associated with the project in the “doc” directory\nPut raw data and metadata in a data directory and files generated during cleanup and analysis in a “result” directory\nPut project source code in the “src” directory\nPut external scripts or compiled programs in the “bin” directory\nName all files to reflect their content or function\nKeeping track of changes\nBack up (almost) everything created by a human being as soon as it is created\nKeep changes small\nShare changes frequently\nCreate, maintain, and use a checklist for saving and sharing changes to the project\nStore each project in a folder that is mirrored off the researchers’ working machine\nAdd a file called changelog.txt to the project’s “docs” subfolder\nCopy the entire project whenever a significant change has made\nUse a version control system\nManuscripts\nWrite manuscripts using online tools with rich formatting, change tracking, and reference management\nWrite a manuscript in a plain text format that permits version control\nFlow chart to get help with your coding problemsFurther reading:\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-10T15:38:17+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "support/requesting-data/",
+    "title": "Requesting access to various data sources",
+    "description": "Material for applying to various data sources, including the Danish registers.",
+    "author": [
+      {
+        "name": "Luke W. Johnston",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-24",
+    "categories": [],
+    "contents": "\n\nNote: This website and its contents are being actively developed and are at various states of completion.\n\n\nDenmark Statistics\nSome more details about applying to Denmark Statistics can be found on the official SDCA website.\nOn this page are some more personal experiences of applying for data from DST. As a non-Danish speaking researcher, this was quite difficult since much of the documentation and help is in Danish. Plus, there are slight differences between the English version and the Danish. Of course, the Danish version is the most accurate, but it is not obvious where and if there are differences.\nExample of successful application\nMyself and several others applied to DST. Below are links to\nFull application as website, with links to the Word application\nResponses to initial comments\nList of (almost all) registers, with variables and descriptions translated to English\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-10T15:38:17+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "support/running-meetings/",
+    "title": "How to run an effective meeting",
+    "description": "Guidelines and suggestions for running effective meetings.",
+    "author": [
+      {
+        "name": "Alisa Devedzic Kjærgaard",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-23",
+    "categories": [],
+    "contents": "\n\nNote: This website and its contents are being actively developed and are at various states of completion.\n\n\nEffective meetings have a potential to improve productivity and work satisfaction and inspire greater collaboration.\nTypes of meetings\nOnboarding meetings can help people understand the organization’s structure, what projects are coming up, how their role and work will fit into the broader picture, and to set early expectations for what the person should do in their first few weeks and months, and how they fit into the big picture.\nBrainstorming meetings\nKickoff meetings are a good way to start a project and fill everyone in.\nFeedback and retrospective meetings evaluate the process: what went well, what didn’t, how to proceed and what will be changed for the next project.\nMeeting category by aims\nDecision-making: The aim is for decision makers to come to a conclusion that leads to action. Consider the number of participants (fewer is better than more) and their competences (whose opinions and expertise are relevant to the problem).\nInformation sharing: The objective is to spread awareness to a broader team. Consider using another platform than meeting to share this information, e.g., Slack, Trello, etc\nProblem-solving: The goal is to crowdsource advice and build a plan based on that knowledge, such as by discussing ways to optimize an experimental set-up.\nDiscussion: The purpose is to exchange perspectives on a topic, such as by discussing the implications of a recently published paper.\nMeeting rules\nArrive on time\nCome prepared\nKeep an open mind and a positive attitude\nActively listen to opinions and presentations of others\nDo not interrupt\nDo not monopolize talking time and do not dominate the meeting (facilitator’s role to help with this)\nActively participate\nAim to reach consensus\nBefore the meeting\nMake sure that everybody is familiar with the code of conduct and meeting rules.\nMake a meeting agenda, including time-frame (this lets people know what to expect).\nAssign people roles before the meeting starts:\nA facilitator should keep people on track, summarize after each topic and clarify next steps.\nA note taker is responsible for documenting and distributing clear and concise minutes.\nPresenters and other relevant participants should be notified of their expected roles beforehand, so they meet prepared.\n\nConsider the medium (either virtual or in-person, and if so, room size, lighting, temperature, chairs), time of the day, refreshments, etc.\nOrganizer meets early and ensures that all the relevant materials (paper, pens, sticky notes, etc) and technical equipment (PC, projector, camera, etc) are present and functioning.\nAt the meeting\nStart meetings on time even if not everybody has arrived.\nConsider banning distractions (laptops/tablets/phones) from meetings.\nConsider starting with a brief icebreaker or a quick check-in on everyone’s day or week (however, details on Trello or similar).\nConsider asking for topics to be put on AOB (any other business) at the very beginning of the meeting, so everybody has some time to prepare for a potential surprise.\nIf the meeting is part of a series, it is probably relevant to follow-up on last meeting, including progress (action items).\nPlan to engage people or check in on attendees often (examples below). Have people write down their questions during the meeting. Collect them and go over them as a group. This can help introverts, or those who don’t feel comfortable speaking up, get their concerns addressed. Break people into groups and have them accomplish small tasks, or make decisions, together. Then have them share their findings with the larger group. Break the meeting into sections with a different person leading each section or part of the agenda. Switching up presenters helps refresh people’s attention span and encourages attendees to feel ownership over a topic or project.\nA facilitator should keep people on track (parking lot for off-topic ideas), summarize after each topic and assign action items (owners, due date and follow-up).\nA note taker is responsible for documenting clear and concise minutes.\nEnd the meeting if all topics are handled, even if it is ahead of schedule.\nLeave meeting with a review of clear action items, due dates, and owners.\nAfter the meeting\nNote taker deposits the recorded minutes on a designated platform, e.g., Trello, common docs, etc, so these are available to everybody who could and could not attend (preferably within 2-3 hours).\nEvaluation (feedback, anonymous?)\nReferences\nHow to run effective meetings: Five principles for getting more done as a team\nThe 11-step guide to running effective meetings\nSeven Steps to Running the Most Effective Meeting Possible\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-10T15:38:17+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "support/study-setup/",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "description": "Resources for setting up research projects at SDCA, specifically with administrative\nand other legal demands.",
+    "author": [
+      {
+        "name": "Sine Knorr Johnsen",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-23",
+    "categories": [],
+    "contents": "\n\nNote: This website and its contents are being actively developed and are at various states of completion.\n\n\nClinical studies\nPreparing for a study\nResearch within the region (AUH) or University (AU)?\nReport to VEK (obs research biobank vs biobank, research in children and whole genome issues)\nClinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))\n\nLab used?\nM-lab\nPatolab\nCollaborating with dep. of biochemistry (klinisk biokemisk)\nBiobank\n\nAccess to patient data (not with Statistics Denmark)\nResearch project or quality control study\nResearch project using Patient Data\nReport to Styrelsen for patientsikkerhed - obs blev dette ændret\nAttachment to the department where the patient data is being collected (get a unpaid job…)\n\nQuality control study\nAquire permission from head of department\n\n\nReport to Danish Data Authorities\nOr in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.\nReport to RM\nObs Requires acces to a RM computer (https://www.rm.dk/sundhed/faginfo/forskning/Forskningsprojekter/)\n\nReport to AU (link)\nGDPR\nLink to GDPR info: https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/\nStorage of sensitive patient data\nStorage at AU\nPatient and trial data (patient sensitive): RedCap\nLarger data files: O-drive, needs to be setup through AU-IT so that logging is possible. Only pseudonymized patient data.\nLink to AU datastorage info: https://medarbejdere.au.dk/informationssikkerhed/klassifikation-af-data/#c2545048\n\nStorage at RM\nPatient and trial data (patient sensitive): RedCap through RM\nLarger data files: MidtX, needs to be setup through RM-IT so that logging is possible.\n\nDatahandling agreements\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-10T15:38:17+00:00",
+    "input_file": {}
+  }
+]
