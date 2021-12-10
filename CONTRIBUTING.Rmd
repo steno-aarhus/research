@@ -161,3 +161,15 @@ or, for a more reference and list style of documentation, GitHub's
 [*Writing on GitHub*](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 documentation. To see a "real-world" example, check out how the Code of Conduct
 is [written](https://github.com/steno-aarhus/research/blob/main/CONDUCT.Rmd).
+
+<!-- ## Using RStudio to contribute -->
+
+```{r, eval=FALSE, echo=FALSE}
+# Make sure usethis and distill packages are installed
+install.packages(c("usethis", "distill"))
+# Download the new project to your Desktop
+usethis::create_from_github("steno-aarhus/research")
+# Open
+distill::create_post("", "")
+```
+
