@@ -6,7 +6,7 @@
 
 # This is the list of files and those responsible for them.
 
-onboarding.Rmd @tinnelaurberg @danielibsen
-CONDUCT.Rmd @AlisaDK @lwjohnst86
-data-analysis.Rmd @omarsilverman @lassebjerg
-general-organization.Rmd @AlisaDK
+onboarding.md @tinnelaurberg @danielibsen
+CODE_OF_CONDUCT.md @AlisaDK @lwjohnst86
+data-analysis.md @omarsilverman @lassebjerg
+general-organization.md @AlisaDK
