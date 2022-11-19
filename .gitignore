@@ -4,3 +4,4 @@ _site
 README.html
 _ignore
 public
+.Rbuildignore
