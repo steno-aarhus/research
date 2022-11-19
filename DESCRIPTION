@@ -1,9 +1,10 @@
 Package: research
 Type: Website
-License: CC BY 4.0
 Encoding: UTF-8
 Imports: 
-    distill,
     googlesheets4,
+    gt,
     htmltools,
+    magrittr,
+    tidyr,
     vembedr
