@@ -5,52 +5,49 @@ description: |
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
-    affiliation: Steno Diabetes Center Aarhus, Denmark
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
   - name: Tinne Laurberg
-    affiliation: Steno Diabetes Center Aarhus, Denmark
-date: "`r Sys.Date()`"
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
 ---
 
-```{r disclaimer, child="../../includes/disclaimer.Rmd"}
-```
+{{< include ../../includes/_wip.md >}}
 
 # Welcome!!
 
-We have high ambitions at SDCA. We believe that people with diabetes can have a
-good life. We will make a difference to all people with or at risk of getting
-diabetes in Central Denmark Region.
+We have high ambitions at SDCA. We believe that people with diabetes can
+have a good life. We will make a difference to all people with or at
+risk of getting diabetes in Central Denmark Region.
 
-As a new member of our research team, there is a lot of things you need learn
-about the organization, the culture (both research and social) and a lot of
-practical stuff. The page here is thought of as your initial entry point, where
-you can get an overview. This is also an atlas for you to return to when you
-need to look up specific information.
+As a new member of our research team, there is a lot of things you need
+learn about the organization, the culture (both research and social) and
+a lot of practical stuff. The page here is thought of as your initial
+entry point, where you can get an overview. This is also an atlas for
+you to return to when you need to look up specific information.
 
-To get an introduction to the research team and this document you will be teamed
-up with an experienced member from research. It is your supervisor's
-responsibility to find you a "buddy." Please ask your supervisor if this is not
-already in place.
+To get an introduction to the research team and this document you will
+be teamed up with an experienced member from research. It is your
+supervisor's responsibility to find you a "buddy." Please ask your
+supervisor if this is not already in place.
 
-Your buddy will walk you through the relevant tables below and give you an
-overview of all the topics that you need to be aware of. The agenda for the
-meeting is:
+Your buddy will walk you through the relevant tables below and give you
+an overview of all the topics that you need to be aware of. The agenda
+for the meeting is:
 
-1. Introduce yourselves
-2. Go through the table below
-3. Take a tour around the research facility
-4. Arrange follow-up talk
+1.  Introduce yourselves
+2.  Go through the table below
+3.  Take a tour around the research facility
+4.  Arrange follow-up talk
 
-The purpose of the follow-up talk is to catch up on how you have settled in. If
-you have any specific questions you can also ask them. As the final thing, you
-and your buddy will evaluate the introduction. You will be given responsibility
-to update this website if you have encountered  any information that was not up
-to date and you should add any other information you would have liked the page
-to contain. This is a very important step because it ensures that this material
-is always current and helps the next new team member.
+The purpose of the follow-up talk is to catch up on how you have settled
+in. If you have any specific questions you can also ask them. As the
+final thing, you and your buddy will evaluate the introduction. You will
+be given responsibility to update this website if you have encountered
+any information that was not up to date and you should add any other
+information you would have liked the page to contain. This is a very
+important step because it ensures that this material is always current
+and helps the next new team member.
 
 # General information
 

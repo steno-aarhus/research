@@ -5,35 +5,35 @@ description: |
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
-    affiliation: Steno Diabetes Center Aarhus, Denmark
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
   - name: Tinne Laurberg
-    affiliation: Steno Diabetes Center Aarhus, Denmark
-date: "`r Sys.Date()`"
-output:
-  distill::distill_article:
-    self_contained: false
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
 ---
 
-```{r disclaimer, child="../../includes/disclaimer.Rmd"}
-```
+{{< include ../../includes/_wip.md >}}
 
+![Overview of SDCA management
+team](../../images/sdca-management-structure.jpg)
 
-![Overview of SDCA management team](../../images/sdca-management-structure.jpg)
+As opposed to other clinical departments at Aarhus University Hospital
+(AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is
+responsible to this board.
 
-As opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.
- 
 The board at SDCA consists of:
 
--	Ole Thomsen (chairman), Head of Corporate Management, Central Denmark Region
--	Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
--	Pia Ulv Helleland, CEO, Lemvig Municipality
--	Lars Bo Nielsen, Dean, Health - Aarhus University
--	Claus Thomsen, Chief Medical Officer, Aarhus University Hospital
--	Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
+-   Ole Thomsen (chairman), Head of Corporate Management, Central
+    Denmark Region
+-   Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
+-   Pia Ulv Helleland, CEO, Lemvig Municipality
+-   Lars Bo Nielsen, Dean, Health - Aarhus University
+-   Claus Thomsen, Chief Medical Officer, Aarhus University Hospital
+-   Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
 
 For more information, please visit:
 
-- https://www.stenoaarhus.dk/english/    
-- https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf 
-- www.linkedin.com/company/steno-diabetes-center-aarhus   
-- www.twitter.com/stenoaarhus  
+-   https://www.stenoaarhus.dk/english/
+-   https://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus---summary-in-english.pdf
+-   www.linkedin.com/company/steno-diabetes-center-aarhus
+-   www.twitter.com/stenoaarhus

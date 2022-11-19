@@ -1,4 +1,0 @@
----
-title: "Onboarding Material for New Researchers at SDCA"
-listing: onboarding
----

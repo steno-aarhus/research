@@ -5,22 +5,20 @@ description: |
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
-    affiliation: Steno Diabetes Center Aarhus, Denmark
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
   - name: Tinne Laurberg
-    affiliation: Steno Diabetes Center Aarhus, Denmark
-date: "`r Sys.Date()`"
-output:
-  distill::distill_article:
-    self_contained: false
+    affiliations: 
+      - name: Steno Diabetes Center Aarhus
 ---
 
 ![Research groups](../../images/sdca-research-groups.jpg)
 
-Steno Diabetes Center Aarhus covers a wide range of research areas. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans.
+Steno Diabetes Center Aarhus covers a wide range of research areas. A
+patient-centered approach is achieved by research activities relevant to
+prevention and treatment of diabetes, or contribution to the
+understanding of the disease in humans.
 
-We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.
-
-For more information on the research groups, please visit:
-
-- https://www.stenoaarhus.dk/Research/
-- https://twitter.com/stenoaarhusres 
+We build upon a well-established research environment and long-standing
+collaborations between Aarhus University, Aarhus University Hospital and
+other hospitals in the Central Region of Denmark.

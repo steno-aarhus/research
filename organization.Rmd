@@ -1,4 +1,0 @@
----
-title: "Organizational Information about SDCA"
-listing: organization
----
