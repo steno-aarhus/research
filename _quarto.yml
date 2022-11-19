@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: public
+  execute-dir: project
+  post-render:
+    - touch docs/.nojekyll
+
+website:
+  title: "SDCA Research"
+  site-url: "https://steno-aarhus.github.io/research/"
+  repo-url: "https://github.com/steno-aarhus/research"
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - icon: house-door
+        href: "index.qmd"
+    right:
+      - text: "Common docs"
+        menu:
+          - text: "Onboarding"
+            href: onboarding.md
+          - text: "Support"
+            href: support.md
+          - text: "Organization"
+            href: organization.md
+      - text: "Admin"
+        menu:
+          - text: "Contributing"
+            href: CONTRIBUTING.Rmd
+          - text: "Code of Conduct"
+            href: CODE_OF_CONDUCT.md
+      - icon: globe
+        href: "https://www.stenoaarhus.dk/research"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+  page-footer:
+    center:
+      - text: "License: CC BY 4.0"
+        href: LICENSE.md
+
+format:
+  html:
+    df-print: tibble
+    code-overflow: scroll
+    from: markdown+emoji
+    code-link: true
+    theme:
+        - litera
+        - includes/theme.scss
+    include-before-body:
+        - "includes/site-counter.html"
+        - "includes/contribute.html"
+
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true
+
