@@ -5,3 +5,5 @@ README.html
 _ignore
 public
 .Rbuildignore
+
+/.quarto/

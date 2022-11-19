@@ -4,7 +4,9 @@ Encoding: UTF-8
 Imports: 
     googlesheets4,
     gt,
+    here,
     htmltools,
     magrittr,
+    purrr,
     tidyr,
     vembedr
