@@ -4,6 +4,7 @@ Type: Website
 Encoding: UTF-8
 Imports: 
     googlesheets4,
+    knitr,
     gt,
     here,
     htmltools,
