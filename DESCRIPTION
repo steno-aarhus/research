@@ -5,6 +5,7 @@ Encoding: UTF-8
 Imports: 
     googlesheets4,
     knitr,
+    rmarkdown,
     gt,
     here,
     htmltools,
