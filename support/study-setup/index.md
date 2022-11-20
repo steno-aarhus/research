@@ -12,7 +12,7 @@ author:
 
 {{< include ../../includes/_wip.md >}}
 
-# Clinical studies
+## Clinical studies
 
 -   Preparing for a study
     -   Research within the region (AUH) or University (AU)?
@@ -26,7 +26,7 @@ author:
     -   Collaborating with dep. of biochemistry (klinisk biokemisk)
     -   Biobank
 
-# Access to patient data (not with Statistics Denmark)
+## Access to patient data (not with Statistics Denmark)
 
 -   Research project or quality control study
     -   Research project using Patient Data
@@ -37,7 +37,7 @@ author:
     -   Quality control study
         -   Aquire permission from head of department
 
-# Report to Danish Data Authorities
+## Report to Danish Data Authorities
 
 Or in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.
 
@@ -47,12 +47,12 @@ Or in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.
 -   Report to AU
     ([link](https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/saerligt-om-forskning/anmeldelsesskema-dataansvarlig/))
 
-# GDPR
+## GDPR
 
 -   Link to GDPR info:
     https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/
 
-# Storage of sensitive patient data
+## Storage of sensitive patient data
 
 -   Storage at AU
     -   Patient and trial data (patient sensitive): RedCap
@@ -65,7 +65,7 @@ Or in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.
     -   Larger data files: MidtX, needs to be setup through RM-IT so
         that logging is possible.
 
-# Datahandling agreements
+## Datahandling agreements
 
 <!-- COMMENT: We could redesign this into something more of a like a narrative: -->
 

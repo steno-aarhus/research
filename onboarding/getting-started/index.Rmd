@@ -1,7 +1,6 @@
 ---
 title: "Welcome and getting started"
-description: |
-  Material for onboarding new researchers at SDCA.
+description: Material for onboarding new researchers at SDCA.
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
@@ -14,7 +13,7 @@ author:
 
 {{< include ../../includes/_wip.md >}}
 
-# Welcome!!
+## Welcome!!
 
 We have high ambitions at SDCA. We believe that people with diabetes can
 have a good life. We will make a difference to all people with or at
@@ -49,9 +48,12 @@ information you would have liked the page to contain. This is a very
 important step because it ensures that this material is always current
 and helps the next new team member.
 
-# General information
+## General information
 
-```{r generate-info-from-spreadsheet, echo=FALSE, results='asis'}
+::: panel-tabset
+```{r generate-info-from-spreadsheet}
+#| echo: false
+#| output: asis
 library(googlesheets4)
 library(tidyr)
 library(magrittr)
@@ -65,20 +67,16 @@ info_sheet <- read_sheet("1Be4YskAsAALO9GWmLmRFQhK-WuDo4ciKzqxa-0auM9M", range =
     fill(Topic) %>% 
     na.omit()
 
-for (topic in split(info_sheet, info_sheet$Topic)) {
-    cat(paste0("\n\n## ", unique(topic$Topic), "\n\n"))
-    
-    gt(topic[-1]) %>% 
-        opt_row_striping() %>% 
-        tab_style(
-            style = cell_text(weight = "bold"),
-            locations = cells_column_labels()
-        ) %>% 
-        tab_options(table.width = pct(100)) %>% 
-        print()
-}
-```
+tables_as_chr <- split(info_sheet, info_sheet$Topic) %>% 
+  purrr::map_chr(\(topic) {
+    knitr::knit_child(input = here::here("onboarding/getting-started/_create-tables.Rmd"), 
+                      envir = environment(), quiet = TRUE)
+  })
 
-# PhD students
+cat(tables_as_chr, sep = '\n')
+```
+:::
+
+## PhD students
 
 *table coming soon*

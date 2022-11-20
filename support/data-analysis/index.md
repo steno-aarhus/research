@@ -11,9 +11,9 @@ author:
 
 {{< include ../../includes/_wip.md >}}
 
-# Some general practices doing data analysis
+## Some general practices doing data analysis
 
-## Data management
+### Data management
 
 -   Save the raw data
 -   Ensure that raw data are backed up in more than one location
@@ -25,7 +25,7 @@ author:
 -   Submit data to a reptable DOI-issuing repository so that others can
     acces and cite it
 
-## Software
+### Software
 
 -   Place a brief explanatory comment at the start of every program
 -   Decompose programs into functions
@@ -40,7 +40,7 @@ author:
 -   Provide a simple example or test data set
 -   Submit code to a reputable DOI-issuing repository
 
-## Collaboration
+### Collaboration
 
 -   Create an overview of your project
 -   Create s shared "to-do" list for the project
@@ -48,7 +48,7 @@ author:
 -   Make the license explicit
 -   Make the project citable
 
-## Project organization
+### Project organization
 
 -   Put each project in its own directory, which is named after the
     project
@@ -60,7 +60,7 @@ author:
 -   Put external scripts or compiled programs in the "bin" directory
 -   Name all files to reflect their content or function
 
-## Keeping track of changes
+### Keeping track of changes
 
 -   Back up (almost) everything created by a human being as soon as it
     is created
@@ -74,7 +74,7 @@ author:
 -   Copy the entire project whenever a significant change has made
 -   Use a version control system
 
-## Manuscripts
+### Manuscripts
 
 -   Write manuscripts using online tools with rich formatting, change
     tracking, and reference management
@@ -84,7 +84,7 @@ author:
 ![Flow chart to get help with your coding
 problems](flowchart-getting-help.jpg)
 
-# Further reading:
+## Further reading:
 
 -   Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal
     TK (2017) Good enough practices in scientific computing. PLoS Comput

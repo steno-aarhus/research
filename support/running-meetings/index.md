@@ -14,7 +14,7 @@ author:
 Effective meetings have a potential to improve productivity and work
 satisfaction and inspire greater collaboration.
 
-# Types of meetings
+## Types of meetings
 
 -   *Onboarding meetings* can help people understand the organization's
     structure, what projects are coming up, how their role and work will
@@ -28,7 +28,7 @@ satisfaction and inspire greater collaboration.
     went well, what didn't, how to proceed and what will be changed for
     the next project.
 
-# Meeting category by aims
+## Meeting category by aims
 
 -   *Decision-making*: The aim is for decision makers to come to a
     conclusion that leads to action. Consider the number of participants
@@ -44,7 +44,7 @@ satisfaction and inspire greater collaboration.
     such as by discussing the implications of a recently published
     paper.
 
-# Meeting rules
+## Meeting rules
 
 -   Arrive on time
 -   Come prepared
@@ -56,7 +56,7 @@ satisfaction and inspire greater collaboration.
 -   Actively participate
 -   Aim to reach consensus
 
-# Before the meeting
+## Before the meeting
 
 -   Make sure that everybody is familiar with the code of conduct and
     meeting rules.
@@ -76,7 +76,7 @@ satisfaction and inspire greater collaboration.
     (paper, pens, sticky notes, etc) and technical equipment (PC,
     projector, camera, etc) are present and functioning.
 
-# At the meeting
+## At the meeting
 
 -   Start meetings on time even if not everybody has arrived.
 -   Consider banning distractions (laptops/tablets/phones) from
@@ -108,14 +108,14 @@ satisfaction and inspire greater collaboration.
 -   Leave meeting with a review of clear action items, due dates, and
     owners.
 
-# After the meeting
+## After the meeting
 
 -   Note taker deposits the recorded minutes on a designated platform,
     e.g., Trello, common docs, etc, so these are available to everybody
     who could and could not attend (preferably within 2-3 hours).
 -   Evaluation (feedback, anonymous?)
 
-# References
+## References
 
 -   [How to run effective meetings: Five principles for getting more
     done as a

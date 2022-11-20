@@ -11,7 +11,7 @@ author:
 
 {{< include ../../includes/_wip.md >}}
 
-# Expected Behavior
+## Expected Behavior
 
 We treat each other with respect and courtesy, whether it be online or
 in-person. In order to foster trust, a positive and professional
@@ -32,7 +32,7 @@ recommendations and details on proper behaviour. These rules are more
 lightweight, and we have all broken them, which is why awareness is
 important. A sincere apology for breaking these rules goes a long way.
 
-# Unacceptable Behavior
+## Unacceptable Behavior
 
 Examples of unacceptable behavior include, but are not limited to:
 
@@ -54,7 +54,7 @@ Examples of unacceptable behavior include, but are not limited to:
     recording) with someone after being asked to stop.
 -   Publication of private communication without consent.
 
-# Consequences of Unacceptable Behavior
+## Consequences of Unacceptable Behavior
 
 If you are not comfortable confronting the violator yourself, either
 privately or in public, seek help from peers and/or supervisor(s) you
