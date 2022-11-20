@@ -29,9 +29,7 @@ jobs:
         with:
           tinytex: false
 
-      - name: Deploy to website
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
-        with:
-          branch: gh-pages
-          folder: public
+      - name: Publish to GitHub Pages (and render)
+        uses: quarto-dev/quarto-actions/publish@v2
+          with:
+            target: gh-pages
