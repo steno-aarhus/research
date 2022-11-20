@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/support.html",
+    "items": [
+      "/support/data-analysis/index.html",
+      "/support/running-meetings/index.html",
+      "/support/requesting-data/index.html",
+      "/support/study-setup/index.html",
+      "/support/funding-application/index.html"
+    ]
+  },
+  {
+    "listing": "/onboarding.html",
+    "items": [
+      "/onboarding/general-conduct/index.html",
+      "/onboarding/getting-started/index.html"
+    ]
+  },
+  {
+    "listing": "/organization.html",
+    "items": [
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
+    ]
+  }
+]
