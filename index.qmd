@@ -1,7 +1,7 @@
 ---
 title: "SDCA Research: Common Docs and Support"
 subtitle: "Resources and support for conducting research at Steno Diabetes Center Aarhus."
-image: images/banner.png
+image: images/home-banner.jpg
 about:
     template: jolla
     image-width: 35em
