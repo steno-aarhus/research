@@ -18,7 +18,10 @@ website:
     left:
       - icon: house-door
         href: "index.qmd"
+        text: " "
     right:
+      - text: "About"
+        href: about.md
       - text: "Common docs"
         menu:
           - text: "Onboarding"
@@ -41,6 +44,8 @@ website:
     center:
       - text: "License: CC BY 4.0"
         href: LICENSE.md
+      - text: "Want to contribute? Click here."
+        href: CONTRIBUTING.Rmd
 
 format:
   html:
@@ -51,9 +56,6 @@ format:
     theme:
         - litera
         - includes/theme.scss
-    include-before-body:
-        - "includes/site-counter.html"
-        - "includes/contribute.html"
 
 editor_options:
   markdown:
