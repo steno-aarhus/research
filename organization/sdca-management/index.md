@@ -23,8 +23,6 @@ responsible to this board.
 
 The board at SDCA consists of:
 
--   Ole Thomsen (chairman), Head of Corporate Management, Central
-    Denmark Region
 -   Marianne Jensen, Chief Nursing Officer, Randers Regional Hospital
 -   Pia Ulv Helleland, CEO, Lemvig Municipality
 -   Lars Bo Nielsen, Dean, Health - Aarhus University
