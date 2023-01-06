@@ -12,7 +12,7 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 1. Go to [GitHub](https://github.com/steno-aarhus/research/)
 2. Sign up for a GitHub account
 
-![guide to github_sign up for a github account](https://user-images.githubusercontent.com/118167645/210985002-0f691388-59e8-4c18-826e-68ca42f640f2.png)
+![1_guide to github_sign up for a github account](https://user-images.githubusercontent.com/118167645/210985002-0f691388-59e8-4c18-826e-68ca42f640f2.png)
 
 3. Send your username to Administrator Luke Johnston (lwjohnst@clin.au.dk) and be added as a team member
 4. You'll receive an invitation mail. Join @steno-aarhus through the link (the link expires in 7 days)
@@ -22,12 +22,29 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 ## How to contribute?
 
 1. Main => crete new (personal) branch to work in. (You need to be added as a teammember to complete this step)
-2. Add file => create new file
-3. Name your file e.g., 'guide-to-github.Rmd' (only small characters, no spaces. Also type Rmd in the end to write in R MarkDown)
-4. Start writing your content in MarkDown
-5. To save your content you must 'commit new file', type e.g., 'add quickguide to GitHub'
-6. Now you can find your file in the main research folder. Continue your work through 'edit'
-7. How to make a pullrequest
+
+![2_guide to github_create new branch](https://user-images.githubusercontent.com/118167645/211001659-da746bda-0bc2-4c6a-b206-da2a2fa5d897.png)
+
+3. Add file => create new file
+
+![3_guide to github_create new file](https://user-images.githubusercontent.com/118167645/211001691-e00176a5-2f6e-47f2-b2b4-9bfa46472d09.png)
+
+5. Name your file e.g., 'guide-to-github.Rmd' (only small characters, no spaces. Also type Rmd in the end to write in R MarkDown)
+
+![4_guide to github_name your file](https://user-images.githubusercontent.com/118167645/211001730-615e1252-c675-427a-b3ca-fc8fee188381.png)
+
+6. Start writing your content in MarkDown
+7. To save your content you must 'commit new file', type e.g., 'add quickguide to GitHub'
+
+![5_guide to github_commit new file](https://user-images.githubusercontent.com/118167645/211001765-acd66586-8202-4f2b-b40f-6c51467766f0.png)
+
+9. Now you can find your file in the main research folder in your personal branch. Continue your work through 'edit'
+
+![6_guide to github_find your file](https://user-images.githubusercontent.com/118167645/211001808-4dfde38d-4a24-4375-af9c-d9991e8d9b28.png)
+
+![7_guide to github_edit your file](https://user-images.githubusercontent.com/118167645/211001836-61572454-dcd9-492b-8118-5087ca84cc2b.png)
+
+11. How to make a pullrequest
 
 
 
