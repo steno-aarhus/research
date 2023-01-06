@@ -11,6 +11,9 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 
 1. Go to [GitHub](https://github.com/steno-aarhus/research/)
 2. Sign up for a GitHub account
+
+![guide to github_sign up for a github account](https://user-images.githubusercontent.com/118167645/210985002-0f691388-59e8-4c18-826e-68ca42f640f2.png)
+
 3. Send your username to Administrator Luke Johnston (lwjohnst@clin.au.dk) and be added as a team member
 4. You'll receive an invitation mail. Join @steno-aarhus through the link (the link expires in 7 days)
 5. Watch [tutorial videos](https://steno-aarhus.github.io/research/CONTRIBUTING.html)
