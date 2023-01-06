@@ -15,5 +15,16 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 4. You'll receive an invitation mail. Join @steno-aarhus through the link (the link expires in 7 days)
 5. Watch [tutorial videos](https://steno-aarhus.github.io/research/CONTRIBUTING.html)
 
+
 ## How to contribute?
+
+1. Main => crete new (personal) branch to work in. (You need to be added as a teammember to complete this step)
+2. Add file => create new file
+3. Name your file e.g., 'guide-to-github.Rmd' (only small characters, no spaces. Also type Rmd in the end to write in R MarkDown)
+4. Start writing your content in MarkDown
+5. To save your content you must 'commit new file', type e.g., 'add quickguide to GitHub'
+6. Now you can find your file in the main research folder. Continue your work through 'edit'
+7. How to make a pullrequest
+
+
 
