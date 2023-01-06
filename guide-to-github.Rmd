@@ -45,7 +45,7 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 ![5_guide to github_commit new file](https://user-images.githubusercontent.com/118167645/211001765-acd66586-8202-4f2b-b40f-6c51467766f0.png)
 
 
-**6.**Now you can find your file in the main research folder in your personal branch. Continue your work through 'edit'
+**6.** Now you can find your file in the main research folder in your personal branch. Continue your work through 'edit'
 
 
 ![6_guide to github_find your file](https://user-images.githubusercontent.com/118167645/211001808-4dfde38d-4a24-4375-af9c-d9991e8d9b28.png)
