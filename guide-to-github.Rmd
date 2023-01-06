@@ -38,6 +38,7 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 
 
 **4.** Start writing your content in MarkDown
+You can find support on MarkDown in the [tutorials](https://steno-aarhus.github.io/research/CONTRIBUTING.html) or in [GitHubs guide for mastering MarkDowm](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 **5.** To save your content you must 'commit new file', type e.g., 'add quickguide to GitHub'
 
@@ -53,7 +54,17 @@ Please be aware that everything on GitHub is **open access**! If part of your co
 ![7_guide to github_edit your file](https://user-images.githubusercontent.com/118167645/211001836-61572454-dcd9-492b-8118-5087ca84cc2b.png)
 
 
-**7.** How to make a pullrequest
+**7.** To get your content on the website make a pull request. Go to 'Code', choose your personal branch, 'contribute' and 'open pull request'
+
+![8_guide to github_open pull request](https://user-images.githubusercontent.com/118167645/211006306-d6b15d97-7e23-408c-8567-577bab603a13.png)
+
+**8.** Make your pull request. Write what you want to add to the main branch and 'create pull request'. 
+The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change. 
+
+![9 guide to github_pull request](https://user-images.githubusercontent.com/118167645/211008495-351be038-e8f5-490e-8abc-682715696cb7.png)
 
 
 
+Thanks for contributing!
+
+Please comment if you have any suggestions for changes 
