@@ -24,6 +24,8 @@ website:
         href: about.md
       - text: "Common docs"
         menu:
+          - text: "GitHub Quick Guide"
+            href: guide-to-github.md
           - text: "Onboarding"
             href: onboarding.md
           - text: "Support"
@@ -48,6 +50,8 @@ website:
         href: LICENSE.md
       - text: "Want to contribute? Click here."
         href: CONTRIBUTING.Rmd
+
+reference-location: margin
 
 format:
   html:
