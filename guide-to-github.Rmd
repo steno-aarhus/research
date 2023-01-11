@@ -1,70 +1,99 @@
+# Quick guide to using GitHub
 
-# Guide to GitHub
+In SDCA Research we use GitHub for common docs and support. This is a
+quick guide to write your first (or second) content and contribute to
+the community. Please be aware that everything on GitHub is **open
+access**, so don't add anything private or confidential.
 
-In SDCA Research we use GitHub for common docs and support.  This is a quick guide to write your first (or second) content and contribute to the community. 
-Please be aware that everything on GitHub is **open access**! If part of your content is confidential, please write e.g., '… contact [name, e-mail address] for password…' etc..
+## First time logging in
 
-## First login
+1.  [Sign up](github.com/join) for a GitHub account if you don't have
+    one already.
 
-**1.** Go to [GitHub](https://github.com/steno-aarhus/research/)
-**2.** Sign up for a GitHub account
+2.  Go to the SDCA Research GitHub
+    [repository](https://github.com/steno-aarhus/research/).
 
-![1_guide to github_sign up for a github account](https://user-images.githubusercontent.com/118167645/210985002-0f691388-59e8-4c18-826e-68ca42f640f2.png)
+    ![SDCA GitHub main page.](images/sdca-repo.png)
 
-**3.** Send your username to Administrator Luke Johnston (lwjohnst@clin.au.dk) and be added as a team member
-**4.** You'll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)
-**5.** Watch [tutorial videos](https://steno-aarhus.github.io/research/CONTRIBUTING.html)
+3.  Send your username to administrator Luke Johnston so he can add you
+    as a team member.
 
+4.  You'll receive an invitation mail. Join
+    [\@steno-aarhus](https://github.com/steno-aarhus) through the link
+    (expires in 7 days)
 
+5.  Watch [tutorial
+    videos](https://steno-aarhus.github.io/research/CONTRIBUTING.html)
 
 ## How to contribute?
 
-**1.** Main => crete new (personal) branch to work in. (You need to be added as a teammember to complete this step)
+1.  Create a new (personal) branch[^guide-to-github-1] to work in, since
+    you can't directly edit the files in the "main" branch. (You need to
+    be added as a teammember to complete this step)
 
+[^guide-to-github-1]: A branch is a bit like a "copy" of the files in
+    the "main" branch. After you edit the files in the "copy" (branch),
+    you can request your changes get included into the main branch.
 
-![2_guide to github_create new branch](https://user-images.githubusercontent.com/118167645/211001659-da746bda-0bc2-4c6a-b206-da2a2fa5d897.png)
+![Creating a new personal branch.](images/create-new-branch.png)
 
+2.  If you want to add a new file, rather than modify and existing one,
+    go to "Create new file":
 
-**2.** Add file => create new file
+![Adding a new file to your personal branch.](images/add-new-file.png)
 
+3.  Give your file a name, for instance `guide-to-github.md` (only small
+    characters and use `-` for spaces). Use `.md` as the file extension,
+    which stands for "Markdown".
 
-![3_guide to github_create new file](https://user-images.githubusercontent.com/118167645/211001691-e00176a5-2f6e-47f2-b2b4-9bfa46472d09.png)
+![Naming the newly created file.](images/naming-new-file.png)
 
+4.  Start writing your content in Markdown. You can find support on how
+    to write using Markdown in the
+    [tutorials](https://steno-aarhus.github.io/research/CONTRIBUTING.html)
+    or in GitHub's guide on
+    [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-**3.** Name your file e.g., 'guide-to-github.Rmd' (only small characters, no spaces. Type '.Rmd'in the end to write in R MarkDown)
+5.  In order to save your changes you've made, you need to
+    'commit'[^guide-to-github-2] this new file to the Git history and
+    eventually on to the website. At the bottom of the page is a text
+    box to write a message. Please write a short message describing why
+    you are adding the files or making the changes.
 
+[^guide-to-github-2]: "Commit" means to save something to the history,
+    like you "commit" something to your memory.
 
-![4_guide to github_name your file](https://user-images.githubusercontent.com/118167645/211001730-615e1252-c675-427a-b3ca-fc8fee188381.png)
+![Commit the new file into the Git history.](images/commit-new-file.png)
 
+6.  Now you can find your file in the research folder on your personal
+    branch. You can continue writing either on this file or others by
+    clicking the 'Edit' button of the file.
 
-**4.** Start writing your content in MarkDown
-You can find support on MarkDown in the [tutorials](https://steno-aarhus.github.io/research/CONTRIBUTING.html) or in [GitHubs guide for mastering MarkDowm](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+![Finding your newly created file in the
+repository.](images/new-file-in-history.png)
 
-**5.** To save your content you must 'commit new file', type e.g., 'add quickguide to GitHub'
+![Editting the newly created file, or other
+files.](images/editting-file.png)
 
+7.  Once you are finished with what you want to add or modify, the next
+    step is to get the content on the website. To do that, you'll need
+    to make a "pull request"[^guide-to-github-3] so that your content
+    gets merged into the main branch. Go to 'Code', choose your personal
+    branch, click 'Contribute' and 'Open pull request'.
 
-![5_guide to github_commit new file](https://user-images.githubusercontent.com/118167645/211001765-acd66586-8202-4f2b-b40f-6c51467766f0.png)
+[^guide-to-github-3]: A pull request is a process of taking your branch
+    and requesting that it get merged into the main branch. It also
+    allows for people to comment on your changes before they get merged.
 
+![Creating a pull request.](images/create-pull-request.png)
 
-**6.** Now you can find your file in the main research folder in your personal branch. Continue your work through 'edit'
+8.  Once you've selected to make a pull request of your branch, you need
+    to write a title describing what you are adding or changing and why.
+    Then you can click 'Create pull request.'. The administrator will
+    look at the pull request and if necessary, add some edits before
+    adding it to the main branch/webpage. Everyone can comment with
+    suggestion for change.
 
+![Finish with submitting the pull request.](submit-pull-request.png)
 
-![6_guide to github_find your file](https://user-images.githubusercontent.com/118167645/211001808-4dfde38d-4a24-4375-af9c-d9991e8d9b28.png)
-
-![7_guide to github_edit your file](https://user-images.githubusercontent.com/118167645/211001836-61572454-dcd9-492b-8118-5087ca84cc2b.png)
-
-
-**7.** To get your content on the website make a pull request. Go to 'Code', choose your personal branch, 'contribute' and 'open pull request'
-
-![8_guide to github_open pull request](https://user-images.githubusercontent.com/118167645/211006306-d6b15d97-7e23-408c-8567-577bab603a13.png)
-
-**8.** Make your pull request. Write what you want to add to the main branch and 'create pull request'. 
-The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change. 
-
-![9 guide to github_pull request](https://user-images.githubusercontent.com/118167645/211008495-351be038-e8f5-490e-8abc-682715696cb7.png)
-
-
-
-Thanks for contributing!
-
-Please comment if you have any suggestions for changes 
+And that's the basics!
