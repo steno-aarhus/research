@@ -4,11 +4,6 @@ description: |
   Guidelines for contributing to the documents.
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-library(vembedr)
-```
-
 This document contains instructions for how to contribute to developing
 these documents. The content on this repository and website are licensed
 under the [CC-BY 4.0
@@ -70,11 +65,7 @@ activity on what documents get created:
 The below video is a quick tutorial on how to navigate this project on
 GitHub.
 
-```{r video-tutorial-1}
-embed_youtube("GoT_7DRRatw", height = 400) %>% 
-    use_bs_responsive() %>% 
-    use_align("center")
-```
+{{< video https://www.youtube.com/embed/GoT_7DRRatw height="400" >}}
 
 There are some terms used in the video:
 
@@ -117,11 +108,7 @@ on the GitHub project. For this to work, you need to be added as a team
 member and have a GitHub Account. Make sure to send the admin (Luke
 Johnston) your GitHub username so he can add you.
 
-```{r video-tutorial-2}
-embed_youtube("Z1G4rBX3tXM", height = 400) %>% 
-    use_bs_responsive() %>% 
-    use_align("center")
-```
+{{< video https://www.youtube.com/embed/Z1G4rBX3tXM height="400" >}}
 
 Content is formatted using Markdown (in this case, R Markdown) and you
 can learn how to write in Markdown on the [GitHub Markdown
@@ -162,11 +149,7 @@ this repository, the content needs to be written in Markdown. So take
 some time to watch the video and learn a bit about Markdown. I promise,
 it won't take long to learn!
 
-```{r video-tutorial-markdown}
-embed_youtube("_ovKJek9-Rk", height = 400) %>% 
-    use_bs_responsive() %>% 
-    use_align("center")
-```
+{{< video https://www.youtube.com/embed/_ovKJek9-Rk height="400" >}}
 
 For more guides and references on writing in Markdown, see GitHub's
 Guide [*Mastering
