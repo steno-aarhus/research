@@ -63,7 +63,7 @@ activity on what documents get created:
 [^1]: ...though we recognize that sometimes we must do things we are
     told to do.
 
-# Governance
+<!-- # Governance -->
 
 # Navigating the GitHub project
 
