@@ -294,13 +294,6 @@
     "text": "Datahandling agreements"
   },
   {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Documentation and Resources for Supporting Research Activities",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\nfunding\n\n\nA short description of the post.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "CONTRIBUTING.html",
     "href": "CONTRIBUTING.html",
     "title": "Contributing guidelines",
@@ -312,6 +305,13 @@
     "href": "CONTRIBUTING.html#the-basics-of-writing-in-markdown",
     "title": "Contributing guidelines",
     "section": "The basics of writing in Markdown",
-    "text": "The basics of writing in Markdown\nThe video below is a tutorial on the basics of using Markdown to write the content of this website. When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to watch the video and learn a bit about Markdown. I promise, it won’t take long to learn!\n\n\n\n\n\n\n\n\n\nFor more guides and references on writing in Markdown, see GitHub’s Guide Mastering Markdown or, for a more reference and list style of documentation, GitHub’s Writing on GitHub documentation. To see a “real-world” example, check out how the Code of Conduct is written."
+    "text": "The basics of writing in Markdown\nThe video below is a tutorial on the basics of using Markdown to write the content of this website. When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to watch the video and learn a bit about Markdown. I promise, it won’t take long to learn!\n\nFor more guides and references on writing in Markdown, see GitHub’s Guide Mastering Markdown or, for a more reference and list style of documentation, GitHub’s Writing on GitHub documentation. To see a “real-world” example, check out how the Code of Conduct is written."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Documentation and Resources for Supporting Research Activities",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\nfunding\n\n\nA short description of the post.\n\n\n\n\n\n\nNo matching items"
   }
 ]
