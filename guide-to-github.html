@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Guidelines for contributing to the documents.">
 
-<title>SDCA Research - Contributing guidelines</title>
+<title>SDCA Research – guide-to-github</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,7 +58,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<link href="site_libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet">
 
 
 </head>
@@ -155,102 +153,100 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Contributing guidelines</h1>
-</div>
-
-<div>
-  <div class="description">
-    <p>Guidelines for contributing to the documents.</p>
-  </div>
-</div>
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the <a href="https://github.com/steno-aarhus/research/blob/main/LICENSE.md">CC-BY 4.0 License</a>, and by contributing content any contributors agree to these terms. We also have a <a href="https://steno-aarhus.github.io/research/CONDUCT.html">Code of Conduct</a> that contributors agree to abide by.</p>
-<section id="guiding-principles" class="level1 page-columns page-full">
-<h1>Guiding principles</h1>
-<p>In order to ensure that we get the most from creating these documents and that we don’t spend more time on this than is necessary (given it is largely a secondary task and activity to our collective research responsibilities), here are some principles to guide our decisions and activity on what documents get created:</p>
+<section id="quick-guide-to-using-github" class="level1 page-columns page-full">
+<h1>Quick guide to using GitHub</h1>
+<p>In SDCA Research we use GitHub for common docs and support. This is a quick guide to write your first (or second) content and contribute to the community. Please be aware that everything on GitHub is <strong>open access</strong>, so don’t add anything private or confidential.</p>
+<section id="first-time-logging-in" class="level2">
+<h2 class="anchored" data-anchor-id="first-time-logging-in">First time logging in</h2>
 <ol type="1">
-<li><p><strong>All are welcome to contribute</strong>: There should be no or little barrier to contributing to the documents and their content, aside from barriers due to technology and skill in its use. If someone has the motivation and desire to contribute, they should be able to do so fairly easily.</p></li>
-<li><p><strong>Inclusion and participation in community through active contribution</strong>: Individuals who want to participate should actively contribute through not just attending meetings, but also in creating, modifying, organizing, editing, and/or developing the content on the website. Those who actively contribute should be included in the community and encouraged to participate.</p></li>
-<li><p><strong>Content is dictated by direct and active contribution</strong>: What gets created or developed should be done by whoever contributes to creating or building it. If someone wants or requests something to be created or modified, they are encouraged and given the power to do so themselves. In combination with the first principle, the barrier to contributing is only dependent on learning the basic technical and writing skills rather than any administrative barrier such as “requiring permission”. If you want something, than you are free to make it! We create and add content to the website based on what we personally want or are motivated to do, rather than what we are told to do<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p></li>
-<li><p><strong>Important or significant decisions are based on community consensus</strong>: Decisions should not or need not be blocked by requiring permission from anything external to the community. This ensures things move forward as continuously and unrestricted as possible. Important or significant decisions could include things like approving and finalizing a document or deciding on major infrastructural changes (e.g.&nbsp;platform to use for creating and managing the content).</p></li>
+<li><p><a href="github.com/join">Sign up</a> for a GitHub account if you don’t have one already.</p></li>
+<li><p>Go to the SDCA Research GitHub <a href="https://github.com/steno-aarhus/research/">repository</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/sdca-repo.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">SDCA GitHub main page.</figcaption><p></p>
+</figure>
+</div></li>
+<li><p>Send your username to administrator Luke Johnston so he can add you as a team member.</p></li>
+<li><p>You’ll receive an invitation mail. Join <a href="https://github.com/steno-aarhus">@steno-aarhus</a> through the link (expires in 7 days)</p></li>
+<li><p>Watch <a href="https://steno-aarhus.github.io/research/CONTRIBUTING.html">tutorial videos</a></p></li>
 </ol>
-<!-- # Governance -->
-<div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;…though we recognize that sometimes we must do things we are told to do.</p></li></div></section>
-<section id="navigating-the-github-project" class="level1">
-<h1>Navigating the GitHub project</h1>
-<p>The below video is a quick tutorial on how to navigate this project on GitHub.</p>
-<div class="cell">
-<div class="cell-output-display">
-<div class="vembedr embed-responsive embed-responsive-16by9" align="center">
-<div>
-<iframe src="https://www.youtube.com/embed/GoT_7DRRatw" width="711" height="400" frameborder="0" allowfullscreen="" data-external="1" class="embed-responsive-item"></iframe>
-</div>
-</div>
-</div>
-</div>
-<p>There are some terms used in the video:</p>
-<ul>
-<li><strong>Repository</strong>: A <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories">repository</a> is everything that is contained within the project. In this case, the repository is the website with the [Issues], files, and subfolders for this project.</li>
-<li><strong>Issue</strong>: An <a href="https://guides.github.com/features/issues/">Issue</a> is a task or to-do item that needs to be completed. These to-do items can be assigned to people and can be checked off as being done (“Closed”).</li>
-<li><strong>Branch</strong>: A <a href="https://docs.github.com/en/github/getting-started-with-github/github-glossary#branch">branch</a> is a separate, parallel set of files and folders related to the project. In this project there is the “main” branch that only the admin can edit. In order to add content to the main branch, you need to create your own branch and create a <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">pull request</a> of your changes and additions that you want added to the main files. Branches and pull requests are heavily used in the “<a href="https://guides.github.com/introduction/flow/">GitHub workflow</a>” that this project (and many many others) use. More details about this are in the next section and video. Branches are in some ways like separate files that you would email between other contributors, but instead of everyone having different versions of the file, here they are all contained in the same place (in the repository).</li>
-<li><strong>Pull request</strong>: A <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">pull request</a> is a request to add changes you’ve made to files in your branch and have them put into the main branch. When you make a pull request, it allows others to review what you’ve changed and make comments on it. Think of it like “Track changes” and the “Add comment” features of Word.</li>
-</ul>
 </section>
-<section id="adding-new-or-modifying-content-as-a-team-member" class="level1">
-<h1>Adding new or modifying content as a team member</h1>
-<p>The video below is a tutorial on how to add or modify content and files on the GitHub project. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.</p>
-<div class="cell">
-<div class="cell-output-display">
-<div class="vembedr embed-responsive embed-responsive-16by9" align="center">
-<div>
-<iframe src="https://www.youtube.com/embed/Z1G4rBX3tXM" width="711" height="400" frameborder="0" allowfullscreen="" data-external="1" class="embed-responsive-item"></iframe>
-</div>
-</div>
-</div>
-</div>
-<p>Content is formatted using Markdown (in this case, R Markdown) and you can learn how to write in Markdown on the <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown Guide</a>. There are also some terms used in the video:</p>
-<ul>
-<li><strong>Commit</strong>: A commit is the set of changes you’ve made to a file that will be put into the history. In general, committing changes to the history is better done often.</li>
-<li><strong>Changes/commit History</strong>: The commit history is all the changes, either additions or deletions, that have been done to the files in the project.</li>
-</ul>
-<p>Here is a written description of the workflow to adding or modifying text in the files:</p>
+<section id="how-to-contribute" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="how-to-contribute">How to contribute?</h2>
 <ol type="1">
-<li>Create or switch to your own branch.</li>
-<li>Either use the “Add a file” button or choose a file and click the “Edit this file” button.</li>
-<li>Add Markdown formatted text to the file.</li>
-<li>Scroll to the bottom to the “Commit” changes section and write a <em>short, brief</em> commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.
-<ul>
-<li>Commit your changes often. Don’t be shy about making many commits to the files you are changing.</li>
-</ul></li>
-<li>When you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “pull request” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!</li>
+<li>Create a new (personal) branch<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)</li>
 </ol>
-<section id="the-basics-of-writing-in-markdown" class="level2">
-<h2 class="anchored" data-anchor-id="the-basics-of-writing-in-markdown">The basics of writing in Markdown</h2>
-<p>The video below is a tutorial on the basics of using Markdown to write the content of this website. When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to watch the video and learn a bit about Markdown. I promise, it won’t take long to learn!</p>
-<div class="cell">
-<div class="cell-output-display">
-<div class="vembedr embed-responsive embed-responsive-16by9" align="center">
-<div>
-<iframe src="https://www.youtube.com/embed/_ovKJek9-Rk" width="711" height="400" frameborder="0" allowfullscreen="" data-external="1" class="embed-responsive-item"></iframe>
+<div class="no-row-height column-margin column-container"><li id="fn1"><p><sup>1</sup>&nbsp;A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.</p></li></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/create-new-branch.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Creating a new personal branch.</figcaption><p></p>
+</figure>
 </div>
+<ol start="2" type="1">
+<li>If you want to add a new file, rather than modify and existing one, go to “Create new file”:</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/add-new-file.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Adding a new file to your personal branch.</figcaption><p></p>
+</figure>
 </div>
+<ol start="3" type="1">
+<li>Give your file a name, for instance <code>guide-to-github.md</code> (only small characters and use <code>-</code> for spaces). Use <code>.md</code> as the file extension, which stands for “Markdown”.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/naming-new-file.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Naming the newly created file.</figcaption><p></p>
+</figure>
 </div>
+<ol start="4" type="1">
+<li><p>Start writing your content in Markdown. You can find support on how to write using Markdown in the <a href="https://steno-aarhus.github.io/research/CONTRIBUTING.html">tutorials</a> or in GitHub’s guide on <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Markdown</a>.</p></li>
+<li><p>In order to save your changes you’ve made, you need to ‘commit’<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.</p></li>
+</ol>
+<div class="no-row-height column-margin column-container"><li id="fn2"><p><sup>2</sup>&nbsp;“Commit” means to save something to the history, like you “commit” something to your memory.</p></li></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/commit-new-file.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Commit the new file into the Git history.</figcaption><p></p>
+</figure>
 </div>
-<p>For more guides and references on writing in Markdown, see GitHub’s Guide <a href="https://guides.github.com/features/mastering-markdown/"><em>Mastering Markdown</em></a> or, for a more reference and list style of documentation, GitHub’s <a href="https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax"><em>Writing on GitHub</em></a> documentation. To see a “real-world” example, check out how the Code of Conduct is <a href="https://github.com/steno-aarhus/research/blob/main/CONDUCT.Rmd">written</a>.</p>
-<!-- ## Using RStudio to contribute -->
+<ol start="6" type="1">
+<li>Now you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/new-file-in-history.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Finding your newly created file in the repository.</figcaption><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/editting-file.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Editting the newly created file, or other files.</figcaption><p></p>
+</figure>
+</div>
+<ol start="7" type="1">
+<li>Once you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.</li>
+</ol>
+<div class="no-row-height column-margin column-container"><li id="fn3"><p><sup>3</sup>&nbsp;A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.</p></li></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/create-pull-request.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Creating a pull request.</figcaption><p></p>
+</figure>
+</div>
+<ol start="8" type="1">
+<li>Once you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="submit-pull-request.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Finish with submitting the pull request.</figcaption><p></p>
+</figure>
+</div>
+<p>And that’s the basics!</p>
 
 
 </section>
@@ -400,7 +396,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="./LICENSE.html">License: CC BY 4.0</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link active" href="./CONTRIBUTING.html" aria-current="page">Want to contribute? Click here.</a>
+    <a class="nav-link" href="./CONTRIBUTING.html">Want to contribute? Click here.</a>
   </li>  
 </ul>
       </div>
