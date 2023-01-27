@@ -94,6 +94,8 @@ files.](images/editting-file.png)
     adding it to the main branch/webpage. Everyone can comment with
     suggestion for change.
 
-![Finish with submitting the pull request.](submit-pull-request.png)
+![Finish with submitting the pull
+request.](images/submit-pull-request.png)
 
 And that's the basics!
+
