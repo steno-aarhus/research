@@ -19,9 +19,9 @@ website:
       - icon: house-door
         href: "index.qmd"
         text: " "
-    right:
       - text: "About"
         href: about.md
+    right:
       - text: "Common docs"
         menu:
           - text: "GitHub Quick Guide"
