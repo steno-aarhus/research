@@ -7,7 +7,7 @@ access**, so don't add anything private or confidential.
 
 ## First time logging in
 
-1.  [Sign up](github.com/join) for a GitHub account if you don't have
+1.  [Sign up](https://github.com/join) for a GitHub account if you don't have
     one already.
 
 2.  Go to the SDCA Research GitHub
