@@ -1,12 +1,15 @@
 ---
 title: "Requesting access to various data sources"
+date: last-modified
 description: |
   Material for applying to various data sources, including the Danish registers.
 author:
     # Order alphabetical by last name
   - name: Luke W. Johnston
-    affiliations: 
+    affiliations:
       - name: Steno Diabetes Center Aarhus
+        url: https://stenoaarhus.dk
+      - name: Department of Clinical Medicine, Aarhus University
 ---
 
 {{< include ../../includes/_wip.md >}}

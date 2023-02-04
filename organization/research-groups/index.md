@@ -9,8 +9,10 @@ author:
     affiliations: 
       - name: Steno Diabetes Center Aarhus
   - name: Luke W. Johnston
-    affiliations: 
+    affiliations:
       - name: Steno Diabetes Center Aarhus
+        url: https://stenoaarhus.dk
+      - name: Department of Clinical Medicine, Aarhus University
   - name: Tinne Laurberg
     affiliations: 
       - name: Steno Diabetes Center Aarhus
