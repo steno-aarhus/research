@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: public
   execute-dir: project
-  post-render:
-    - touch docs/.nojekyll
 
 website:
   title: "SDCA Research"
