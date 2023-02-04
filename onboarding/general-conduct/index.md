@@ -2,6 +2,7 @@
 title: "General Code of Conduct"
 description: |
   Material and resources for Conduct during events, meetings, and online spaces.
+date: last-modified
 author:
   - name: Alisa Devedzic Kjærgaard 
     affiliations: 
