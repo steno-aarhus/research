@@ -2,17 +2,18 @@
   {
     "listing": "/support.html",
     "items": [
+      "/support/booking-rooms/index.html",
       "/support/data-analysis/index.html",
       "/support/running-meetings/index.html",
       "/support/requesting-data/index.html",
-      "/support/study-setup/index.html",
-      "/support/funding-application/index.html"
+      "/support/study-setup/index.html"
     ]
   },
   {
     "listing": "/onboarding.html",
     "items": [
       "/onboarding/general-conduct/index.html",
+      "/onboarding/it-basics/index.html",
       "/onboarding/getting-started/index.html"
     ]
   },

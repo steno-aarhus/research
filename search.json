@@ -25,14 +25,14 @@
     "href": "support.html",
     "title": "Documentation and Resources for Supporting Research Activities",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\nfunding\n\n\nA short description of the post.\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "onboarding.html",
     "href": "onboarding.html",
     "title": "Onboarding Material for New Researchers at SDCA",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "organization/sdca-management/index.html",
@@ -46,7 +46,7 @@
     "href": "organization/research-groups/index.html",
     "title": "Research groups at SDCA",
     "section": "",
-    "text": "Research groups\n\n\nSteno Diabetes Center Aarhus covers a wide range of research areas. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans.\nWe build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
+    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
   },
   {
     "objectID": "guide-to-github.html",
@@ -81,7 +81,21 @@
     "href": "organization.html",
     "title": "Organizational Information about SDCA",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA.\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "onboarding/it-basics/index.html",
+    "href": "onboarding/it-basics/index.html",
+    "title": "IT basics",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nIT software, services, and hardware are all dependent on your location of employment: Aarhus University or Region Midt. Getting user access is usually done as part of the employment process. Once you have a user ID, here are some basic things you might need from IT."
+  },
+  {
+    "objectID": "onboarding/it-basics/index.html#institute-specific-details",
+    "href": "onboarding/it-basics/index.html#institute-specific-details",
+    "title": "IT basics",
+    "section": "Institute-specific details",
+    "text": "Institute-specific details\n\nAarhus UniversityRegion Midt\n\n\nSpecific support can be found on their Guides website or by contacting them directly on their contacts page. Their guides are all available in either English or Danish.\n\nWiFi: Accessing internet is done with eduroam. Set up is done through their guide.\nVPN: When working remotely, many university and research services are only available by connecting to the university VPN. Use their Setup Guide.\nPersonal drive: You can connect and access your personal drive from your computer by following these instructions.\nShared drive(s): If you need access to a shared drive that your team or colleagues use, start with first requesting access to it. Once you get it, follow these steps to access it on your computer.\nEmail and calendar: Setting up or accessing your email and calender is done by going through their Email FAQ Guide.\n\n\n\nUnlike Aarhus University, which is quite familiar and used to a diverse set of IT needs and international employees, the Region doesn’t have as well developed and clear documentation for IT related topics. Documentation is also entirely in Danish. Help, support, and most other documents or services are almost completely only available through the “Citrixportal”, which you need to log into with your Region ID. Details about how to gain access is found either here (if outside the Region intranet, you will need to follow this guide to activate two-factor authentication codes).\n\nPersonal drives: Accessed by searching for “Stifinder” in the Citrix portal. Files saved to the Region personal drive are difficult to access outside of the Citrixportal and can’t easily be shared with others who do not have a Region ID. So we do not recommend using the Region drives for anything but highly sensitive information. Data should not be saved on the personal drive, but instead should be saved through appropriate sources (depends on your research team).\nShared drives: Accessed by searching for “Stifinder Afdeling” in the Citrixportal. Like with the personal drive above, unless you need to save and share information that is highly sensitive, we recommend not to use the shared drive and instead use other sources (like GitHub or the Aarhus University shared drives).\nEmail and calendar: You can open your email and calendar either through the Citrixportal or by using post.rm.dk.\n\n\n\n\nRegardless of which institution is your administrative employer, if you work primarily at SDCA, there are a number of helpful template files and other resources found only in Citrix (by searching for “Stifinder Afdeling”). We hope to slowly make these files more easily available, but until then, you can find relevant ones by asking your colleagues."
   },
   {
     "objectID": "onboarding/general-conduct/index.html",
@@ -245,6 +259,13 @@
     "text": "Further reading:\n\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome"
   },
   {
+    "objectID": "support/booking-rooms/index.html",
+    "href": "support/booking-rooms/index.html",
+    "title": "Booking meeting rooms at Forum",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nBooking rooms in Forum is fairly easy if you know how to do it. But it is not a straight forward way to find out.\nIf you have a Region email and have Outlook installed, the easiest approach to booking rooms is through the Outlook calendar. But not everyone has Outlook or don’t want to use multiple calendars, like if they are employed at Aarhus University but with an affiliation with the Region.\nThe next way of booking rooms is through the Citrix Portal, which you can only access if you have a Region ID. After you log into Citrix, use the Search button on the top right corner to look for Pronestor.\nWhen it shows itself on the screen, click the icon for Pronestor. After it opens up, you should see a list of dates. Select the date you want to book by clicking the button “Ny mødebestilling”. You’ll be given a list of rooms to book. Select the start time (“start”) and end time (“slut”) at the top, then click the room that is available. Afterwards, continue by clicking the “Check ud” at the top.\nThat’s it, you’ve booked the room!"
+  },
+  {
     "objectID": "support/running-meetings/index.html",
     "href": "support/running-meetings/index.html",
     "title": "How to run an effective meeting",
@@ -256,7 +277,7 @@
     "href": "support/running-meetings/index.html#types-of-meetings",
     "title": "How to run an effective meeting",
     "section": "Types of meetings",
-    "text": "Types of meetings\n\nOnboarding meetings can help people understand the organization’s structure, what projects are coming up, how their role and work will fit into the broader picture, and to set early expectations for what the person should do in their first few weeks and months, and how they fit into the big picture.\nBrainstorming meetings\nKickoff meetings are a good way to start a project and fill everyone in.\nFeedback and retrospective meetings evaluate the process: what went well, what didn’t, how to proceed and what will be changed for the next project."
+    "text": "Types of meetings\nWhen setting up a meeting, it helps to have an idea on what type of meeting you want it to be and what the goals of the meeting are. Here are a few types to get you thinking about it.\n\nOnboarding meetings: Can be used for when a project starts up or when new people join a project or organization. They can give clarity on the overall structure, what the project is about (or what projects are on-going within an organization), what the newcomer(s) role is and how they fit into the broader picture, as well as to clarify expectations on tasks and duties. Much of this information should also be provided in a text based format.\nBrainstorming meetings: This is the best reason to have a meeting, when you want to brainstorm ideas. Brainstorming works best when you are together (in person or virtual), where you can come up with ideas, have others immediate input, and to build off of or improve on those ideas.\nFeedback and retrospective meetings evaluate the process: what went well, what didn’t, how to proceed and what will be changed for the next project."
   },
   {
     "objectID": "support/running-meetings/index.html#meeting-category-by-aims",
@@ -270,7 +291,7 @@
     "href": "support/running-meetings/index.html#meeting-rules",
     "title": "How to run an effective meeting",
     "section": "Meeting rules",
-    "text": "Meeting rules\n\nArrive on time\nCome prepared\nKeep an open mind and a positive attitude\nActively listen to opinions and presentations of others\nDo not interrupt\nDo not monopolize talking time and do not dominate the meeting (facilitator’s role to help with this)\nActively participate\nAim to reach consensus"
+    "text": "Meeting rules\n\nArrive on time\nCome prepared (especially important for the facilitator or organizer).\nKeep an open mind and a positive attitude.\nActively listen to opinions and presentations of others.\nDo not interrupt.\nDo not monopolize talking time and do not dominate the meeting (facilitator’s role to help with this).\nActively participate.\nAim to reach consensus."
   },
   {
     "objectID": "support/running-meetings/index.html#before-the-meeting",
@@ -291,7 +312,7 @@
     "href": "support/running-meetings/index.html#after-the-meeting",
     "title": "How to run an effective meeting",
     "section": "After the meeting",
-    "text": "After the meeting\n\nNote taker deposits the recorded minutes on a designated platform, e.g., Trello, common docs, etc, so these are available to everybody who could and could not attend (preferably within 2-3 hours).\nEvaluation (feedback, anonymous?)"
+    "text": "After the meeting\n\nNote taker deposits the recorded minutes on a designated platform, e.g., Trello, common docs, etc, so these are available to everybody who could and could not attend (preferably within 2-3 hours).\nEvaluation (feedback, anonymous?)."
   },
   {
     "objectID": "support/running-meetings/index.html#references",

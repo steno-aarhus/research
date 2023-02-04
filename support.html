@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -115,12 +115,12 @@ ul.task-list li input[type="checkbox"] {
 </i> 
  <span class="menu-text"> </span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./about.html">
  <span class="menu-text">About</span></a>
   </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-common-docs" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Common docs</span>
@@ -194,10 +194,15 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+  </div>
 
 <div class="quarto-title-meta">
 
-    
+      
   
     
   </div>
@@ -239,7 +244,16 @@ Description
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1675421738368" data-listing-reading-time-sort="2.645" data-listing-title-sort="Data analysis tips and help" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-listing-date-sort="1675525382000" data-listing-file-modified-sort="1675525382236" data-listing-reading-time-sort="0.895" data-listing-title-sort="Booking meeting rooms at Forum" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td class="listing-title">
+<a href="./support/booking-rooms/index.html" class="title">Booking meeting rooms at Forum</a>
+</td>
+<td class="listing-description">
+How to book rooms for meetings in the Forum building at AUH.
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1675525382236" data-listing-reading-time-sort="2.645" data-listing-title-sort="Data analysis tips and help" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./support/data-analysis/index.html" class="title">Data analysis tips and help</a>
@@ -248,7 +262,7 @@ Description
 Material and resources for best practices, learning, and support for doing data analysis.
 </td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1675421738368" data-listing-reading-time-sort="4.92" data-listing-title-sort="How to run an effective meeting" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="2" data-listing-date-sort="1675525382000" data-listing-file-modified-sort="1675525382236" data-listing-reading-time-sort="5.515" data-listing-title-sort="How to run an effective meeting" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./support/running-meetings/index.html" class="title">How to run an effective meeting</a>
@@ -257,7 +271,7 @@ Material and resources for best practices, learning, and support for doing data 
 Guidelines and suggestions for running effective meetings.
 </td>
 </tr>
-<tr data-index="2" data-listing-file-modified-sort="1675421738368" data-listing-reading-time-sort="0.67" data-listing-title-sort="Requesting access to various data sources" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="3" data-listing-date-sort="1675525382000" data-listing-file-modified-sort="1675525382236" data-listing-reading-time-sort="0.67" data-listing-title-sort="Requesting access to various data sources" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./support/requesting-data/index.html" class="title">Requesting access to various data sources</a>
@@ -266,22 +280,13 @@ Guidelines and suggestions for running effective meetings.
 Material for applying to various data sources, including the Danish registers.
 </td>
 </tr>
-<tr data-index="3" data-listing-file-modified-sort="1675421738368" data-listing-reading-time-sort="2.24" data-listing-title-sort="Setting up research projects: Administrative and legal demands" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="4" data-listing-file-modified-sort="1675525382236" data-listing-reading-time-sort="2.24" data-listing-title-sort="Setting up research projects: Administrative and legal demands" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./support/study-setup/index.html" class="title">Setting up research projects: Administrative and legal demands</a>
 </td>
 <td class="listing-description">
 Resources for setting up research projects at SDCA, specifically with administrative and other legal demands.
-</td>
-</tr>
-<tr data-index="4" data-listing-file-modified-sort="1675421738368" data-listing-reading-time-sort="0.005" data-listing-title-sort="funding" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td class="listing-title">
-<a href="./support/funding-application/index.html" class="title">funding</a>
-</td>
-<td class="listing-description">
-A short description of the post.
 </td>
 </tr>
 </tbody>
