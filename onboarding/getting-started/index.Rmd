@@ -5,10 +5,10 @@ author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
     affiliations: 
-      - name: Steno Diabetes Center Aarhus
+      - ref: sdca
   - name: Tinne Laurberg
     affiliations: 
-      - name: Steno Diabetes Center Aarhus
+      - ref: sdca
 ---
 
 {{< include ../../includes/_wip.md >}}
