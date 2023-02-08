@@ -1,0 +1,10 @@
+affiliations:
+  - id: clin-au
+    name: Department of Clinical Medicine, Aarhus University
+    url: https://clin.au.dk/
+  - id: sdca
+    name: Steno Diabetes Center Aarhus
+    url: https://stenoaarhus.dk
+  - id: ph-au
+    name: Department of Public Health, Aarhus University
+    url: https://clin.au.dk/
