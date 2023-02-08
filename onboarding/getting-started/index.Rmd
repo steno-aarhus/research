@@ -6,9 +6,12 @@ author:
   - name: Daniel B. Ibsen
     affiliations: 
       - ref: sdca
+      - ref: ph-au
   - name: Tinne Laurberg
     affiliations: 
       - ref: sdca
+metadata-files: 
+  - ../../_affiliations.yml
 ---
 
 {{< include ../../includes/_wip.md >}}
