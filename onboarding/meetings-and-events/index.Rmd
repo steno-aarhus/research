@@ -1,0 +1,48 @@
+---
+title: Meetings, events, and social activities
+description: Details on meetings, various social events at SDCA, and finding more information about them.
+date: last-modified
+author:
+    # Order alphabetical by last name
+  - name: Daniel B. Ibsen
+    affiliations:
+      - ref: sdca
+      - ref: ph-au
+  - name: Luke W. Johnston
+    affiliations:
+      - ref: sdca
+      - ref: clin-au
+  - name: Tinne Laurberg
+    affiliations:
+      - ref: sdca
+metadata-files: 
+  - ../../_affiliations.yml
+---
+
+{{< include ../../includes/_wip.md >}}
+
+## Conferences
+
+-   **European Association for the Study of Diabetes (EASD)**: Starts
+    end of Sept every year. A large European conference on diabetes.
+    Usually Steno sends most researchers. In English.
+-   **American Diabetes Association (ADA)**: Usually in end of June
+    every year. A large North American (USA-based) conference on
+    diabetes. In English.
+
+## Social events
+
+-   **Research Retreat**: Usually around May-June every year and is two
+    days retreat at a conference center. In English.
+-   **Christmas dinner**: Usually at the start of December. Often starts
+    after 15 hr and continues until late evening. In Danish.
+-   **DHL-run**: To be added.
+-   **Summer Party**: To be added.
+
+## Work events
+
+These include meetings, clubs, lectures, and other work-related
+activities and events. A detailed list of meetings is found on the
+[Research
+events](https://www.stenoaarhus.dk/research/research-meetings/) page of
+the official SDCA website.
