@@ -5,7 +5,7 @@
 ## Booking of flights for you or an external visitor – 3 options
 1.	Book by CWT online tool: [www.mycwt.com](www.mycwt.com) (service fee of 14 DKK added per booking)
 
-2.	Book by calling or mailing CWT – phone: 3363 7744 or [au.dk@contactcwt.com](mailto:au.dk@contactcwt.com) (service fee: flights in Scandian: 30DKK, Flights Europe: 60DKK, Flights Intercontinental: 150DKK)
+2.	Book by calling or mailing CWT – phone: 3363 7744 or [au.dk@contactcwt.com](mailto:au.dk@contactcwt.com) (service fee: flights in Scandian: 30 DKK, Flights Europe: 60 DKK, Flights Intercontinental: 150 DKK)
 
 3.	Book on the airline company’s webpage directly (no service fee, but you must also include all your personal data, which is included in your CWT profile).
 
@@ -43,7 +43,7 @@ No specific agreements with hotel are made, but amount per night per country. Fo
 |USA:|269 USD + tax|
 
 ## Other travel booking information
-As a main rule please note that daily allowance is not to be included in your claim.
+***As a main rule please note that daily allowance is not to be included in your claim.***
 Please check homepage for any other travel related information:
 [https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling](https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling)
 
@@ -78,7 +78,8 @@ If you for some reason cannot book your flight at one of the above airline compa
 Travel agency Egencia can be reached by phone at 7070 8202 or e-mail: [customer_service@egencia.dk](mailto:customer_service@egencia.dk)
 
 ***Please note that you are not allowed to use the following: Ryanair, GoMore and Uber.***
-*** As a main rule please note that daily allowance is not to be included in your claim.***
+
+***As a main rule please note that daily allowance is not to be included in your claim.***
 
 ## Hotel booking in Denmark
 The maximum amount for a room per night is 1.448 DKK in 2023
