@@ -14,6 +14,6 @@ If you are employed by Aarhus University you can buy a parking card for Aarhus U
 ## Problems regarding parking? 
 Please contact APCOA by phone +45 86 783 533, they are available 24/7.
 
-**APCOA PARKING**, Skejby (at Aarhus University Hospital)
-Palle Juul-Jensens Boulevard 99, Office on the 1st floor, G306, main entrance G, 8200 Aarhus N
+**APCOA PARKING**, Skejby (at Aarhus University Hospital)  
+Palle Juul-Jensens Boulevard 99, 8200 Aarhus N - Office on the 1st floor, G306, main entrance G  
 Telephone: +45 86 783 533 - skejby@apcoa.dk
