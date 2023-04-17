@@ -12,8 +12,8 @@ If you are employed by Aarhus University you can buy a parking card for Aarhus U
 4. 	It is also possible to buy an extra parking card (card no. 2), if you use different cars, and would like to keep a card in each car. The price is 100 DKKR (one-time expense for the extra card).
 
 ## Problems regarding parking? 
-Please contact APCOA by phone +45 86 783 533, they are available 24/7.
+Please contact APCOA by phone +45 86 783 533 (They are available 24/7)
 
-**APCOA PARKING**, Skejby (at Aarhus University Hospital)  
+**APCOA PARKING Skejby** (at Aarhus University Hospital)  
 Palle Juul-Jensens Boulevard 99, 8200 Aarhus N - Office on the 1st floor, G306, main entrance G  
 Telephone: +45 86 783 533 - skejby@apcoa.dk
