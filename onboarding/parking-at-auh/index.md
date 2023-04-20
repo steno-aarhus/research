@@ -8,10 +8,6 @@ author:
   - name: Julie Knudsen
     affiliations: 
       - ref: sdca
-  - name: Luke W. Johnston
-    affiliations:
-      - ref: sdca
-      - ref: clin-au
 metadata-files: 
   - ../../_affiliations.yml
 ---
