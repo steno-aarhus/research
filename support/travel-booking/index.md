@@ -1,115 +1,171 @@
-# Travel booking guidance 2023 – on **AU** funding
+---
+title: "Booking for travel"
+description: Steps to take to book for work-related travel that ensure quick reimbursement.
+date: "2023-04-14"
+date-modified: last-modified
+author:
+    # Order alphabetical by last name
+  - name: Julie Knudsen
+    affiliations: 
+      - ref: sdca
+metadata-files: 
+  - ../../_affiliations.yml
+---
 
-**Info to external visitors:** *Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AU rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes.*
+{{< include ../../includes/_wip.md >}}
 
-## Booking of flights for you or an external visitor – 3 options
-1.	Book by CWT online tool: [www.mycwt.com](www.mycwt.com) (service fee of 14 DKK added per booking)
+**Info to external visitors:** Please contact your host at Steno
+Diabetes Center Aarhus as the host will have to book the flight and
+hotel arrangements for you to comply with AU rules. If you have local
+transportation, that the host cannot book for you as guest, please
+remember to keep all receipts for reimbursement purposes.
 
-2.	Book by calling or mailing CWT – phone: 3363 7744 or [au.dk@contactcwt.com](mailto:au.dk@contactcwt.com) (service fee: flights in Scandian: 30 DKK, Flights Europe: 60 DKK, Flights Intercontinental: 150 DKK)
+::: panel-tabset
+## On AU funds
 
-3.	Book on the airline company’s webpage directly (no service fee, but you must also include all your personal data, which is included in your CWT profile).
+### Booking of flights for you or an external visitor -- 3 options
 
-Please note: Service fee for CWT mentioned here so you know that there will be two Mastercard transactions for every booking – one for e.g., flight cost and one for the service fee. 
+1.  Book by CWT online tool: [www.mycwt.com](https://www.mycwt.com/)
+    (service fee of 14 DKK added per booking).
 
-**Bookings for non-AU employees** cannot be handled in the CWT online platform, so please use the airline company’s webpage. Remember that the same travel rules apply as for AU employees.
+2.  Book by calling or mailing CWT -- phone: 3363 7744 or
+    [au.dk\@contactcwt.com](mailto:au.dk@contactcwt.com){.email}
+    (service fee: flights in Scandian: 30 DKK, Flights Europe: 60 DKK,
+    Flights Intercontinental: 150 DKK).
 
-## Hotel booking in Denmark
-The maximum amount for a room per night is 1.448 DKK in 2023.
-SKI hotel agreements for 2023 might be made but are so far not in place, so for the time being please stick to the hotel room rate.
+3.  Book on the airline company's webpage directly (no service fee, but
+    you must also include all your personal data, which is included in
+    your CWT profile).
 
-## About booking hotel rooms abroad
-No specific agreements with hotel are made, but amount per night per country. For 2023 the list looks like this:
-|Country | Amount|
-|-------|-------|
-|Austria:|122 EUR|
-|Belgium:|171 EUR|
-|Canada:|293 CAD + tax|
-|Finland:|159 EUR|
-|France:|188 EUR|
-|Germany:|133 EUR|
-|Great Britain:|176 GBP|
-|Greece:|111 EUR|
-|Ireland:|179 EUR|
-|Iceland:|26.850 ISK|
-|Italy:|146 EUR|
-|Luxembourg:|182 EUR|
-|Netherlands:|165 EUR|
-|New York/Washington DC:|310 USD + tax|
-|Norway:|1.915 NOK|
-|Portugal:|142 EUR|
-|Switzerland:|257 CHF|
-|Spain:|157 EUR|
-|Sweden:|1.915 SEK|
-|USA:|269 USD + tax|
+Please note: Service fee for CWT mentioned here so you know that there
+will be two Mastercard transactions for every booking -- one for e.g.,
+flight cost and one for the service fee.
 
-## Other travel booking information
-***As a main rule please note that daily allowance is not to be included in your claim.***
-Please check homepage for any other travel related information:
-[https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling](https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling)
+::: callout-warning
+**Bookings for non-AU employees** cannot be handled in the CWT online
+platform, so please use the airline company's webpage. Remember that the
+same travel rules apply as for AU employees.
+:::
 
-# Travel booking guidance 2023 – on **AUH** funding
+### Hotel booking in Denmark
 
-Info to external visitors: *Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AUH rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes.*
+The maximum amount for a room per night is 1.448 DKK in 2023. SKI hotel
+agreements for 2023 might be made but are so far not in place, so for
+the time being please stick to the hotel room rate.
 
-## Booking of flights for you or an external visitor
-You have to book at one of the following airlines at their webpage or use the travel agency Egencia:
+### About booking hotel rooms abroad
 
-+	Scandinavian Airlines System Denmark-Norway-Sweden (SAS)
-*(also allowed to travel with the discount companies operating for SAS)*
-+	Norwegian Air Shuttle
-+	LOT Polish Airlines
-+	Finnair Plc
-+	Lufthansa
-+	Austrian Airlines
-+	Air Canada
-+	Swiss International Air Lines
-+	Brussels Airlines, Branch of Brussels Airlines N.V./S.A.
-+	United Airlines, Branch of United Airlines Inc., USA
-+	British Airways Plc
-+	Iberia Líneas Aéreas
-+	Air France
-+	KLM
-+	Emirates
-+	Icelandair
-+	DAT (connection Karup and Copenhagen)
+No specific agreements with hotel are made, but amount per night per
+country. For 2023 the list looks like this:
 
-If you for some reason cannot book your flight at one of the above airline companies, then you have to state why that is in your travel claim.
+| Country                | Amount        |
+|------------------------|---------------|
+| Austria                | 122 EUR       |
+| Belgium                | 171 EUR       |
+| Canada                 | 293 CAD + tax |
+| Finland                | 159 EUR       |
+| France                 | 188 EUR       |
+| Germany                | 133 EUR       |
+| Great Britain          | 176 GBP       |
+| Greece                 | 111 EUR       |
+| Ireland                | 179 EUR       |
+| Iceland                | 26.850 ISK    |
+| Italy                  | 146 EUR       |
+| Luxembourg             | 182 EUR       |
+| Netherlands            | 165 EUR       |
+| New York/Washington DC | 310 USD + tax |
+| Norway                 | 1.915 NOK     |
+| Portugal               | 142 EUR       |
+| Switzerland            | 257 CHF       |
+| Spain                  | 157 EUR       |
+| Sweden                 | 1.915 SEK     |
+| USA                    | 269 USD + tax |
 
-Travel agency Egencia can be reached by phone at 7070 8202 or e-mail: [customer_service@egencia.dk](mailto:customer_service@egencia.dk)
+### Other travel booking information
 
-***Please note that you are not allowed to use the following: Ryanair, GoMore and Uber.***
+***As a main rule please note that daily allowance is not to be included
+in your claim.*** Please check homepage for any other travel related
+information:
+<https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling>
 
-***As a main rule please note that daily allowance is not to be included in your claim.***
+## On AUH/RM funds
 
-## Hotel booking in Denmark
-The maximum amount for a room per night is 1.448 DKK in 2023
-SKI hotel agreements for 2023 might be made but are so far not in place, so for the time being please stick to the hotel room rate.
+### Booking of flights for you or an external visitor
 
-## About booking hotel rooms abroad
-No specific agreements with hotel are made but amount per night per country. For 2023 the list looks like this:
+You have to book at one of the following airlines at their webpage or
+use the travel agency Egencia:
 
-|Country | Amount|
-|-------|-------|
-|Austria:|122 EUR|
-|Belgium:|171 EUR|
-|Canada:|293 CAD + tax|
-|Finland:|159 EUR|
-|France:|188 EUR|
-|Germany:|133 EUR|
-|Great Britain:|176 GBP|
-|Greece:|111 EUR|
-|Ireland:|179 EUR|
-|Iceland:|26.850 ISK|
-|Italy:|146 EUR|
-|Luxembourg:|182 EUR|
-|Netherlands:|165 EUR|
-|New York/Washington DC:|310 USD + tax|
-|Norway:|1.915 NOK|
-|Portugal:|142 EUR|
-|Switzerland:|257 CHF|
-|Spain:|157 EUR|
-|Sweden:|1.915 SEK|
-|USA:|269 USD + tax|
+-   Scandinavian Airlines System Denmark-Norway-Sweden (SAS) *(also
+    allowed to travel with the discount companies operating for SAS)*
+-   Norwegian Air Shuttle
+-   LOT Polish Airlines
+-   Finnair Plc
+-   Lufthansa
+-   Austrian Airlines
+-   Air Canada
+-   Swiss International Air Lines
+-   Brussels Airlines, Branch of Brussels Airlines N.V./S.A.
+-   United Airlines, Branch of United Airlines Inc., USA
+-   British Airways Plc
+-   Iberia Líneas Aéreas
+-   Air France
+-   KLM
+-   Emirates
+-   Icelandair
+-   DAT (connection Karup and Copenhagen)
 
-Are you looking for other travel information than given here, please check out this link:
-[Forhold omkring tjenesterejser, mødebefordring, kurser, uddannelse m.v. - AUH intranet (rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/)
+If you for some reason cannot book your flight at one of the above
+airline companies, then you have to state why that is in your travel
+claim.
+
+Travel agency Egencia can be reached by phone at 7070 8202 or e-mail:
+[customer_service\@egencia.dk](mailto:customer_service@egencia.dk){.email}
+
+::: callout-warning
+**Please note that you are not allowed to use the following: Ryanair,
+GoMore and Uber.**
+
+**As a main rule please note that daily allowance is not to be included
+in your claim.**
+:::
+
+### Hotel booking in Denmark
+
+The maximum amount for a room per night is 1.448 DKK in 2023 SKI hotel
+agreements for 2023 might be made but are so far not in place, so for
+the time being please stick to the hotel room rate.
+
+### About booking hotel rooms abroad
+
+No specific agreements with hotel are made but amount per night per
+country. For 2023 the list looks like this:
+
+| Country                | Amount        |
+|------------------------|---------------|
+| Austria                | 122 EUR       |
+| Belgium                | 171 EUR       |
+| Canada                 | 293 CAD + tax |
+| Finland                | 159 EUR       |
+| France                 | 188 EUR       |
+| Germany                | 133 EUR       |
+| Great Britain          | 176 GBP       |
+| Greece                 | 111 EUR       |
+| Ireland                | 179 EUR       |
+| Iceland                | 26.850 ISK    |
+| Italy                  | 146 EUR       |
+| Luxembourg             | 182 EUR       |
+| Netherlands            | 165 EUR       |
+| New York/Washington DC | 310 USD + tax |
+| Norway                 | 1.915 NOK     |
+| Portugal               | 142 EUR       |
+| Switzerland            | 257 CHF       |
+| Spain                  | 157 EUR       |
+| Sweden                 | 1.915 SEK     |
+| USA                    | 269 USD + tax |
+
+Are you looking for other travel information than given here, please
+check out this link (only accessible on AUH internet connections or
+through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
+kurser, uddannelse m.v. - AUH intranet
+(rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/)
+:::
