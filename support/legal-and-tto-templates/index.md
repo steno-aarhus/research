@@ -14,6 +14,8 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
+<!-- TODO: Add more detail about how to use these template text and where to use them. -->
+
 You may have experienced delays in you projects and there is an
 increasing focus on the legal support at AU/RM. The region has recently
 released a set of templates for information and consent forms and at
