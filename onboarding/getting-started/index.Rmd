@@ -82,13 +82,34 @@ cat(tables_as_chr, sep = '\n')
 
 ## PhD students
 
-### Different affiliations
+## Different affiliations
 PhD and affiliated students at SDCA have different levels of affiliations: Some are financially supported and have their main supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor partly affiliated. We aim to be very inclusive, but some activities will only apply to students with a certain affiliation, e.g. some staff activities for PhD-students situated locally. If you have any questions regarding this, please, do not hesitate to get in touch with Inger Hornbech (inger.hornbech@rm.dk).
 
-### Start-up guide
+## Start-up guide
 You will recieve an email from one of the Research Secretaries with a Start-up guide to Steno Diabetes Center Aarhus. The guide will differ depending on how you are affiliated with SDCA.
 
-### PhD network and facebook
+::: panel-tabset
+### Desk in Forum
+
+**E-learning**
+If you are at SDCA, Forum on a daily basis, it's mandatory to participate in the following e-learning courses: 
+• Information security - physical security 
+• Basic Resuscitation, Level 1 
+• Hand hygiene - Break the chain of infection
+• Fire School 
+You will get an email notification on your RM-mail account with guidance to how you conduct the courses. Please notice that the courses are held in Danish. If you have any questions related to the E-learning courses please contact Inger Hornbech.
+
+**Office space**
+In Forum we have four offices dedicated to our PhD students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students.
+Please talk to your main supervisor regarding purchase of IT equipment.
+
+**Access/ID card**
+If you have a RM ID-card you can get access to SDCA by emailing your User ID to Inger Hornbech. In case you don’t have an ID-card, Inger will need your CPR number. Then, you will need to visit the card administration to have a photo taken at plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106 (opening hours: Mon – Fri 07.30-09.30 & 10.00-12.00). Remember to bring photo ID (e.g. driver's license).
+
+**Research in Steno’s medical research lab**
+If you are to do research in the research lab, please take a look at the short information here: shorturl.at/nFNSU (Danish).
+
+**PhD network and facebook**
 SDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time. 
 
 Informal questions or information related to PhD-students affiliated with SDCA may be posted on the Facebook group “Steno PhD Network”. Join us!
@@ -97,14 +118,58 @@ When you end your PhD you will no longer be part of the PhD network, but you may
 
 For questions related to the PhD network meetings, please contact Ole Emil Andersen (oleemil@clin.au.dk).
 
-### Slack
+**SDCA website**
+Affiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the attached project form and return it to Inger.
+
+**Want to know more about Steno Diabetes Center Aarhus**
+Did you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.
+
+### Financial support or main supervisor at SDCA
+
+**Office space**
+If you visit SDCA from time to time visit and need a desk, it's possible for you to lend one of our shared desks in our PhD offices, please contact Inger Hornbech before your visit. Your main supervisor can help you purchase IT equipment.
+
+**Access/ID card**
+If you occasionally need access to SDCA, Forum and you already have an RM access/ID card, please email your User ID to Inger Hornbech, and she will see to that you'll get access. In case you don’t have an ID-card, Inger will need your CPR number. Then, you will need to visit the card administration to have a photo taken at plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106 (opening hours: Mon – Fri 07.30-09.30 & 10.00-12.00). Remember to bring photo ID (e.g. driver's license).
+
+**Research in Steno’s medical research lab**
+If you are to do research in the research lab, please take a look at the short information here: shorturl.at/nFNSU (Danish).
+
+**PhD network and facebook**
+SDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time. 
+
+Informal questions or information related to PhD-students affiliated with SDCA may be posted on the Facebook group “Steno PhD Network”. Join us!
+
+When you end your PhD you will no longer be part of the PhD network, but you may choose to join the SDCA Alumni network. Inger Hornbech will contact you about that when time comes.
+
+For questions related to the PhD network meetings, please contact Ole Emil Andersen (oleemil@clin.au.dk).
+
+**SDCA website**
+Affiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the attached project form and return it to Inger.
+
+**Want to know more about Steno Diabetes Center Aarhus**
+Did you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.
+
+### Affiliated students
+
+**Office space**
+In Forum we have four offices dedicated to our PhD and affiliated students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students. We have written down some office guidelines – please read these, when you are allocated to an office – you'll find them on the notice board. If you need IT equipment, please talk to your supervisor (or contact Julie Knudsen, Julie.Knudsen@rm.dk)
+
+**Access/ID card**
+If you have a RM ID-card you can get access to SDCA by emailing your User ID to Inger Hornbech. In case you don’t have an ID-card, Inger will need your CPR number. Then, you will need to visit the card administration to have a photo taken at plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106 (opening hours: Mon – Fri 07.30-09.30 & 10.00-12.00). Remember to bring photo ID (e.g. driver's license).
+
+**Research in Steno’s medical research lab**
+If you are to do research in the research lab, please take a look at the short information here: shorturl.at/nFNSU (Danish).
+
+**Want to know more about Steno Diabetes Center Aarhus**
+On our website Steno Diabetes Center Aarhus - Region Midtjylland (stenoaarhus.dk), you can find useful information about our organisation and research.
+:::
+
+## Slack
 You might know Slack? That’s Steno Diabetes Center Aarhus's social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there (posted under 2_Forskning-og-udd and 6_Events).
 
-### Steno Thursdays and journal clubs
+## Steno Thursdays and journal clubs
 Steno Thursdays – that’s our weekly, scientific seminar that takes place most Thursdays 14:15-15:00 at ""Verdensrummet"" (auditorium A201-170) in FORUM. The seminars disseminate diabetes research and provides a great platform to learn about research projects at SDCA and discuss science. Once a month we aim to host a seminar with an international speaker; this we call Steno Thursdays Global. You will be notified about upcoming Steno Thursdays through e-mail.
 We value the scientific discussion and therefore expect affiliated researchers to prioritize these seminars.
 
 Depending on your field of research, it might also be relevant for you to join journal clubs or meetings. You will find an overview of such activities here.
-
-### SDCA website
-Affiliated PhD students have profiles on our website: A photo and a short description of the PhD project.
