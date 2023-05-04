@@ -79,7 +79,3 @@ tables_as_chr <- split(info_sheet, info_sheet$Topic) %>%
 cat(tables_as_chr, sep = '\n')
 ```
 :::
-
-## PhD students
-
-*table coming soon*
