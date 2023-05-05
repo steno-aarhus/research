@@ -1,6 +1,8 @@
 ---
 title: "Welcome and getting started as a PhD student"
 description: Material for onboarding new PhD students at SDCA.
+date: "2023-05-01"
+date-modified: last-modified
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen
