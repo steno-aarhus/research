@@ -41,11 +41,10 @@ author:
 
 Or in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.
 
--   Report to RM
+-   Report to RM [link](https://www.rm.dk/sundhed/faginfo/forskning/Forskningsprojekter/)
     -   Obs Requires acces to a RM computer
-        (https://www.rm.dk/sundhed/faginfo/forskning/Forskningsprojekter/)
--   Report to AU
-    ([link](https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/saerligt-om-forskning/anmeldelsesskema-dataansvarlig/))
+        
+-   Report to AU [link](https://www.medarbejdere.au.dk/informationssikkerhed/databeskyttelse/saerligt-om-forskning/anmeldelsesskema-dataansvarlig/))
 
 ## GDPR
 
