@@ -1,13 +1,20 @@
 [
   {
+    "listing": "/organization.html",
+    "items": [
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
+    ]
+  },
+  {
     "listing": "/onboarding.html",
     "items": [
+      "/onboarding/getting-started/index.html",
+      "/onboarding/getting-started-phd/index.html",
       "/onboarding/general-conduct/index.html",
       "/onboarding/it-basics/index.html",
       "/onboarding/meetings-and-events/index.html",
-      "/onboarding/parking-at-auh/index.html",
-      "/onboarding/getting-started/index.html",
-      "/onboarding/getting-started-phd/index.html"
+      "/onboarding/parking-at-auh/index.html"
     ]
   },
   {
@@ -21,13 +28,6 @@
       "/support/requesting-data/index.html",
       "/support/study-setup/index.html",
       "/support/verdensrummet/index.html"
-    ]
-  },
-  {
-    "listing": "/organization.html",
-    "items": [
-      "/organization/research-groups/index.html",
-      "/organization/sdca-management/index.html"
     ]
   }
 ]
