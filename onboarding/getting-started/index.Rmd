@@ -1,6 +1,7 @@
 ---
 title: "Welcome and getting started"
 description: Material for onboarding new researchers at SDCA.
+order: 1
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen
