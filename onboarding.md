@@ -4,7 +4,9 @@ listing:
   sort-ui: false
   contents: onboarding
   type: table
-  sort: "title"
+  sort: 
+    - "order"
+    - "title"
   table-hover: true
   table-striped: true
   fields: 
