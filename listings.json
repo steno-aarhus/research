@@ -1,14 +1,24 @@
 [
   {
-    "listing": "/organization.html",
+    "listing": "/support.html",
     "items": [
-      "/organization/research-groups/index.html",
-      "/organization/sdca-management/index.html"
+      "/support/travel-booking/index.html",
+      "/support/booking-rooms/index.html",
+      "/support/legal-and-tto-templates/index.html",
+      "/support/data-analysis/index.html",
+      "/support/funding-application/index.html",
+      "/support/running-meetings/index.html",
+      "/support/poster-printing/index.html",
+      "/support/requesting-data/index.html",
+      "/support/study-setup/index.html",
+      "/support/verdensrummet/index.html"
     ]
   },
   {
     "listing": "/onboarding.html",
     "items": [
+      "/onboarding/days-off/index.html",
+      "/onboarding/practicalities/index.html",
       "/onboarding/getting-started/index.html",
       "/onboarding/getting-started-phd/index.html",
       "/onboarding/general-conduct/index.html",
@@ -18,16 +28,10 @@
     ]
   },
   {
-    "listing": "/support.html",
+    "listing": "/organization.html",
     "items": [
-      "/support/travel-booking/index.html",
-      "/support/booking-rooms/index.html",
-      "/support/legal-and-tto-templates/index.html",
-      "/support/data-analysis/index.html",
-      "/support/running-meetings/index.html",
-      "/support/requesting-data/index.html",
-      "/support/study-setup/index.html",
-      "/support/verdensrummet/index.html"
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
     ]
   }
 ]
