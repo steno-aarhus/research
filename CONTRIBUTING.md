@@ -65,7 +65,7 @@ activity on what documents get created:
 The below video is a quick tutorial on how to navigate this project on
 GitHub.
 
-{{< video https://www.youtube.com/embed/GoT_7DRRatw height="400" >}}
+{{< video https://www.youtube.com/embed/GoT_7DRRatw >}}
 
 There are some terms used in the video:
 
@@ -108,7 +108,7 @@ on the GitHub project. For this to work, you need to be added as a team
 member and have a GitHub Account. Make sure to send the admin (Luke
 Johnston) your GitHub username so he can add you.
 
-{{< video https://www.youtube.com/embed/Z1G4rBX3tXM height="400" >}}
+{{< video https://www.youtube.com/embed/Z1G4rBX3tXM >}}
 
 Content is formatted using Markdown (in this case, R Markdown) and you
 can learn how to write in Markdown on the [GitHub Markdown
@@ -149,16 +149,12 @@ this repository, the content needs to be written in Markdown. So take
 some time to watch the video and learn a bit about Markdown. I promise,
 it won't take long to learn!
 
-{{< video https://www.youtube.com/embed/_ovKJek9-Rk height="400" >}}
+{{< video https://www.youtube.com/embed/_ovKJek9-Rk >}}
 
-For more guides and references on writing in Markdown, see GitHub's
-Guide [*Mastering
-Markdown*](https://guides.github.com/features/mastering-markdown/) or,
-for a more reference and list style of documentation, GitHub's [*Writing
-on
-GitHub*](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-documentation. To see a "real-world" example, check out how the Code of
-Conduct is
+For more guides and references on writing in Markdown, see Quarto's
+[*Markdown
+Basics*](https://quarto.org/docs/authoring/markdown-basics.html) Guide.
+To see a "real-world" example, check out how the Code of Conduct is
 [written](https://github.com/steno-aarhus/research/blob/main/CONDUCT.Rmd).
 
 <!-- ## Using RStudio to contribute -->
