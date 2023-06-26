@@ -4,6 +4,9 @@ description: Material for onboarding new researchers at SDCA.
 order: 1
 author:
     # Order alphabetical by last name
+  - name: Julie Knudsen
+    affiliations: 
+      - ref: sdca
   - name: Daniel B. Ibsen
     affiliations: 
       - ref: sdca

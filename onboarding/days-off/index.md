@@ -1,7 +1,6 @@
 ---
 title: "Sick days, holidays, and time off"
 description: Taking days off for being sick, for parental leave, holidays, and any other reasons.
-order: 1
 author:
     # Order alphabetical by last name
   - name: Luke W. Johnston
