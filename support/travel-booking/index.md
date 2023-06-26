@@ -47,11 +47,28 @@ platform, so please use the airline company's webpage. Remember that the
 same travel rules apply as for AU employees.
 :::
 
+### Hotel booking in Aarhus
+SKI hotel agreements (which stands for Statens og Kommunernes Indkøbsservice – translating to something like Purchase Service for the State and Municipalities) have been made for the period June 2023 to end December 2024. As these agreements are confidential only hotel names and phone numbers are given here for the following hotels in Aarhus:
+
+| Zleep Hotel Aarhus Skejby, Tangen 45, Aarhus N, phone: 7023 5635
+| Horisont Hotel & Konference, Agro Food Park 10, Aarhus N, phone: 7020 8810
+| Hotel GUEST apart, Tuesager 5A, Aarhus N, phone: 8618 0000
+
+| CABINN Aarhus, Kannikegade 14A, Aarhus C, phone: 8675 7000
+| Comwell Aarhus, Værkmestergade 2, Aarhus C, phone:7027 4274
+| Radisson Blu Scandinavia, Margrethepladsen 1, Aarhus C, phone: 8936 2044
+| Scandic the Mayor, Banegaardspladsen 14, Aarhus C, phone: 3348 0450
+| Scandic Aarhus City, Østergade 10, Aarhus C, phone: 3348 0450
+| Wakeup Aarhus, M.P. Bruunsgade 27, Aarhus C, phone: 4480 0000
+
+Scandic Aarhus Vest, Rytoften 3, Aarhus V, phone: 3348 0450
+
+Should the already mentioned hotels all be booked, then book another hotel room knowing that maximum rate for a room per night is 1.448 DKK in 2023
+
+
 ### Hotel booking in Denmark
 
-The maximum amount for a room per night is 1.448 DKK in 2023. SKI hotel
-agreements for 2023 might be made but are so far not in place, so for
-the time being please stick to the hotel room rate.
+Please contact Charlotte Rosholm for more information if you need to book hotel rooms outside Aarhus but in Denmark. 
 
 ### About booking hotel rooms abroad
 
@@ -122,18 +139,42 @@ Travel agency Egencia can be reached by phone at 7070 8202 or e-mail:
 [customer_service\@egencia.dk](mailto:customer_service@egencia.dk){.email}
 
 ::: callout-warning
-**Please note that you are not allowed to use the following: Ryanair,
-GoMore and Uber.**
+**Please note that you are not allowed to use Ryanair and Uber.**
 
+**Regarding GoMore:**
+
+If the following conditions ar met, you can now use GoMore
+- it must be the cheapest choice
+- you have to get a receipt from GoMore with information on who used GoMore from this destination to that destination as well as the date of travel
+- finally, the receipt should include address and CVR number of GoMore
+| If you use GoMore, please state the purpose of the travel on the receipt
+  
 **As a main rule please note that daily allowance is not to be included
 in your claim.**
 :::
+### Hotel booking in Aarhus
+SKI hotel agreements (which stands for Statens og Kommunernes Indkøbsservice – translating to something like Purchase Service for the State and Municipalities) have been made for the period June 2023 to end December 2024. As these agreements are confidential only hotel names and phone numbers are given here for the following hotels in Aarhus:
 
+| Zleep Hotel Aarhus Skejby, Tangen 45, Aarhus N, phone: 7023 5635
+| Horisont Hotel & Konference, Agro Food Park 10, Aarhus N, phone: 7020 8810
+| Hotel GUEST apart, Tuesager 5A, Aarhus N, phone: 8618 0000
+
+| CABINN Aarhus, Kannikegade 14A, Aarhus C, phone: 8675 7000
+| Comwell Aarhus, Værkmestergade 2, Aarhus C, phone:7027 4274
+| Radisson Blu Scandinavia, Margrethepladsen 1, Aarhus C, phone: 8936 2044
+| Scandic the Mayor, Banegaardspladsen 14, Aarhus C, phone: 3348 0450
+| Scandic Aarhus City, Østergade 10, Aarhus C, phone: 3348 0450
+| Wakeup Aarhus, M.P. Bruunsgade 27, Aarhus C, phone: 4480 0000
+
+Scandic Aarhus Vest, Rytoften 3, Aarhus V, phone: 3348 0450
+
+Addtional agreement - **not SKI but made by Region Midt**:
+| Helnan Marselis Hotel, Strandvejen 25, 8000 Aarhus C, phone: 8614 4411
+
+Should the already mentioned hotels all be booked, then book another hotel room knowing that maximum rate for a room per night is 1.448 DKK in 2023
 ### Hotel booking in Denmark
 
-The maximum amount for a room per night is 1.448 DKK in 2023 SKI hotel
-agreements for 2023 might be made but are so far not in place, so for
-the time being please stick to the hotel room rate.
+Please contact Charlotte Rosholm for more information if you need to book hotel rooms outside Aarhus but in Denmark. 
 
 ### About booking hotel rooms abroad
 
