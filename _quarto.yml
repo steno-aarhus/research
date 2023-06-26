@@ -53,6 +53,7 @@ reference-location: margin
 
 format:
   html:
+    toc: true
     df-print: tibble
     code-overflow: scroll
     from: markdown+emoji
