@@ -127,19 +127,6 @@ E-learning
     courses are held in Danish. If you have any questions related to the
     E-learning courses please contact Inger Hornbech.
 
-Access/ID card
-
-:   If you need access to Forum, its best that you get an access card.
-
-    -   If you have an RM ID-card: You can get access to SDCA by
-        emailing your User ID to Inger Hornbech.
-    -   If you don't have an RM ID-card: Inger will need your CPR number
-        and after that you will need to visit the card administration to
-        have a photo taken, which is at Plan 1, Universitetstorvet i
-        Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to
-        Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID
-        (e.g. driver's license).
-
 Research in Steno's medical research lab
 
 :   If you are to do research in the research lab, there is a [Google

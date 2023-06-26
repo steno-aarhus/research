@@ -35,3 +35,7 @@ at the top, then click the room that is available. Afterwards, continue
 by clicking the "Check ud" at the top.
 
 That's it, you've booked the room!
+
+There are also several "frirum" (free rooms), which are small meeting
+rooms that cannot be booked and are available if they are empty. There
+is usually one available at all times.

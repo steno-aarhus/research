@@ -169,3 +169,13 @@ through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
 kurser, uddannelse m.v. - AUH intranet
 (rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/)
 :::
+
+## Contacts
+
+If this document doesn't answer your questions, contact Inger Hornbech
+([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for those
+at AUH or Charlotte Rosholm
+([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Karin Ørbæk
+Kristensen ([karin\@clin.au.dk](mailto:karin@clin.au.dk){.email}) for
+those at AU.
+

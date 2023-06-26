@@ -1,6 +1,0 @@
-### `r unique(topic$Topic)`
-
-```{r}
-#| echo: false
-knitr::kable(topic[-1]) 
-```
