@@ -13,6 +13,12 @@ metadata-files:
   - ../../_affiliations.yml
 ---
 
+::: callout-important
+Please read through the [Getting Started](../getting-started/index.Rmd)
+document for all employees of AU and AUH before reading through this PhD
+specific document.
+:::
+
 PhD and affiliated students at SDCA have different levels of
 affiliations: Some are financially supported and have their main
 supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor
