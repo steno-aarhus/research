@@ -126,214 +126,32 @@
     "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nBooking rooms in Forum is fairly easy if you know how to do it. But it is not a straight forward way to find out.\nIf you have a Region email and have Outlook installed, the easiest approach to booking rooms is through the Outlook calendar. But not everyone has Outlook or don’t want to use multiple calendars, like if they are employed at Aarhus University but with an affiliation with the Region.\nThe next way of booking rooms is through the Citrix Portal, which you can only access if you have a Region ID. After you log into Citrix, use the Search button on the top right corner to look for Pronestor.\nWhen it shows itself on the screen, click the icon for Pronestor. After it opens up, you should see a list of dates. Select the date you want to book by clicking the button “Ny mødebestilling”. You’ll be given a list of rooms to book. Select the start time (“start”) and end time (“slut”) at the top, then click the room that is available. Afterwards, continue by clicking the “Check ud” at the top.\nThat’s it, you’ve booked the room!\nThere are also several “frirum” (free rooms), which are small meeting rooms that cannot be booked and are available if they are empty. There is usually one available at all times."
   },
   {
-    "objectID": "support/travel-booking/index.html",
-    "href": "support/travel-booking/index.html",
-    "title": "Booking for travel",
+    "objectID": "support/funding-application/index.html",
+    "href": "support/funding-application/index.html",
+    "title": "Funding applications",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nInfo to external visitors: Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AU rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nThere are several sites to that list sources of funding:\n\nResearch professional: If employed through AU, one has access to Research Profession, which is a register that collects information on various funding sources for many different purposes.\nSteno Collaborative Grants\nDDEA PhD and postdoc grants."
   },
   {
-    "objectID": "support/travel-booking/index.html#contacts",
-    "href": "support/travel-booking/index.html#contacts",
-    "title": "Booking for travel",
-    "section": "Contacts",
-    "text": "Contacts\nIf this document doesn’t answer your questions, contact Inger Hornbech (inger.hornbech@rm.dk) for those at AUH or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) for those at AU."
-  },
-  {
-    "objectID": "support/study-setup/index.html",
-    "href": "support/study-setup/index.html",
-    "title": "Setting up research projects: Administrative and legal demands",
+    "objectID": "support/requesting-data/index.html",
+    "href": "support/requesting-data/index.html",
+    "title": "Requesting access to various data sources",
     "section": "",
     "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
   },
   {
-    "objectID": "support/study-setup/index.html#clinical-studies",
-    "href": "support/study-setup/index.html#clinical-studies",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Clinical studies",
-    "text": "Clinical studies\n\nPreparing for a study\n\nResearch within the region (AUH) or University (AU)?\nReport to VEK (obs research biobank vs biobank, research in children and whole genome issues)\nClinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))\n\nLab used?\n\nM-lab\nPatolab\nCollaborating with dep. of biochemistry (klinisk biokemisk)\nBiobank"
+    "objectID": "support/requesting-data/index.html#denmark-statistics",
+    "href": "support/requesting-data/index.html#denmark-statistics",
+    "title": "Requesting access to various data sources",
+    "section": "Denmark Statistics",
+    "text": "Denmark Statistics\nSome more details about applying to Denmark Statistics can be found on the official SDCA website.\nOn this page are some more personal experiences of applying for data from DST. As a non-Danish speaking researcher, this was quite difficult since much of the documentation and help is in Danish. Plus, there are slight differences between the English version and the Danish. Of course, the Danish version is the most accurate, but it is not obvious where and if there are differences.\n\nExample of successful application\nMyself and several others applied to DST. Below are links to\n\nFull application as website, with links to the Word application\nResponses to initial comments\nList of (almost all) registers, with variables and descriptions translated to English"
   },
   {
-    "objectID": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
-    "href": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Access to patient data (not with Statistics Denmark)",
-    "text": "Access to patient data (not with Statistics Denmark)\n\nResearch project or quality control study\n\nResearch project using Patient Data\n\nReport to Styrelsen for patientsikkerhed - obs blev dette ændret\nAttachment to the department where the patient data is being collected (get a unpaid job…)\n\nQuality control study\n\nAquire permission from head of department"
-  },
-  {
-    "objectID": "support/study-setup/index.html#report-to-danish-data-authorities",
-    "href": "support/study-setup/index.html#report-to-danish-data-authorities",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Report to Danish Data Authorities",
-    "text": "Report to Danish Data Authorities\nOr in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.\n\nReport to RM\n\nObs Requires acces to a RM computer (https://www.rm.dk/sundhed/faginfo/forskning/Forskningsprojekter/)\n\nReport to AU (link)"
-  },
-  {
-    "objectID": "support/study-setup/index.html#gdpr",
-    "href": "support/study-setup/index.html#gdpr",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "GDPR",
-    "text": "GDPR\n\nLink to GDPR info: https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/"
-  },
-  {
-    "objectID": "support/study-setup/index.html#storage-of-sensitive-patient-data",
-    "href": "support/study-setup/index.html#storage-of-sensitive-patient-data",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Storage of sensitive patient data",
-    "text": "Storage of sensitive patient data\n\nStorage at AU\n\nPatient and trial data (patient sensitive): RedCap\nLarger data files: O-drive, needs to be setup through AU-IT so that logging is possible. Only pseudonymized patient data.\nLink to AU datastorage info: https://medarbejdere.au.dk/informationssikkerhed/klassifikation-af-data/#c2545048\n\nStorage at RM\n\nPatient and trial data (patient sensitive): RedCap through RM\nLarger data files: MidtX, needs to be setup through RM-IT so that logging is possible."
-  },
-  {
-    "objectID": "support/study-setup/index.html#datahandling-agreements",
-    "href": "support/study-setup/index.html#datahandling-agreements",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Datahandling agreements",
-    "text": "Datahandling agreements"
-  },
-  {
-    "objectID": "support/verdensrummet/index.html",
-    "href": "support/verdensrummet/index.html",
-    "title": "Stream a local meeting from Verdensrummet",
+    "objectID": "support/poster-printing/index.html",
+    "href": "support/poster-printing/index.html",
+    "title": "Printing posters for events",
     "section": "",
-    "text": "Two computers\nTwo Zoom accounts"
-  },
-  {
-    "objectID": "support/verdensrummet/index.html#requirements",
-    "href": "support/verdensrummet/index.html#requirements",
-    "title": "Stream a local meeting from Verdensrummet",
-    "section": "",
-    "text": "Two computers\nTwo Zoom accounts"
-  },
-  {
-    "objectID": "support/verdensrummet/index.html#steps",
-    "href": "support/verdensrummet/index.html#steps",
-    "title": "Stream a local meeting from Verdensrummet",
-    "section": "Steps",
-    "text": "Steps\n\nHost Zoom from Computer 1.\nOn the wired tablet controller choose: Video call and choose “Zoom” from the “Favourites” tab. The number that is called is “109.105.112.236”\nIn the prompt that shows up on the screen, enter meeting ID and join the Zoom meeting. Note: The user account has to be licensed to run through external call systems (all AU Zoom accounts are licensed).\nJoin the Zoom meeting from Computer 2.\nRun the Powerpoint presentation from Computer 2 by sharing this computer’s screen. Note: If you plan to connect pointers, they should be connected to Computer 2.\nAs host on Computer 1 do the following in Zoom:\n\nMake Verdensrummet “Spotlight for everyone”.\nAdd Computer 2 to spotlight for everyone.\n\n\n\nMore tips\n\nOnly use the microphone, speakers, and cameras from Verdensrummet (the controller) and disable this on Computer 1 and 2.\nAt the controller unit, you can choose where the cameras point. To only see the PowerPoint, you can choose “Focus mode” in settings on the controller."
-  },
-  {
-    "objectID": "support/legal-and-tto-templates/index.html",
-    "href": "support/legal-and-tto-templates/index.html",
-    "title": "Common templates from TTO and Legal Office",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nYou may have experienced delays in you projects and there is an increasing focus on the legal support at AU/RM. The region has recently released a set of templates for information and consent forms and at Steno we have several templates for collaboration agreements, data sharing etc. Read more (in Danish) about the templates from Region Midt on the Samarbejde, organisation og strategi (rm.dk). SDCA specific templates are being worked on and will be available for download later.\n\n\n\nExample of a common template.\n\n\nOther Region Midt Word templates for collaboration and data sharing are available here (in Danish): Skabeloner til oplysningspligt og samtykke til indsamling og behandling af personoplysninger."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
-  },
-  {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About",
-    "section": "Purpose",
-    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
-  },
-  {
-    "objectID": "about.html#resources-and-documentation",
-    "href": "about.html#resources-and-documentation",
-    "title": "About",
-    "section": "Resources and documentation",
-    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
-  },
-  {
-    "objectID": "about.html#people",
-    "href": "about.html#people",
-    "title": "About",
-    "section": "People",
-    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
-  },
-  {
-    "objectID": "organization/research-groups/index.html",
-    "href": "organization/research-groups/index.html",
-    "title": "Research groups at SDCA",
-    "section": "",
-    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
-  },
-  {
-    "objectID": "guide-to-github.html",
-    "href": "guide-to-github.html",
-    "title": "Quick guide to using GitHub",
-    "section": "",
-    "text": "In SDCA Research we use GitHub for common docs and support. This is a quick guide to write your first (or second) content and contribute to the community. Please be aware that everything on GitHub is open access, so don’t add anything private or confidential.\n\n\n\nSign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos\n\n\n\n\n\nCreate a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in the tutorials or in GitHub’s guide on Markdown.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
-  },
-  {
-    "objectID": "guide-to-github.html#first-time-logging-in",
-    "href": "guide-to-github.html#first-time-logging-in",
-    "title": "Quick guide to using GitHub",
-    "section": "",
-    "text": "Sign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos"
-  },
-  {
-    "objectID": "guide-to-github.html#how-to-contribute",
-    "href": "guide-to-github.html#how-to-contribute",
-    "title": "Quick guide to using GitHub",
-    "section": "",
-    "text": "Create a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in the tutorials or in GitHub’s guide on Markdown.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Contributor Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#correction",
-    "href": "CODE_OF_CONDUCT.html#correction",
-    "title": "Contributor Code of Conduct",
-    "section": "1. Correction",
-    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#warning",
-    "href": "CODE_OF_CONDUCT.html#warning",
-    "title": "Contributor Code of Conduct",
-    "section": "2. Warning",
-    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
-    "href": "CODE_OF_CONDUCT.html#temporary-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "3. Temporary Ban",
-    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
-    "href": "CODE_OF_CONDUCT.html#permanent-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "4. Permanent Ban",
-    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
-  },
-  {
-    "objectID": "organization/sdca-management/index.html",
-    "href": "organization/sdca-management/index.html",
-    "title": "SDCA management structure",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nOverview of SDCA management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nMarianne Jensen, Chief Nursing Officer, Randers Regional Hospital\nPia Ulv Helleland, CEO, Lemvig Municipality\nLars Bo Nielsen, Dean, Health - Aarhus University\nClaus Thomsen, Chief Medical Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
-  },
-  {
-    "objectID": "support/data-analysis/index.html",
-    "href": "support/data-analysis/index.html",
-    "title": "Data analysis tips and help",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
-    "href": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
-    "title": "Data analysis tips and help",
-    "section": "Some general practices doing data analysis",
-    "text": "Some general practices doing data analysis\n\nData management\n\nSave the raw data\nEnsure that raw data are backed up in more than one location\nCreate the data you wish to see in the world\nCreate analysis-friendly data\nRecord all the steps used to process data\nAanticipate the need to use multiple tables, and use iunique identifier for every record\nSubmit data to a reptable DOI-issuing repository so that others can acces and cite it\n\n\n\nSoftware\n\nPlace a brief explanatory comment at the start of every program\nDecompose programs into functions\nBe ruthless about eliminating duplication\nAlways search for well-maintained software libraries that do what you need\nTest libraries before relying on them\nGive functions and variables meaningful names\nMake dependencies and requirements explicit\nDo not comment and uncomment sections of code to control a program’s behavior\nProvide a simple example or test data set\nSubmit code to a reputable DOI-issuing repository\n\n\n\nCollaboration\n\nCreate an overview of your project\nCreate s shared “to-do” list for the project\nDecide on communication strategies\nMake the license explicit\nMake the project citable\n\n\n\nProject organization\n\nPut each project in its own directory, which is named after the project\nPut text documents associated with the project in the “doc” directory\nPut raw data and metadata in a data directory and files generated during cleanup and analysis in a “result” directory\nPut project source code in the “src” directory\nPut external scripts or compiled programs in the “bin” directory\nName all files to reflect their content or function\n\n\n\nKeeping track of changes\n\nBack up (almost) everything created by a human being as soon as it is created\nKeep changes small\nShare changes frequently\nCreate, maintain, and use a checklist for saving and sharing changes to the project\nStore each project in a folder that is mirrored off the researchers’ working machine\nAdd a file called changelog.txt to the project’s “docs” subfolder\nCopy the entire project whenever a significant change has made\nUse a version control system\n\n\n\nManuscripts\n\nWrite manuscripts using online tools with rich formatting, change tracking, and reference management\nWrite a manuscript in a plain text format that permits version control\n\n\n\n\nFlow chart to get help with your coding problems"
-  },
-  {
-    "objectID": "support/data-analysis/index.html#further-reading",
-    "href": "support/data-analysis/index.html#further-reading",
-    "title": "Data analysis tips and help",
-    "section": "Further reading:",
-    "text": "Further reading:\n\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome"
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nIf you need to print a poster, which service you use depends on where your funding comes from.\n\nFor AU funding, use their Printing Service.\nFor AUH funding, use their Grafisk Service (this is only viewable through the “Citrixportal” or if you are connected to the AUH network)."
   },
   {
     "objectID": "support/running-meetings/index.html",
@@ -392,32 +210,214 @@
     "text": "References\n\nHow to run effective meetings: Five principles for getting more done as a team\nThe 11-step guide to running effective meetings\nSeven Steps to Running the Most Effective Meeting Possible"
   },
   {
-    "objectID": "support/poster-printing/index.html",
-    "href": "support/poster-printing/index.html",
-    "title": "Printing posters for events",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nIf you need to print a poster, which service you use depends on where your funding comes from.\n\nFor AU funding, use their Printing Service.\nFor AUH funding, use their Grafisk Service (this is only viewable through the “Citrixportal” or if you are connected to the AUH network)."
-  },
-  {
-    "objectID": "support/requesting-data/index.html",
-    "href": "support/requesting-data/index.html",
-    "title": "Requesting access to various data sources",
+    "objectID": "support/data-analysis/index.html",
+    "href": "support/data-analysis/index.html",
+    "title": "Data analysis tips and help",
     "section": "",
     "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
   },
   {
-    "objectID": "support/requesting-data/index.html#denmark-statistics",
-    "href": "support/requesting-data/index.html#denmark-statistics",
-    "title": "Requesting access to various data sources",
-    "section": "Denmark Statistics",
-    "text": "Denmark Statistics\nSome more details about applying to Denmark Statistics can be found on the official SDCA website.\nOn this page are some more personal experiences of applying for data from DST. As a non-Danish speaking researcher, this was quite difficult since much of the documentation and help is in Danish. Plus, there are slight differences between the English version and the Danish. Of course, the Danish version is the most accurate, but it is not obvious where and if there are differences.\n\nExample of successful application\nMyself and several others applied to DST. Below are links to\n\nFull application as website, with links to the Word application\nResponses to initial comments\nList of (almost all) registers, with variables and descriptions translated to English"
+    "objectID": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
+    "href": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
+    "title": "Data analysis tips and help",
+    "section": "Some general practices doing data analysis",
+    "text": "Some general practices doing data analysis\n\nData management\n\nSave the raw data\nEnsure that raw data are backed up in more than one location\nCreate the data you wish to see in the world\nCreate analysis-friendly data\nRecord all the steps used to process data\nAanticipate the need to use multiple tables, and use iunique identifier for every record\nSubmit data to a reptable DOI-issuing repository so that others can acces and cite it\n\n\n\nSoftware\n\nPlace a brief explanatory comment at the start of every program\nDecompose programs into functions\nBe ruthless about eliminating duplication\nAlways search for well-maintained software libraries that do what you need\nTest libraries before relying on them\nGive functions and variables meaningful names\nMake dependencies and requirements explicit\nDo not comment and uncomment sections of code to control a program’s behavior\nProvide a simple example or test data set\nSubmit code to a reputable DOI-issuing repository\n\n\n\nCollaboration\n\nCreate an overview of your project\nCreate s shared “to-do” list for the project\nDecide on communication strategies\nMake the license explicit\nMake the project citable\n\n\n\nProject organization\n\nPut each project in its own directory, which is named after the project\nPut text documents associated with the project in the “doc” directory\nPut raw data and metadata in a data directory and files generated during cleanup and analysis in a “result” directory\nPut project source code in the “src” directory\nPut external scripts or compiled programs in the “bin” directory\nName all files to reflect their content or function\n\n\n\nKeeping track of changes\n\nBack up (almost) everything created by a human being as soon as it is created\nKeep changes small\nShare changes frequently\nCreate, maintain, and use a checklist for saving and sharing changes to the project\nStore each project in a folder that is mirrored off the researchers’ working machine\nAdd a file called changelog.txt to the project’s “docs” subfolder\nCopy the entire project whenever a significant change has made\nUse a version control system\n\n\n\nManuscripts\n\nWrite manuscripts using online tools with rich formatting, change tracking, and reference management\nWrite a manuscript in a plain text format that permits version control\n\n\n\n\nFlow chart to get help with your coding problems"
   },
   {
-    "objectID": "support/funding-application/index.html",
-    "href": "support/funding-application/index.html",
-    "title": "Funding applications",
+    "objectID": "support/data-analysis/index.html#further-reading",
+    "href": "support/data-analysis/index.html#further-reading",
+    "title": "Data analysis tips and help",
+    "section": "Further reading:",
+    "text": "Further reading:\n\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome"
+  },
+  {
+    "objectID": "organization/sdca-management/index.html",
+    "href": "organization/sdca-management/index.html",
+    "title": "SDCA management structure",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nThere are several sites to that list sources of funding:\n\nResearch professional: If employed through AU, one has access to Research Profession, which is a register that collects information on various funding sources for many different purposes.\nSteno Collaborative Grants\nDDEA PhD and postdoc grants."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nOverview of SDCA management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nMarianne Jensen, Chief Nursing Officer, Randers Regional Hospital\nPia Ulv Helleland, CEO, Lemvig Municipality\nLars Bo Nielsen, Dean, Health - Aarhus University\nClaus Thomsen, Chief Medical Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#correction",
+    "href": "CODE_OF_CONDUCT.html#correction",
+    "title": "Contributor Code of Conduct",
+    "section": "1. Correction",
+    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#warning",
+    "href": "CODE_OF_CONDUCT.html#warning",
+    "title": "Contributor Code of Conduct",
+    "section": "2. Warning",
+    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
+    "href": "CODE_OF_CONDUCT.html#temporary-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "3. Temporary Ban",
+    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
+    "href": "CODE_OF_CONDUCT.html#permanent-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "4. Permanent Ban",
+    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "guide-to-github.html",
+    "href": "guide-to-github.html",
+    "title": "Quick guide to using GitHub",
+    "section": "",
+    "text": "In SDCA Research we use GitHub for common docs and support. This is a quick guide to write your first (or second) content and contribute to the community. Please be aware that everything on GitHub is open access, so don’t add anything private or confidential.\n\n\n\nSign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos\n\n\n\n\n\nCreate a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in the tutorials or in GitHub’s guide on Markdown.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
+  },
+  {
+    "objectID": "guide-to-github.html#first-time-logging-in",
+    "href": "guide-to-github.html#first-time-logging-in",
+    "title": "Quick guide to using GitHub",
+    "section": "",
+    "text": "Sign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos"
+  },
+  {
+    "objectID": "guide-to-github.html#how-to-contribute",
+    "href": "guide-to-github.html#how-to-contribute",
+    "title": "Quick guide to using GitHub",
+    "section": "",
+    "text": "Create a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in the tutorials or in GitHub’s guide on Markdown.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
+  },
+  {
+    "objectID": "organization/research-groups/index.html",
+    "href": "organization/research-groups/index.html",
+    "title": "Research groups at SDCA",
+    "section": "",
+    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About",
+    "section": "Purpose",
+    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
+  },
+  {
+    "objectID": "about.html#resources-and-documentation",
+    "href": "about.html#resources-and-documentation",
+    "title": "About",
+    "section": "Resources and documentation",
+    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "People",
+    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
+  },
+  {
+    "objectID": "support/legal-and-tto-templates/index.html",
+    "href": "support/legal-and-tto-templates/index.html",
+    "title": "Common templates from TTO and Legal Office",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nYou may have experienced delays in you projects and there is an increasing focus on the legal support at AU/RM. The region has recently released a set of templates for information and consent forms and at Steno we have several templates for collaboration agreements, data sharing etc. Read more (in Danish) about the templates from Region Midt on the Samarbejde, organisation og strategi (rm.dk). SDCA specific templates are being worked on and will be available for download later.\n\n\n\nExample of a common template.\n\n\nOther Region Midt Word templates for collaboration and data sharing are available here (in Danish): Skabeloner til oplysningspligt og samtykke til indsamling og behandling af personoplysninger."
+  },
+  {
+    "objectID": "support/verdensrummet/index.html",
+    "href": "support/verdensrummet/index.html",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "",
+    "text": "Two computers\nTwo Zoom accounts"
+  },
+  {
+    "objectID": "support/verdensrummet/index.html#requirements",
+    "href": "support/verdensrummet/index.html#requirements",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "",
+    "text": "Two computers\nTwo Zoom accounts"
+  },
+  {
+    "objectID": "support/verdensrummet/index.html#steps",
+    "href": "support/verdensrummet/index.html#steps",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "Steps",
+    "text": "Steps\n\nHost Zoom from Computer 1.\nOn the wired tablet controller choose: Video call and choose “Zoom” from the “Favourites” tab. The number that is called is “109.105.112.236”\nIn the prompt that shows up on the screen, enter meeting ID and join the Zoom meeting. Note: The user account has to be licensed to run through external call systems (all AU Zoom accounts are licensed).\nJoin the Zoom meeting from Computer 2.\nRun the Powerpoint presentation from Computer 2 by sharing this computer’s screen. Note: If you plan to connect pointers, they should be connected to Computer 2.\nAs host on Computer 1 do the following in Zoom:\n\nMake Verdensrummet “Spotlight for everyone”.\nAdd Computer 2 to spotlight for everyone.\n\n\n\nMore tips\n\nOnly use the microphone, speakers, and cameras from Verdensrummet (the controller) and disable this on Computer 1 and 2.\nAt the controller unit, you can choose where the cameras point. To only see the PowerPoint, you can choose “Focus mode” in settings on the controller."
+  },
+  {
+    "objectID": "support/study-setup/index.html",
+    "href": "support/study-setup/index.html",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "support/study-setup/index.html#clinical-studies",
+    "href": "support/study-setup/index.html#clinical-studies",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Clinical studies",
+    "text": "Clinical studies\n\nPreparing for a study\n\nResearch within the region (AUH) or University (AU)?\nReport to VEK (obs research biobank vs biobank, research in children and whole genome issues)\nClinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))\n\nLab used?\n\nM-lab\nPatolab\nCollaborating with dep. of biochemistry (klinisk biokemisk)\nBiobank"
+  },
+  {
+    "objectID": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
+    "href": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Access to patient data (not with Statistics Denmark)",
+    "text": "Access to patient data (not with Statistics Denmark)\n\nResearch project or quality control study\n\nResearch project using Patient Data\n\nReport to Styrelsen for patientsikkerhed - obs blev dette ændret\nAttachment to the department where the patient data is being collected (get a unpaid job…)\n\nQuality control study\n\nAquire permission from head of department"
+  },
+  {
+    "objectID": "support/study-setup/index.html#report-to-danish-data-authorities",
+    "href": "support/study-setup/index.html#report-to-danish-data-authorities",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Report to Danish Data Authorities",
+    "text": "Report to Danish Data Authorities\nOr in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.\n\nReport to RM\n\nObs Requires acces to a RM computer\n\nReport to AU"
+  },
+  {
+    "objectID": "support/study-setup/index.html#gdpr",
+    "href": "support/study-setup/index.html#gdpr",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "GDPR",
+    "text": "GDPR\n\nLink to GDPR info: https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/"
+  },
+  {
+    "objectID": "support/study-setup/index.html#storage-of-sensitive-patient-data",
+    "href": "support/study-setup/index.html#storage-of-sensitive-patient-data",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Storage of sensitive patient data",
+    "text": "Storage of sensitive patient data\n\nStorage at AU\n\nPatient and trial data (patient sensitive): RedCap\nLarger data files: O-drive, needs to be setup through AU-IT so that logging is possible. Only pseudonymized patient data.\nLink to AU datastorage info: https://medarbejdere.au.dk/informationssikkerhed/klassifikation-af-data/#c2545048\n\nStorage at RM\n\nPatient and trial data (patient sensitive): RedCap through RM\nLarger data files: MidtX, needs to be setup through RM-IT so that logging is possible."
+  },
+  {
+    "objectID": "support/study-setup/index.html#datahandling-agreements",
+    "href": "support/study-setup/index.html#datahandling-agreements",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Datahandling agreements",
+    "text": "Datahandling agreements"
+  },
+  {
+    "objectID": "support/travel-booking/index.html",
+    "href": "support/travel-booking/index.html",
+    "title": "Booking for travel",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nInfo to external visitors: Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AU rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes."
+  },
+  {
+    "objectID": "support/travel-booking/index.html#contacts",
+    "href": "support/travel-booking/index.html#contacts",
+    "title": "Booking for travel",
+    "section": "Contacts",
+    "text": "Contacts\nIf this document doesn’t answer your questions, contact Inger Hornbech (inger.hornbech@rm.dk) for those at AUH or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) for those at AU."
   },
   {
     "objectID": "LICENSE.html",
