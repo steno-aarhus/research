@@ -13,7 +13,7 @@ and phone numbers are given here for the following hotels in Aarhus:
     -   Hotel GUEST apart, Tuesager 5A, Aarhus N, phone: 8618 0000
 -   **Aarhus C** (center, near the downtown):
     -   CABINN Aarhus, Kannikegade 14A, Aarhus C, phone: 8675 7000
-    -   Comwell Aarhus, Værkmestergade 2, Aarhus C, phone:7027 4274
+    -   Comwell Aarhus, Værkmestergade 2, Aarhus C, phone: 7027 4274
     -   Radisson Blu Scandinavia, Margrethepladsen 1, Aarhus C, phone:
         8936 2044
     -   Scandic the Mayor, Banegaardspladsen 14, Aarhus C, phone: 3348
