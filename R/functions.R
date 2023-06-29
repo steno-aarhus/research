@@ -3,7 +3,7 @@
 library(rvest)
 library(tidyverse)
 
-sdca_research_page <- read_html("https://www.stenoaarhus.dk/research/")
+sdca_research_page <- read_html("https://www.stenoaarhus.dk/kontakt/")
 
 researchers <- sdca_research_page %>%
     html_elements(".headline") %>%
