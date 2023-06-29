@@ -8,6 +8,9 @@ author:
   - name: Julie Knudsen
     affiliations: 
       - ref: sdca
+  - name: Charlotte Rosholm
+    affiliations: 
+      - ref: clin-au
 metadata-files: 
   - ../../_affiliations.yml
 ---
@@ -29,17 +32,21 @@ remember to keep all receipts for reimbursement purposes.
     (service fee of 14 DKK added per booking).
 
 2.  Book by calling or mailing CWT -- phone: 3363 7744 or
-    [au.dk\@contactcwt.com](mailto:au.dk@contactcwt.com){.email}
-    (service fee: flights in Scandian: 30 DKK, Flights Europe: 60 DKK,
-    Flights Intercontinental: 150 DKK).
+    [au.dk\@contactcwt.com](mailto:au.dk@contactcwt.com){.email}.
+    Service fee is based on flight destination:
+
+    -   Within Scandinavian countries: 30 DKK
+    -   Within European countries: 60 DKK
+    -   Outside of Europe: 150 DKK
 
 3.  Book on the airline company's webpage directly (no service fee, but
     you must also include all your personal data, which is included in
     your CWT profile).
 
-Please note: Service fee for CWT mentioned here so you know that there
-will be two Mastercard transactions for every booking -- one for e.g.,
-flight cost and one for the service fee.
+::: callout-note
+The service fee for CWT results in two MasterCard transactions for every
+booking -- one for e.g., flight cost and one for the service fee.
+:::
 
 ::: callout-warning
 **Bookings for non-AU employees** cannot be handled in the CWT online
@@ -47,53 +54,32 @@ platform, so please use the airline company's webpage. Remember that the
 same travel rules apply as for AU employees.
 :::
 
+### Hotel booking in Aarhus
+
+{{< include _hotels-in-aarhus.md >}}
+
 ### Hotel booking in Denmark
 
-The maximum amount for a room per night is 1.448 DKK in 2023. SKI hotel
-agreements for 2023 might be made but are so far not in place, so for
-the time being please stick to the hotel room rate.
+Please contact Charlotte Rosholm for more information if you need to
+book hotel rooms outside Aarhus but in Denmark.
 
 ### About booking hotel rooms abroad
 
-No specific agreements with hotel are made, but amount per night per
-country. For 2023 the list looks like this:
-
-| Country                | Amount        |
-|------------------------|---------------|
-| Austria                | 122 EUR       |
-| Belgium                | 171 EUR       |
-| Canada                 | 293 CAD + tax |
-| Finland                | 159 EUR       |
-| France                 | 188 EUR       |
-| Germany                | 133 EUR       |
-| Great Britain          | 176 GBP       |
-| Greece                 | 111 EUR       |
-| Ireland                | 179 EUR       |
-| Iceland                | 26.850 ISK    |
-| Italy                  | 146 EUR       |
-| Luxembourg             | 182 EUR       |
-| Netherlands            | 165 EUR       |
-| New York/Washington DC | 310 USD + tax |
-| Norway                 | 1.915 NOK     |
-| Portugal               | 142 EUR       |
-| Switzerland            | 257 CHF       |
-| Spain                  | 157 EUR       |
-| Sweden                 | 1.915 SEK     |
-| USA                    | 269 USD + tax |
+{{< include _hotels-abroad.md >}}
 
 ### Other travel booking information
 
 ***As a main rule please note that daily allowance is not to be included
-in your claim.*** Please check homepage for any other travel related
-information:
-<https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling>
+in your claim.*** Please check the AU
+[documentation](https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling)
+for any other travel related information.
 
 ## On AUH/RM funds
 
 ### Booking of flights for you or an external visitor
 
-You have to book at one of the following airlines at their webpage or
-use the travel agency Egencia:
+Book flights using one of the below airlines on their webpage or use the
+travel agency Egencia:
 
 -   Scandinavian Airlines System Denmark-Norway-Sweden (SAS) *(also
     allowed to travel with the discount companies operating for SAS)*
@@ -122,50 +108,50 @@ Travel agency Egencia can be reached by phone at 7070 8202 or e-mail:
 [customer_service\@egencia.dk](mailto:customer_service@egencia.dk){.email}
 
 ::: callout-warning
-**Please note that you are not allowed to use the following: Ryanair,
-GoMore and Uber.**
+**Please note that you are not allowed to use Ryanair or Uber.**
+
+**Regarding GoMore:**
+
+If the following conditions are met, you can now use GoMore if it is the
+cheapest choice. You have to get a receipt from GoMore with information
+on who used GoMore from the start to end destinations, as well as the
+date of travel. The receipt should include address and CVR number of
+GoMore. You will need to state the purpose of the travel on the receipt
 
 **As a main rule please note that daily allowance is not to be included
 in your claim.**
 :::
 
+### Hotel booking in Aarhus
+
+{{< include _hotels-in-aarhus.md >}}
+
+RM/AUH have an additional agreement, **not an SKI but made by RM** with
+the Helnan Marselis Hotel (Strandvejen 25, 8000 Aarhus C, phone: 8614
+4411).
+
 ### Hotel booking in Denmark
 
-The maximum amount for a room per night is 1.448 DKK in 2023 SKI hotel
-agreements for 2023 might be made but are so far not in place, so for
-the time being please stick to the hotel room rate.
+Please contact Charlotte Rosholm for more information if you need to
+book hotel rooms outside Aarhus but in Denmark.
 
 ### About booking hotel rooms abroad
 
-No specific agreements with hotel are made but amount per night per
-country. For 2023 the list looks like this:
-
-| Country                | Amount        |
-|------------------------|---------------|
-| Austria                | 122 EUR       |
-| Belgium                | 171 EUR       |
-| Canada                 | 293 CAD + tax |
-| Finland                | 159 EUR       |
-| France                 | 188 EUR       |
-| Germany                | 133 EUR       |
-| Great Britain          | 176 GBP       |
-| Greece                 | 111 EUR       |
-| Ireland                | 179 EUR       |
-| Iceland                | 26.850 ISK    |
-| Italy                  | 146 EUR       |
-| Luxembourg             | 182 EUR       |
-| Netherlands            | 165 EUR       |
-| New York/Washington DC | 310 USD + tax |
-| Norway                 | 1.915 NOK     |
-| Portugal               | 142 EUR       |
-| Switzerland            | 257 CHF       |
-| Spain                  | 157 EUR       |
-| Sweden                 | 1.915 SEK     |
-| USA                    | 269 USD + tax |
+{{< include _hotels-abroad.md >}}
 
 Are you looking for other travel information than given here, please
 check out this link (only accessible on AUH internet connections or
 through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
 kurser, uddannelse m.v. - AUH intranet
-(rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/)
+(rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/).
 :::
+
+## Contacts
+
+If this document doesn't answer your questions, contact Inger Hornbech
+([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for those
+at AUH or Charlotte Rosholm
+([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Karin Ørbæk
+Kristensen ([karin\@clin.au.dk](mailto:karin@clin.au.dk){.email}) for
+those at AU.
+

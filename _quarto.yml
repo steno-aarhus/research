@@ -22,17 +22,17 @@ website:
     right:
       - text: "Common docs"
         menu:
-          - text: "GitHub Quick Guide"
-            href: guide-to-github.md
           - text: "Onboarding"
             href: onboarding.md
           - text: "Support"
             href: support.md
           - text: "Organization"
             href: organization.md
-      - text: "Admin"
+      - text: "Contributing"
         menu:
-          - text: "Contributing"
+          - text: "GitHub Quick Guide"
+            href: guide-to-github.md
+          - text: "Guidelines"
             href: CONTRIBUTING.md
           - text: "Code of Conduct"
             href: CODE_OF_CONDUCT.md
@@ -53,6 +53,7 @@ reference-location: margin
 
 format:
   html:
+    toc: true
     df-print: tibble
     code-overflow: scroll
     from: markdown+emoji
