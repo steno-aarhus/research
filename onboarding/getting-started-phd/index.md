@@ -13,6 +13,12 @@ metadata-files:
   - ../../_affiliations.yml
 ---
 
+::: callout-important
+Please read through the [Getting Started](../getting-started/index.Rmd)
+document for all employees of AU and AUH before reading through this PhD
+specific document.
+:::
+
 PhD and affiliated students at SDCA have different levels of
 affiliations: Some are financially supported and have their main
 supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor
@@ -126,19 +132,6 @@ E-learning
     guidance to how you conduct the courses. Please notice that the
     courses are held in Danish. If you have any questions related to the
     E-learning courses please contact Inger Hornbech.
-
-Access/ID card
-
-:   If you need access to Forum, its best that you get an access card.
-
-    -   If you have an RM ID-card: You can get access to SDCA by
-        emailing your User ID to Inger Hornbech.
-    -   If you don't have an RM ID-card: Inger will need your CPR number
-        and after that you will need to visit the card administration to
-        have a photo taken, which is at Plan 1, Universitetstorvet i
-        Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to
-        Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID
-        (e.g. driver's license).
 
 Research in Steno's medical research lab
 

@@ -28,3 +28,18 @@ navigation bar at the top of the page.
 -   [Onboarding material for new researchers](onboarding.html)
 -   [Resources for research activities](support.html)
 -   [Information about the organization of SDCA](organization.html)
+
+## People
+
+These are the main people involved in this documentation and can help
+with specific questions.
+
+-   Julie Knudsen
+    ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
+    Research secretary
+-   Inger Hornbech
+    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}):
+    Secretary
+-   Ole Emil Andersen
+    ([oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email})
+
