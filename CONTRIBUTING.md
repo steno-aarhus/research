@@ -155,6 +155,6 @@ For more guides and references on writing in Markdown, see Quarto's
 [*Markdown
 Basics*](https://quarto.org/docs/authoring/markdown-basics.html) Guide.
 To see a "real-world" example, check out how the Code of Conduct is
-[written](https://github.com/steno-aarhus/research/blob/main/CONDUCT.Rmd).
+[written](https://github.com/steno-aarhus/research/blob/main/CODE_OF_CONDUCT.md).
 
 <!-- ## Using RStudio to contribute -->

@@ -14,7 +14,7 @@ metadata-files:
 ---
 
 ::: callout-important
-Please read through the [Getting Started](../getting-started/index.Rmd)
+Please read through the [Getting Started](../getting-started/index.md)
 document for all employees of AU and AUH before reading through this PhD
 specific document.
 :::
