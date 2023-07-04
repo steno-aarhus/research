@@ -65,7 +65,7 @@ activity on what documents get created:
 The below video is a quick tutorial on how to navigate this project on
 GitHub.
 
-{{< video https://www.youtube.com/embed/GoT_7DRRatw >}}
+{{< video https://www.youtube.com/embed/fYlNPjw3lpk >}}
 
 There are some terms used in the video:
 
