@@ -1,119 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/research/support.html</loc>
-    <lastmod>2023-07-04T17:41:19.335Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/it-basics/index.html</loc>
-    <lastmod>2023-07-04T17:41:18.323Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/meetings-and-events/index.html</loc>
-    <lastmod>2023-07-04T17:41:17.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/getting-started/index.html</loc>
-    <lastmod>2023-07-04T17:41:16.323Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/getting-started-phd/index.html</loc>
-    <lastmod>2023-07-04T17:41:15.371Z</lastmod>
-  </url>
-  <url>
     <loc>https://steno-aarhus.github.io/research/onboarding.html</loc>
-    <lastmod>2023-07-04T17:41:14.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/organization.html</loc>
-    <lastmod>2023-07-04T17:41:12.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/support/booking-rooms/index.html</loc>
-    <lastmod>2023-07-04T17:41:12.055Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/support/funding-application/index.html</loc>
-    <lastmod>2023-07-04T17:41:11.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/support/requesting-data/index.html</loc>
-    <lastmod>2023-07-04T17:41:09.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/support/poster-printing/index.html</loc>
-    <lastmod>2023-07-04T17:41:08.923Z</lastmod>
+    <lastmod>2023-07-07T15:04:44.479Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/support/running-meetings/index.html</loc>
-    <lastmod>2023-07-04T17:41:08.035Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/support/data-analysis/index.html</loc>
-    <lastmod>2023-07-04T17:41:06.887Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/organization/sdca-management/index.html</loc>
-    <lastmod>2023-07-04T17:41:05.931Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-07-04T17:41:05.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/guide-to-github.html</loc>
-    <lastmod>2023-07-04T17:41:04.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/organization/research-groups/index.html</loc>
-    <lastmod>2023-07-04T17:41:05.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/about.html</loc>
-    <lastmod>2023-07-04T17:41:06.323Z</lastmod>
+    <lastmod>2023-07-07T15:04:43.059Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/support/legal-and-tto-templates/index.html</loc>
-    <lastmod>2023-07-04T17:41:07.367Z</lastmod>
+    <lastmod>2023-07-07T15:04:42.099Z</lastmod>
   </url>
   <url>
-    <loc>https://steno-aarhus.github.io/research/support/verdensrummet/index.html</loc>
-    <lastmod>2023-07-04T17:41:08.479Z</lastmod>
+    <loc>https://steno-aarhus.github.io/research/support/booking-rooms/index.html</loc>
+    <lastmod>2023-07-07T15:04:41.387Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/support/study-setup/index.html</loc>
-    <lastmod>2023-07-04T17:41:09.411Z</lastmod>
+    <lastmod>2023-07-07T15:04:39.823Z</lastmod>
   </url>
   <url>
-    <loc>https://steno-aarhus.github.io/research/support/travel-booking/index.html</loc>
-    <lastmod>2023-07-04T17:41:10.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/index.html</loc>
-    <lastmod>2023-07-04T17:41:12.411Z</lastmod>
+    <loc>https://steno-aarhus.github.io/research/organization/sdca-management/index.html</loc>
+    <lastmod>2023-07-07T15:04:38.999Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/LICENSE.html</loc>
-    <lastmod>2023-07-04T17:41:13.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/CONTRIBUTING.html</loc>
-    <lastmod>2023-07-04T17:41:14.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/parking-at-auh/index.html</loc>
-    <lastmod>2023-07-04T17:41:15.811Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research/onboarding/general-conduct/index.html</loc>
-    <lastmod>2023-07-04T17:41:16.795Z</lastmod>
+    <lastmod>2023-07-07T15:04:38.291Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/onboarding/practicalities/index.html</loc>
-    <lastmod>2023-07-04T17:41:17.743Z</lastmod>
+    <lastmod>2023-07-07T15:04:37.095Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research/onboarding/days-off/index.html</loc>
-    <lastmod>2023-07-04T17:41:18.811Z</lastmod>
+    <lastmod>2023-07-07T15:04:36.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/meetings-and-events/index.html</loc>
+    <lastmod>2023-07-07T15:04:35.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/it-basics/index.html</loc>
+    <lastmod>2023-07-07T15:04:34.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/contributing/navigating-github.html</loc>
+    <lastmod>2023-07-07T15:04:33.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/contributing/guide-to-github.html</loc>
+    <lastmod>2023-07-07T15:04:32.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/contributing/adding-content.html</loc>
+    <lastmod>2023-07-07T15:04:31.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2023-07-07T15:04:30.835Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/about.html</loc>
+    <lastmod>2023-07-07T15:04:29.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/index.html</loc>
+    <lastmod>2023-07-07T15:04:29.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/organization.html</loc>
+    <lastmod>2023-07-07T15:04:30.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support.html</loc>
+    <lastmod>2023-07-07T15:04:31.535Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/contributing/guiding-principles.html</loc>
+    <lastmod>2023-07-07T15:04:32.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/contributing/writing-markdown.html</loc>
+    <lastmod>2023-07-07T15:04:33.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/general-conduct/index.html</loc>
+    <lastmod>2023-07-07T15:04:33.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/getting-started/index.html</loc>
+    <lastmod>2023-07-07T15:04:34.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/getting-started-phd/index.html</loc>
+    <lastmod>2023-07-07T15:04:35.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/onboarding/parking-at-auh/index.html</loc>
+    <lastmod>2023-07-07T15:04:36.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/CONTRIBUTING.html</loc>
+    <lastmod>2023-07-07T15:04:37.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/organization/research-groups/index.html</loc>
+    <lastmod>2023-07-07T15:04:38.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/requesting-data/index.html</loc>
+    <lastmod>2023-07-07T15:04:39.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/data-analysis/index.html</loc>
+    <lastmod>2023-07-07T15:04:40.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/poster-printing/index.html</loc>
+    <lastmod>2023-07-07T15:04:41.015Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/funding-application/index.html</loc>
+    <lastmod>2023-07-07T15:04:41.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/verdensrummet/index.html</loc>
+    <lastmod>2023-07-07T15:04:42.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research/support/travel-booking/index.html</loc>
+    <lastmod>2023-07-07T15:04:43.879Z</lastmod>
   </url>
 </urlset>

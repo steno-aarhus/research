@@ -24,7 +24,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -71,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -90,6 +89,13 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(images/banner.png);
+background-size: cover;
+      }
+</style>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -149,10 +155,6 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-contributing">    
         <li>
-    <a class="dropdown-item" href="./guide-to-github.html" rel="" target="">
- <span class="dropdown-text">GitHub Quick Guide</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="./CONTRIBUTING.html" rel="" target="">
  <span class="dropdown-text">Guidelines</span></a>
   </li>  
@@ -185,78 +187,70 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Organizational Information about SDCA</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Organizational Information about SDCA</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
 
 <p>If you have a question that isn’t answered here, open an <a href="https://github.com/steno-aarhus/research/issues/new">Issue</a> (needs a <a href="https://github.com/join">GitHub</a> account) to let us know that we need to add this information.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1688742172000" data-listing-file-modified-sort="1688742172692" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./organization/research-groups/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Research groups at SDCA
+</h5>
+<div class="card-text listing-description">
+<p>The different research groups and topics at SDCA.</p>
 </div>
-
-<table class="quarto-listing-table table table-striped table-hover">
-<thead>
-<tr>
-<th>
-Title
-</th>
-<th>
-Description
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1688492368000" data-listing-file-modified-sort="1688492368830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Research groups at SDCA" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./organization/research-groups/index.html" class="title listing-title">Research groups at SDCA</a>
-</td>
-<td>
-<span class="listing-description">The different research groups and topics at SDCA. </span>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1688492368830" data-listing-reading-time-sort="1" data-listing-title-sort="SDCA management structure" data-listing-filename-sort="index.md" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./organization/sdca-management/index.html" class="title listing-title">SDCA management structure</a>
-</td>
-<td>
-<span class="listing-description">Structure of the management team at SDCA </span>
-</td>
-</tr>
-</tbody>
-
-</table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1688742172692" data-listing-reading-time-sort="1">
+<a href="./organization/sdca-management/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SDCA management structure
+</h5>
+<div class="card-text listing-description">
+<p>Structure of the management team at SDCA</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

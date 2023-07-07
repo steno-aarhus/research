@@ -6,11 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Tine Storebjerg">
-<meta name="dcterms.date" content="2023-05-10">
-<meta name="description" content="Organizing a PhD defense and the steps involved.">
+<meta name="description" content="A video and guide to adding new content or modifying existing ones as a team member.">
 
-<title>SDCA Research - How to organize a PhD defense</title>
+<title>SDCA Research - Adding or modifying content</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +21,58 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -64,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background-image: url(../../images/banner.png);
+        background-image: url(../images/banner.png);
 background-size: cover;
       }
 </style>
@@ -79,7 +111,7 @@ background-size: cover;
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">SDCA Research</span>
     </a>
   </div>
@@ -90,12 +122,12 @@ background-size: cover;
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target=""><i class="bi bi-house-door" role="img">
+    <a class="nav-link" href="../index.html" rel="" target=""><i class="bi bi-house-door" role="img">
 </i> 
  <span class="menu-text"> </span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html" rel="" target="">
+    <a class="nav-link" href="../about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -106,15 +138,15 @@ background-size: cover;
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-common-docs">    
         <li>
-    <a class="dropdown-item" href="../../onboarding.html" rel="" target="">
+    <a class="dropdown-item" href="../onboarding.html" rel="" target="">
  <span class="dropdown-text">Onboarding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../support.html" rel="" target="">
+    <a class="dropdown-item" href="../support.html" rel="" target="">
  <span class="dropdown-text">Support</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../organization.html" rel="" target="">
+    <a class="dropdown-item" href="../organization.html" rel="" target="">
  <span class="dropdown-text">Organization</span></a>
   </li>  
     </ul>
@@ -125,11 +157,11 @@ background-size: cover;
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-contributing">    
         <li>
-    <a class="dropdown-item" href="../../CONTRIBUTING.html" rel="" target="">
+    <a class="dropdown-item" href="../CONTRIBUTING.html" rel="" target="">
  <span class="dropdown-text">Guidelines</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../CODE_OF_CONDUCT.html" rel="" target="">
+    <a class="dropdown-item" href="../CODE_OF_CONDUCT.html" rel="" target="">
  <span class="dropdown-text">Code of Conduct</span></a>
   </li>  
     </ul>
@@ -160,47 +192,20 @@ background-size: cover;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">How to organize a PhD defense</h1>
+      <h1 class="title">Adding or modifying content</h1>
                   <div>
         <div class="description">
-          Organizing a PhD defense and the steps involved.
+          <p>A video and guide to adding new content or modifying existing ones as a team member.</p>
         </div>
       </div>
                 </div>
   </div>
     
-  <div class="quarto-title-meta-author">
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-heading">Affiliations</div>
-    
-      <div class="quarto-title-meta-contents">
-      <p class="author">Tine Storebjerg </p>
-    </div>
-      <div class="quarto-title-meta-contents">
-          <p class="affiliation">
-              <a href="https://clin.au.dk/">
-              Department of Clinical Medicine, Aarhus University
-              </a>
-            </p>
-        </div>
-      </div>
-
+  
   <div class="quarto-title-meta">
 
-        
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">May 10, 2023</p>
-      </div>
-    </div>
+      
     
-      <div>
-      <div class="quarto-title-meta-heading">Modified</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date-modified">July 7, 2023</p>
-      </div>
-    </div>
       
     </div>
     
@@ -209,13 +214,7 @@ background-size: cover;
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/steno-aarhus/research/edit/main/support/phd-defense/index.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/steno-aarhus/research/blob/main/support/phd-defense/index.md" class="toc-action">View source</a></p></div></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -223,11 +222,30 @@ background-size: cover;
 
 
 
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
+<p>The video below is a tutorial on how to add or modify content and files on the GitHub project. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Z1G4rBX3tXM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Content is formatted using Markdown (in this case, R Markdown) and you can learn how to write in Markdown on the <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown Guide</a>. There are also some terms used in the video:</p>
+<ul>
+<li><strong>Commit</strong>: A commit is the set of changes you’ve made to a file that will be put into the history. In general, committing changes to the history is better done often.</li>
+<li><strong>Changes/commit History</strong>: The commit history is all the changes, either additions or deletions, that have been done to the files in the project.</li>
+</ul>
+<p>Here is a written description of the workflow to adding or modifying text in the files:</p>
+<ol type="1">
+<li><p>Create or switch to your own branch.</p></li>
+<li><p>Either use the “Add a file” button or choose a file and click the “Edit this file” button.</p></li>
+<li><p>Add Markdown formatted text to the file. Every Markdown file should always have this pasted at the top, that you should fill out with details inside the quotes:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Scroll to the bottom to the “Commit” changes section and write a <em>short, brief</em> commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.</p>
+<ul>
+<li>Commit your changes often. Don’t be shy about making many commits to the files you are changing.</li>
+</ul></li>
+<li><p>When you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “pull request” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!</p></li>
+</ol>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -472,13 +490,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../../LICENSE.html">License: CC BY 4.0</a>
+    <a class="nav-link" href="../LICENSE.html">License: CC BY 4.0</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../CONTRIBUTING.html">Want to contribute? Click here.</a>
+    <a class="nav-link" href="../CONTRIBUTING.html">Want to contribute? Click here.</a>
   </li>  
 </ul>
-    </div>
+    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/steno-aarhus/research/edit/main/contributing/adding-content.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/steno-aarhus/research/blob/main/contributing/adding-content.md" class="toc-action">View source</a></p></div></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
