@@ -25,9 +25,9 @@ There are a few purposes for this website:
 These can also be accessed through the "Common docs" menu item on the
 navigation bar at the top of the page.
 
--   [Onboarding material for new researchers](onboarding.html)
--   [Resources for research activities](support.html)
--   [Information about the organization of SDCA](organization.html)
+-   [Onboarding material for new researchers](onboarding.md)
+-   [Resources for research activities](support.md)
+-   [Information about the organization of SDCA](organization.md)
 
 ## People
 
@@ -42,4 +42,3 @@ with specific questions.
     Secretary
 -   Ole Emil Andersen
     ([oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email})
-
