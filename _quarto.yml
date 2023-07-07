@@ -13,6 +13,7 @@ website:
     location: navbar
     type: overlay
   navbar:
+    pinned: true
     left:
       - icon: house-door
         href: "index.qmd"
