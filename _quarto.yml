@@ -31,8 +31,6 @@ website:
             href: organization.md
       - text: "Contributing"
         menu:
-          - text: "GitHub Quick Guide"
-            href: guide-to-github.md
           - text: "Guidelines"
             href: CONTRIBUTING.md
           - text: "Code of Conduct"

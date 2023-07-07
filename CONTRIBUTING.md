@@ -2,6 +2,16 @@
 title: "Contributing guidelines"
 description: |
   Guidelines for contributing to the documents.
+listing:
+  sort-ui: false
+  contents: contributing
+  type: grid
+  sort: 
+    - "order"
+    - "title"
+  fields: 
+    - "title"
+    - "description"
 ---
 
 This document contains instructions for how to contribute to developing
@@ -13,148 +23,8 @@ also have a [Code of
 Conduct](https://steno-aarhus.github.io/research/CONDUCT.html) that
 contributors agree to abide by.
 
-# Guiding principles
+## Specific guides
 
-In order to ensure that we get the most from creating these documents
-and that we don't spend more time on this than is necessary (given it is
-largely a secondary task and activity to our collective research
-responsibilities), here are some principles to guide our decisions and
-activity on what documents get created:
-
-1.  **All are welcome to contribute**: There should be no or little
-    barrier to contributing to the documents and their content, aside
-    from barriers due to technology and skill in its use. If someone has
-    the motivation and desire to contribute, they should be able to do
-    so fairly easily.
-
-2.  **Inclusion and participation in community through active
-    contribution**: Individuals who want to participate should actively
-    contribute through not just attending meetings, but also in
-    creating, modifying, organizing, editing, and/or developing the
-    content on the website. Those who actively contribute should be
-    included in the community and encouraged to participate.
-
-3.  **Content is dictated by direct and active contribution**: What gets
-    created or developed should be done by whoever contributes to
-    creating or building it. If someone wants or requests something to
-    be created or modified, they are encouraged and given the power to
-    do so themselves. In combination with the first principle, the
-    barrier to contributing is only dependent on learning the basic
-    technical and writing skills rather than any administrative barrier
-    such as "requiring permission". If you want something, than you are
-    free to make it! We create and add content to the website based on
-    what we personally want or are motivated to do, rather than what we
-    are told to do[^1].
-
-4.  **Important or significant decisions are based on community
-    consensus**: Decisions should not or need not be blocked by
-    requiring permission from anything external to the community. This
-    ensures things move forward as continuously and unrestricted as
-    possible. Important or significant decisions could include things
-    like approving and finalizing a document or deciding on major
-    infrastructural changes (e.g. platform to use for creating and
-    managing the content).
-
-[^1]: ...though we recognize that sometimes we must do things we are
-    told to do.
-
-<!-- # Governance -->
-
-# Navigating the GitHub project
-
-The below video is a quick tutorial on how to navigate this project on
-GitHub.
-
-{{< video https://www.youtube.com/embed/fYlNPjw3lpk >}}
-
-There are some terms used in the video:
-
--   **Repository**: A
-    [repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
-    is everything that is contained within the project. In this case,
-    the repository is the website with the \[Issues\], files, and
-    subfolders for this project.
--   **Issue**: An [Issue](https://guides.github.com/features/issues/) is
-    a task or to-do item that needs to be completed. These to-do items
-    can be assigned to people and can be checked off as being done
-    ("Closed").
--   **Branch**: A
-    [branch](https://docs.github.com/en/github/getting-started-with-github/github-glossary#branch)
-    is a separate, parallel set of files and folders related to the
-    project. In this project there is the "main" branch that only the
-    admin can edit. In order to add content to the main branch, you need
-    to create your own branch and create a [pull
-    request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-    of your changes and additions that you want added to the main files.
-    Branches and pull requests are heavily used in the "[GitHub
-    workflow](https://guides.github.com/introduction/flow/)" that this
-    project (and many many others) use. More details about this are in
-    the next section and video. Branches are in some ways like separate
-    files that you would email between other contributors, but instead
-    of everyone having different versions of the file, here they are all
-    contained in the same place (in the repository).
--   **Pull request**: A [pull
-    request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-    is a request to add changes you've made to files in your branch and
-    have them put into the main branch. When you make a pull request, it
-    allows others to review what you've changed and make comments on it.
-    Think of it like "Track changes" and the "Add comment" features of
-    Word.
-
-# Adding new or modifying content as a team member
-
-The video below is a tutorial on how to add or modify content and files
-on the GitHub project. For this to work, you need to be added as a team
-member and have a GitHub Account. Make sure to send the admin (Luke
-Johnston) your GitHub username so he can add you.
-
-{{< video https://www.youtube.com/embed/Z1G4rBX3tXM >}}
-
-Content is formatted using Markdown (in this case, R Markdown) and you
-can learn how to write in Markdown on the [GitHub Markdown
-Guide](https://guides.github.com/features/mastering-markdown/). There
-are also some terms used in the video:
-
--   **Commit**: A commit is the set of changes you've made to a file
-    that will be put into the history. In general, committing changes to
-    the history is better done often.
--   **Changes/commit History**: The commit history is all the changes,
-    either additions or deletions, that have been done to the files in
-    the project.
-
-Here is a written description of the workflow to adding or modifying
-text in the files:
-
-1.  Create or switch to your own branch.
-2.  Either use the "Add a file" button or choose a file and click the
-    "Edit this file" button.
-3.  Add Markdown formatted text to the file.
-4.  Scroll to the bottom to the "Commit" changes section and write a
-    *short, brief* commit message about what you changed and why (can be
-    optional). Then, making sure you have your branch selected, click
-    the Commit button.
-    -   Commit your changes often. Don't be shy about making many
-        commits to the files you are changing.
-5.  When you are happy with your changes and want them to be added to
-    the main branch (so they can be put on the website), click the "pull
-    request" button, write a short message as a title on what you are
-    changing or adding in the pull request, and click "Create pull
-    request". Now your changes can be reviewed!
-
-## The basics of writing in Markdown
-
-The video below is a tutorial on the basics of using Markdown to write
-the content of this website. When you write content for any documents on
-this repository, the content needs to be written in Markdown. So take
-some time to watch the video and learn a bit about Markdown. I promise,
-it won't take long to learn!
-
-{{< video https://www.youtube.com/embed/_ovKJek9-Rk >}}
-
-For more guides and references on writing in Markdown, see Quarto's
-[*Markdown
-Basics*](https://quarto.org/docs/authoring/markdown-basics.html) Guide.
-To see a "real-world" example, check out how the Code of Conduct is
-[written](https://github.com/steno-aarhus/research/blob/main/CODE_OF_CONDUCT.md).
-
-<!-- ## Using RStudio to contribute -->
+::: content-hidden
+See the website for the full listing of guides on contributing.
+:::
