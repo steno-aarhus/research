@@ -51,6 +51,7 @@ website:
         href: CONTRIBUTING.md
 
 reference-location: margin
+title-block-banner: images/banner.png
 
 format:
   html:
