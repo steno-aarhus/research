@@ -50,7 +50,7 @@ Photos for the SDCA website
 :   Affiliated PhD students have profiles on our website: A photo and a
     short description of the PhD project. Our colleague Claus Hastrup
     can help out with the photo, please contact Inger for an appointment
-    with Claus, and fill in the attached project form and return it to
+    with Claus, and fill in the project form and return it to
     Inger.
 
 PhD network and facebook
@@ -68,8 +68,7 @@ PhD network and facebook
     [oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email}.
 
     When you end your PhD you will no longer be part of the PhD network,
-    but you may choose to join the SDCA Alumni network. Inger Hornbech
-    will contact you about that when time comes.
+    but you may choose to join the SDCA Alumni network.
 
 Steno PhD Network Facebook group
 
@@ -116,7 +115,7 @@ Office space
     equipment, please talk to your supervisor (or contact Julie Knudsen
     at [Julie.Knudsen\@rm.dk](mailto:Julie.Knudsen@rm.dk){.email}). If
     you only come to Forum a few times, you might be able to get space,
-    but will need to contact Inger Hornbech.
+    but you will need to contact Inger Hornbech.
 
 E-learning
 
