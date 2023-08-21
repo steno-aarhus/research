@@ -1,10 +1,493 @@
 [
   {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#correction",
+    "href": "CODE_OF_CONDUCT.html#correction",
+    "title": "Contributor Code of Conduct",
+    "section": "1. Correction",
+    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#warning",
+    "href": "CODE_OF_CONDUCT.html#warning",
+    "title": "Contributor Code of Conduct",
+    "section": "2. Warning",
+    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
+    "href": "CODE_OF_CONDUCT.html#temporary-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "3. Temporary Ban",
+    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
+    "href": "CODE_OF_CONDUCT.html#permanent-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "4. Permanent Ban",
+    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "support/study-setup/index.html",
+    "href": "support/study-setup/index.html",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "support/study-setup/index.html#clinical-studies",
+    "href": "support/study-setup/index.html#clinical-studies",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Clinical studies",
+    "text": "Clinical studies\n\nPreparing for a study\n\nResearch within the region (AUH) or University (AU)?\nReport to VEK (obs research biobank vs biobank, research in children and whole genome issues)\nClinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))\n\nLab used?\n\nM-lab\nPatolab\nCollaborating with dep. of biochemistry (klinisk biokemisk)\nBiobank"
+  },
+  {
+    "objectID": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
+    "href": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Access to patient data (not with Statistics Denmark)",
+    "text": "Access to patient data (not with Statistics Denmark)\n\nResearch project or quality control study\n\nResearch project using Patient Data\n\nReport to Styrelsen for patientsikkerhed - obs blev dette ændret\nAttachment to the department where the patient data is being collected (get a unpaid job…)\n\nQuality control study\n\nAquire permission from head of department"
+  },
+  {
+    "objectID": "support/study-setup/index.html#report-to-danish-data-authorities",
+    "href": "support/study-setup/index.html#report-to-danish-data-authorities",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Report to Danish Data Authorities",
+    "text": "Report to Danish Data Authorities\nOr in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.\n\nReport to RM\n\nObs Requires acces to a RM computer\n\nReport to AU"
+  },
+  {
+    "objectID": "support/study-setup/index.html#gdpr",
+    "href": "support/study-setup/index.html#gdpr",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "GDPR",
+    "text": "GDPR\n\nLink to GDPR info: https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/"
+  },
+  {
+    "objectID": "support/study-setup/index.html#storage-of-sensitive-patient-data",
+    "href": "support/study-setup/index.html#storage-of-sensitive-patient-data",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Storage of sensitive patient data",
+    "text": "Storage of sensitive patient data\n\nStorage at AU\n\nPatient and trial data (patient sensitive): RedCap\nLarger data files: O-drive, needs to be setup through AU-IT so that logging is possible. Only pseudonymized patient data.\nLink to AU datastorage info: https://medarbejdere.au.dk/informationssikkerhed/klassifikation-af-data/#c2545048\n\nStorage at RM\n\nPatient and trial data (patient sensitive): RedCap through RM\nLarger data files: MidtX, needs to be setup through RM-IT so that logging is possible."
+  },
+  {
+    "objectID": "support/study-setup/index.html#datahandling-agreements",
+    "href": "support/study-setup/index.html#datahandling-agreements",
+    "title": "Setting up research projects: Administrative and legal demands",
+    "section": "Datahandling agreements",
+    "text": "Datahandling agreements"
+  },
+  {
+    "objectID": "support/booking-rooms/index.html",
+    "href": "support/booking-rooms/index.html",
+    "title": "Booking meeting rooms at Forum",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nBooking rooms in Forum is fairly easy if you know how to do it. But it is not a straight forward way to find out.\nIf you have a Region email and have Outlook installed, the easiest approach to booking rooms is through the Outlook calendar. But not everyone has Outlook or don’t want to use multiple calendars, like if they are employed at Aarhus University but with an affiliation with the Region.\nThe next way of booking rooms is through the Citrix Portal, which you can only access if you have a Region ID. After you log into Citrix, use the Search button on the top right corner to look for Pronestor.\nWhen it shows itself on the screen, click the icon for Pronestor. After it opens up, you should see a list of dates. Select the date you want to book by clicking the button “Ny mødebestilling”. You’ll be given a list of rooms to book. Select the start time (“start”) and end time (“slut”) at the top, then click the room that is available. Afterwards, continue by clicking the “Check ud” at the top.\nThat’s it, you’ve booked the room!\nThere are also several “frirum” (free rooms), which are small meeting rooms that cannot be booked and are available if they are empty. There is usually one available at all times."
+  },
+  {
+    "objectID": "support/poster-printing/index.html",
+    "href": "support/poster-printing/index.html",
+    "title": "Printing posters for events",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nIf you need to print a poster, which service you use depends on where your funding comes from.\n\nFor AU funding, use their Printing Service.\nFor AUH funding, use their Grafisk Service (this is only viewable through the “Citrixportal” or if you are connected to the AUH network)."
+  },
+  {
+    "objectID": "support/funding-application/index.html",
+    "href": "support/funding-application/index.html",
+    "title": "Funding applications",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nThere are several sites to that list sources of funding:\n\nResearch professional: If employed through AU, one has access to Research Profession, which is a register that collects information on various funding sources for many different purposes.\nSteno Collaborative Grants\nDDEA PhD and postdoc grants."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About",
+    "section": "Purpose",
+    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
+  },
+  {
+    "objectID": "about.html#resources-and-documentation",
+    "href": "about.html#resources-and-documentation",
+    "title": "About",
+    "section": "Resources and documentation",
+    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "People",
+    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "SDCA Research",
+    "section": "",
+    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "organization/research-groups/index.html",
+    "href": "organization/research-groups/index.html",
+    "title": "Research groups at SDCA",
+    "section": "",
+    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
+  },
+  {
+    "objectID": "contributing/guide-to-github.html",
+    "href": "contributing/guide-to-github.html",
+    "title": "Quick guide to using GitHub",
+    "section": "",
+    "text": "In SDCA Research we use GitHub for common docs and support. This is a quick guide to write your first (or second) content and contribute to the community. Please be aware that everything on GitHub is open access, so don’t add anything private or confidential."
+  },
+  {
+    "objectID": "contributing/guide-to-github.html#first-time-logging-in",
+    "href": "contributing/guide-to-github.html#first-time-logging-in",
+    "title": "Quick guide to using GitHub",
+    "section": "First time logging in",
+    "text": "First time logging in\n\nSign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos"
+  },
+  {
+    "objectID": "contributing/guide-to-github.html#how-to-contribute",
+    "href": "contributing/guide-to-github.html#how-to-contribute",
+    "title": "Quick guide to using GitHub",
+    "section": "How to contribute?",
+    "text": "How to contribute?\n\nCreate a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in this tutorial.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
+  },
+  {
+    "objectID": "contributing/adding-content.html",
+    "href": "contributing/adding-content.html",
+    "title": "Adding or modifying content",
+    "section": "",
+    "text": "The two tutorial videos below cover how to add or modify content and files on the GitHub website. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.\nContent is formatted using Markdown and you can learn how to write in Markdown on the GitHub Markdown Guide as well as our basic introduction. There are also some terms used in the video:"
+  },
+  {
+    "objectID": "contributing/adding-content.html#adding-new-content",
+    "href": "contributing/adding-content.html#adding-new-content",
+    "title": "Adding or modifying content",
+    "section": "Adding new content",
+    "text": "Adding new content\n\nHere is a written description of the workflow to adding text in the files:\n\nCreate a new branch by clicking the button that says “Main”. Type out the name of your new branch by using either your own name (without spaces, or using - instead) or, what I recommend, a brief description of what you plan to add (e.g. adding-recommended-software for adding content about software). Once you type out the name, click the text that says “Create branch …”. It will now switch over to that new branch.\nClick the appropriate folder that the new content will be put into, either support/, onboarding/, or organization/.\nClick the “Add a file” button and click the “Create a new file”. Write out the name of the new folder and file at the top, using lowercase letters and either _ or - for spaces. You need to create a folder first (type the name then type /) and then you can create the file, which should always be called index.md. The reason for this name is because this name is used specifically for making websites.\nAdd Markdown formatted text to the file. Review the Writing Markdown guide for learning what Markdown is. Every Markdown file should always have this YAML header pasted at the top, that you should fill out with details inside the quotes:\n---\ntitle: \"\"\ndescription: \"\"\ndate: \"\"\nauthor:\n  - name: \"\"\n    affiliations:\n      - name: \"\"\n---\nOnce you are done adding content or need to finish for the day, click the green “Commit” changes button on the top right and write a short, brief commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.\n\nCommit your changes often. Don’t be shy about making many commits to the files you are changing.\nIf you’ve committed for the day and want to come back later to continue writing, see the next section below on modifying existing content.\n\nWhen you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “Contributing” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!"
+  },
+  {
+    "objectID": "contributing/adding-content.html#modifying-existing-content",
+    "href": "contributing/adding-content.html#modifying-existing-content",
+    "title": "Adding or modifying content",
+    "section": "Modifying existing content",
+    "text": "Modifying existing content\nThere are two ways to modify existing content, either directly through GitHub or through the website. The below video covers both, as well as the text below.\n\n\nModifying by using the GitHub approach\nHere is a written description of the workflow to adding text in the files:\n\nLike with the first item in the “Adding new content” above, create a new branch by clicking the button that says “Main” and type out the (new or existing) name of your new branch by using either your own name (without spaces, or using - instead) or, what I recommend, a brief description of what you plan to add (e.g. editing-conference-travel for adding content about traveling to conferences).\n\nIf the branch doesn’t exist, after you type out the branch name, click the text that says “Create branch …”. It will now switch over to that new branch.\nIf you have already created a branch for the content and are coming back to continue your work, then when you type out the branch name (or scroll through the list), you can select the branch to switch over to it.\n\nClick the appropriate folder and file that has the content you want to edit. After clicking the file, click the pencil icon in the top right corner to enter the GitHub editor.\nWhile in the editor, you can modify the content. The text is Markdown, which has special syntax. Review the Writing Markdown guide for learning what Markdown is.\nOnce you are done adding content or need to finish for the day, click the green “Commit” changes button on the top right and write a short, brief commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.\n\nCommit your changes often. Don’t be shy about making many commits to the files you are changing.\nIf you’ve committed for the day and want to come back later to continue writing, see the next section below on modifying existing content.\n\nWhen you are finished with your edits, you can follow the instructions above about making a Pull Request so that your changes get added to the website.\n\n\n\nModifying by going through website\nThis is the most straightforward way of editing existing content that is already on the website, for instance to fix typos or add some more clarifying words. On the website there are these links, either on the left sidebar or at the very bottom of the page, that say “Edit this page”. After clicking it, it will take you to the GitHub Editor as described above. The only difference with this approach is that when you click “Commit”, it will automatically select the “Create new branch” option and, after committing, will open a Pull Request for you."
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing guidelines",
+    "section": "",
+    "text": "This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the CC-BY 4.0 License, and by contributing content any contributors agree to these terms. We also have a Code of Conduct that contributors agree to abide by."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#specific-guides",
+    "href": "CONTRIBUTING.html#specific-guides",
+    "title": "Contributing guidelines",
+    "section": "Specific guides",
+    "text": "Specific guides"
+  },
+  {
+    "objectID": "organization.html",
+    "href": "organization.html",
+    "title": "Organizational Information about SDCA",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA.\n\n\n\n\n\n\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "onboarding/getting-started/index.html",
+    "href": "onboarding/getting-started/index.html",
+    "title": "Welcome and getting started",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "onboarding/getting-started/index.html#welcome",
+    "href": "onboarding/getting-started/index.html#welcome",
+    "title": "Welcome and getting started",
+    "section": "Welcome!!",
+    "text": "Welcome!!\nWe have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.\nAs a new member of our research team, there is a lot of things you need learn about the organization, the culture (both research and social) and a lot of practical stuff. The page here is thought of as your initial entry point, where you can get an overview. This is also an atlas for you to return to when you need to look up specific information.\nTo get an introduction to the research team and this document you will be teamed up with an experienced member from research. It is your supervisor’s responsibility to find you a “buddy.” Please ask your supervisor if this is not already in place.\nYour buddy will walk you through the relevant tables below and give you an overview of all the topics that you need to be aware of. The agenda for the meeting is:\n\nIntroduce yourselves\nGo through the table below\nTake a tour around the research facility\nArrange follow-up talk\n\nThe purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.\nRead through this website, especially the “Onboarding” section, which is targeted to new employees. If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information. Then email either Inger Hornbech (inger.hornbech@rm.dk) or Julie Knudsen (julie.knudsen@rm.dk) to get your question (hopefully) answered.\nAt the very least, you will probably need to get an access/ID card for entering AUH and Forum.\n\nIf you have an RM ID-card: You can get access to SDCA by emailing your User ID to Inger Hornbech or Julie Knudsen.\nIf you don’t have an RM ID-card: Inger or Julie will need your CPR number and after that you will need to visit the card administration to have a photo taken, which is at Plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g. driver’s license).\n\nIf you have questions about your salary or contract, its best to ask whoever administers yours or your supervisor’s grants. That would be Maria Siggaard (marsig@rm.dk) if employment is at RM or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if employment is at AU."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html",
+    "href": "onboarding/general-conduct/index.html",
+    "title": "General Code of Conduct",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html#expected-behavior",
+    "href": "onboarding/general-conduct/index.html#expected-behavior",
+    "title": "General Code of Conduct",
+    "section": "Expected Behavior",
+    "text": "Expected Behavior\nWe treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:\n\nShow courtesy and respect towards others.\nBe kind and aware of your words.\nUse welcoming and inclusive language.\nBe respectful of different viewpoints and experiences.\nGracefully accept constructive criticism.\nFocus on what is best for the community overall.\n\nRead the “four social rules” for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html#unacceptable-behavior",
+    "href": "onboarding/general-conduct/index.html#unacceptable-behavior",
+    "title": "General Code of Conduct",
+    "section": "Unacceptable Behavior",
+    "text": "Unacceptable Behavior\nExamples of unacceptable behavior include, but are not limited to:\n\nWritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group.\nCausing someone to fear for their safety, such as through stalking, following, or intimidation.\nViolent threats or language directed against another person.\nDisplays of sexual or violent images.\nUnwelcome sexual attention.\nNon-consensual or unwelcome physical contact.\nSustained disruption of talks, events, or communications.\nInsults or put-downs.\nSexist, racist, homophobic, transphobic, ableist, or exclusionary jokes.\nExcessive swearing.\nIncitement to violence, suicide, or self-harm.\nContinuing to initiate interaction (including photography or recording) with someone after being asked to stop.\nPublication of private communication without consent."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
+    "href": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
+    "title": "General Code of Conduct",
+    "section": "Consequences of Unacceptable Behavior",
+    "text": "Consequences of Unacceptable Behavior\nIf you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.\n\n\n\n\nAcknowledgements: Most of this Code of Conduct was taken and modified from other Codes of Conduct, specifically Software Carpentry UofTCoders, and r-cubed: Reproducible Research in R course"
+  },
+  {
+    "objectID": "onboarding/meetings-and-events/index.html",
+    "href": "onboarding/meetings-and-events/index.html",
+    "title": "Meetings, courses, events, and social activities",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nCheck out the documentation on travel booking if the event requires traveling to attend."
+  },
+  {
+    "objectID": "onboarding/meetings-and-events/index.html#conferences-and-scientific-events",
+    "href": "onboarding/meetings-and-events/index.html#conferences-and-scientific-events",
+    "title": "Meetings, courses, events, and social activities",
+    "section": "Conferences and scientific events",
+    "text": "Conferences and scientific events\n\nEuropean Association for the Study of Diabetes (EASD): Starts end of Sept every year. A large European conference on diabetes. Usually Steno sends most researchers. In English.\nAmerican Diabetes Association (ADA): Usually in end of June every year. A large North American (USA-based) conference on diabetes. In English.\nEuropean Diabetes Epidemiology Group: Usually in May every year. An important epidemiology conference attended by many at Steno.\nMany of the DDEA/DCA/DDSA events: There are three Danish “Academies” funded by NovoNordiskFonden (NNF) that run many great events and activities throughout the year:\n\nDanish Diabetes and Endocrinology Academy\nDanish Cardiovascular Academy\nDanish Data Science Academy"
+  },
+  {
+    "objectID": "onboarding/meetings-and-events/index.html#social-events",
+    "href": "onboarding/meetings-and-events/index.html#social-events",
+    "title": "Meetings, courses, events, and social activities",
+    "section": "Social events",
+    "text": "Social events\nSome of the events are found in here as well as listed below.\n\nResearch Retreat: Usually around May-June every year and is two days retreat at a conference center. In English.\nChristmas dinner: Usually at the start of December. Often starts after 15 hr and continues until late evening. In Danish.\nDHL-run: To be added.\nSummer Party: To be added."
+  },
+  {
+    "objectID": "onboarding/meetings-and-events/index.html#work-events",
+    "href": "onboarding/meetings-and-events/index.html#work-events",
+    "title": "Meetings, courses, events, and social activities",
+    "section": "Work events",
+    "text": "Work events\nThese include meetings, clubs, lectures, and other work-related activities and events. A detailed list of meetings is found on the Research events page of the official SDCA website."
+  },
+  {
+    "objectID": "onboarding/meetings-and-events/index.html#online-activities",
+    "href": "onboarding/meetings-and-events/index.html#online-activities",
+    "title": "Meetings, courses, events, and social activities",
+    "section": "Online activities",
+    "text": "Online activities\n\nNewsletters\n\nSteno News is published once a month (in Danish) and sent to relevant mailgroups. You can also subscribe to the newsletter.\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html",
+    "href": "onboarding/getting-started-phd/index.html",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "",
+    "text": "Important\n\n\n\nPlease read through the Getting Started document for all employees of AU and AUH before reading through this PhD specific document.\nPhD and affiliated students at SDCA have different levels of affiliations: Some are financially supported and have their main supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor that is partly affiliated. We aim to be very inclusive, but some activities will only apply to students with a certain affiliation, e.g. some staff activities for PhD-students situated locally. If you have any questions regarding this, please, do not hesitate to get in touch with Inger Hornbech (inger.hornbech@rm.dk)."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#start-up-guide",
+    "href": "onboarding/getting-started-phd/index.html#start-up-guide",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Start-up guide",
+    "text": "Start-up guide\nRegardless of where your affiliation is, you will receive an email from one of the Research Secretaries with a start-up guide to Steno Diabetes Center Aarhus. The guide will differ depending on how you are affiliated with SDCA."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#communication-and-social",
+    "href": "onboarding/getting-started-phd/index.html#communication-and-social",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Communication and social",
+    "text": "Communication and social\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events.\n\nPhotos for the SDCA website\n\nAffiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the attached project form and return it to Inger.\n\nPhD network and facebook\n\nSDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time.\nFor questions related to the PhD network meetings, please contact Ole Emil Andersen at oleemil@clin.au.dk.\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join the SDCA Alumni network. Inger Hornbech will contact you about that when time comes.\n\nSteno PhD Network Facebook group\n\nInformal questions or information related to PhD-students affiliated with SDCA may be posted on this group. Join us!\n\nSteno Thursdays\n\nThis is our weekly, scientific seminar that takes place most Thursdays 14:15-15:00 in “Verdensrummet” (auditorium A201-170) in Forum. The seminars disseminate diabetes research and provides a great platform to learn about research projects at SDCA and discuss science.\nOnce a month we aim to host a seminar with an international speaker, which we call Steno Thursdays Global. You will be notified about upcoming Steno Thursdays through e-mail. We value the scientific discussion and therefore expect affiliated researchers to prioritize these seminars.\n\nJournal clubs\n\nDepending on your field of research, it might also be relevant for you to join journal clubs or meetings. You will find an overview of such activities here on this website. \n\nSDCA Alumni Network\n\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join this network. Inger Hornbech will contact you about that when time comes."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
+    "href": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Physical access and space at Forum",
+    "text": "Physical access and space at Forum\n\nOffice space\n\nIn Forum we have four offices dedicated to our PhD and affiliated students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students. We have written down some office guidelines – please read these, when you are allocated to an office – you’ll find them on the notice board in the offices. If you need IT equipment, please talk to your supervisor (or contact Julie Knudsen at Julie.Knudsen@rm.dk). If you only come to Forum a few times, you might be able to get space, but will need to contact Inger Hornbech.\n\nE-learning\n\nIf you have a desk at Forum and are there on a daily basis, it’s mandatory to participate in the following E-learning courses:\n\nInformation security - physical security\nBasic Resuscitation, Level 1\nHand hygiene - Break the chain of infection\nFire School.\n\nYou will get an email notification on your RM-mail account with guidance to how you conduct the courses. Please notice that the courses are held in Danish. If you have any questions related to the E-learning courses please contact Inger Hornbech.\n\nResearch in Steno’s medical research lab\n\nIf you are to do research in the research lab, there is a Google Doc (in Danish) you can look over."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
+    "href": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Learn more about SDCA!",
+    "text": "Learn more about SDCA!\nDid you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.\nyou can also find useful information about the organisation and research at Steno Diabetes Center Aarhus in Region Midtjylland on our website."
+  },
+  {
+    "objectID": "onboarding/days-off/index.html",
+    "href": "onboarding/days-off/index.html",
+    "title": "Sick days, holidays, and time off",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nCalling in sick for yourself or a dependent (like your child)\n\nSick days are generally very easy to ask for, though does depend on your terms of employment. For PhD students, email your supervisor. For postdocs at SDCA, email Inger Hornbech (inger.hornbech@rm.dk) for registration if you have an RM employment or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if you are employed at AU. Ultimately, contact whoever administers yours or your supervisor’s grants.\n\nHolidays and “omsorgsdage”\n\nThe exact amount of holidays and time off you get depend on your terms of employment. For PhD students email your supervisor. For postdocs and other researchers in SDCA, email Inger Hornbech for registration if you have an RM employment or Charlotte Rosholm or Karin Ørbæk Kristensen if you have an AU employment.\n\nMaternity/paternity leave and other leaves\n\nCentral Denmark Region employment: ask Maria Siggaard (marsig@rm.dk). AU employment: please contact Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk). Please refer to the one who administers yours or your supervisor’s grants."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html",
+    "href": "onboarding/parking-at-auh/index.html",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
+    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Information regarding parking for RM employees",
+    "text": "Information regarding parking for RM employees\nIf you are employed by Central Denmark Region please contact Inger Hornbech if you need a parking contract at AUH."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
+    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Information regarding parking for AU employees",
+    "text": "Information regarding parking for AU employees\nIf you are employed by Aarhus University you can buy a parking card for Aarhus University Hospital (AUH), if you use the following guide:\n\nGo to APCOA’s website.\nFill out the form.\nYou don’t need to fill in the registration number of the car. The parking card is registered to the person (not the car), so it’s possible to use the card in another car if needed.\nIt is also possible to buy an extra parking card (card no. 2), if you use different cars, and would like to keep a card in each car. The price is 100 DKKR (one-time expense for the extra card)."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
+    "href": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Problems regarding parking?",
+    "text": "Problems regarding parking?\nPlease contact APCOA by phone +45 86 783 533 (They are available 24/7).\nAPCOA Parking Skejby\nAarhus University Hospital, G306, 1st floor office\nPalle Juul-Jensens Boulevard 99\n8200 Aarhus N\nTelephone: +45 86 783 533\nEmail: skejby@apcoa.dk"
+  },
+  {
+    "objectID": "onboarding/practicalities/index.html",
+    "href": "onboarding/practicalities/index.html",
+    "title": "General practicalities",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nPrinter\n\nNote the name of the printer from someone in your office. For questions regarding the SDCA printer: ask Maria Siggaard (marsig@rm.dk). For questions regarding the AU printer: ask Karin Ørbæk Kristensen (karin@clin.au.dk) or Charlotte Rosholm (cro@clin.au.dk).\n\nMicrosoft Office templates (for RM)\n\nAll templates are found in the folder N:\\Afdeling\\AUHSTDIC\\_Fælles\\SDCA-dokumenter_Skabeloner. This (unfortunately) can so far only be accessed through the “Citrixportal”.\n\nOffice supplies\n\nYou can find office supplies in the copy room on Plan 3 at SDCA in Forum. If something you need isn’t there, contact Julie Knudsen at julie.knudsen@rm.dk.\n\nLetters and other mail\n\nFor sending mail, contact Inger Hornbech (inger.hornbech@rm.dk).\n\nMasterCard\n\nAt RM, it’s only the managers who have a Mastercard. At SDCA Head of Research Niels Jessen has one. Contact Maria Siggaard (marsig@rm.dk) if you need to buy something by using the MasterCard. For those affiliated through Aarhus University, you can apply for an employee MasterCard.\n\nMUS talks\n\nMUS talks depend on one’s terms of employment. Ask Maria Siggaard (marsig@rm.dk) if you have questions regarding this."
+  },
+  {
+    "objectID": "onboarding/it-basics/index.html",
+    "href": "onboarding/it-basics/index.html",
+    "title": "IT basics",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nIT software, services, and hardware are all dependent on your location of employment: Aarhus University or Region Midt. Getting user access is usually done as part of the employment process. Once you have a user ID, here are some basic things you might need from IT."
+  },
+  {
+    "objectID": "onboarding/it-basics/index.html#institute-specific-details",
+    "href": "onboarding/it-basics/index.html#institute-specific-details",
+    "title": "IT basics",
+    "section": "Institute-specific details",
+    "text": "Institute-specific details\n\nAarhus UniversityRegion Midt\n\n\nSpecific support can be found on their Guides website or by contacting them directly on their contacts page. Their guides are all available in either English or Danish.\n\nWiFi: Accessing internet is done with eduroam. Set up is done through their guide.\nVPN: When working remotely, many university and research services are only available by connecting to the university VPN. Use their Setup Guide.\nPersonal drive: You can connect and access your personal drive from your computer by following these instructions.\nShared drive(s): If you need access to a shared drive that your team or colleagues use, start with first requesting access to it. Once you get it, follow these steps to access it on your computer.\nEmail and calendar: Setting up or accessing your email and calender is done by going through their Email FAQ Guide.\n\n\n\nUnlike Aarhus University, which is quite familiar and used to a diverse set of IT needs and international employees, the Region doesn’t have as well developed and clear documentation for IT related topics. Documentation is also entirely in Danish. Help, support, and most other documents or services are almost completely only available through the “Citrixportal”, which you need to log into with your Region ID. Details about how to gain access is found either here (if outside the Region intranet, you will need to follow this guide to activate two-factor authentication codes).\n\nPersonal drives: Accessed by searching for “Stifinder” in the Citrix portal. Files saved to the Region personal drive are difficult to access outside of the Citrixportal and can’t easily be shared with others who do not have a Region ID. So we do not recommend using the Region drives for anything but highly sensitive information. Data should not be saved on the personal drive, but instead should be saved through appropriate sources (depends on your research team).\nShared drives: Accessed by searching for “Stifinder Afdeling” in the Citrixportal. Like with the personal drive above, unless you need to save and share information that is highly sensitive, we recommend not to use the shared drive and instead use other sources (like GitHub or the Aarhus University shared drives).\nEmail and calendar: You can open your email and calendar either through the Citrixportal or by using post.rm.dk.\n\n\n\n\nRegardless of which institution is your administrative employer, if you work primarily at SDCA, there are a number of helpful template files and other resources found only in Citrix (by searching for “Stifinder Afdeling”). We hope to slowly make these files more easily available, but until then, you can find relevant ones by asking your colleagues."
+  },
+  {
     "objectID": "onboarding.html",
     "href": "onboarding.html",
     "title": "Onboarding Material for New Researchers at SDCA",
     "section": "",
     "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started as a PhD student\n\n\nMaterial for onboarding new PhD students at SDCA.\n\n\n\n\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\n\n\n\n\n\n\nGeneral practicalities\n\n\nSome basic setup and practicalities, like office supplies.\n\n\n\n\n\n\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\n\n\n\n\n\n\nMeetings, courses, events, and social activities\n\n\nDetails on various social activities and events at or connected with SDCA and finding more information about them.\n\n\n\n\n\n\n\n\n\n\nParking at Aarhus University Hospital (AUH)\n\n\nInformation for parking at the hospital, as an AU or RM employee.\n\n\n\n\n\n\n\n\n\n\nSick days, holidays, and time off\n\n\nTaking days off for being sick, for parental leave, holidays, and any other reasons.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contributing/writing-markdown.html",
+    "href": "contributing/writing-markdown.html",
+    "title": "Basics of writing in Markdown",
+    "section": "",
+    "text": "When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to look over this linked guide and learn a bit about Markdown. I promise, it won’t take long to learn! To see a “real-world” example, check out how our Code of Conduct is written."
+  },
+  {
+    "objectID": "contributing/guiding-principles.html",
+    "href": "contributing/guiding-principles.html",
+    "title": "Guiding principles",
+    "section": "",
+    "text": "In order to ensure that we get the most from creating these documents and that we don’t spend more time on this than is necessary (given it is largely a secondary task and activity to our collective research responsibilities), here are some principles to guide our decisions and activity on what documents get created:\n\nAll are welcome to contribute: There should be no or little barrier to contributing to the documents and their content, aside from barriers due to technology and skill in its use. If someone has the motivation and desire to contribute, they should be able to do so fairly easily.\nInclusion and participation in community through active contribution: Individuals who want to participate should actively contribute through not just attending meetings, but also in creating, modifying, organizing, editing, and/or developing the content on the website. Those who actively contribute should be included in the community and encouraged to participate.\nContent is dictated by direct and active contribution: What gets created or developed should be done by whoever contributes to creating or building it. If someone wants or requests something to be created or modified, they are encouraged and given the power to do so themselves. In combination with the first principle, the barrier to contributing is only dependent on learning the basic technical and writing skills rather than any administrative barrier such as “requiring permission”. If you want something, than you are free to make it! We create and add content to the website based on what we personally want or are motivated to do, rather than what we are told to do1.\nImportant or significant decisions are based on community consensus: Decisions should not or need not be blocked by requiring permission from anything external to the community. This ensures things move forward as continuously and unrestricted as possible. Important or significant decisions could include things like approving and finalizing a document or deciding on major infrastructural changes (e.g. platform to use for creating and managing the content).\n\n\n\n1 …though we recognize that sometimes we must do things we are told to do."
+  },
+  {
+    "objectID": "contributing/navigating-github.html",
+    "href": "contributing/navigating-github.html",
+    "title": "Navigating the GitHub repository",
+    "section": "",
+    "text": "The below video is a quick tutorial on how to navigate this project on GitHub.\n\nThere are some terms used in the video:\n\nRepository: A repository is everything that is contained within the project. In this case, the repository is the website with the Issues, files, and subfolders for this project.\nIssue: An Issue is a task or to-do item that needs to be completed. These to-do items can be assigned to people and can be checked off as being done (“Closed”).\nBranch: A branch is a separate, parallel set of files and folders related to the project. In this project there is the “main” branch that only the admin can edit. In order to add content to the main branch, you need to create your own branch and create a pull request of your changes and additions that you want added to the main files. Branches and pull requests are heavily used in the “GitHub workflow” that this project (and many many others) use. More details about this are in the next section and video. Branches are in some ways like separate files that you would email between other contributors, but instead of everyone having different versions of the file, here they are all contained in the same place (in the repository).\nPull request: A pull request is a request to add changes you’ve made to files in your branch and have them put into the main branch. When you make a pull request, it allows others to review what you’ve changed and make comments on it. Think of it like “Track changes” and the “Add comment” features of Word."
+  },
+  {
+    "objectID": "organization/sdca-management/index.html",
+    "href": "organization/sdca-management/index.html",
+    "title": "SDCA management structure",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nOverview of SDCA management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nMarianne Jensen, Chief Nursing Officer, Randers Regional Hospital\nPia Ulv Helleland, CEO, Lemvig Municipality\nLars Bo Nielsen, Dean, Health - Aarhus University\nClaus Thomsen, Chief Medical Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Documentation and Resources for Supporting Research Activities",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel that ensure quick reimbursement.\n\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "support/requesting-data/index.html",
+    "href": "support/requesting-data/index.html",
+    "title": "Requesting access to various data sources",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "support/requesting-data/index.html#denmark-statistics",
+    "href": "support/requesting-data/index.html#denmark-statistics",
+    "title": "Requesting access to various data sources",
+    "section": "Denmark Statistics",
+    "text": "Denmark Statistics\nSome more details about applying to Denmark Statistics can be found on the official SDCA website.\nOn this page are some more personal experiences of applying for data from DST. As a non-Danish speaking researcher, this was quite difficult since much of the documentation and help is in Danish. Plus, there are slight differences between the English version and the Danish. Of course, the Danish version is the most accurate, but it is not obvious where and if there are differences.\n\nExample of successful application\nMyself and several others applied to DST. Below are links to\n\nFull application as website, with links to the Word application\nResponses to initial comments\nList of (almost all) registers, with variables and descriptions translated to English"
+  },
+  {
+    "objectID": "support/verdensrummet/index.html",
+    "href": "support/verdensrummet/index.html",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "",
+    "text": "Two computers\nTwo Zoom accounts"
+  },
+  {
+    "objectID": "support/verdensrummet/index.html#requirements",
+    "href": "support/verdensrummet/index.html#requirements",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "",
+    "text": "Two computers\nTwo Zoom accounts"
+  },
+  {
+    "objectID": "support/verdensrummet/index.html#steps",
+    "href": "support/verdensrummet/index.html#steps",
+    "title": "Stream a local meeting from Verdensrummet",
+    "section": "Steps",
+    "text": "Steps\n\nHost Zoom from Computer 1.\nOn the wired tablet controller choose: Video call and choose “Zoom” from the “Favourites” tab. The number that is called is “109.105.112.236”\nIn the prompt that shows up on the screen, enter meeting ID and join the Zoom meeting. Note: The user account has to be licensed to run through external call systems (all AU Zoom accounts are licensed).\nJoin the Zoom meeting from Computer 2.\nRun the Powerpoint presentation from Computer 2 by sharing this computer’s screen. Note: If you plan to connect pointers, they should be connected to Computer 2.\nAs host on Computer 1 do the following in Zoom:\n\nMake Verdensrummet “Spotlight for everyone”.\nAdd Computer 2 to spotlight for everyone.\n\n\n\nMore tips\n\nOnly use the microphone, speakers, and cameras from Verdensrummet (the controller) and disable this on Computer 1 and 2.\nAt the controller unit, you can choose where the cameras point. To only see the PowerPoint, you can choose “Focus mode” in settings on the controller."
+  },
+  {
+    "objectID": "support/data-analysis/index.html",
+    "href": "support/data-analysis/index.html",
+    "title": "Data analysis tips and help",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
+    "href": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
+    "title": "Data analysis tips and help",
+    "section": "Some general practices doing data analysis",
+    "text": "Some general practices doing data analysis\n\nData management\n\nSave the raw data\nEnsure that raw data are backed up in more than one location\nCreate the data you wish to see in the world\nCreate analysis-friendly data\nRecord all the steps used to process data\nAanticipate the need to use multiple tables, and use iunique identifier for every record\nSubmit data to a reptable DOI-issuing repository so that others can acces and cite it\n\n\n\nSoftware\n\nPlace a brief explanatory comment at the start of every program\nDecompose programs into functions\nBe ruthless about eliminating duplication\nAlways search for well-maintained software libraries that do what you need\nTest libraries before relying on them\nGive functions and variables meaningful names\nMake dependencies and requirements explicit\nDo not comment and uncomment sections of code to control a program’s behavior\nProvide a simple example or test data set\nSubmit code to a reputable DOI-issuing repository\n\n\n\nCollaboration\n\nCreate an overview of your project\nCreate s shared “to-do” list for the project\nDecide on communication strategies\nMake the license explicit\nMake the project citable\n\n\n\nProject organization\n\nPut each project in its own directory, which is named after the project\nPut text documents associated with the project in the “doc” directory\nPut raw data and metadata in a data directory and files generated during cleanup and analysis in a “result” directory\nPut project source code in the “src” directory\nPut external scripts or compiled programs in the “bin” directory\nName all files to reflect their content or function\n\n\n\nKeeping track of changes\n\nBack up (almost) everything created by a human being as soon as it is created\nKeep changes small\nShare changes frequently\nCreate, maintain, and use a checklist for saving and sharing changes to the project\nStore each project in a folder that is mirrored off the researchers’ working machine\nAdd a file called changelog.txt to the project’s “docs” subfolder\nCopy the entire project whenever a significant change has made\nUse a version control system\n\n\n\nManuscripts\n\nWrite manuscripts using online tools with rich formatting, change tracking, and reference management\nWrite a manuscript in a plain text format that permits version control\n\n\n\n\nFlow chart to get help with your coding problems"
+  },
+  {
+    "objectID": "support/data-analysis/index.html#further-reading",
+    "href": "support/data-analysis/index.html#further-reading",
+    "title": "Data analysis tips and help",
+    "section": "Further reading:",
+    "text": "Further reading:\n\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome"
+  },
+  {
+    "objectID": "support/travel-booking/index.html",
+    "href": "support/travel-booking/index.html",
+    "title": "Booking for travel",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nInfo to external visitors: Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AU rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes."
+  },
+  {
+    "objectID": "support/travel-booking/index.html#contacts",
+    "href": "support/travel-booking/index.html#contacts",
+    "title": "Booking for travel",
+    "section": "Contacts",
+    "text": "Contacts\nIf this document doesn’t answer your questions, contact Inger Hornbech (inger.hornbech@rm.dk) for those at AUH or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) for those at AU."
   },
   {
     "objectID": "support/running-meetings/index.html",
@@ -68,474 +551,5 @@
     "title": "Common templates from TTO and Legal Office",
     "section": "",
     "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nYou may have experienced delays in you projects and there is an increasing focus on the legal support at AU/RM. The region has recently released a set of templates for information and consent forms and at Steno we have several templates for collaboration agreements, data sharing etc. Read more (in Danish) about the templates from Region Midt on the Samarbejde, organisation og strategi (rm.dk). SDCA specific templates are being worked on and will be available for download later.\n\n\n\nExample of a common template.\n\n\nOther Region Midt Word templates for collaboration and data sharing are available here (in Danish): Skabeloner til oplysningspligt og samtykke til indsamling og behandling af personoplysninger."
-  },
-  {
-    "objectID": "support/booking-rooms/index.html",
-    "href": "support/booking-rooms/index.html",
-    "title": "Booking meeting rooms at Forum",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nBooking rooms in Forum is fairly easy if you know how to do it. But it is not a straight forward way to find out.\nIf you have a Region email and have Outlook installed, the easiest approach to booking rooms is through the Outlook calendar. But not everyone has Outlook or don’t want to use multiple calendars, like if they are employed at Aarhus University but with an affiliation with the Region.\nThe next way of booking rooms is through the Citrix Portal, which you can only access if you have a Region ID. After you log into Citrix, use the Search button on the top right corner to look for Pronestor.\nWhen it shows itself on the screen, click the icon for Pronestor. After it opens up, you should see a list of dates. Select the date you want to book by clicking the button “Ny mødebestilling”. You’ll be given a list of rooms to book. Select the start time (“start”) and end time (“slut”) at the top, then click the room that is available. Afterwards, continue by clicking the “Check ud” at the top.\nThat’s it, you’ve booked the room!\nThere are also several “frirum” (free rooms), which are small meeting rooms that cannot be booked and are available if they are empty. There is usually one available at all times."
-  },
-  {
-    "objectID": "support/study-setup/index.html",
-    "href": "support/study-setup/index.html",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "support/study-setup/index.html#clinical-studies",
-    "href": "support/study-setup/index.html#clinical-studies",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Clinical studies",
-    "text": "Clinical studies\n\nPreparing for a study\n\nResearch within the region (AUH) or University (AU)?\nReport to VEK (obs research biobank vs biobank, research in children and whole genome issues)\nClinical Trials (report to clinicaltrials.gov and the Danish Medicines Agency (Lægemiddelstyrelsen))\n\nLab used?\n\nM-lab\nPatolab\nCollaborating with dep. of biochemistry (klinisk biokemisk)\nBiobank"
-  },
-  {
-    "objectID": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
-    "href": "support/study-setup/index.html#access-to-patient-data-not-with-statistics-denmark",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Access to patient data (not with Statistics Denmark)",
-    "text": "Access to patient data (not with Statistics Denmark)\n\nResearch project or quality control study\n\nResearch project using Patient Data\n\nReport to Styrelsen for patientsikkerhed - obs blev dette ændret\nAttachment to the department where the patient data is being collected (get a unpaid job…)\n\nQuality control study\n\nAquire permission from head of department"
-  },
-  {
-    "objectID": "support/study-setup/index.html#report-to-danish-data-authorities",
-    "href": "support/study-setup/index.html#report-to-danish-data-authorities",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Report to Danish Data Authorities",
-    "text": "Report to Danish Data Authorities\nOr in Danish, Datatilsynet - Paraply anmeldelse under RM eller via AU.\n\nReport to RM\n\nObs Requires acces to a RM computer\n\nReport to AU"
-  },
-  {
-    "objectID": "support/study-setup/index.html#gdpr",
-    "href": "support/study-setup/index.html#gdpr",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "GDPR",
-    "text": "GDPR\n\nLink to GDPR info: https://medarbejdere.au.dk/informationssikkerhed/databeskyttelse/"
-  },
-  {
-    "objectID": "support/study-setup/index.html#storage-of-sensitive-patient-data",
-    "href": "support/study-setup/index.html#storage-of-sensitive-patient-data",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Storage of sensitive patient data",
-    "text": "Storage of sensitive patient data\n\nStorage at AU\n\nPatient and trial data (patient sensitive): RedCap\nLarger data files: O-drive, needs to be setup through AU-IT so that logging is possible. Only pseudonymized patient data.\nLink to AU datastorage info: https://medarbejdere.au.dk/informationssikkerhed/klassifikation-af-data/#c2545048\n\nStorage at RM\n\nPatient and trial data (patient sensitive): RedCap through RM\nLarger data files: MidtX, needs to be setup through RM-IT so that logging is possible."
-  },
-  {
-    "objectID": "support/study-setup/index.html#datahandling-agreements",
-    "href": "support/study-setup/index.html#datahandling-agreements",
-    "title": "Setting up research projects: Administrative and legal demands",
-    "section": "Datahandling agreements",
-    "text": "Datahandling agreements"
-  },
-  {
-    "objectID": "organization/sdca-management/index.html",
-    "href": "organization/sdca-management/index.html",
-    "title": "SDCA management structure",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nOverview of SDCA management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nMarianne Jensen, Chief Nursing Officer, Randers Regional Hospital\nPia Ulv Helleland, CEO, Lemvig Municipality\nLars Bo Nielsen, Dean, Health - Aarhus University\nClaus Thomsen, Chief Medical Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "SDCA Research",
-    "section": "",
-    "text": "Attribution 4.0 International\n=======================================================================\nCreative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.\nUsing Creative Commons Public Licenses\nCreative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.\n Considerations for licensors: Our public licenses are\n intended for use by those authorized to give the public\n permission to use material in ways otherwise restricted by\n copyright and certain other rights. Our licenses are\n irrevocable. Licensors should read and understand the terms\n and conditions of the license they choose before applying it.\n Licensors should also secure all rights necessary before\n applying our licenses so that the public can reuse the\n material as expected. Licensors should clearly mark any\n material not subject to the license. This includes other CC-\n licensed material, or material used under an exception or\n limitation to copyright. More considerations for licensors:\nwiki.creativecommons.org/Considerations_for_licensors\n\n Considerations for the public: By using one of our public\n licenses, a licensor grants the public permission to use the\n licensed material under specified terms and conditions. If\n the licensor's permission is not necessary for any reason--for\n example, because of any applicable exception or limitation to\n copyright--then that use is not regulated by the license. Our\n licenses grant only permissions under copyright and certain\n other rights that a licensor has authority to grant. Use of\n the licensed material may still be restricted for other\n reasons, including because others have copyright or other\n rights in the material. A licensor may make special requests,\n such as asking that all changes be marked or described.\n Although not required by our licenses, you are encouraged to\n respect those requests where reasonable. More considerations\n for the public: \nwiki.creativecommons.org/Considerations_for_licensees\n=======================================================================\nCreative Commons Attribution 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)\n\nnever produces Adapted Material.\n\nDownstream recipients.\n\nOffer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nNo downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\n\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\nIf You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this Public License.\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.\nTO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n=======================================================================\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
-  },
-  {
-    "objectID": "onboarding/practicalities/index.html",
-    "href": "onboarding/practicalities/index.html",
-    "title": "General practicalities",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nPrinter\n\nNote the name of the printer from someone in your office. For questions regarding the SDCA printer: ask Maria Siggaard (marsig@rm.dk). For questions regarding the AU printer: ask Karin Ørbæk Kristensen (karin@clin.au.dk) or Charlotte Rosholm (cro@clin.au.dk).\n\nMicrosoft Office templates (for RM)\n\nAll templates are found in the folder N:\\Afdeling\\AUHSTDIC\\_Fælles\\SDCA-dokumenter_Skabeloner. This (unfortunately) can so far only be accessed through the “Citrixportal”.\n\nOffice supplies\n\nYou can find office supplies in the copy room on Plan 3 at SDCA in Forum. If something you need isn’t there, contact Julie Knudsen at julie.knudsen@rm.dk.\n\nLetters and other mail\n\nFor sending mail, contact Inger Hornbech (inger.hornbech@rm.dk).\n\nMasterCard\n\nAt RM, it’s only the managers who have a Mastercard. At SDCA Head of Research Niels Jessen has one. Contact Maria Siggaard (marsig@rm.dk) if you need to buy something by using the MasterCard. For those affiliated through Aarhus University, you can apply for an employee MasterCard.\n\nMUS talks\n\nMUS talks depend on one’s terms of employment. Ask Maria Siggaard (marsig@rm.dk) if you have questions regarding this."
-  },
-  {
-    "objectID": "onboarding/days-off/index.html",
-    "href": "onboarding/days-off/index.html",
-    "title": "Sick days, holidays, and time off",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nCalling in sick for yourself or a dependent (like your child)\n\nSick days are generally very easy to ask for, though does depend on your terms of employment. For PhD students, email your supervisor. For postdocs at SDCA, email Inger Hornbech (inger.hornbech@rm.dk) for registration if you have an RM employment or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if you are employed at AU. Ultimately, contact whoever administers yours or your supervisor’s grants.\n\nHolidays and “omsorgsdage”\n\nThe exact amount of holidays and time off you get depend on your terms of employment. For PhD students email your supervisor. For postdocs and other researchers in SDCA, email Inger Hornbech for registration if you have an RM employment or Charlotte Rosholm or Karin Ørbæk Kristensen if you have an AU employment.\n\nMaternity/paternity leave and other leaves\n\nCentral Denmark Region employment: ask Maria Siggaard (marsig@rm.dk). AU employment: please contact Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk). Please refer to the one who administers yours or your supervisor’s grants."
-  },
-  {
-    "objectID": "onboarding/meetings-and-events/index.html",
-    "href": "onboarding/meetings-and-events/index.html",
-    "title": "Meetings, courses, events, and social activities",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nCheck out the documentation on travel booking if the event requires traveling to attend."
-  },
-  {
-    "objectID": "onboarding/meetings-and-events/index.html#conferences-and-scientific-events",
-    "href": "onboarding/meetings-and-events/index.html#conferences-and-scientific-events",
-    "title": "Meetings, courses, events, and social activities",
-    "section": "Conferences and scientific events",
-    "text": "Conferences and scientific events\n\nEuropean Association for the Study of Diabetes (EASD): Starts end of Sept every year. A large European conference on diabetes. Usually Steno sends most researchers. In English.\nAmerican Diabetes Association (ADA): Usually in end of June every year. A large North American (USA-based) conference on diabetes. In English.\nEuropean Diabetes Epidemiology Group: Usually in May every year. An important epidemiology conference attended by many at Steno.\nMany of the DDEA/DCA/DDSA events: There are three Danish “Academies” funded by NovoNordiskFonden (NNF) that run many great events and activities throughout the year:\n\nDanish Diabetes and Endocrinology Academy\nDanish Cardiovascular Academy\nDanish Data Science Academy"
-  },
-  {
-    "objectID": "onboarding/meetings-and-events/index.html#social-events",
-    "href": "onboarding/meetings-and-events/index.html#social-events",
-    "title": "Meetings, courses, events, and social activities",
-    "section": "Social events",
-    "text": "Social events\nSome of the events are found in here as well as listed below.\n\nResearch Retreat: Usually around May-June every year and is two days retreat at a conference center. In English.\nChristmas dinner: Usually at the start of December. Often starts after 15 hr and continues until late evening. In Danish.\nDHL-run: To be added.\nSummer Party: To be added."
-  },
-  {
-    "objectID": "onboarding/meetings-and-events/index.html#work-events",
-    "href": "onboarding/meetings-and-events/index.html#work-events",
-    "title": "Meetings, courses, events, and social activities",
-    "section": "Work events",
-    "text": "Work events\nThese include meetings, clubs, lectures, and other work-related activities and events. A detailed list of meetings is found on the Research events page of the official SDCA website."
-  },
-  {
-    "objectID": "onboarding/meetings-and-events/index.html#online-activities",
-    "href": "onboarding/meetings-and-events/index.html#online-activities",
-    "title": "Meetings, courses, events, and social activities",
-    "section": "Online activities",
-    "text": "Online activities\n\nNewsletters\n\nSteno News is published once a month (in Danish) and sent to relevant mailgroups. You can also subscribe to the newsletter.\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events."
-  },
-  {
-    "objectID": "onboarding/it-basics/index.html",
-    "href": "onboarding/it-basics/index.html",
-    "title": "IT basics",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nIT software, services, and hardware are all dependent on your location of employment: Aarhus University or Region Midt. Getting user access is usually done as part of the employment process. Once you have a user ID, here are some basic things you might need from IT."
-  },
-  {
-    "objectID": "onboarding/it-basics/index.html#institute-specific-details",
-    "href": "onboarding/it-basics/index.html#institute-specific-details",
-    "title": "IT basics",
-    "section": "Institute-specific details",
-    "text": "Institute-specific details\n\nAarhus UniversityRegion Midt\n\n\nSpecific support can be found on their Guides website or by contacting them directly on their contacts page. Their guides are all available in either English or Danish.\n\nWiFi: Accessing internet is done with eduroam. Set up is done through their guide.\nVPN: When working remotely, many university and research services are only available by connecting to the university VPN. Use their Setup Guide.\nPersonal drive: You can connect and access your personal drive from your computer by following these instructions.\nShared drive(s): If you need access to a shared drive that your team or colleagues use, start with first requesting access to it. Once you get it, follow these steps to access it on your computer.\nEmail and calendar: Setting up or accessing your email and calender is done by going through their Email FAQ Guide.\n\n\n\nUnlike Aarhus University, which is quite familiar and used to a diverse set of IT needs and international employees, the Region doesn’t have as well developed and clear documentation for IT related topics. Documentation is also entirely in Danish. Help, support, and most other documents or services are almost completely only available through the “Citrixportal”, which you need to log into with your Region ID. Details about how to gain access is found either here (if outside the Region intranet, you will need to follow this guide to activate two-factor authentication codes).\n\nPersonal drives: Accessed by searching for “Stifinder” in the Citrix portal. Files saved to the Region personal drive are difficult to access outside of the Citrixportal and can’t easily be shared with others who do not have a Region ID. So we do not recommend using the Region drives for anything but highly sensitive information. Data should not be saved on the personal drive, but instead should be saved through appropriate sources (depends on your research team).\nShared drives: Accessed by searching for “Stifinder Afdeling” in the Citrixportal. Like with the personal drive above, unless you need to save and share information that is highly sensitive, we recommend not to use the shared drive and instead use other sources (like GitHub or the Aarhus University shared drives).\nEmail and calendar: You can open your email and calendar either through the Citrixportal or by using post.rm.dk.\n\n\n\n\nRegardless of which institution is your administrative employer, if you work primarily at SDCA, there are a number of helpful template files and other resources found only in Citrix (by searching for “Stifinder Afdeling”). We hope to slowly make these files more easily available, but until then, you can find relevant ones by asking your colleagues."
-  },
-  {
-    "objectID": "contributing/navigating-github.html",
-    "href": "contributing/navigating-github.html",
-    "title": "Navigating the GitHub repository",
-    "section": "",
-    "text": "The below video is a quick tutorial on how to navigate this project on GitHub.\n\nThere are some terms used in the video:\n\nRepository: A repository is everything that is contained within the project. In this case, the repository is the website with the [Issues], files, and subfolders for this project.\nIssue: An Issue is a task or to-do item that needs to be completed. These to-do items can be assigned to people and can be checked off as being done (“Closed”).\nBranch: A branch is a separate, parallel set of files and folders related to the project. In this project there is the “main” branch that only the admin can edit. In order to add content to the main branch, you need to create your own branch and create a pull request of your changes and additions that you want added to the main files. Branches and pull requests are heavily used in the “GitHub workflow” that this project (and many many others) use. More details about this are in the next section and video. Branches are in some ways like separate files that you would email between other contributors, but instead of everyone having different versions of the file, here they are all contained in the same place (in the repository).\nPull request: A pull request is a request to add changes you’ve made to files in your branch and have them put into the main branch. When you make a pull request, it allows others to review what you’ve changed and make comments on it. Think of it like “Track changes” and the “Add comment” features of Word."
-  },
-  {
-    "objectID": "contributing/guide-to-github.html",
-    "href": "contributing/guide-to-github.html",
-    "title": "Quick guide to using GitHub",
-    "section": "",
-    "text": "In SDCA Research we use GitHub for common docs and support. This is a quick guide to write your first (or second) content and contribute to the community. Please be aware that everything on GitHub is open access, so don’t add anything private or confidential."
-  },
-  {
-    "objectID": "contributing/guide-to-github.html#first-time-logging-in",
-    "href": "contributing/guide-to-github.html#first-time-logging-in",
-    "title": "Quick guide to using GitHub",
-    "section": "First time logging in",
-    "text": "First time logging in\n\nSign up for a GitHub account if you don’t have one already.\nGo to the SDCA Research GitHub repository.\n\nSend your username to administrator Luke Johnston so he can add you as a team member.\nYou’ll receive an invitation mail. Join @steno-aarhus through the link (expires in 7 days)\nWatch tutorial videos"
-  },
-  {
-    "objectID": "contributing/guide-to-github.html#how-to-contribute",
-    "href": "contributing/guide-to-github.html#how-to-contribute",
-    "title": "Quick guide to using GitHub",
-    "section": "How to contribute?",
-    "text": "How to contribute?\n\nCreate a new (personal) branch1 to work in, since you can’t directly edit the files in the “main” branch. (You need to be added as a teammember to complete this step)\n\n1 A branch is a bit like a “copy” of the files in the “main” branch. After you edit the files in the “copy” (branch), you can request your changes get included into the main branch.\n\n\nCreating a new personal branch.\n\n\n\nIf you want to add a new file, rather than modify and existing one, go to “Create new file”:\n\n\n\n\nAdding a new file to your personal branch.\n\n\n\nGive your file a name, for instance guide-to-github.md (only small characters and use - for spaces). Use .md as the file extension, which stands for “Markdown”.\n\n\n\n\nNaming the newly created file.\n\n\n\nStart writing your content in Markdown. You can find support on how to write using Markdown in this tutorial.\nIn order to save your changes you’ve made, you need to ‘commit’2 this new file to the Git history and eventually on to the website. At the bottom of the page is a text box to write a message. Please write a short message describing why you are adding the files or making the changes.\n\n2 “Commit” means to save something to the history, like you “commit” something to your memory.\n\n\nCommit the new file into the Git history.\n\n\n\nNow you can find your file in the research folder on your personal branch. You can continue writing either on this file or others by clicking the ‘Edit’ button of the file.\n\n\n\n\nFinding your newly created file in the repository.\n\n\n\n\n\nEditting the newly created file, or other files.\n\n\n\nOnce you are finished with what you want to add or modify, the next step is to get the content on the website. To do that, you’ll need to make a “pull request”3 so that your content gets merged into the main branch. Go to ‘Code’, choose your personal branch, click ‘Contribute’ and ‘Open pull request’.\n\n3 A pull request is a process of taking your branch and requesting that it get merged into the main branch. It also allows for people to comment on your changes before they get merged.\n\n\nCreating a pull request.\n\n\n\nOnce you’ve selected to make a pull request of your branch, you need to write a title describing what you are adding or changing and why. Then you can click ‘Create pull request.’. The administrator will look at the pull request and if necessary, add some edits before adding it to the main branch/webpage. Everyone can comment with suggestion for change.\n\n\n\n\nFinish with submitting the pull request.\n\n\nAnd that’s the basics!"
-  },
-  {
-    "objectID": "contributing/adding-content.html",
-    "href": "contributing/adding-content.html",
-    "title": "Adding or modifying content",
-    "section": "",
-    "text": "The video below is a tutorial on how to add or modify content and files on the GitHub project. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.\n\nContent is formatted using Markdown (in this case, R Markdown) and you can learn how to write in Markdown on the GitHub Markdown Guide. There are also some terms used in the video:\n\nCommit: A commit is the set of changes you’ve made to a file that will be put into the history. In general, committing changes to the history is better done often.\nChanges/commit History: The commit history is all the changes, either additions or deletions, that have been done to the files in the project.\n\nHere is a written description of the workflow to adding or modifying text in the files:\n\nCreate or switch to your own branch.\nEither use the “Add a file” button or choose a file and click the “Edit this file” button.\nAdd Markdown formatted text to the file. Every Markdown file should always have this pasted at the top, that you should fill out with details inside the quotes:\n---\ntitle: \"\"\ndescription: \"\"\n---\nScroll to the bottom to the “Commit” changes section and write a short, brief commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.\n\nCommit your changes often. Don’t be shy about making many commits to the files you are changing.\n\nWhen you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “pull request” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!"
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Contributor Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#correction",
-    "href": "CODE_OF_CONDUCT.html#correction",
-    "title": "Contributor Code of Conduct",
-    "section": "1. Correction",
-    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#warning",
-    "href": "CODE_OF_CONDUCT.html#warning",
-    "title": "Contributor Code of Conduct",
-    "section": "2. Warning",
-    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
-    "href": "CODE_OF_CONDUCT.html#temporary-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "3. Temporary Ban",
-    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
-    "href": "CODE_OF_CONDUCT.html#permanent-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "4. Permanent Ban",
-    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
-  },
-  {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About",
-    "section": "Purpose",
-    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
-  },
-  {
-    "objectID": "about.html#resources-and-documentation",
-    "href": "about.html#resources-and-documentation",
-    "title": "About",
-    "section": "Resources and documentation",
-    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
-  },
-  {
-    "objectID": "about.html#people",
-    "href": "about.html#people",
-    "title": "About",
-    "section": "People",
-    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
-  },
-  {
-    "objectID": "organization.html",
-    "href": "organization.html",
-    "title": "Organizational Information about SDCA",
-    "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA.\n\n\n\n\n\n\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Documentation and Resources for Supporting Research Activities",
-    "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel that ensure quick reimbursement.\n\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contributing/guiding-principles.html",
-    "href": "contributing/guiding-principles.html",
-    "title": "Guiding principles",
-    "section": "",
-    "text": "In order to ensure that we get the most from creating these documents and that we don’t spend more time on this than is necessary (given it is largely a secondary task and activity to our collective research responsibilities), here are some principles to guide our decisions and activity on what documents get created:\n\nAll are welcome to contribute: There should be no or little barrier to contributing to the documents and their content, aside from barriers due to technology and skill in its use. If someone has the motivation and desire to contribute, they should be able to do so fairly easily.\nInclusion and participation in community through active contribution: Individuals who want to participate should actively contribute through not just attending meetings, but also in creating, modifying, organizing, editing, and/or developing the content on the website. Those who actively contribute should be included in the community and encouraged to participate.\nContent is dictated by direct and active contribution: What gets created or developed should be done by whoever contributes to creating or building it. If someone wants or requests something to be created or modified, they are encouraged and given the power to do so themselves. In combination with the first principle, the barrier to contributing is only dependent on learning the basic technical and writing skills rather than any administrative barrier such as “requiring permission”. If you want something, than you are free to make it! We create and add content to the website based on what we personally want or are motivated to do, rather than what we are told to do1.\nImportant or significant decisions are based on community consensus: Decisions should not or need not be blocked by requiring permission from anything external to the community. This ensures things move forward as continuously and unrestricted as possible. Important or significant decisions could include things like approving and finalizing a document or deciding on major infrastructural changes (e.g. platform to use for creating and managing the content).\n\n\n\n1 …though we recognize that sometimes we must do things we are told to do."
-  },
-  {
-    "objectID": "contributing/writing-markdown.html",
-    "href": "contributing/writing-markdown.html",
-    "title": "Basics of writing in Markdown",
-    "section": "",
-    "text": "The video below is a tutorial on the basics of using Markdown to write the content of this website. When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to watch the video and learn a bit about Markdown. I promise, it won’t take long to learn!\n\nFor more guides and references on writing in Markdown, see Quarto’s Markdown Basics Guide. To see a “real-world” example, check out how the Code of Conduct is written."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html",
-    "href": "onboarding/general-conduct/index.html",
-    "title": "General Code of Conduct",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#expected-behavior",
-    "href": "onboarding/general-conduct/index.html#expected-behavior",
-    "title": "General Code of Conduct",
-    "section": "Expected Behavior",
-    "text": "Expected Behavior\nWe treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:\n\nShow courtesy and respect towards others.\nBe kind and aware of your words.\nUse welcoming and inclusive language.\nBe respectful of different viewpoints and experiences.\nGracefully accept constructive criticism.\nFocus on what is best for the community overall.\n\nRead the “four social rules” for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#unacceptable-behavior",
-    "href": "onboarding/general-conduct/index.html#unacceptable-behavior",
-    "title": "General Code of Conduct",
-    "section": "Unacceptable Behavior",
-    "text": "Unacceptable Behavior\nExamples of unacceptable behavior include, but are not limited to:\n\nWritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group.\nCausing someone to fear for their safety, such as through stalking, following, or intimidation.\nViolent threats or language directed against another person.\nDisplays of sexual or violent images.\nUnwelcome sexual attention.\nNon-consensual or unwelcome physical contact.\nSustained disruption of talks, events, or communications.\nInsults or put-downs.\nSexist, racist, homophobic, transphobic, ableist, or exclusionary jokes.\nExcessive swearing.\nIncitement to violence, suicide, or self-harm.\nContinuing to initiate interaction (including photography or recording) with someone after being asked to stop.\nPublication of private communication without consent."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
-    "href": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
-    "title": "General Code of Conduct",
-    "section": "Consequences of Unacceptable Behavior",
-    "text": "Consequences of Unacceptable Behavior\nIf you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.\n\n\n\n\nAcknowledgements: Most of this Code of Conduct was taken and modified from other Codes of Conduct, specifically Software Carpentry UofTCoders, and r-cubed: Reproducible Research in R course"
-  },
-  {
-    "objectID": "onboarding/getting-started/index.html",
-    "href": "onboarding/getting-started/index.html",
-    "title": "Welcome and getting started",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/getting-started/index.html#welcome",
-    "href": "onboarding/getting-started/index.html#welcome",
-    "title": "Welcome and getting started",
-    "section": "Welcome!!",
-    "text": "Welcome!!\nWe have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.\nAs a new member of our research team, there is a lot of things you need learn about the organization, the culture (both research and social) and a lot of practical stuff. The page here is thought of as your initial entry point, where you can get an overview. This is also an atlas for you to return to when you need to look up specific information.\nTo get an introduction to the research team and this document you will be teamed up with an experienced member from research. It is your supervisor’s responsibility to find you a “buddy.” Please ask your supervisor if this is not already in place.\nYour buddy will walk you through the relevant tables below and give you an overview of all the topics that you need to be aware of. The agenda for the meeting is:\n\nIntroduce yourselves\nGo through the table below\nTake a tour around the research facility\nArrange follow-up talk\n\nThe purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.\nRead through this website, especially the “Onboarding” section, which is targeted to new employees. If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information. Then email either Inger Hornbech (inger.hornbech@rm.dk) or Julie Knudsen (julie.knudsen@rm.dk) to get your question (hopefully) answered.\nAt the very least, you will probably need to get an access/ID card for entering AUH and Forum.\n\nIf you have an RM ID-card: You can get access to SDCA by emailing your User ID to Inger Hornbech or Julie Knudsen.\nIf you don’t have an RM ID-card: Inger or Julie will need your CPR number and after that you will need to visit the card administration to have a photo taken, which is at Plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g. driver’s license).\n\nIf you have questions about your salary or contract, its best to ask whoever administers yours or your supervisor’s grants. That would be Maria Siggaard (marsig@rm.dk) if employment is at RM or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if employment is at AU."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html",
-    "href": "onboarding/getting-started-phd/index.html",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "",
-    "text": "Important\n\n\n\nPlease read through the Getting Started document for all employees of AU and AUH before reading through this PhD specific document.\nPhD and affiliated students at SDCA have different levels of affiliations: Some are financially supported and have their main supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor that is partly affiliated. We aim to be very inclusive, but some activities will only apply to students with a certain affiliation, e.g. some staff activities for PhD-students situated locally. If you have any questions regarding this, please, do not hesitate to get in touch with Inger Hornbech (inger.hornbech@rm.dk)."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#start-up-guide",
-    "href": "onboarding/getting-started-phd/index.html#start-up-guide",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Start-up guide",
-    "text": "Start-up guide\nRegardless of where your affiliation is, you will receive an email from one of the Research Secretaries with a start-up guide to Steno Diabetes Center Aarhus. The guide will differ depending on how you are affiliated with SDCA."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#communication-and-social",
-    "href": "onboarding/getting-started-phd/index.html#communication-and-social",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Communication and social",
-    "text": "Communication and social\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events.\n\nPhotos for the SDCA website\n\nAffiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the attached project form and return it to Inger.\n\nPhD network and facebook\n\nSDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time.\nFor questions related to the PhD network meetings, please contact Ole Emil Andersen at oleemil@clin.au.dk.\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join the SDCA Alumni network. Inger Hornbech will contact you about that when time comes.\n\nSteno PhD Network Facebook group\n\nInformal questions or information related to PhD-students affiliated with SDCA may be posted on this group. Join us!\n\nSteno Thursdays\n\nThis is our weekly, scientific seminar that takes place most Thursdays 14:15-15:00 in “Verdensrummet” (auditorium A201-170) in Forum. The seminars disseminate diabetes research and provides a great platform to learn about research projects at SDCA and discuss science.\nOnce a month we aim to host a seminar with an international speaker, which we call Steno Thursdays Global. You will be notified about upcoming Steno Thursdays through e-mail. We value the scientific discussion and therefore expect affiliated researchers to prioritize these seminars.\n\nJournal clubs\n\nDepending on your field of research, it might also be relevant for you to join journal clubs or meetings. You will find an overview of such activities here on this website. \n\nSDCA Alumni Network\n\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join this network. Inger Hornbech will contact you about that when time comes."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
-    "href": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Physical access and space at Forum",
-    "text": "Physical access and space at Forum\n\nOffice space\n\nIn Forum we have four offices dedicated to our PhD and affiliated students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students. We have written down some office guidelines – please read these, when you are allocated to an office – you’ll find them on the notice board in the offices. If you need IT equipment, please talk to your supervisor (or contact Julie Knudsen at Julie.Knudsen@rm.dk). If you only come to Forum a few times, you might be able to get space, but will need to contact Inger Hornbech.\n\nE-learning\n\nIf you have a desk at Forum and are there on a daily basis, it’s mandatory to participate in the following E-learning courses:\n\nInformation security - physical security\nBasic Resuscitation, Level 1\nHand hygiene - Break the chain of infection\nFire School.\n\nYou will get an email notification on your RM-mail account with guidance to how you conduct the courses. Please notice that the courses are held in Danish. If you have any questions related to the E-learning courses please contact Inger Hornbech.\n\nResearch in Steno’s medical research lab\n\nIf you are to do research in the research lab, there is a Google Doc (in Danish) you can look over."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
-    "href": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Learn more about SDCA!",
-    "text": "Learn more about SDCA!\nDid you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.\nyou can also find useful information about the organisation and research at Steno Diabetes Center Aarhus in Region Midtjylland on our website."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html",
-    "href": "onboarding/parking-at-auh/index.html",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
-    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Information regarding parking for RM employees",
-    "text": "Information regarding parking for RM employees\nIf you are employed by Central Denmark Region please contact Inger Hornbech if you need a parking contract at AUH."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
-    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Information regarding parking for AU employees",
-    "text": "Information regarding parking for AU employees\nIf you are employed by Aarhus University you can buy a parking card for Aarhus University Hospital (AUH), if you use the following guide:\n\nGo to APCOA’s website.\nFill out the form.\nYou don’t need to fill in the registration number of the car. The parking card is registered to the person (not the car), so it’s possible to use the card in another car if needed.\nIt is also possible to buy an extra parking card (card no. 2), if you use different cars, and would like to keep a card in each car. The price is 100 DKKR (one-time expense for the extra card)."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
-    "href": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Problems regarding parking?",
-    "text": "Problems regarding parking?\nPlease contact APCOA by phone +45 86 783 533 (They are available 24/7).\nAPCOA Parking Skejby\nAarhus University Hospital, G306, 1st floor office\nPalle Juul-Jensens Boulevard 99\n8200 Aarhus N\nTelephone: +45 86 783 533\nEmail: skejby@apcoa.dk"
-  },
-  {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Contributing guidelines",
-    "section": "",
-    "text": "This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the CC-BY 4.0 License, and by contributing content any contributors agree to these terms. We also have a Code of Conduct that contributors agree to abide by."
-  },
-  {
-    "objectID": "CONTRIBUTING.html#specific-guides",
-    "href": "CONTRIBUTING.html#specific-guides",
-    "title": "Contributing guidelines",
-    "section": "Specific guides",
-    "text": "Specific guides"
-  },
-  {
-    "objectID": "organization/research-groups/index.html",
-    "href": "organization/research-groups/index.html",
-    "title": "Research groups at SDCA",
-    "section": "",
-    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
-  },
-  {
-    "objectID": "support/requesting-data/index.html",
-    "href": "support/requesting-data/index.html",
-    "title": "Requesting access to various data sources",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "support/requesting-data/index.html#denmark-statistics",
-    "href": "support/requesting-data/index.html#denmark-statistics",
-    "title": "Requesting access to various data sources",
-    "section": "Denmark Statistics",
-    "text": "Denmark Statistics\nSome more details about applying to Denmark Statistics can be found on the official SDCA website.\nOn this page are some more personal experiences of applying for data from DST. As a non-Danish speaking researcher, this was quite difficult since much of the documentation and help is in Danish. Plus, there are slight differences between the English version and the Danish. Of course, the Danish version is the most accurate, but it is not obvious where and if there are differences.\n\nExample of successful application\nMyself and several others applied to DST. Below are links to\n\nFull application as website, with links to the Word application\nResponses to initial comments\nList of (almost all) registers, with variables and descriptions translated to English"
-  },
-  {
-    "objectID": "support/data-analysis/index.html",
-    "href": "support/data-analysis/index.html",
-    "title": "Data analysis tips and help",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
-    "href": "support/data-analysis/index.html#some-general-practices-doing-data-analysis",
-    "title": "Data analysis tips and help",
-    "section": "Some general practices doing data analysis",
-    "text": "Some general practices doing data analysis\n\nData management\n\nSave the raw data\nEnsure that raw data are backed up in more than one location\nCreate the data you wish to see in the world\nCreate analysis-friendly data\nRecord all the steps used to process data\nAanticipate the need to use multiple tables, and use iunique identifier for every record\nSubmit data to a reptable DOI-issuing repository so that others can acces and cite it\n\n\n\nSoftware\n\nPlace a brief explanatory comment at the start of every program\nDecompose programs into functions\nBe ruthless about eliminating duplication\nAlways search for well-maintained software libraries that do what you need\nTest libraries before relying on them\nGive functions and variables meaningful names\nMake dependencies and requirements explicit\nDo not comment and uncomment sections of code to control a program’s behavior\nProvide a simple example or test data set\nSubmit code to a reputable DOI-issuing repository\n\n\n\nCollaboration\n\nCreate an overview of your project\nCreate s shared “to-do” list for the project\nDecide on communication strategies\nMake the license explicit\nMake the project citable\n\n\n\nProject organization\n\nPut each project in its own directory, which is named after the project\nPut text documents associated with the project in the “doc” directory\nPut raw data and metadata in a data directory and files generated during cleanup and analysis in a “result” directory\nPut project source code in the “src” directory\nPut external scripts or compiled programs in the “bin” directory\nName all files to reflect their content or function\n\n\n\nKeeping track of changes\n\nBack up (almost) everything created by a human being as soon as it is created\nKeep changes small\nShare changes frequently\nCreate, maintain, and use a checklist for saving and sharing changes to the project\nStore each project in a folder that is mirrored off the researchers’ working machine\nAdd a file called changelog.txt to the project’s “docs” subfolder\nCopy the entire project whenever a significant change has made\nUse a version control system\n\n\n\nManuscripts\n\nWrite manuscripts using online tools with rich formatting, change tracking, and reference management\nWrite a manuscript in a plain text format that permits version control\n\n\n\n\nFlow chart to get help with your coding problems"
-  },
-  {
-    "objectID": "support/data-analysis/index.html#further-reading",
-    "href": "support/data-analysis/index.html#further-reading",
-    "title": "Data analysis tips and help",
-    "section": "Further reading:",
-    "text": "Further reading:\n\nWilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510\nHere you can find additional material to reproducible, ethical and collaborative data science: https://the-turing-way.netlify.app/welcome"
-  },
-  {
-    "objectID": "support/poster-printing/index.html",
-    "href": "support/poster-printing/index.html",
-    "title": "Printing posters for events",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nIf you need to print a poster, which service you use depends on where your funding comes from.\n\nFor AU funding, use their Printing Service.\nFor AUH funding, use their Grafisk Service (this is only viewable through the “Citrixportal” or if you are connected to the AUH network)."
-  },
-  {
-    "objectID": "support/funding-application/index.html",
-    "href": "support/funding-application/index.html",
-    "title": "Funding applications",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nThere are several sites to that list sources of funding:\n\nResearch professional: If employed through AU, one has access to Research Profession, which is a register that collects information on various funding sources for many different purposes.\nSteno Collaborative Grants\nDDEA PhD and postdoc grants."
-  },
-  {
-    "objectID": "support/verdensrummet/index.html",
-    "href": "support/verdensrummet/index.html",
-    "title": "Stream a local meeting from Verdensrummet",
-    "section": "",
-    "text": "Two computers\nTwo Zoom accounts"
-  },
-  {
-    "objectID": "support/verdensrummet/index.html#requirements",
-    "href": "support/verdensrummet/index.html#requirements",
-    "title": "Stream a local meeting from Verdensrummet",
-    "section": "",
-    "text": "Two computers\nTwo Zoom accounts"
-  },
-  {
-    "objectID": "support/verdensrummet/index.html#steps",
-    "href": "support/verdensrummet/index.html#steps",
-    "title": "Stream a local meeting from Verdensrummet",
-    "section": "Steps",
-    "text": "Steps\n\nHost Zoom from Computer 1.\nOn the wired tablet controller choose: Video call and choose “Zoom” from the “Favourites” tab. The number that is called is “109.105.112.236”\nIn the prompt that shows up on the screen, enter meeting ID and join the Zoom meeting. Note: The user account has to be licensed to run through external call systems (all AU Zoom accounts are licensed).\nJoin the Zoom meeting from Computer 2.\nRun the Powerpoint presentation from Computer 2 by sharing this computer’s screen. Note: If you plan to connect pointers, they should be connected to Computer 2.\nAs host on Computer 1 do the following in Zoom:\n\nMake Verdensrummet “Spotlight for everyone”.\nAdd Computer 2 to spotlight for everyone.\n\n\n\nMore tips\n\nOnly use the microphone, speakers, and cameras from Verdensrummet (the controller) and disable this on Computer 1 and 2.\nAt the controller unit, you can choose where the cameras point. To only see the PowerPoint, you can choose “Focus mode” in settings on the controller."
-  },
-  {
-    "objectID": "support/travel-booking/index.html",
-    "href": "support/travel-booking/index.html",
-    "title": "Booking for travel",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nInfo to external visitors: Please contact your host at Steno Diabetes Center Aarhus as the host will have to book the flight and hotel arrangements for you to comply with AU rules. If you have local transportation, that the host cannot book for you as guest, please remember to keep all receipts for reimbursement purposes."
-  },
-  {
-    "objectID": "support/travel-booking/index.html#contacts",
-    "href": "support/travel-booking/index.html#contacts",
-    "title": "Booking for travel",
-    "section": "Contacts",
-    "text": "Contacts\nIf this document doesn’t answer your questions, contact Inger Hornbech (inger.hornbech@rm.dk) for those at AUH or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) for those at AU."
   }
 ]

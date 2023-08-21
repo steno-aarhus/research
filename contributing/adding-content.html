@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -214,7 +214,18 @@ background-size: cover;
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#adding-new-content" id="toc-adding-new-content" class="nav-link active" data-scroll-target="#adding-new-content">Adding new content</a></li>
+  <li><a href="#modifying-existing-content" id="toc-modifying-existing-content" class="nav-link" data-scroll-target="#modifying-existing-content">Modifying existing content</a>
+  <ul class="collapse">
+  <li><a href="#modifying-by-using-the-github-approach" id="toc-modifying-by-using-the-github-approach" class="nav-link" data-scroll-target="#modifying-by-using-the-github-approach">Modifying by using the GitHub approach</a></li>
+  <li><a href="#modifying-by-going-through-website" id="toc-modifying-by-going-through-website" class="nav-link" data-scroll-target="#modifying-by-going-through-website">Modifying by going through website</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/steno-aarhus/research/edit/main/contributing/adding-content.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/steno-aarhus/research/blob/main/contributing/adding-content.md" class="toc-action">View source</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -222,30 +233,70 @@ background-size: cover;
 
 
 
-<p>The video below is a tutorial on how to add or modify content and files on the GitHub project. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Z1G4rBX3tXM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>Content is formatted using Markdown (in this case, R Markdown) and you can learn how to write in Markdown on the <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown Guide</a>. There are also some terms used in the video:</p>
+<p>The two tutorial videos below cover how to add or modify content and files on the GitHub website. For this to work, you need to be added as a team member and have a GitHub Account. Make sure to send the admin (Luke Johnston) your GitHub username so he can add you.</p>
+<p>Content is formatted using Markdown and you can learn how to write in Markdown on the <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown Guide</a> as well as our basic <a href="../contributing/writing-markdown.html">introduction</a>. There are also some terms used in the video:</p>
 <ul>
 <li><strong>Commit</strong>: A commit is the set of changes you’ve made to a file that will be put into the history. In general, committing changes to the history is better done often.</li>
 <li><strong>Changes/commit History</strong>: The commit history is all the changes, either additions or deletions, that have been done to the files in the project.</li>
+<li><strong>Branches</strong>: This is described in the page on <a href="../contributing/navigating-github.html">navigating GitHub</a>.</li>
+<li><strong>Pull Requests</strong>: This is described in the page on <a href="../contributing/navigating-github.html">navigating GitHub</a>.</li>
 </ul>
-<p>Here is a written description of the workflow to adding or modifying text in the files:</p>
+<section id="adding-new-content" class="level2">
+<h2 class="anchored" data-anchor-id="adding-new-content">Adding new content</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/aaeKftA6puc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Here is a written description of the workflow to adding text in the files:</p>
 <ol type="1">
-<li><p>Create or switch to your own branch.</p></li>
-<li><p>Either use the “Add a file” button or choose a file and click the “Edit this file” button.</p></li>
-<li><p>Add Markdown formatted text to the file. Every Markdown file should always have this pasted at the top, that you should fill out with details inside the quotes:</p>
+<li><p>Create a new branch by clicking the button that says “Main”. Type out the name of your new branch by using either your own name (without spaces, or using <code>-</code> instead) or, what I recommend, a brief description of what you plan to add (e.g. <code>adding-recommended-software</code> for adding content about software). Once you type out the name, click the text that says “Create branch …”. It will now switch over to that new branch.</p></li>
+<li><p>Click the appropriate folder that the new content will be put into, either <code>support/</code>, <code>onboarding/</code>, or <code>organization/</code>.</p></li>
+<li><p>Click the “Add a file” button and click the “Create a new file”. Write out the name of the new folder and file at the top, using lowercase letters and either <code>_</code> or <code>-</code> for spaces. You need to create a folder first (type the name then type <code>/</code>) and then you can create the file, which should <strong>always</strong> be called <code>index.md</code>. The reason for this name is because this name is used specifically for making websites.</p></li>
+<li><p>Add Markdown formatted text to the file. Review the <a href="../contributing/writing-markdown.html">Writing Markdown</a> guide for learning what Markdown is. Every Markdown file should always have this YAML header pasted at the top, that you should fill out with details inside the quotes:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p>Scroll to the bottom to the “Commit” changes section and write a <em>short, brief</em> commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.</p>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">author</span><span class="kw">:</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">affiliations</span><span class="kw">:</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Once you are done adding content or need to finish for the day, click the green “Commit” changes button on the top right and write a <em>short, brief</em> commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.</p>
 <ul>
 <li>Commit your changes often. Don’t be shy about making many commits to the files you are changing.</li>
+<li>If you’ve committed for the day and want to come back later to continue writing, see the next section below on modifying existing content.</li>
 </ul></li>
-<li><p>When you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “pull request” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!</p></li>
+<li><p>When you are happy with your changes and want them to be added to the main branch (so they can be put on the website), click the “Contributing” button, write a short message as a title on what you are changing or adding in the pull request, and click “Create pull request”. Now your changes can be reviewed!</p></li>
 </ol>
+</section>
+<section id="modifying-existing-content" class="level2">
+<h2 class="anchored" data-anchor-id="modifying-existing-content">Modifying existing content</h2>
+<p>There are two ways to modify existing content, either directly through GitHub or through the website. The below video covers both, as well as the text below.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Cq99GeNa8vU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="modifying-by-using-the-github-approach" class="level3">
+<h3 class="anchored" data-anchor-id="modifying-by-using-the-github-approach">Modifying by using the GitHub approach</h3>
+<p>Here is a written description of the workflow to adding text in the files:</p>
+<ol type="1">
+<li><p>Like with the first item in the “Adding new content” above, create a new branch by clicking the button that says “Main” and type out the (new or existing) name of your new branch by using either your own name (without spaces, or using <code>-</code> instead) or, what I recommend, a brief description of what you plan to add (e.g. <code>editing-conference-travel</code> for adding content about traveling to conferences).</p>
+<ul>
+<li><p>If the branch doesn’t exist, after you type out the branch name, click the text that says “Create branch …”. It will now switch over to that new branch.</p></li>
+<li><p>If you have already created a branch for the content and are coming back to continue your work, then when you type out the branch name (or scroll through the list), you can select the branch to switch over to it.</p></li>
+</ul></li>
+<li><p>Click the appropriate folder and file that has the content you want to edit. After clicking the file, click the pencil icon in the top right corner to enter the GitHub editor.</p></li>
+<li><p>While in the editor, you can modify the content. The text is Markdown, which has special syntax. Review the <a href="../contributing/writing-markdown.html">Writing Markdown</a> guide for learning what Markdown is.</p></li>
+<li><p>Once you are done adding content or need to finish for the day, click the green “Commit” changes button on the top right and write a <em>short, brief</em> commit message about what you changed and why (can be optional). Then, making sure you have your branch selected, click the Commit button.</p>
+<ul>
+<li>Commit your changes often. Don’t be shy about making many commits to the files you are changing.</li>
+<li>If you’ve committed for the day and want to come back later to continue writing, see the next section below on modifying existing content.</li>
+</ul></li>
+<li><p>When you are finished with your edits, you can follow the instructions above about making a Pull Request so that your changes get added to the website.</p></li>
+</ol>
+</section>
+<section id="modifying-by-going-through-website" class="level3">
+<h3 class="anchored" data-anchor-id="modifying-by-going-through-website">Modifying by going through website</h3>
+<p>This is the most straightforward way of editing existing content that is already on the website, for instance to fix typos or add some more clarifying words. On the website there are these links, either on the left sidebar or at the very bottom of the page, that say “Edit this page”. After clicking it, it will take you to the GitHub Editor as described above. The only difference with this approach is that when you click “Commit”, it will automatically select the “Create new branch” option and, after committing, will open a Pull Request for you.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -496,7 +547,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="../CONTRIBUTING.html">Want to contribute? Click here.</a>
   </li>  
 </ul>
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/steno-aarhus/research/edit/main/contributing/adding-content.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action">Report an issue</a></p><p><a href="https://github.com/steno-aarhus/research/blob/main/contributing/adding-content.md" class="toc-action">View source</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
