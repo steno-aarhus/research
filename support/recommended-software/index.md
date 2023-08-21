@@ -7,4 +7,6 @@ author:
       - name: Steno Diabetes Center Aarhus
 ---
 
-The software we recommend to use for various purposes.
+## Data analysis
+
+- R and RStudio
