@@ -15,8 +15,8 @@ There are some terms used in the video:
 -   **Repository**: A
     [repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories)
     is everything that is contained within the project. In this case,
-    the repository is the website with the \[Issues\], files, and
-    subfolders for this project.
+    the repository is the website with the Issues, files, and subfolders
+    for this project.
 -   **Issue**: An [Issue](https://guides.github.com/features/issues/) is
     a task or to-do item that needs to be completed. These to-do items
     can be assigned to people and can be checked off as being done
