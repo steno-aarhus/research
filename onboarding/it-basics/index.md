@@ -69,6 +69,7 @@ well developed and clear documentation for IT related topics. Documentation is a
 The user infrastructure is designed around the user being connected to the regional network and working within a virtual workstation (Citrix), which can be access from any regional computer. While this basic setup is useful for clinicians that need to stay connected to their workflow as they move between physical computers during their daily work, it does not serve the needs of researchers and developers. While you can use Citrix and the software provided there, getting a so-called advanced setup and installing applications locally is most likely a much better choice. The following sections describe a) how to set up a Windows laptop for local use, b) general tips for using Citrix and the IT infrastructure.
 
 **How to set up your Windows laptop for local use**
+
 First, you need to do some shopping on the Regional Serviceportal. This process will require approval from your leader and you may need to file a support ticket to have the programs installed after approval.
 
 1. Request an advanced personal ("avanceret personlig") laptop setup
@@ -93,6 +94,7 @@ First, you need to do some shopping on the Regional Serviceportal. This process 
 
 
 **General tips for Citrix and the regional IT infrastructure**
+
 Help, support, and most other
 documents or services are almost completely only available through the
 ["Citrixportal"](https://citrixportal.rm.dk), which you need to log into
