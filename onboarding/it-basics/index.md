@@ -8,6 +8,10 @@ author:
     affiliations: 
       - ref: sdca
       - ref: ph-au
+  - name: Anders A. Isaksen
+    affiliations: 
+      - ref: sdca
+      - ref: ph-au
   - name: Luke W. Johnston
     affiliations:
       - ref: sdca
@@ -60,8 +64,36 @@ Their guides are all available in either English or Danish.
 
 Unlike Aarhus University, which is quite familiar and used to a diverse
 set of IT needs and international employees, the Region doesn't have as
-well developed and clear documentation for IT related topics.
-Documentation is also entirely in Danish. Help, support, and most other
+well developed and clear documentation for IT related topics. Documentation is also entirely in Danish.
+
+The user infrastructure is designed around the user being connected to the regional network and working within a virtual workstation (Citrix), which can be access from any regional computer. While this basic setup is useful for clinicians that need to stay connected to their workflow as they move between physical computers during their daily work, it does not serve the needs of researchers and developers. While you can use Citrix and the software provided there, getting a so-called advanced setup and installing applications locally is most likely a much better choice. The following sections describe a) how to set up a Windows laptop for local use, b) general tips for using Citrix and the IT infrastructure.
+
+**How to set up your Windows laptop for local use**
+First, you need to do some shopping on the Regional Serviceportal. This process will require approval from your leader and you may need to file a support ticket to have the programs installed after approval.
+
+1. Request an advanced personal ("avanceret personlig") laptop setup
+    - This will install the Access Director software, which enables you to get administrator privileges to install software locally for 5 minutes at a time.
+    - Note: The IT department cannot provide support for advanced personal setups.
+  
+2. Search the Serviceportal for any software you might need and request a local installation of these (e.g. MS Office, Acrobat Reader).
+    - You can also search for and request a VPN installation via the Serviceportal.
+
+ Next, you need to install any other necessary software (e.g. R, RStudio, Git, Python, Conda, etc.) locally by running Access Director immediately before installing. You will need to change your browser's download folder from the default (onedrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs. You may encounter problems with some programs refusing to install from downloaded installers, but these can often be installed through the Microsoft Store instead (e.g. Slack).
+
+ With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees (for example, you can use Outlook Desktop for email and calendar).
+
+ To-do:
+ 
+ - Add links to serviceportal sites.
+ - Add detailed instructions on how to get VPN set up
+ - Add details on how to install WSL for the Unix/Linux fans?
+ - How to set up a Regional MacBook
+
+  
+
+
+**General tips for Citrix and the regional IT infrastructure**
+Help, support, and most other
 documents or services are almost completely only available through the
 ["Citrixportal"](https://citrixportal.rm.dk), which you need to log into
 with your Region ID. Details about how to gain access is found either
