@@ -31,7 +31,9 @@ There are several sites to that list sources of funding:
 
 When you apply for a grant, please be aware whether the grant should be administered at Aarhus University or at Aarhus University Hospital. You have to be very specific about this in the application.
 
-If you need inspiration (an overview) for a budget, you can ask
--	Charlotte, cro@clin.au.dk 
--	Helle, hellbonn@rm.dk 
+If you need inspiration (an overview) for a budget, you can ask:
+
+- [Charlotte Rosholm](mailto:cro@clin.au.dk){.email}
+- [Helle Thomassen Bonnesen](mailto:hellbonn@rm.dk){.email}
+
 If you need further guidance, they will go through your budget provided that you have a fairly finished draft.
