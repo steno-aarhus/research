@@ -36,4 +36,3 @@ If you need inspiration (an overview) for a budget, you can ask:
 - [Charlotte Rosholm](mailto:cro@clin.au.dk){.email}
 - [Helle Thomassen Bonnesen](mailto:hellbonn@rm.dk){.email}
 
-If you need further guidance, they will go through your budget provided that you have a fairly finished draft.
