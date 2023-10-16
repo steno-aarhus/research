@@ -72,9 +72,15 @@ book hotel rooms outside Aarhus but in Denmark.
 ***As a main rule please note that daily allowance is not to be included
 in your claim.*** Please check the AU
 [documentation](https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling)
-for any other travel related information.
+for any other travel related information (e.g. travel by train).
 
 ## On AUH/RM funds
+
+### Train tickets - DSB Erhverv
+
+SDCA Research has an account with DSB Erhverv. It is possible for you to book DSB train and seat tickets online, where the invoice will be sent directly to SDCA.
+Please contact Inger Hornbech if you need to book train tickets for a business trip and the journey must be paid for by SDCA Research.
+Inger will then create an user account for you, so you can book the needed tickets.
 
 ### Booking of flights for you or an external visitor
 
@@ -140,11 +146,12 @@ book hotel rooms outside Aarhus but in Denmark.
 
 {{< include _hotels-abroad.md >}}
 
+### Other travel booking information
 Are you looking for other travel information than given here, please
 check out this link (only accessible on AUH internet connections or
 through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
 kurser, uddannelse m.v. - AUH intranet
-(rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/).
+(rm.dk)](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/).
 :::
 
 ## Contacts
