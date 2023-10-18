@@ -72,9 +72,15 @@ book hotel rooms outside Aarhus but in Denmark.
 ***As a main rule please note that daily allowance is not to be included
 in your claim.*** Please check the AU
 [documentation](https://medarbejdere.au.dk/administration/oekonomi/rejsebestilling)
-for any other travel related information.
+for any other travel related information (e.g. travel by train).
 
 ## On AUH/RM funds
+
+### Train tickets - DSB Erhverv
+
+SDCA Research has an account with DSB Erhverv. It is possible for you to book DSB train and seat tickets online, where the invoice will be sent directly to SDCA.
+Please contact Inger Hornbech if you need to book train tickets for a business trip and the journey must be paid for by SDCA Research.
+Inger will then create an user account for you, so you can book the needed tickets.
 
 ### Booking of flights for you or an external visitor
 
@@ -99,6 +105,7 @@ travel agency Egencia:
 -   Emirates
 -   Icelandair
 -   DAT (connection Karup and Copenhagen)
+-   Ryanair
 
 If you for some reason cannot book your flight at one of the above
 airline companies, then you have to state why that is in your travel
@@ -139,11 +146,13 @@ book hotel rooms outside Aarhus but in Denmark.
 
 {{< include _hotels-abroad.md >}}
 
+### Other travel booking information
+
 Are you looking for other travel information than given here, please
 check out this link (only accessible on AUH internet connections or
 through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
 kurser, uddannelse m.v. - AUH intranet
-(rm.dk)](http://auh.intranet.rm.dk/ledelse/budget-og-regnskab/regnskab/kursus-tjenesterejser-og-moeder/).
+(rm.dk)](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/).
 :::
 
 ## Contacts
@@ -151,7 +160,6 @@ kurser, uddannelse m.v. - AUH intranet
 If this document doesn't answer your questions, contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for those
 at AUH or Charlotte Rosholm
-([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Karin Ørbæk
-Kristensen ([karin\@clin.au.dk](mailto:karin@clin.au.dk){.email}) for
+([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) for
 those at AU.
 
