@@ -147,6 +147,7 @@ book hotel rooms outside Aarhus but in Denmark.
 {{< include _hotels-abroad.md >}}
 
 ### Other travel booking information
+
 Are you looking for other travel information than given here, please
 check out this link (only accessible on AUH internet connections or
 through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
