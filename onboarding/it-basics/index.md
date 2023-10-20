@@ -63,29 +63,25 @@ set of IT needs and international employees, the Region doesn't have as
 well developed and clear documentation for IT related topics.
 Documentation is also entirely in Danish. Help, support, and most other
 documents or services are almost completely only available through the
-["Citrixportal"](https://citrixportal.rm.dk), which you need to log into
-with your Region ID. Details about how to gain access is found either
-[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-(if outside the Region intranet, you will need to follow this
-[guide](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-to activate two-factor authentication codes).
+["Citrix"](https://citrix.rm.dk), which you need to log into with your
+MitID. Details about how to gain access is found
+[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/).
 
 -   **Personal drives**: Accessed by searching for "Stifinder" in the
-    Citrix portal. Files saved to the Region personal drive are
-    difficult to access outside of the Citrixportal and can't easily be
-    shared with others who do not have a Region ID. So we **do not**
-    recommend using the Region drives for anything but highly sensitive
+    Citrix. Files saved to the Region personal drive are difficult to
+    access outside of the Citrix and can't easily be shared with others
+    who do not have a Region ID. So we **do not** recommend using the
+    Region drives for anything, unless it is highly sensitive
     information. Data should not be saved on the personal drive, but
     instead should be saved through appropriate sources (depends on your
     research team).
 -   **Shared drives**: Accessed by searching for "Stifinder Afdeling" in
-    the Citrixportal. Like with the personal drive above, unless you
-    need to save and share information that is highly sensitive, we
-    recommend **not** to use the shared drive and instead use other
-    sources (like GitHub or the Aarhus University shared drives).
+    the Citrix. Like with the personal drive above, unless you need to
+    save and share information that is highly sensitive, we recommend
+    **not** to use the shared drive and instead use other sources (like
+    GitHub or the Aarhus University shared drives).
 -   **Email and calendar**: You can open your email and calendar either
-    through the Citrixportal or by using
-    [`post.rm.dk`](https://post.rm.dk/).
+    through the Citrix or by using [`post.rm.dk`](https://post.rm.dk/).
 :::
 
 Regardless of which institution is your administrative employer, if you
@@ -93,3 +89,4 @@ work primarily at SDCA, there are a number of helpful template files and
 other resources found only in Citrix (by searching for "Stifinder
 Afdeling"). We hope to slowly make these files more easily available,
 but until then, you can find relevant ones by asking your colleagues.
+

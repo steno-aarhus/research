@@ -22,10 +22,10 @@ everyone has Outlook or don't want to use multiple calendars, like if
 they are employed at Aarhus University but with an affiliation with the
 Region.
 
-The next way of booking rooms is through the [Citrix
-Portal](https://citrixportal.rm.dk), which you can only access if you
-have a Region ID. After you log into Citrix, use the Search button on
-the top right corner to look for `Pronestor`.
+The next way of booking rooms is through the
+[Citrix](https://citrix.rm.dk), which you can only access if you have
+MitID. After you log into Citrix, use the Search button on the top right
+corner to look for `Pronestor`.
 
 When it shows itself on the screen, click the icon for Pronestor. After
 it opens up, you should see a list of dates. Select the date you want to
