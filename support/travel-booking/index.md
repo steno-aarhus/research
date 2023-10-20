@@ -78,9 +78,12 @@ for any other travel related information (e.g. travel by train).
 
 ### Train tickets - DSB Erhverv
 
-SDCA Research has an account with DSB Erhverv. It is possible for you to book DSB train and seat tickets online, where the invoice will be sent directly to SDCA.
-Please contact Inger Hornbech if you need to book train tickets for a business trip and the journey must be paid for by SDCA Research.
-Inger will then create an user account for you, so you can book the needed tickets.
+SDCA Research has an account with DSB Erhverv. It is possible for you to
+book DSB train and seat tickets online, where the invoice will be sent
+directly to SDCA. Please contact Inger Hornbech if you need to book
+train tickets for a business trip and the journey must be paid for by
+SDCA Research. Inger will then create an user account for you, so you
+can book the needed tickets.
 
 ### Booking of flights for you or an external visitor
 
@@ -160,6 +163,7 @@ kurser, uddannelse m.v. - AUH intranet
 If this document doesn't answer your questions, contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for those
 at AUH or Charlotte Rosholm
-([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) for
-those at AU.
+([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) for those at AU.
 
+For EASD specific reimbursements, contact Julie Knudsen
+([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
