@@ -70,24 +70,28 @@ The user infrastructure is designed around the user being connected to the regio
 
 **How to set up your Windows laptop for local use**
 
-First, you need to do some shopping on the Regional Serviceportal. This process will require approval from your leader and you may need to file a support ticket to have the programs installed after approval.
+First, you need to do some shopping on the [Regional Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) - either using this link or by clicking the "Jeg mangler noget"-shopping cart. Simply use the search bar or the direct link provided in this guide This process will require approval from your leader and an EAN number to pay for some of the software. You may need to file a support ticket to have the programs installed after approval.
 
-1. Request an advanced personal ("avanceret personlig") laptop setup
+1. Request an advanced personal ("avanceret personlig") work laptop and order it in the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item_guide&sys_id=389e1446db7b3b009ec79532ca9619cc&sysparm_category=5cc7a91d8747b450d195ecec3fbb3555)
     - This will install the Access Director software, which enables you to get administrator privileges to install software locally for 5 minutes at a time.
     - Note: The IT department cannot provide support for advanced personal setups.
   
-2. Search the Serviceportal for any software you might need and request a local installation of these (e.g. MS Office, Acrobat Reader).
+2. Search the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) for any software you might need and request a local installation and access to these (e.g. MS Office, MS Teams, Adobe Acrobat etc.).
     - You can also search for and request a VPN installation via the Serviceportal.
 
- Next, you need to install any other necessary software (e.g. R, RStudio, Git, Python, Conda, etc.) locally by running Access Director immediately before installing. You will need to change your browser's download folder from the default (onedrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs. You may encounter problems with some programs refusing to install from downloaded installers, but these can often be installed through the Microsoft Store instead (e.g. Slack).
+You will need to change your browser's download folder from the default (onedrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs. Next, you need run Access Director before installing other necessary software locally (e.g. R, RStudio, Git, Python, Conda, etc.). Read the [Serviceportals guide to Access Director](https://regionmidtjylland.service-now.com/kb?id=kb_article_view&sysparm_article=KB0014890) for details.  Furthermore, some installation files will be blocked, such as .msi-installers, and you will need to shift-right-click and choose "install as other user" as described in the [Access Director guide to .msi-files](https://regionmidtjylland.service-now.com/kb?id=kb_article_view&sysparm_article=KB0014890)
+If you still encounter problems with some installers being blocked, see if these can be installed through the Microsoft Store instead.
 
- With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees (for example, you can use Outlook Desktop for email and calendar).
+3. VPN can be ordered through the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item&sys_id=3b7b0709dbd613c09e1bf7671d961939&sysparm_category=70db0bb7db48034037f2ff461d9619e2) and the setup is straightforward (two-factor authentication via smartphone app).
+
+4. Linux applications can be run via Windows Subsystems for Linux (WSL1 or WSL2), which can be installed via Powershell as described in the [WSL installation guide](https://learn.microsoft.com/en-us/windows/wsl/install) (after running Access Director). Note that WSL2 will not use the Windows VPN by default (as opposed to WSL1, so setting up a WSL1 environment may provide a fix if you need Linux apps to use the VPN).
+
+5. To book rooms for meetings, you can simply use [Pronestor in the browser](http://lokaler.rm.dk/), rather than the Citrix link.
+
+With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees (for example, you can use Outlook Desktop for email and calendar).
 
  To-do:
  
- - Add links to serviceportal sites.
- - Add detailed instructions on how to get VPN set up
- - Add details on how to install WSL for the Unix/Linux fans?
  - How to set up a Regional MacBook
 
   
