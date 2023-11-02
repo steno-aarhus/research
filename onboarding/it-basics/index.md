@@ -84,13 +84,13 @@ Please note that purchases on the Serviceportal will require approval from your 
 3. You will need to change your browser's download folder from the default (onedrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs as you normally wood. Next, you need run Access Director before installing other necessary software locally (e.g. R, RStudio, Git, Python, Conda, etc.). Read the [Serviceportals guide to Access Director](https://regionmidtjylland.service-now.com/kb?id=kb_article_view&sysparm_article=KB0014890) for details.  Furthermore, some installation files will be blocked, such as .msi-installers, and you will need to shift-right-click and choose "install as other user" as described in the [Access Director guide to .msi-files](https://regionmidtjylland.service-now.com/kb?id=kb_article_view&sysparm_article=KB0014890)
 If you still encounter problems with some installers being blocked, see if these can be installed through the Microsoft Store instead.
 
-4. VPN can be ordered through the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item&sys_id=3b7b0709dbd613c09e1bf7671d961939&sysparm_category=70db0bb7db48034037f2ff461d9619e2) and the setup is straightforward (two-factor authentication via smartphone app).
+4. VPN can be ordered through the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item&sys_id=3b7b0709dbd613c09e1bf7671d961939&sysparm_category=70db0bb7db48034037f2ff461d9619e2) for working remotely (requires phone for two-factor authentication).
 
 5. Linux applications can be run via Windows Subsystems for Linux (WSL1 or WSL2), which can be installed via Powershell as described in the [WSL installation guide](https://learn.microsoft.com/en-us/windows/wsl/install) (after running Access Director). Note that WSL2 will not use the Windows VPN by default (as opposed to WSL1, so setting up a WSL1 environment may provide a fix if you need Linux apps to use the VPN).
 
 6. To book rooms for meetings, you can simply use [Pronestor in the browser](http://lokaler.rm.dk/), rather than the Citrix link.
 
-With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users on a local setup.
+With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users using the above local setup.
 
 
 
