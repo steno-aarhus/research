@@ -70,7 +70,9 @@ The user infrastructure is designed around the user being connected to the regio
 
 **How to set up your Windows laptop for local use**
 
-First, you need to do some shopping on the [Regional Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) - either using this link or by clicking the "Jeg mangler noget"-shopping cart icon on the [landing page](https://regionmidtjylland.service-now.com/rmsp). Simply use the search bar or the direct link provided in this guide This process will require approval from your leader and an EAN number to pay for some of the software. You may need to file a support ticket to have the programs installed after approval.
+First, you need to do some shopping on the [Regional Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) - either using the direct links provided in this guide or by clicking the "Jeg mangler noget"-shopping cart icon on the [landing page](https://regionmidtjylland.service-now.com/rmsp).
+
+Please note that purchases on the Serviceportal will require approval from your leader and an EAN number for payments, so make sure to have that sorted out beforehand. In some cases, the software needs to first be approved for your user, and only then can it be remotely installed on your machine by Serviceportal admins. You may be able to shorten this delay by filing a support ticket to remind the admins to install your applications after the first approval.
 
 1. Request an advanced personal ("avanceret personlig") work laptop and order it in the [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item_guide&sys_id=389e1446db7b3b009ec79532ca9619cc&sysparm_category=5cc7a91d8747b450d195ecec3fbb3555)
     - This will install the Access Director software, which enables you to get administrator privileges to install software locally for 5 minutes at a time.
