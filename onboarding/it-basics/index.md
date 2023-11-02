@@ -90,13 +90,8 @@ If you still encounter problems with some installers being blocked, see if these
 
 6. To book rooms for meetings, you can simply use [Pronestor in the browser](http://lokaler.rm.dk/), rather than the Citrix link.
 
-With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees (for example, you can use Outlook Desktop for email and calendar).
+With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users on a local setup.
 
- To-do:
- 
- - How to set up a Regional MacBook
-
-  
 
 
 **General tips for Citrix and the regional IT infrastructure**
