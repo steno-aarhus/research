@@ -90,6 +90,8 @@ If you still encounter problems with some installers being blocked, see if these
 
 6. To book rooms for meetings, you can simply use [Pronestor in the browser](http://lokaler.rm.dk/), rather than the Citrix link.
 
+7. Printing: To add and use the network printers, follow the [guide on Serviceportal](https://regionmidtjylland.service-now.com/sys_attachment.do?sys_id=c302fee31b1421508b426282b24bcbe8)(in Danish).
+ 
 With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users using the above local setup.
 
 
