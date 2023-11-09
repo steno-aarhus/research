@@ -68,6 +68,17 @@ well developed and clear documentation for IT related topics. Documentation is a
 
 The user infrastructure is designed around the user being connected to the regional network and working within a virtual workstation (Citrix), which can be access from any regional computer. While this basic setup is useful for clinicians that need to stay connected to their workflow as they move between physical computers during their daily work, it does not serve the needs of researchers and developers. While you can use Citrix and the software provided there, getting a so-called advanced setup and installing applications locally is most likely a much better choice. The following sections describe a) how to set up a Windows laptop for local use, b) general tips for using Citrix and the IT infrastructure.
 
+**Printing**
+
+To use the Regional cloud printers, follow the [guide on Serviceportal](https://regionmidtjylland.service-now.com/sys_attachment.do?sys_id=c302fee31b1421508b426282b24bcbe8).
+Summary for english speakers:
+- Click the 'Start' button in Windows and go to 'Enheder og printere' (EN: Devices and printers).
+- Click the 'Tilføj en printer' (EN: add a printer) button in the top panel
+- Choose 'Den printer, jeg søger efter, findes ikke på listen' (EN: The printer that I want isn't listed) and click 'Næste'.
+- Choose 'Søg efter en printer i kataloget, baseret på placering eller funktion' and click 'Næste' (EN: Find a printer in the directory, based on location or feature) and click 'Næste'.
+- The names of printers at Aarhus University Hospital are prefixed 1_, so enter 1_ in the 'Navn' (EN: Name) field and press Enter to find these. Double-click the printer to install it (e.g. for A4-size prints, add 1_RM_A4_Farve for colour and 1_RM_A4_SH for black and white prints). Click 'Næste' and 'Udført' to complete the setup.
+- Now you can send documents to the printers. The document will be physically printed when you log on to one of the Minolta printers around the hospital. At Steno, the Minolta printer is located on the 3rd floor around one of the corners of the office corridor where various office items are also stored. Log on using your regionsID and password or keycard.
+
 **How to set up your Windows laptop for local use**
 
 First, you need to do some shopping on the [Regional Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) - either using the direct links provided in this guide or by clicking the "Jeg mangler noget"-shopping cart icon on the [landing page](https://regionmidtjylland.service-now.com/rmsp).
@@ -89,8 +100,6 @@ If you still encounter problems with some installers being blocked, see if these
 5. Linux applications can be run via Windows Subsystems for Linux (WSL1 or WSL2), which can be installed via Powershell as described in the [WSL installation guide](https://learn.microsoft.com/en-us/windows/wsl/install) (after running Access Director). Note that WSL2 will not use the Windows VPN by default (as opposed to WSL1, so setting up a WSL1 environment may provide a fix if you need Linux apps to use the VPN).
 
 6. To book rooms for meetings, you can simply use [Pronestor in the browser](http://lokaler.rm.dk/), rather than the Citrix link.
-
-7. Printing: To add and use the network printers, follow the [guide on Serviceportal](https://regionmidtjylland.service-now.com/sys_attachment.do?sys_id=c302fee31b1421508b426282b24bcbe8) (Danish).
  
 With this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users using the above local setup.
 
