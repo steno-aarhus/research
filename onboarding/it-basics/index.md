@@ -58,7 +58,7 @@ Their guides are all available in either English or Danish.
 
 ### Region Midt
 
-Region Midt uses the cloud based [“Citrix”](https://citrix.rm.dk/) workspace app to access all their IT solutions. You can find [IT support](https://intranet.rm.dk/it/it-support/) and [guides](https://intranet.rm.dk/it/Region-Midtjyllands-it-vejledninger/) on the Region Midt intranet. Help, support, documents or other services are also almost only available through Citrix.
+Region Midt uses the cloud based [“Citrix”](https://citrix.rm.dk/) workspace app to access all their IT solutions. You can find [IT support](https://intranet.rm.dk/it/it-support/) and [guides](https://intranet.rm.dk/it/Region-Midtjyllands-it-vejledninger/) on the Regions intranet. Help, support, documents or other services are also almost only available through Citrix.
 
 To access Citrix you need to have a Region ID and log in with your MitID or scan your access card. If you need help with this, please ask Julie Knudsen [julie.knudsen@rm.dk](Julie.knudsen@rm.dk).
 If you are using a Region Midt computer, all programs need to be opened through the Citrix app. If you are working from another computer, you can get access through [https://citrix.rm.dk/](https://citrix.rm.dk).
@@ -67,8 +67,7 @@ If you are using a Region Midt computer, all programs need to be opened through 
     access outside of Citrix and can't easily be shared with others
     who do not have a Region ID. So we do not recommend using the
     Region drives unless it is highly sensitive
-    information. Data should not be saved on the personal drive, but
-    instead should be saved through appropriate sources (depends on your
+    information. Data should instead be saved on shared drives or through other appropriate sources (depends on your
     research team).
 -   **Shared drives**: Accessed by searching for "Stifinder Afdeling" in
     Citrix. Like with the personal drive above, it depends on what kind of information you need to
