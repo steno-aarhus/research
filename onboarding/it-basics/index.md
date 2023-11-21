@@ -31,9 +31,9 @@ here are some basic things you might need from IT.
 ::: panel-tabset
 ### Aarhus University
 
-Specific support can be found on their [Guides
+Specific support can be found on the [Guides
 website](https://medarbejdere.au.dk/en/administration/it/guides) or by
-contacting them directly on their [contacts
+contacting Aarhus University directly on their [contacts
 page](https://medarbejdere.au.dk/en/administration/it/main-academic-areas/he-it-support/).
 Their guides are all available in either English or Danish.
 
@@ -58,30 +58,23 @@ Their guides are all available in either English or Danish.
 
 ### Region Midt
 
-Unlike Aarhus University, which is quite familiar and used to a diverse
-set of IT needs and international employees, the Region doesn't have as
-well developed and clear documentation for IT related topics.
-Documentation is also entirely in Danish. Help, support, and most other
-documents or services are almost completely only available through the
-["Citrix"](https://citrix.rm.dk), which you need to log into with your
-MitID. Details about how to gain access is found
-[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/).
+Region Midt uses the cloud based [“Citrix”](https://citrix.rm.dk/) workspace app to access all their IT solutions. You can find [IT support](https://intranet.rm.dk/it/it-support/) and [guides](https://intranet.rm.dk/it/Region-Midtjyllands-it-vejledninger/) on the Regions intranet. Help, support, documents or other services are also almost only available through Citrix.
 
--   **Personal drives**: Accessed by searching for "Stifinder" in the
-    Citrix. Files saved to the Region personal drive are difficult to
-    access outside of the Citrix and can't easily be shared with others
-    who do not have a Region ID. So we **do not** recommend using the
-    Region drives for anything, unless it is highly sensitive
-    information. Data should not be saved on the personal drive, but
-    instead should be saved through appropriate sources (depends on your
+To access Citrix you need to have a Region ID and log in with your MitID or scan your access card. If you need help with this, please ask Julie Knudsen [julie.knudsen@rm.dk](Julie.knudsen@rm.dk).
+If you are using a Region Midt computer, all programs need to be opened through the Citrix app. If you are working from another computer, you can get access through [https://citrix.rm.dk/](https://citrix.rm.dk).
+
+-   **Personal drives**: Accessed by searching for "Stifinder" in Citrix. Files saved to the Region personal drive are difficult to
+    access outside of Citrix and can't easily be shared with others
+    who do not have a Region ID. So we do not recommend using the
+    Region drives unless it is highly sensitive
+    information. Data should instead be saved on shared drives or through other appropriate sources (depends on your
     research team).
 -   **Shared drives**: Accessed by searching for "Stifinder Afdeling" in
-    the Citrix. Like with the personal drive above, unless you need to
-    save and share information that is highly sensitive, we recommend
-    **not** to use the shared drive and instead use other sources (like
+    Citrix. Like with the personal drive above, it depends on what kind of information you need to
+    save and share, whether you should use the shared drive or instead use other sources (like
     GitHub or the Aarhus University shared drives).
 -   **Email and calendar**: You can open your email and calendar either
-    through the Citrix or by using [`post.rm.dk`](https://post.rm.dk/).
+    through Citrix or by using [`post.rm.dk`](https://post.rm.dk/).
 :::
 
 Regardless of which institution is your administrative employer, if you
