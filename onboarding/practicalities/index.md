@@ -25,8 +25,7 @@ Printer
 :   Note the name of the printer from someone in your office. For
     questions regarding the SDCA printer: ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). For questions
-    regarding the AU printer: ask Karin Ørbæk Kristensen
-    ([karin\@clin.au.dk](mailto:karin@clin.au.dk){.email}) or Charlotte
+    regarding the AU printer: ask Charlotte
     Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
 
 Microsoft Office templates (for RM)
