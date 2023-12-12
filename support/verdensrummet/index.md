@@ -51,7 +51,7 @@ metadata-files:
 
 ### Requirements
 -	A computer
--	A Microsoft Teams account with license to participate via video conference systems. *This feature is not included in all Microsoft Teams accounts, but is a feature you have to pay extra for.* Region Midtjylland has the license for this.
+-	A Microsoft Teams account with license to participate via video conference systems. *This feature is not included in all Microsoft Teams accounts, but is a feature you have to pay extra for.* Central Region Denmark (RM) has the license for this. Ask Julie Knudsen if you need help with booking a Teams meeting.
 
 ### Steps
 1.	Start the Teams meeting from your computer
