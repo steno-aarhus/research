@@ -14,7 +14,7 @@ author:
 
 {{< include ../../includes/_wip.md >}}
 
-![SDCA Management team](https://www.stenoaarhus.dk/siteassets/6.-om-os/organisationsdiagramledelse.png)
+![SDCA Management team](https://www.stenoaarhus.dk/siteassets/6.-om-os/organisationsdiagramledelse2.png)
 
 As opposed to other clinical departments at Aarhus University Hospital
 (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is

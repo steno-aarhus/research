@@ -64,8 +64,7 @@ PhD network and facebook
     and information from time to time.
 
     For questions related to the PhD network meetings, please contact
-    Ole Emil Andersen at
-    [oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email}.
+    Julie Bondgaard Mortensen at [juliebm@biomed.au.dk](mailto:juliebm@biomed.au.dk){.email}.
 
     When you end your PhD you will no longer be part of the PhD network,
     but you may choose to join the SDCA Alumni network.
