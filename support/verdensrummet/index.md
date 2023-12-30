@@ -50,23 +50,27 @@ metadata-files:
 ## Microsoft Teams
 
 ### Requirements
+
 -	A computer
 -	A Microsoft Teams account with license to participate via video conference systems. *This feature is not included in all Microsoft Teams accounts, but is a feature you have to pay extra for.* Central Region Denmark (RM) has the license for this. Ask Julie Knudsen if you need help with booking a Teams meeting.
 
 ### Steps
+
 1.	Start the Teams meeting from your computer
 
 3.	On the wired tablet controller choose: "Video call"
 
-4.	Choose “-Region Midt- Teams møde (SIP)” from the “Favourites” tab.
+4.	Choose "-Region Midt- Teams møde (SIP)" from the "Favourites" tab.
 
 5.	In the prompt that shows up on the screen, enter the video meeting ID (listed under "Deltag med en videomøde-enhed") followed by # and join the Teams meeting.
 
 6.	Only use the microphone, speakers and cameras from Verdensrummet (the controller) and disable this on the computer.
+
 **Note:** Verdensrummet is a participant in the meeting, so **do not use the "mute all" button!** Ask the participants to mute themselves instead.
 :::
 
 ### More tips
+
 - At the controller unit, you can choose where the cameras point. To
     only see the PowerPoint, you can choose "Focus mode" in settings on
     the controller.
