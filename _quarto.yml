@@ -38,11 +38,11 @@ website:
           - text: Official site
             href: "https://www.stenoaarhus.dk/research"
           - text: Common Docs
-            href: "https://www.stenoaarhus.dk/research"
+            href: "https://steno-aarhus.github.io/research"
           - text: Epi Stats
-            href: "https://www.stenoaarhus.dk/research"
-          - text: Registers
-            href: "https://www.stenoaarhus.dk/research"
+            href: "https://steno-aarhus.github.io/epi-stats"
+          - text: Register Space
+            href: "https://steno-aarhus.github.io/register-space"
 
 format: sdca-theme-html
 
