@@ -1,17 +1,10 @@
 project:
-  type: website
-  output-dir: public
-  execute-dir: project
+  type: sdca-theme
 
 website:
   title: "SDCA Research"
   site-url: "https://steno-aarhus.github.io/research/"
   repo-url: "https://github.com/steno-aarhus/research"
-  repo-branch: main
-  repo-actions: [edit, issue, source]
-  search:
-    location: navbar
-    type: overlay
   navbar:
     pinned: true
     left:
@@ -35,32 +28,23 @@ website:
             href: CONTRIBUTING.md
           - text: "Code of Conduct"
             href: CODE_OF_CONDUCT.md
+    tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/research"
-      - icon: globe
-        href: "https://www.stenoaarhus.dk/research"
+        href: "https://github.com/steno-aarhus/"
       - icon: twitter
         href: "https://twitter.com/StenoAarhusRes"
-  page-footer:
-    center:
-      - text: "License: CC BY 4.0"
-        href: LICENSE.md
-      - text: "Want to contribute? Click here."
-        href: CONTRIBUTING.md
+      - icon: three-dots-vertical
+        menu:
+          - text: Official site
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Common Docs
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Epi Stats
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Registers
+            href: "https://www.stenoaarhus.dk/research"
 
-reference-location: margin
-title-block-banner: images/banner.png
-
-format:
-  html:
-    toc: true
-    df-print: tibble
-    code-overflow: scroll
-    from: markdown+emoji
-    code-link: true
-    theme:
-        - litera
-        - includes/theme.scss
+format: sdca-theme-html
 
 editor_options:
   markdown:
