@@ -1,0 +1,25 @@
+---
+title: "Website Directory"
+title-block-banner: false
+---
+
+These are other websites across Steno Aarhus:
+
+-   [Official site](https://www.stenoaarhus.dk/research): The official
+    Region Midt website for more general public information and details.
+-   [Research Common Docs](https://steno-aarhus.github.io/research):
+    Common documents and operating prodecures for researchers across
+    Steno Aarhus.
+-   [Epidemiology and
+    Statistics](https://steno-aarhus.github.io/epi-stats): Events and
+    activities related to epidemiology and statistics.
+-   [Register Research
+    Space](https://steno-aarhus.github.io/register-space): Events and
+    activities related to register-based research.
+-   [Internationalization](https://steno-aarhus.github.io/internationalization):
+    Efforts to spread knowledge and connect with other countries,
+    specifically Latin America.
+-   [Epidemiology Group](https://steno-aarhus.github.io/epi):
+    Documentation for meetings within the epidemiology group.
+-   [Coding Cafe](https://coding-cafe-sdca-au.netlify.app/): Schedule
+    for in-person coding support and help.
