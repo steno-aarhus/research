@@ -30,18 +30,8 @@ website:
         href: "https://github.com/steno-aarhus/"
       - icon: twitter
         href: "https://twitter.com/StenoAarhusRes"
-      - icon: three-dots-vertical
-        menu:
-          - text: Official site
-            href: "https://www.stenoaarhus.dk/research"
-          - text: Common Docs
-            href: "https://steno-aarhus.github.io/research"
-          - text: Epi Stats
-            href: "https://steno-aarhus.github.io/epi-stats"
-          - text: Register Space
-            href: "https://steno-aarhus.github.io/register-space"
-          - text: Internationalization
-            href: "https://steno-aarhus.github.io/internationalization"
+      - icon: globe
+        href: directory.qmd
 
 format: sdca-theme-html
 
