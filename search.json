@@ -140,186 +140,60 @@
     "text": "When you write content for any documents on this repository, the content needs to be written in Markdown. So take some time to look over this linked guide and learn a bit about Markdown. I promise, it won’t take long to learn! To see a “real-world” example, check out how our Code of Conduct is written."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Website Directory",
     "section": "",
-    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
+    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help."
   },
   {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About",
-    "section": "Purpose",
-    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
-  },
-  {
-    "objectID": "about.html#resources-and-documentation",
-    "href": "about.html#resources-and-documentation",
-    "title": "About",
-    "section": "Resources and documentation",
-    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
-  },
-  {
-    "objectID": "about.html#people",
-    "href": "about.html#people",
-    "title": "About",
-    "section": "People",
-    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
-  },
-  {
-    "objectID": "organization/sdca-management/index.html",
-    "href": "organization/sdca-management/index.html",
-    "title": "SDCA management structure",
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Code of Conduct",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nSDCA Management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nPoul Michaelsen, Head of Corporate Management, Central Denmark Region\nMette Fjord Nielsen, Chief Nursing Officer, Hospitalsenhed Midt\nPia Ulv Helleland, CEO, Lemvig Municipality\nAnne-Mette Hvas, Dean, Health - Aarhus University\nSusanne Lauth, Chief Nursing Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
   },
   {
-    "objectID": "onboarding.html",
-    "href": "onboarding.html",
-    "title": "Onboarding Material for New Researchers at SDCA",
+    "objectID": "CODE_OF_CONDUCT.html#correction",
+    "href": "CODE_OF_CONDUCT.html#correction",
+    "title": "Contributor Code of Conduct",
+    "section": "1. Correction",
+    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#warning",
+    "href": "CODE_OF_CONDUCT.html#warning",
+    "title": "Contributor Code of Conduct",
+    "section": "2. Warning",
+    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
+    "href": "CODE_OF_CONDUCT.html#temporary-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "3. Temporary Ban",
+    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
+    "href": "CODE_OF_CONDUCT.html#permanent-ban",
+    "title": "Contributor Code of Conduct",
+    "section": "4. Permanent Ban",
+    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "organization/research-groups/index.html",
+    "href": "organization/research-groups/index.html",
+    "title": "Research groups at SDCA",
     "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started as a PhD student\n\n\nMaterial for onboarding new PhD students at SDCA.\n\n\n\n\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\n\n\n\n\n\n\nGeneral practicalities\n\n\nSome basic setup and practicalities, like office supplies.\n\n\n\n\n\n\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\n\n\n\n\n\n\nMeetings, courses, events, and social activities\n\n\nDetails on various social activities and events at or connected with SDCA and finding more information about them.\n\n\n\n\n\n\n\n\n\n\nParking at Aarhus University Hospital (AUH)\n\n\nInformation for parking at the hospital, as an AU or RM employee.\n\n\n\n\n\n\n\n\n\n\nSick days, holidays, and time off\n\n\nTaking days off for being sick, for parental leave, holidays, and any other reasons.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
   },
   {
-    "objectID": "onboarding/days-off/index.html",
-    "href": "onboarding/days-off/index.html",
-    "title": "Sick days, holidays, and time off",
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Documentation and Resources for Supporting Research Activities",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nCalling in sick for yourself or a dependent (like your child)\n\nSick days are generally very easy to ask for, though does depend on your terms of employment. For PhD students, email your supervisor. For postdocs at SDCA, email Inger Hornbech (inger.hornbech@rm.dk) for registration if you have an RM employment or Charlotte Rosholm (cro@clin.au.dk) if you are employed at AU. Ultimately, contact whoever administers yours or your supervisor’s grants.\n\nHolidays and “omsorgsdage”\n\nThe exact amount of holidays and time off you get depend on your terms of employment. For PhD students email your supervisor. For postdocs and other researchers in SDCA, email Inger Hornbech for registration if you have an RM employment or Charlotte Rosholm if you have an AU employment.\n\nMaternity/paternity leave and other leaves\n\nCentral Denmark Region employment: ask Maria Siggaard (marsig@rm.dk). AU employment: please contact Charlotte Rosholm (cro@clin.au.dk). Please refer to the one who administers yours or your supervisor’s grants."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html",
-    "href": "onboarding/parking-at-auh/index.html",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
-    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Information regarding parking for RM employees",
-    "text": "Information regarding parking for RM employees\nIf you are employed by Central Denmark Region please contact Inger Hornbech if you need a parking contract at AUH."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
-    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Information regarding parking for AU employees",
-    "text": "Information regarding parking for AU employees\nIf you are employed by Aarhus University you can buy a parking card for Aarhus University Hospital (AUH), if you use the following guide:\n\nGo to APCOA’s website.\nFill out the form.\nYou don’t need to fill in the registration number of the car. The parking card is registered to the person (not the car), so it’s possible to use the card in another car if needed.\nIt is also possible to buy an extra parking card (card no. 2), if you use different cars, and would like to keep a card in each car. The price is 100 DKKR (one-time expense for the extra card)."
-  },
-  {
-    "objectID": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
-    "href": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
-    "title": "Parking at Aarhus University Hospital (AUH)",
-    "section": "Problems regarding parking?",
-    "text": "Problems regarding parking?\nPlease contact APCOA by phone +45 86 783 533 (They are available 24/7).\nAPCOA Parking Skejby\nAarhus University Hospital, G306, 1st floor office\nPalle Juul-Jensens Boulevard 99\n8200 Aarhus N\nTelephone: +45 86 783 533\nEmail: skejby@apcoa.dk"
-  },
-  {
-    "objectID": "onboarding/it-basics/index.html",
-    "href": "onboarding/it-basics/index.html",
-    "title": "IT basics",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nIT software, services, and hardware are all dependent on your location of employment: Aarhus University or Region Midt. Getting user access is usually done as part of the employment process. Once you have a user ID, here are some basic things you might need from IT."
-  },
-  {
-    "objectID": "onboarding/it-basics/index.html#institute-specific-details",
-    "href": "onboarding/it-basics/index.html#institute-specific-details",
-    "title": "IT basics",
-    "section": "Institute-specific details",
-    "text": "Institute-specific details\n\nAarhus UniversityRegion Midt\n\n\nSpecific support can be found on the Guides website or by contacting Aarhus University directly on their contacts page. Their guides are all available in either English or Danish.\n\nWiFi: Accessing internet is done with eduroam. Set up is done through their guide.\nVPN: When working remotely, many university and research services are only available by connecting to the university VPN. Use their Setup Guide.\nPersonal drive: You can connect and access your personal drive from your computer by following these instructions.\nShared drive(s): If you need access to a shared drive that your team or colleagues use, start with first requesting access to it. Once you get it, follow these steps to access it on your computer.\nEmail and calendar: Setting up or accessing your email and calender is done by going through their Email FAQ Guide.\n\n\n\nUnlike Aarhus University, which is quite familiar and used to a diverse set of IT needs and international employees, the Region doesn’t have as well developed and clear documentation for IT related topics. Documentation is also entirely in Danish.\nThe infrastructure is designed around the user being connected to the regional network and working within a virtual workstation (Citrix), which can be access from any regional computer. While this basic setup is useful for clinicians that need to stay connected to their workflow as they move between physical computers during their daily work, it does not serve the needs of researchers and developers. While you can use Citrix and the software provided there, getting a so-called advanced setup and installing applications locally is most likely a much better choice. The following sections describe a) how to set up a Windows laptop for local use, b) general tips for using Citrix and the IT infrastructure.\n“Citrix” is a cloud-based workspace app to access all Region Midt’s IT solutions. You can find IT support and guides on the Regions intranet. Help, support, documents or other services are also almost only available through Citrix.\nTo access Citrix you need to have a Region ID and log in with your MitID or scan your access card. If you need help with this, please ask Julie Knudsen julie.knudsen@rm.dk.\nIf you are using a Region Midt computer, all programs need to be opened through the Citrix app. If you are working from another computer, you can get access through https://citrix.rm.dk/.\nPrinting\nTo use the Regional cloud printers, follow the guide on Serviceportal. Summary for English speakers:\n\nClick the ‘Start’ button in Windows and go to ‘Enheder og printere’ (EN: Devices and printers).\nClick the ‘Tilføj en printer’ (EN: “Add a printer”) button in the top panel\nChoose ‘Den printer, jeg søger efter, findes ikke på listen’ (EN: “The printer that I want isn’t listed”) and click ‘Næste’.\nChoose ‘Søg efter en printer i kataloget, baseret på placering eller funktion’ and click ‘Næste’ (EN: “Find a printer in the directory, based on location or feature”) and click ‘Næste’.\nThe names of printers at Aarhus University Hospital are prefixed 1_, so enter 1_ in the ‘Navn’ (EN: Name) field and press Enter to find these. Double-click the printer to install it (e.g. for A4-size prints, add 1_RM_A4_Farve for colour and 1_RM_A4_SH for black and white prints). Click ‘Næste’ and ‘Udført’ to complete the setup.\nNow you can send documents to the printers. The document will be physically printed when you log on to one of the Minolta printers around the hospital. At Steno, the Minolta printer is located on the 3rd floor around one of the corners of the office corridor where various office items are also stored. Log on using your Region ID and password or keycard.\n\nHow to set up your Windows laptop for local use\nFirst, you need to do some shopping on the Regional Serviceportal - either using the direct links provided in this guide or by clicking the “Jeg mangler noget”-shopping cart icon on the landing page.\nPlease note that purchases on the Serviceportal will require approval from your supervisor or manager and an EAN number for payments, so make sure to have that sorted out beforehand. In some cases, the software needs to first be approved for your user, and only then can it be remotely installed on your machine by Serviceportal admins. You may be able to shorten this delay by filing a support ticket to remind the admins to install your applications after the first approval.\n\nRequest an advanced personal (“avanceret personlig”) work laptop and order it in the Serviceportal\n\nThis will install the Access Director software, which enables you to get administrator privileges to install software locally for 5 minutes at a time.\nNote: The IT department cannot provide support for advanced personal setups.\n\nSearch the Serviceportal for any software you might need and request a local installation and access to these (e.g. MS Office, MS Teams, Adobe Acrobat etc.).\n\nYou can also search for and request a VPN installation via the Serviceportal.\n\nYou will need to change your browser’s download folder from the default (OneDrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs as you normally wood. Next, you need run Access Director before installing other necessary software locally (e.g. R, RStudio, Git, Python, Conda, etc.). Read the Serviceportals guide to Access Director for details. Furthermore, some installation files will be blocked, such as .msi-installers, and you will need to Shift right-click and choose “install as other user” as described in the Access Director guide to .msi-files. If you still encounter problems with some installers being blocked, see if these can be installed through the Microsoft Store instead.\nVPN can be ordered through the Serviceportal for working remotely (requires phone for two-factor authentication).\nLinux applications can be run via Windows Subsystems for Linux (WSL1 or WSL2), which can be installed via Powershell as described in the WSL installation guide (after running Access Director). Note that WSL2 will not use the Windows VPN by default (as opposed to WSL1, so setting up a WSL1 environment may provide a fix if you need Linux apps to use the VPN).\nTo book rooms for meetings, you can simply use Pronestor in the browser, rather than the Citrix link.\n\nWith this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users using the above local setup.\nGeneral tips for Citrix and the regional IT infrastructure\nHelp, support, and most other documents or services are almost completely only available through the “Citrix” webportal, which you need to log into with your Region ID. Details about how to gain access is found either here (if outside the Region intranet, you will need to follow this guide to activate two-factor authentication codes).\n\nPersonal drives: Accessed by searching for “Stifinder” in Citrix. Files saved to the Region personal drive are difficult to access outside of Citrix and can’t easily be shared with others who do not have a Region ID. So we do not recommend using the Region drives unless it is highly sensitive information. Data should instead be saved on shared drives or through other appropriate sources (depends on your research team).\nShared drives: Accessed by searching for “Stifinder Afdeling” in Citrix. Like with the personal drive above, it depends on what kind of information you need to save and share, whether you should use the shared drive or instead use other sources. Like with the personal drive above, unless you need to save and share information that is highly sensitive, we recommend not to use the shared drive and instead use other sources (like GitHub or the Aarhus University shared drives).\nEmail and calendar: You can open your email and calendar either through Citrix or by using post.rm.dk.\n\n\n\n\nRegardless of which institution is your administrative employer, if you work primarily at SDCA, there are a number of helpful template files and other resources found only in Citrix (by searching for “Stifinder Afdeling”). We hope to slowly make these files more easily available, but until then, you can find relevant ones by asking your colleagues."
-  },
-  {
-    "objectID": "onboarding/practicalities/index.html",
-    "href": "onboarding/practicalities/index.html",
-    "title": "General practicalities",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nPrinter\n\nNote the name of the printer from someone in your office. For questions regarding the SDCA printer: ask Maria Siggaard (marsig@rm.dk). For questions regarding the AU printer: ask Charlotte Rosholm (cro@clin.au.dk).\n\nMicrosoft Office templates (for RM)\n\nAll templates are found in the folder N:\\Afdeling\\AUHSTDIC\\_Fælles\\SDCA-dokumenter_Skabeloner. This (unfortunately) can so far only be accessed through the “Citrixportal”.\n\nOffice supplies\n\nYou can find office supplies in the copy room on Plan 3 at SDCA in Forum. If something you need isn’t there, contact Julie Knudsen at julie.knudsen@rm.dk.\n\nLetters and other mail\n\nFor sending mail, contact Inger Hornbech (inger.hornbech@rm.dk).\n\nMasterCard\n\nAt RM, it’s only the managers who have a Mastercard. At SDCA Head of Research Niels Jessen has one. Contact Maria Siggaard (marsig@rm.dk) if you need to buy something by using the MasterCard. For those affiliated through Aarhus University, you can apply for an employee MasterCard.\n\nMUS talks\n\nMUS talks depend on one’s terms of employment. Ask Maria Siggaard (marsig@rm.dk) if you have questions regarding this."
-  },
-  {
-    "objectID": "organization.html",
-    "href": "organization.html",
-    "title": "Organizational Information about SDCA",
-    "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA.\n\n\n\n\n\n\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "onboarding/getting-started/index.html",
-    "href": "onboarding/getting-started/index.html",
-    "title": "Welcome and getting started",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/getting-started/index.html#welcome",
-    "href": "onboarding/getting-started/index.html#welcome",
-    "title": "Welcome and getting started",
-    "section": "Welcome!!",
-    "text": "Welcome!!\nWe have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.\nAs a new member of our research team, there is a lot of things you need learn about the organization, the culture (both research and social) and a lot of practical stuff. The page here is thought of as your initial entry point, where you can get an overview. This is also an atlas for you to return to when you need to look up specific information.\nTo get an introduction to the research team and this document you will be teamed up with an experienced member from research. It is your supervisor’s responsibility to find you a “buddy.” Please ask your supervisor if this is not already in place.\nYour buddy will walk you through the relevant tables below and give you an overview of all the topics that you need to be aware of. The agenda for the meeting is:\n\nIntroduce yourselves\nGo through the table below\nTake a tour around the research facility\nArrange follow-up talk\n\nThe purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.\nRead through this website, especially the “Onboarding” section, which is targeted to new employees. If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information. Then email either Inger Hornbech (inger.hornbech@rm.dk) or Julie Knudsen (julie.knudsen@rm.dk) to get your question (hopefully) answered.\nAt the very least, you will probably need to get an access/ID card for entering AUH and Forum.\n\nIf you have an RM ID-card: You can get access to SDCA by emailing your User ID to Inger Hornbech or Julie Knudsen.\nIf you don’t have an RM ID-card: Inger or Julie will need your CPR number and after that you will need to visit the card administration to have a photo taken, which is at Plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g. driver’s license).\n\nIf you have questions about your salary or contract, its best to ask whoever administers yours or your supervisor’s grants. That would be Maria Siggaard (marsig@rm.dk) if employment is at RM or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if employment is at AU."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html",
-    "href": "onboarding/general-conduct/index.html",
-    "title": "General Code of Conduct",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#expected-behavior",
-    "href": "onboarding/general-conduct/index.html#expected-behavior",
-    "title": "General Code of Conduct",
-    "section": "Expected Behavior",
-    "text": "Expected Behavior\nWe treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:\n\nShow courtesy and respect towards others.\nBe kind and aware of your words.\nUse welcoming and inclusive language.\nBe respectful of different viewpoints and experiences.\nGracefully accept constructive criticism.\nFocus on what is best for the community overall.\n\nRead the “four social rules” for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#unacceptable-behavior",
-    "href": "onboarding/general-conduct/index.html#unacceptable-behavior",
-    "title": "General Code of Conduct",
-    "section": "Unacceptable Behavior",
-    "text": "Unacceptable Behavior\nExamples of unacceptable behavior include, but are not limited to:\n\nWritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group.\nCausing someone to fear for their safety, such as through stalking, following, or intimidation.\nViolent threats or language directed against another person.\nDisplays of sexual or violent images.\nUnwelcome sexual attention.\nNon-consensual or unwelcome physical contact.\nSustained disruption of talks, events, or communications.\nInsults or put-downs.\nSexist, racist, homophobic, transphobic, ableist, or exclusionary jokes.\nExcessive swearing.\nIncitement to violence, suicide, or self-harm.\nContinuing to initiate interaction (including photography or recording) with someone after being asked to stop.\nPublication of private communication without consent."
-  },
-  {
-    "objectID": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
-    "href": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
-    "title": "General Code of Conduct",
-    "section": "Consequences of Unacceptable Behavior",
-    "text": "Consequences of Unacceptable Behavior\nIf you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.\n\n\n\nAcknowledgements: Most of this Code of Conduct was taken and modified from other Codes of Conduct, specifically Software Carpentry UofTCoders, and r-cubed: Reproducible Research in R course"
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html",
-    "href": "onboarding/getting-started-phd/index.html",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "",
-    "text": "Important\n\n\n\nPlease read through the Getting Started document for all employees of AU and AUH before reading through this PhD specific document.\nPhD and affiliated students at SDCA have different levels of affiliations: Some are financially supported and have their main supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor that is partly affiliated. We aim to be very inclusive, but some activities will only apply to students with a certain affiliation, e.g. some staff activities for PhD-students situated locally. If you have any questions regarding this, please, do not hesitate to get in touch with Inger Hornbech (inger.hornbech@rm.dk)."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#start-up-guide",
-    "href": "onboarding/getting-started-phd/index.html#start-up-guide",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Start-up guide",
-    "text": "Start-up guide\nRegardless of where your affiliation is, you will receive an email from one of the Research Secretaries with a start-up guide to Steno Diabetes Center Aarhus. The guide will differ depending on how you are affiliated with SDCA."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#communication-and-social",
-    "href": "onboarding/getting-started-phd/index.html#communication-and-social",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Communication and social",
-    "text": "Communication and social\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events.\n\nPhotos for the SDCA website\n\nAffiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the project form and return it to Inger.\n\nPhD network and facebook\n\nSDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time.\nFor questions related to the PhD network meetings, please contact Julie Bondgaard Mortensen at juliebm@biomed.au.dk.\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join the SDCA Alumni network.\n\nSteno PhD Network Facebook group\n\nInformal questions or information related to PhD-students affiliated with SDCA may be posted on this group. Join us!\n\nSteno Thursdays\n\nThis is our weekly, scientific seminar that takes place most Thursdays 14:15-15:00 in “Verdensrummet” (auditorium A201-170) in Forum. The seminars disseminate diabetes research and provides a great platform to learn about research projects at SDCA and discuss science.\nOnce a month we aim to host a seminar with an international speaker, which we call Steno Thursdays Global. You will be notified about upcoming Steno Thursdays through e-mail. We value the scientific discussion and therefore expect affiliated researchers to prioritize these seminars.\n\nJournal clubs\n\nDepending on your field of research, it might also be relevant for you to join journal clubs or meetings. You will find an overview of such activities here on this website. \n\nSDCA Alumni Network\n\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join this network. Inger Hornbech will contact you about that when time comes."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
-    "href": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Physical access and space at Forum",
-    "text": "Physical access and space at Forum\n\nOffice space\n\nIn Forum we have four offices dedicated to our PhD and affiliated students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students. We have written down some office guidelines – please read these, when you are allocated to an office – you’ll find them on the notice board in the offices. If you need IT equipment, please talk to your supervisor (or contact Julie Knudsen at Julie.Knudsen@rm.dk). If you only come to Forum a few times, you might be able to get space, but you will need to contact Inger Hornbech.\n\nE-learning\n\nIf you have a desk at Forum and are there on a daily basis, it’s mandatory to participate in the following E-learning courses:\n\nInformation security - physical security\nBasic Resuscitation, Level 1\nHand hygiene - Break the chain of infection\nFire School.\n\nYou will get an email notification on your RM-mail account with guidance to how you conduct the courses. Please notice that the courses are held in Danish. If you have any questions related to the E-learning courses please contact Inger Hornbech.\n\nResearch in Steno’s medical research lab\n\nIf you are to do research in the research lab, there is a Google Doc (in Danish) you can look over."
-  },
-  {
-    "objectID": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
-    "href": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
-    "title": "Welcome and getting started as a PhD student",
-    "section": "Learn more about SDCA!",
-    "text": "Learn more about SDCA!\nDid you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.\nyou can also find useful information about the organisation and research at Steno Diabetes Center Aarhus in Region Midtjylland on our website."
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel that ensure quick reimbursement.\n\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "onboarding/meetings-and-events/index.html",
@@ -357,53 +231,186 @@
     "text": "Online activities\n\nNewsletters\n\nSteno News is published once a month (in Danish) and sent to relevant mailgroups. You can also subscribe to the newsletter.\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events."
   },
   {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Documentation and Resources for Supporting Research Activities",
+    "objectID": "onboarding/getting-started-phd/index.html",
+    "href": "onboarding/getting-started-phd/index.html",
+    "title": "Welcome and getting started as a PhD student",
     "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel that ensure quick reimbursement.\n\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Important\n\n\n\nPlease read through the Getting Started document for all employees of AU and AUH before reading through this PhD specific document.\nPhD and affiliated students at SDCA have different levels of affiliations: Some are financially supported and have their main supervisor at Steno Diabetes Center Aarhus, others have a co-supervisor that is partly affiliated. We aim to be very inclusive, but some activities will only apply to students with a certain affiliation, e.g. some staff activities for PhD-students situated locally. If you have any questions regarding this, please, do not hesitate to get in touch with Inger Hornbech (inger.hornbech@rm.dk)."
   },
   {
-    "objectID": "organization/research-groups/index.html",
-    "href": "organization/research-groups/index.html",
-    "title": "Research groups at SDCA",
+    "objectID": "onboarding/getting-started-phd/index.html#start-up-guide",
+    "href": "onboarding/getting-started-phd/index.html#start-up-guide",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Start-up guide",
+    "text": "Start-up guide\nRegardless of where your affiliation is, you will receive an email from one of the Research Secretaries with a start-up guide to Steno Diabetes Center Aarhus. The guide will differ depending on how you are affiliated with SDCA."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#communication-and-social",
+    "href": "onboarding/getting-started-phd/index.html#communication-and-social",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Communication and social",
+    "text": "Communication and social\n\nSlack\n\nYou might know Slack? That’s Steno Diabetes Center Aarhus’s social media. Here, you will be able to connect with people across SDCA. Social and scientific events and lunch pack photos – it’s all there under the Channels #2_forskning-og-udd and #6_events.\n\nPhotos for the SDCA website\n\nAffiliated PhD students have profiles on our website: A photo and a short description of the PhD project. Our colleague Claus Hastrup can help out with the photo, please contact Inger for an appointment with Claus, and fill in the project form and return it to Inger.\n\nPhD network and facebook\n\nSDCA aims to be a research hub for knowledge sharing and networking within diabetes related research. As an affiliated PhD student, you will enroll in our PhD-network with fellow affiliated PhD students with diverse backgrounds. The PhD network provides research and networking activities that is tailored towards supporting you during your PhD. As a member of the network, you will receive invitations and information from time to time.\nFor questions related to the PhD network meetings, please contact Julie Bondgaard Mortensen at juliebm@biomed.au.dk.\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join the SDCA Alumni network.\n\nSteno PhD Network Facebook group\n\nInformal questions or information related to PhD-students affiliated with SDCA may be posted on this group. Join us!\n\nSteno Thursdays\n\nThis is our weekly, scientific seminar that takes place most Thursdays 14:15-15:00 in “Verdensrummet” (auditorium A201-170) in Forum. The seminars disseminate diabetes research and provides a great platform to learn about research projects at SDCA and discuss science.\nOnce a month we aim to host a seminar with an international speaker, which we call Steno Thursdays Global. You will be notified about upcoming Steno Thursdays through e-mail. We value the scientific discussion and therefore expect affiliated researchers to prioritize these seminars.\n\nJournal clubs\n\nDepending on your field of research, it might also be relevant for you to join journal clubs or meetings. You will find an overview of such activities here on this website. \n\nSDCA Alumni Network\n\nWhen you end your PhD you will no longer be part of the PhD network, but you may choose to join this network. Inger Hornbech will contact you about that when time comes."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
+    "href": "onboarding/getting-started-phd/index.html#physical-access-and-space-at-forum",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Physical access and space at Forum",
+    "text": "Physical access and space at Forum\n\nOffice space\n\nIn Forum we have four offices dedicated to our PhD and affiliated students: Two on Plan 3 (clinical research & pregnancy/nutrition research) and two on Plan 4 (laboratory research). Most students are part-time at Steno, and many desks are therefore shared between multiple students. We have written down some office guidelines – please read these, when you are allocated to an office – you’ll find them on the notice board in the offices. If you need IT equipment, please talk to your supervisor (or contact Julie Knudsen at Julie.Knudsen@rm.dk). If you only come to Forum a few times, you might be able to get space, but you will need to contact Inger Hornbech.\n\nE-learning\n\nIf you have a desk at Forum and are there on a daily basis, it’s mandatory to participate in the following E-learning courses:\n\nInformation security - physical security\nBasic Resuscitation, Level 1\nHand hygiene - Break the chain of infection\nFire School.\n\nYou will get an email notification on your RM-mail account with guidance to how you conduct the courses. Please notice that the courses are held in Danish. If you have any questions related to the E-learning courses please contact Inger Hornbech.\n\nResearch in Steno’s medical research lab\n\nIf you are to do research in the research lab, there is a Google Doc (in Danish) you can look over."
+  },
+  {
+    "objectID": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
+    "href": "onboarding/getting-started-phd/index.html#learn-more-about-sdca",
+    "title": "Welcome and getting started as a PhD student",
+    "section": "Learn more about SDCA!",
+    "text": "Learn more about SDCA!\nDid you know that Steno Diabetes Center Aarhus is a young organization that started in 2018? You’ll find background information and some practical information in the Emento app. To get access you will need a login. Please contact Inger Hornbech.\nyou can also find useful information about the organisation and research at Steno Diabetes Center Aarhus in Region Midtjylland on our website."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html",
+    "href": "onboarding/general-conduct/index.html",
+    "title": "General Code of Conduct",
     "section": "",
-    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Contributor Code of Conduct",
+    "objectID": "onboarding/general-conduct/index.html#expected-behavior",
+    "href": "onboarding/general-conduct/index.html#expected-behavior",
+    "title": "General Code of Conduct",
+    "section": "Expected Behavior",
+    "text": "Expected Behavior\nWe treat each other with respect and courtesy, whether it be online or in-person. In order to foster trust, a positive and professional learning environment, strengthen collaboration and contribute to a positive working environment, we encourage the following kinds of behaviours in all interactions:\n\nShow courtesy and respect towards others.\nBe kind and aware of your words.\nUse welcoming and inclusive language.\nBe respectful of different viewpoints and experiences.\nGracefully accept constructive criticism.\nFocus on what is best for the community overall.\n\nRead the “four social rules” for further recommendations and details on proper behaviour. These rules are more lightweight, and we have all broken them, which is why awareness is important. A sincere apology for breaking these rules goes a long way."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html#unacceptable-behavior",
+    "href": "onboarding/general-conduct/index.html#unacceptable-behavior",
+    "title": "General Code of Conduct",
+    "section": "Unacceptable Behavior",
+    "text": "Unacceptable Behavior\nExamples of unacceptable behavior include, but are not limited to:\n\nWritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group.\nCausing someone to fear for their safety, such as through stalking, following, or intimidation.\nViolent threats or language directed against another person.\nDisplays of sexual or violent images.\nUnwelcome sexual attention.\nNon-consensual or unwelcome physical contact.\nSustained disruption of talks, events, or communications.\nInsults or put-downs.\nSexist, racist, homophobic, transphobic, ableist, or exclusionary jokes.\nExcessive swearing.\nIncitement to violence, suicide, or self-harm.\nContinuing to initiate interaction (including photography or recording) with someone after being asked to stop.\nPublication of private communication without consent."
+  },
+  {
+    "objectID": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
+    "href": "onboarding/general-conduct/index.html#consequences-of-unacceptable-behavior",
+    "title": "General Code of Conduct",
+    "section": "Consequences of Unacceptable Behavior",
+    "text": "Consequences of Unacceptable Behavior\nIf you are not comfortable confronting the violator yourself, either privately or in public, seek help from peers and/or supervisor(s) you trust.\n\n\n\nAcknowledgements: Most of this Code of Conduct was taken and modified from other Codes of Conduct, specifically Software Carpentry UofTCoders, and r-cubed: Reproducible Research in R course"
+  },
+  {
+    "objectID": "onboarding/getting-started/index.html",
+    "href": "onboarding/getting-started/index.html",
+    "title": "Welcome and getting started",
     "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html#correction",
-    "href": "CODE_OF_CONDUCT.html#correction",
-    "title": "Contributor Code of Conduct",
-    "section": "1. Correction",
-    "text": "1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested."
+    "objectID": "onboarding/getting-started/index.html#welcome",
+    "href": "onboarding/getting-started/index.html#welcome",
+    "title": "Welcome and getting started",
+    "section": "Welcome!!",
+    "text": "Welcome!!\nWe have high ambitions at SDCA. We believe that people with diabetes can have a good life. We will make a difference to all people with or at risk of getting diabetes in Central Denmark Region.\nAs a new member of our research team, there is a lot of things you need learn about the organization, the culture (both research and social) and a lot of practical stuff. The page here is thought of as your initial entry point, where you can get an overview. This is also an atlas for you to return to when you need to look up specific information.\nTo get an introduction to the research team and this document you will be teamed up with an experienced member from research. It is your supervisor’s responsibility to find you a “buddy.” Please ask your supervisor if this is not already in place.\nYour buddy will walk you through the relevant tables below and give you an overview of all the topics that you need to be aware of. The agenda for the meeting is:\n\nIntroduce yourselves\nGo through the table below\nTake a tour around the research facility\nArrange follow-up talk\n\nThe purpose of the follow-up talk is to catch up on how you have settled in. If you have any specific questions you can also ask them. As the final thing, you and your buddy will evaluate the introduction. You will be given responsibility to update this website if you have encountered any information that was not up to date and you should add any other information you would have liked the page to contain. This is a very important step because it ensures that this material is always current and helps the next new team member.\nRead through this website, especially the “Onboarding” section, which is targeted to new employees. If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information. Then email either Inger Hornbech (inger.hornbech@rm.dk) or Julie Knudsen (julie.knudsen@rm.dk) to get your question (hopefully) answered.\nAt the very least, you will probably need to get an access/ID card for entering AUH and Forum.\n\nIf you have an RM ID-card: You can get access to SDCA by emailing your User ID to Inger Hornbech or Julie Knudsen.\nIf you don’t have an RM ID-card: Inger or Julie will need your CPR number and after that you will need to visit the card administration to have a photo taken, which is at Plan 1, Universitetstorvet i Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to Fri from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g. driver’s license).\n\nIf you have questions about your salary or contract, its best to ask whoever administers yours or your supervisor’s grants. That would be Maria Siggaard (marsig@rm.dk) if employment is at RM or Charlotte Rosholm (cro@clin.au.dk) or Karin Ørbæk Kristensen (karin@clin.au.dk) if employment is at AU."
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html#warning",
-    "href": "CODE_OF_CONDUCT.html#warning",
-    "title": "Contributor Code of Conduct",
-    "section": "2. Warning",
-    "text": "2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban."
+    "objectID": "organization.html",
+    "href": "organization.html",
+    "title": "Organizational Information about SDCA",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nResearch groups at SDCA\n\n\nThe different research groups and topics at SDCA.\n\n\n\n\n\n\n\n\n\n\nSDCA management structure\n\n\nStructure of the management team at SDCA\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html#temporary-ban",
-    "href": "CODE_OF_CONDUCT.html#temporary-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "3. Temporary Ban",
-    "text": "3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban."
+    "objectID": "onboarding/practicalities/index.html",
+    "href": "onboarding/practicalities/index.html",
+    "title": "General practicalities",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nPrinter\n\nNote the name of the printer from someone in your office. For questions regarding the SDCA printer: ask Maria Siggaard (marsig@rm.dk). For questions regarding the AU printer: ask Charlotte Rosholm (cro@clin.au.dk).\n\nMicrosoft Office templates (for RM)\n\nAll templates are found in the folder N:\\Afdeling\\AUHSTDIC\\_Fælles\\SDCA-dokumenter_Skabeloner. This (unfortunately) can so far only be accessed through the “Citrixportal”.\n\nOffice supplies\n\nYou can find office supplies in the copy room on Plan 3 at SDCA in Forum. If something you need isn’t there, contact Julie Knudsen at julie.knudsen@rm.dk.\n\nLetters and other mail\n\nFor sending mail, contact Inger Hornbech (inger.hornbech@rm.dk).\n\nMasterCard\n\nAt RM, it’s only the managers who have a Mastercard. At SDCA Head of Research Niels Jessen has one. Contact Maria Siggaard (marsig@rm.dk) if you need to buy something by using the MasterCard. For those affiliated through Aarhus University, you can apply for an employee MasterCard.\n\nMUS talks\n\nMUS talks depend on one’s terms of employment. Ask Maria Siggaard (marsig@rm.dk) if you have questions regarding this."
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html#permanent-ban",
-    "href": "CODE_OF_CONDUCT.html#permanent-ban",
-    "title": "Contributor Code of Conduct",
-    "section": "4. Permanent Ban",
-    "text": "4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+    "objectID": "onboarding/it-basics/index.html",
+    "href": "onboarding/it-basics/index.html",
+    "title": "IT basics",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nIT software, services, and hardware are all dependent on your location of employment: Aarhus University or Region Midt. Getting user access is usually done as part of the employment process. Once you have a user ID, here are some basic things you might need from IT."
+  },
+  {
+    "objectID": "onboarding/it-basics/index.html#institute-specific-details",
+    "href": "onboarding/it-basics/index.html#institute-specific-details",
+    "title": "IT basics",
+    "section": "Institute-specific details",
+    "text": "Institute-specific details\n\nAarhus UniversityRegion Midt\n\n\nSpecific support can be found on the Guides website or by contacting Aarhus University directly on their contacts page. Their guides are all available in either English or Danish.\n\nWiFi: Accessing internet is done with eduroam. Set up is done through their guide.\nVPN: When working remotely, many university and research services are only available by connecting to the university VPN. Use their Setup Guide.\nPersonal drive: You can connect and access your personal drive from your computer by following these instructions.\nShared drive(s): If you need access to a shared drive that your team or colleagues use, start with first requesting access to it. Once you get it, follow these steps to access it on your computer.\nEmail and calendar: Setting up or accessing your email and calender is done by going through their Email FAQ Guide.\n\n\n\nUnlike Aarhus University, which is quite familiar and used to a diverse set of IT needs and international employees, the Region doesn’t have as well developed and clear documentation for IT related topics. Documentation is also entirely in Danish.\nThe infrastructure is designed around the user being connected to the regional network and working within a virtual workstation (Citrix), which can be access from any regional computer. While this basic setup is useful for clinicians that need to stay connected to their workflow as they move between physical computers during their daily work, it does not serve the needs of researchers and developers. While you can use Citrix and the software provided there, getting a so-called advanced setup and installing applications locally is most likely a much better choice. The following sections describe a) how to set up a Windows laptop for local use, b) general tips for using Citrix and the IT infrastructure.\n“Citrix” is a cloud-based workspace app to access all Region Midt’s IT solutions. You can find IT support and guides on the Regions intranet. Help, support, documents or other services are also almost only available through Citrix.\nTo access Citrix you need to have a Region ID and log in with your MitID or scan your access card. If you need help with this, please ask Julie Knudsen julie.knudsen@rm.dk.\nIf you are using a Region Midt computer, all programs need to be opened through the Citrix app. If you are working from another computer, you can get access through https://citrix.rm.dk/.\nPrinting\nTo use the Regional cloud printers, follow the guide on Serviceportal. Summary for English speakers:\n\nClick the ‘Start’ button in Windows and go to ‘Enheder og printere’ (EN: Devices and printers).\nClick the ‘Tilføj en printer’ (EN: “Add a printer”) button in the top panel\nChoose ‘Den printer, jeg søger efter, findes ikke på listen’ (EN: “The printer that I want isn’t listed”) and click ‘Næste’.\nChoose ‘Søg efter en printer i kataloget, baseret på placering eller funktion’ and click ‘Næste’ (EN: “Find a printer in the directory, based on location or feature”) and click ‘Næste’.\nThe names of printers at Aarhus University Hospital are prefixed 1_, so enter 1_ in the ‘Navn’ (EN: Name) field and press Enter to find these. Double-click the printer to install it (e.g. for A4-size prints, add 1_RM_A4_Farve for colour and 1_RM_A4_SH for black and white prints). Click ‘Næste’ and ‘Udført’ to complete the setup.\nNow you can send documents to the printers. The document will be physically printed when you log on to one of the Minolta printers around the hospital. At Steno, the Minolta printer is located on the 3rd floor around one of the corners of the office corridor where various office items are also stored. Log on using your Region ID and password or keycard.\n\nHow to set up your Windows laptop for local use\nFirst, you need to do some shopping on the Regional Serviceportal - either using the direct links provided in this guide or by clicking the “Jeg mangler noget”-shopping cart icon on the landing page.\nPlease note that purchases on the Serviceportal will require approval from your supervisor or manager and an EAN number for payments, so make sure to have that sorted out beforehand. In some cases, the software needs to first be approved for your user, and only then can it be remotely installed on your machine by Serviceportal admins. You may be able to shorten this delay by filing a support ticket to remind the admins to install your applications after the first approval.\n\nRequest an advanced personal (“avanceret personlig”) work laptop and order it in the Serviceportal\n\nThis will install the Access Director software, which enables you to get administrator privileges to install software locally for 5 minutes at a time.\nNote: The IT department cannot provide support for advanced personal setups.\n\nSearch the Serviceportal for any software you might need and request a local installation and access to these (e.g. MS Office, MS Teams, Adobe Acrobat etc.).\n\nYou can also search for and request a VPN installation via the Serviceportal.\n\nYou will need to change your browser’s download folder from the default (OneDrive) to a folder located on your local disk (create one, e.g. C:/local_downloads) in order to comfortably download and install programs as you normally wood. Next, you need run Access Director before installing other necessary software locally (e.g. R, RStudio, Git, Python, Conda, etc.). Read the Serviceportals guide to Access Director for details. Furthermore, some installation files will be blocked, such as .msi-installers, and you will need to Shift right-click and choose “install as other user” as described in the Access Director guide to .msi-files. If you still encounter problems with some installers being blocked, see if these can be installed through the Microsoft Store instead.\nVPN can be ordered through the Serviceportal for working remotely (requires phone for two-factor authentication).\nLinux applications can be run via Windows Subsystems for Linux (WSL1 or WSL2), which can be installed via Powershell as described in the WSL installation guide (after running Access Director). Note that WSL2 will not use the Windows VPN by default (as opposed to WSL1, so setting up a WSL1 environment may provide a fix if you need Linux apps to use the VPN).\nTo book rooms for meetings, you can simply use Pronestor in the browser, rather than the Citrix link.\n\nWith this local setup, you can completely avoid using Citrix and get a much more stable, fast and flexible workstation, similar to those provided to AU employees. Therefore, the next section is less relevant for users using the above local setup.\nGeneral tips for Citrix and the regional IT infrastructure\nHelp, support, and most other documents or services are almost completely only available through the “Citrix” webportal, which you need to log into with your Region ID. Details about how to gain access is found either here (if outside the Region intranet, you will need to follow this guide to activate two-factor authentication codes).\n\nPersonal drives: Accessed by searching for “Stifinder” in Citrix. Files saved to the Region personal drive are difficult to access outside of Citrix and can’t easily be shared with others who do not have a Region ID. So we do not recommend using the Region drives unless it is highly sensitive information. Data should instead be saved on shared drives or through other appropriate sources (depends on your research team).\nShared drives: Accessed by searching for “Stifinder Afdeling” in Citrix. Like with the personal drive above, it depends on what kind of information you need to save and share, whether you should use the shared drive or instead use other sources. Like with the personal drive above, unless you need to save and share information that is highly sensitive, we recommend not to use the shared drive and instead use other sources (like GitHub or the Aarhus University shared drives).\nEmail and calendar: You can open your email and calendar either through Citrix or by using post.rm.dk.\n\n\n\n\nRegardless of which institution is your administrative employer, if you work primarily at SDCA, there are a number of helpful template files and other resources found only in Citrix (by searching for “Stifinder Afdeling”). We hope to slowly make these files more easily available, but until then, you can find relevant ones by asking your colleagues."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html",
+    "href": "onboarding/parking-at-auh/index.html",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧"
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
+    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-rm-employees",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Information regarding parking for RM employees",
+    "text": "Information regarding parking for RM employees\nIf you are employed by Central Denmark Region please contact Inger Hornbech if you need a parking contract at AUH."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
+    "href": "onboarding/parking-at-auh/index.html#information-regarding-parking-for-au-employees",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Information regarding parking for AU employees",
+    "text": "Information regarding parking for AU employees\nIf you are employed by Aarhus University you can buy a parking card for Aarhus University Hospital (AUH), if you use the following guide:\n\nGo to APCOA’s website.\nFill out the form.\nYou don’t need to fill in the registration number of the car. The parking card is registered to the person (not the car), so it’s possible to use the card in another car if needed.\nIt is also possible to buy an extra parking card (card no. 2), if you use different cars, and would like to keep a card in each car. The price is 100 DKKR (one-time expense for the extra card)."
+  },
+  {
+    "objectID": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
+    "href": "onboarding/parking-at-auh/index.html#problems-regarding-parking",
+    "title": "Parking at Aarhus University Hospital (AUH)",
+    "section": "Problems regarding parking?",
+    "text": "Problems regarding parking?\nPlease contact APCOA by phone +45 86 783 533 (They are available 24/7).\nAPCOA Parking Skejby\nAarhus University Hospital, G306, 1st floor office\nPalle Juul-Jensens Boulevard 99\n8200 Aarhus N\nTelephone: +45 86 783 533\nEmail: skejby@apcoa.dk"
+  },
+  {
+    "objectID": "onboarding/days-off/index.html",
+    "href": "onboarding/days-off/index.html",
+    "title": "Sick days, holidays, and time off",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nCalling in sick for yourself or a dependent (like your child)\n\nSick days are generally very easy to ask for, though does depend on your terms of employment. For PhD students, email your supervisor. For postdocs at SDCA, email Inger Hornbech (inger.hornbech@rm.dk) for registration if you have an RM employment or Charlotte Rosholm (cro@clin.au.dk) if you are employed at AU. Ultimately, contact whoever administers yours or your supervisor’s grants.\n\nHolidays and “omsorgsdage”\n\nThe exact amount of holidays and time off you get depend on your terms of employment. For PhD students email your supervisor. For postdocs and other researchers in SDCA, email Inger Hornbech for registration if you have an RM employment or Charlotte Rosholm if you have an AU employment.\n\nMaternity/paternity leave and other leaves\n\nCentral Denmark Region employment: ask Maria Siggaard (marsig@rm.dk). AU employment: please contact Charlotte Rosholm (cro@clin.au.dk). Please refer to the one who administers yours or your supervisor’s grants."
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "Onboarding Material for New Researchers at SDCA",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started as a PhD student\n\n\nMaterial for onboarding new PhD students at SDCA.\n\n\n\n\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\n\n\n\n\n\n\nGeneral practicalities\n\n\nSome basic setup and practicalities, like office supplies.\n\n\n\n\n\n\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\n\n\n\n\n\n\nMeetings, courses, events, and social activities\n\n\nDetails on various social activities and events at or connected with SDCA and finding more information about them.\n\n\n\n\n\n\n\n\n\n\nParking at Aarhus University Hospital (AUH)\n\n\nInformation for parking at the hospital, as an AU or RM employee.\n\n\n\n\n\n\n\n\n\n\nSick days, holidays, and time off\n\n\nTaking days off for being sick, for parental leave, holidays, and any other reasons.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "organization/sdca-management/index.html",
+    "href": "organization/sdca-management/index.html",
+    "title": "SDCA management structure",
+    "section": "",
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\n\n\nSDCA Management team\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nPoul Michaelsen, Head of Corporate Management, Central Denmark Region\nMette Fjord Nielsen, Chief Nursing Officer, Hospitalsenhed Midt\nPia Ulv Helleland, CEO, Lemvig Municipality\nAnne-Mette Hvas, Dean, Health - Aarhus University\nSusanne Lauth, Chief Nursing Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nhttps://www.stenoaarhus.dk/siteassets/om-os/steno-diabetes-center-aarhus—summary-in-english.pdf\nwww.linkedin.com/company/steno-diabetes-center-aarhus\nwww.twitter.com/stenoaarhus"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are a group of researchers working within the Steno Diabetes Center Aarhus. Our research spans multiple fields, all of which are tied by the study of diabetes."
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About",
+    "section": "Purpose",
+    "text": "Purpose\nThere are a few purposes for this website:\n\nWe want this to be an “entry point” for newcomers to SDCA to use in getting started, to learning the culture at SDCA, how to do common tasks, and generally getting help overall.\nThis is a way for us to explicitly describe the research culture so we can more easily collaborate with, get help from, and generally support each other.\nTo begin documenting how to do things so others can learn and benefit from our experiences, and so that we can make use of others’ experiences and knowledge."
+  },
+  {
+    "objectID": "about.html#resources-and-documentation",
+    "href": "about.html#resources-and-documentation",
+    "title": "About",
+    "section": "Resources and documentation",
+    "text": "Resources and documentation\nThese can also be accessed through the “Common docs” menu item on the navigation bar at the top of the page.\n\nOnboarding material for new researchers\nResources for research activities\nInformation about the organization of SDCA"
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "People",
+    "text": "People\nThese are the main people involved in this documentation and can help with specific questions.\n\nJulie Knudsen (julie.knudsen@rm.dk): Research secretary\nInger Hornbech (inger.hornbech@rm.dk): Secretary\nOle Emil Andersen (oleemil@clin.au.dk)"
   },
   {
     "objectID": "contributing/guiding-principles.html",

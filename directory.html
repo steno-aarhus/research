@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Guidelines for contributing to the documents.">
 
-<title>SDCA Research - Contributing guidelines</title>
+<title>SDCA Research - Website Directory</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +29,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,79 +64,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<style>
-
-      .quarto-title-block .quarto-title-banner {
-        background-image: url(site_libs/quarto-contrib/quarto-project/steno-aarhus/sdca-theme/images/banner.png);
-background-size: cover;
-      }
-</style>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -233,131 +165,48 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Contributing guidelines</h1>
-                  <div>
-        <div class="description">
-          <p>Guidelines for contributing to the documents.</p>
-        </div>
-      </div>
-                </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#specific-guides" id="toc-specific-guides" class="nav-link active" data-scroll-target="#specific-guides">Specific guides</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/CONTRIBUTING.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/CONTRIBUTING.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+        
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Website Directory</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<p>This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the <a href="https://github.com/steno-aarhus/research/blob/main/LICENSE.md">CC-BY 4.0 License</a>, and by contributing content any contributors agree to these terms. We also have a <a href="https://steno-aarhus.github.io/research/CONDUCT.html">Code of Conduct</a> that contributors agree to abide by.</p>
-<section id="specific-guides" class="level2">
-<h2 class="anchored" data-anchor-id="specific-guides">Specific guides</h2>
+</header>
+
+
+<p>These are other websites across Steno Aarhus:</p>
+<ul>
+<li><a href="https://www.stenoaarhus.dk/research">Official site</a>: The official Region Midt website for more general public information and details.</li>
+<li><a href="https://steno-aarhus.github.io/research">Research Common Docs</a>: Common documents and operating prodecures for researchers across Steno Aarhus.</li>
+<li><a href="https://steno-aarhus.github.io/epi-stats">Epidemiology and Statistics</a>: Events and activities related to epidemiology and statistics.</li>
+<li><a href="https://steno-aarhus.github.io/register-space">Register Research Space</a>: Events and activities related to register-based research.</li>
+<li><a href="https://steno-aarhus.github.io/internationalization">Internationalization</a>: Efforts to spread knowledge and connect with other countries, specifically Latin America.</li>
+<li><a href="https://steno-aarhus.github.io/epi">Epidemiology Group</a>: Documentation for meetings within the epidemiology group.</li>
+<li><a href="https://coding-cafe-sdca-au.netlify.app/">Coding Cafe</a>: Schedule for in-person coding support and help.</li>
+</ul>
 
 
 
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1708224060843" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
-<a href="./contributing/guiding-principles.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Guiding principles
-</h5>
-<div class="card-text listing-description">
-<p>Basic principles we follow for contributing to the Common Docs.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1708224060843" data-listing-reading-time-sort="4" data-listing-word-count-sort="635">
-<a href="./contributing/guide-to-github.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Quick guide to using GitHub
-</h5>
-<div class="card-text listing-description">
-<p>A quick, step-by-step guide to contributing by using GitHub.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1708224060843" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
-<a href="./contributing/navigating-github.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Navigating the GitHub repository
-</h5>
-<div class="card-text listing-description">
-<p>A video and more detailed guide on how to navigate the common docs GitHub repository.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1708224060843" data-listing-reading-time-sort="7" data-listing-word-count-sort="1318">
-<a href="./contributing/adding-content.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Adding or modifying content
-</h5>
-<div class="card-text listing-description">
-<p>A video and guide to adding new content or modifying existing ones as a team member.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1708224060843" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
-<a href="./contributing/writing-markdown.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Basics of writing in Markdown
-</h5>
-<div class="card-text listing-description">
-<p>A basic guide for writing in Markdown when adding or modifying content.</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -769,7 +618,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/CONTRIBUTING.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/CONTRIBUTING.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/directory.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/directory.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
