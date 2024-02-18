@@ -8,9 +8,6 @@ website:
   navbar:
     pinned: true
     left:
-      - icon: house-door
-        href: "index.qmd"
-        text: " "
       - text: "About"
         href: about.md
     right:
@@ -43,10 +40,12 @@ website:
             href: "https://steno-aarhus.github.io/epi-stats"
           - text: Register Space
             href: "https://steno-aarhus.github.io/register-space"
+          - text: Internationalization
+            href: "https://steno-aarhus.github.io/internationalization"
 
 format: sdca-theme-html
 
-editor_options:
+editor:
   markdown:
     wrap: 72
     canonical: true
