@@ -35,4 +35,5 @@ If you need inspiration (an overview) for a budget, you can ask:
 
 - [Charlotte Rosholm](mailto:cro@clin.au.dk){.email}
 - [Helle Thomassen Bonnesen](mailto:hellbonn@rm.dk){.email}
+- [Henriette Jaquet](mailto:henriette.jaquet@au.dk){.email}
 
