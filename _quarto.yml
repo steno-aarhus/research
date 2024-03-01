@@ -10,7 +10,6 @@ website:
     left:
       - text: "About"
         href: about.md
-    right:
       - text: "Common docs"
         menu:
           - text: "Onboarding"
