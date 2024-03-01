@@ -42,3 +42,9 @@ with specific questions.
     Secretary
 -   Ole Emil Andersen
     ([oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email})
+-   Luke W. Johnston
+    ([lwjohnst\@clin.au.dk](mailto:lwjohnst@clin.au.dk){.email}): Team
+    Leader of the [Seedcase Project](https://seedcase-project.org).
+    Website maintainer and support for making contributions to it.
+-   Daniel Ibsen ([danibs\@ph.au.dk](mailto:danibs@ph.au.dk){.email}):
+    Researcher. Maintainer and contributor of the website's content.
