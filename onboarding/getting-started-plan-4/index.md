@@ -74,14 +74,6 @@ necessary boxes.
 
 See also attached instructions for the cold room.
 
-## Office supplies
-There is a stock of office supplies in the room next to RM printer on level 3 (Niche A301-016) and a larger common AUH depot at Intersection (Krydspunkt) G101.
-
-## Printer
-AU printer AUH-A401-113-C-1-MFP at prt11.uni.au.dk (room A401-113)
-
-RM printer only available on Plan 3 (Niche A301-016)
-
 ## Citrix RM-system
 You log on to Citrix from AU's computer, with your region ID and MitID or use a region computer with a region ID and access card.
 
