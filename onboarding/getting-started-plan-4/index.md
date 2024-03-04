@@ -128,15 +128,6 @@ In “Fællesrummet” there is a fridge for your lunch, a coffee machine, a wat
 
 There is a joint breakfast for all of SDCA every 1st Friday of the month.
 
-## Cantine
-There are 4 canteens at AUH. They are in the following locations:
-- Cafe Nord - J418
-- Cafe Syd - C416
-- Cafe Øst and kiosk - G206
-- Cafe Vest - K408
-
-In addition, there is a small café with limited selection at entrance A, which is open 8-14.
-
 ## Lockers for small bags
 There are bag lockers in the niche A401-018.
 If you want to keep the key and use the locker over several days, add a label with your name to the door.
