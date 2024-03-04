@@ -72,7 +72,7 @@ which one belongs. Contact Henriette Kristoffersen
 ([henrikris\@rm.dk](mailto:henrikris@rm.dk){.email}) to order the
 necessary boxes.
 
-See also attached instructions for the cold room.
+See also ***attached*** instructions for the cold room.
 
 ## Citrix RM-system
 You log on to Citrix from AU's computer, with your region ID and MitID or use a region computer with a region ID and access card.
@@ -101,7 +101,7 @@ Freezer and/or refrigerated packages are placed in FRYS 1 (room A401-116) in the
 When you have picked up your package and you are sure, there are no more, you must turn the sign again.
 
 You have the responsibility to keep an eye on whether your package/letter have arrived.
-If you are missing a package you can search for it in RM indkøb via citrix (Guide attached, only Danish)
+If you are missing a package you can search for it in RM indkøb via citrix ***(Guide attached***, in Danish)
 
 ### Delivery address for packages and letters:
 | Aarhus Universitetshospital
@@ -159,7 +159,7 @@ There is an LAF bench in both chemical rooms with a precise balance.
 In room A401-118 there is also a pH-meter and a magnetic stirrer.
 
 ## BRIK Cabinets
-There are BRIK Cabinets on level 4 in various laboratories and in the corridors. The items in the cabinets are for everybody to use. See attachment for location, instructions, and content.
+There are BRIK Cabinets on level 4 in various laboratories and in the corridors. The items in the cabinets are for everybody to use. See ***attachment*** for location, instructions, and content.
 Inquiries regarding adding other materials in the BRIK Cabinets: contact Henriette Kristoffersen (henrikis@rm.dk).
 Other purchases are the responsibility of the individual groups themselves.
 
@@ -176,7 +176,7 @@ In the offices there is a waste bin for paper, which is emptied by the service s
     - *Soft plastic non-hazardous* in Lab 401-106, Lab A401-130, as well as room A401-172.
         - Soft plastic is plastic such as bubble wrap, plastic bags, etc.
 
-See also attached guide for Waste Management.
+See also ***attached*** guide for Waste Management.
 
 ## Chemical waste
 A trolley table for chemical waste is located in Room A401-172. 
@@ -186,7 +186,7 @@ Instructions are available both on the trolley and attached (only in Danish).
 Remember to write what is in the chemical waste container, as well as approximately the amount and waste group. 
 
 ## Ordering dry ice
-Order via the Purchasing Department (Indkøbsafdelingen), AUH – see attached order form (in Danish). 
+Order via the Purchasing Department (Indkøbsafdelingen), AUH – see ***attached*** order form (in Danish). 
 
 ## Wet-Ice
 You can pick up wet-ice in room A401-128
@@ -230,6 +230,6 @@ We have 3 Cell Culture Rooms, that are GMO Class I, two at level 4 – room A401
 
 You must be instructed in workflow and GMO rules before you can work in the cell labs.
 
-Attached are GMO safety rules and general rules for cell labs.
+***Attached*** are GMO safety rules and general rules for cell labs.
 
 If you wish to work in a cell lab, please contact: Lotte Holmbo Arentoft ([lotte.arentoft@clin.au.dk](mailto:lotte.arentoft@clin.au.dk){email})
