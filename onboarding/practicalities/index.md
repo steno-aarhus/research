@@ -42,9 +42,9 @@ Microsoft Office templates (for RM)
 
 Office supplies
 
-:   You can find office supplies in the copy room on Plan 3 at SDCA in
-    Forum. If something you need isn't there, contact Julie Knudsen at
+:   SDCA has a stock of office supplies in the copy room on Plan 3 (Niche A301-016). If something you need isn't there, contact Julie Knudsen at
     [julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}.
+    There is also a larger AUH common depot at Intersection (Krydspunkt) G101.
 
 Letters and other mail
 
