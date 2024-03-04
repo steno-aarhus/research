@@ -20,13 +20,18 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
-Printer
+RM Printer
 
-:   Note the name of the printer from someone in your office. For
-    questions regarding the SDCA printer: ask Maria Siggaard
-    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). For questions
-    regarding the AU printer: ask Charlotte
-    Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
+:   RM printer is available on Plan 3 (Niche A301-016 or A301-022)
+Note the name of the printer from someone in your office. 
+For questions regarding the SDCA printer: ask Maria Siggaard
+    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). 
+     
+
+AU Printer
+
+:   AU printer AUH-A401-113-C-1-MFP at prt11.uni.au.dk (room A401-113)
+For questions regarding the AU printer: ask Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
 
 Microsoft Office templates (for RM)
 
