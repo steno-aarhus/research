@@ -20,7 +20,15 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
-RM Printer
+Canteen
+
+:   There are 4 canteens at AUH. They are in the following locations:
+- Cafe Nord - J418
+- Cafe Syd - C416
+- Cafe Øst and kiosk - G206
+- Cafe Vest - K408
+
+In addition, there is a small café with limited selection at entrance A, which is open 8-14.RM Printer
 
 :   RM printer is available on Plan 3 (Niche A301-016 or A301-022)
 Note the name of the printer from someone in your office. 
