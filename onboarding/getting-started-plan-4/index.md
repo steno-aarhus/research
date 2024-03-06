@@ -39,8 +39,8 @@ Contact Inger Hornbech
 registers you in BSK and gives you access. The acces card itself is picked up
 in the Photo Box (Krydspunkt J110, lokale J116-106), where you will also
 have your picture taken. 
-Granting access to special locations (e.g. Cell culture) contact Maria Siggaard
-([MARSIG\@rm.dk](mailto:MARSIG@rm.dk){.email}).
+Granting access to special locations (e.g. Cell culture) contact Inger Hornbech
+([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
 
 ## Allocation of office space
 
