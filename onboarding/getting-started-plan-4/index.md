@@ -19,26 +19,24 @@ document for all employees of AU and AUH before reading through this
 Level 4 specific document.
 :::
 
-A warm welcome to you as a new employee here at Steno Diabetes Center Aarhus. 
+A warm welcome to you as a new employee at Steno Diabetes Center Aarhus. 
 We are located in beautiful surroundings in Forum, Aarhus University Hospital (AUH).
 
 On level 4 there is laboratory research, as well as office facilities, meeting- and lunchrooms.
 
 In this material you can find answers to a lot of questions regarding SDCA and especially plan 4.
 
-There are both descriptions and attachments.
-
 ## Location overview
 
 ![A room overview of Plan 4](../images/plan-4.png)
 
-In the app "AUH Find vej" you can get help to finding your way around the entire hospital
+In the app "AUH Find vej" you can get help to finding your way around the entire hospital.
 
 ## Access
 
 Contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) who
-registers you in BSK and gives you access. The card itself is picked up
+registers you in BSK and gives you access. The acces card itself is picked up
 in the Photo Box (Krydspunkt J110, lokale J116-106), where you will also
 have your picture taken. 
 Granting access to special locations (e.g. Cell culture) contact Maria Siggaard
@@ -62,32 +60,32 @@ The individual groups themselves ensure the distribution of racks in
 freezers.
 
 **NOTE:** Our 150 degree freezer quickly raise in temperature and must
-be closed quickly. Therefore, there must be control of where to find
+be closed quickly. Therefore, there must be control over where to find
 your things and it must be noted on the writing pad when you have opened
 the freezer (name, date, and time).
 
 There is a large cold room (A401-154). In it, material is placed in
-plastic boxes and then on shelves assigned to the research group to
+plastic boxes and then put on shelves assigned to the research group to
 which one belongs. Contact Henriette Kristoffersen
 ([henrikris\@rm.dk](mailto:henrikris@rm.dk){.email}) to order the
 necessary boxes.
 
-See also ***attached*** instructions for the cold room.
+See also **[instructions for the cold room]**.
 
 ## Citrix RM-system
 You log on to Citrix from AU's computer, with your region ID and MitID or use a region computer with a region ID and access card.
 
-If you need help getting started contact: Inger Hornbech ([inger.hornbech@rm.dk](mailto:inger.hornbech@rm.dk){.email})
+If you need help getting started contact: Inger Hornbech ([inger.hornbech@rm.dk](mailto:inger.hornbech@rm.dk){.email}) or Julie Knudsen ([julie.knudsen@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
 In case of technical problems contact: ServiceDesk Sundheds It: 784 12345
 
-Via Citrix you get access to all AUH systems:
+Via Citrix you have access to all AUH systems:
 - AUH intra with eg. News, Information from the canteen, Information from the Technical Department, Information about breakdowns, working environment, etc. It is also possible to search for departments and employees.
 - RM mail
-- book meeting rooms via Pronester
-- order Technical help via Dalux (Guide attached, only in Danish) 
+- book meeting rooms via Pronester (read more [here](https://steno-aarhus.github.io/research/support/booking-rooms/))
+- order Technical help via Dalux **[Guide]** (only in Danish) 
 - order consumabels via RM indkøb
-- order chemical waste collection (Guide attached Kemikaliehåndtering SDCA)
-- search for missing packages (Guide attached)
+- order chemical waste collection **[Guide]**
+- search for missing packages **[Guide]**
 - and much more…
 - You may also benefit from the FAQ via the links below on the AUH intranet website:
   https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/faq/ and https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/praktisk-information/
@@ -101,7 +99,7 @@ Freezer and/or refrigerated packages are placed in FRYS 1 (room A401-116) in the
 When you have picked up your package and you are sure, there are no more, you must turn the sign again.
 
 You have the responsibility to keep an eye on whether your package/letter have arrived.
-If you are missing a package you can search for it in RM indkøb via citrix ***(Guide attached***, in Danish)
+If you are missing a package you can search for it in RM indkøb via citrix. Read the **[Guide to Track and Trace in RM indkøb (in Danish)]**
 
 ### Delivery address for packages and letters:
 | Aarhus Universitetshospital
@@ -148,7 +146,7 @@ Washing: put your uniform in the blue clothes trolley, in room A401-144.
 ## Changing rooms
 SDCA has changing facilities on level 4 room A401-145 (women) 
 and, on level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with bathing facilities.
-Contact Julie Knudsen, ([julie.knudsen@rm.dk](julie.knudsen@rm.dk){.email}) about lockers in the changing rooms.
+Contact Julie Knudsen, ([julie.knudsen@rm.dk](mailto:julie.knudsen@rm.dk){.email}) about lockers in the changing rooms.
 
 ## Rooms for Chemical storage
 We have two chemical rooms on level 4:
@@ -159,8 +157,8 @@ There is an LAF bench in both chemical rooms with a precise balance.
 In room A401-118 there is also a pH-meter and a magnetic stirrer.
 
 ## BRIK Cabinets
-There are BRIK Cabinets on level 4 in various laboratories and in the corridors. The items in the cabinets are for everybody to use. See ***attachment*** for location, instructions, and content.
-Inquiries regarding adding other materials in the BRIK Cabinets: contact Henriette Kristoffersen (henrikis@rm.dk).
+There are BRIK Cabinets on level 4 in various laboratories and in the corridors. The items in the cabinets are for everybody to use. See **[BRIK cabinet guide]** for location, instructions, and content.
+Inquiries regarding adding other materials in the BRIK Cabinets: contact Henriette Kristoffersen ([henrikis@rm.dk](mailto:henrikis@rm.dk){.email}).
 Other purchases are the responsibility of the individual groups themselves.
 
 ## Waste management
@@ -176,17 +174,17 @@ In the offices there is a waste bin for paper, which is emptied by the service s
     - *Soft plastic non-hazardous* in Lab 401-106, Lab A401-130, as well as room A401-172.
         - Soft plastic is plastic such as bubble wrap, plastic bags, etc.
 
-See also ***attached*** guide for Waste Management.
+See also **[guide for Waste Management]**.
 
 ## Chemical waste
 A trolley table for chemical waste is located in Room A401-172. 
 Pick up MUST be booked before placing the chemical waste.
-Instructions are available both on the trolley and attached (only in Danish).
+Instructions are available both on the trolley and **[here]** (only in Danish).
 **Pay attention to waste groups!!**
 Remember to write what is in the chemical waste container, as well as approximately the amount and waste group. 
 
 ## Ordering dry ice
-Order via the Purchasing Department (Indkøbsafdelingen), AUH – see ***attached*** order form (in Danish). 
+Order via the Purchasing Department (Indkøbsafdelingen), AUH – use the **[dry ice order form (in Danish)]**. 
 
 ## Wet-Ice
 You can pick up wet-ice in room A401-128
@@ -230,6 +228,6 @@ We have 3 Cell Culture Rooms, that are GMO Class I, two at level 4 – room A401
 
 You must be instructed in workflow and GMO rules before you can work in the cell labs.
 
-***Attached*** are GMO safety rules and general rules for cell labs.
+Read the **[GMO safety rules]** and **[general rules for cell labs]**.
 
 If you wish to work in a cell lab, please contact: Lotte Holmbo Arentoft ([lotte.arentoft@clin.au.dk](mailto:lotte.arentoft@clin.au.dk){email})
