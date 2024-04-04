@@ -144,6 +144,6 @@ that started in 2018? You'll find background information and some
 practical information in the Emento app. To get access you will need a
 login. Please contact Inger Hornbech.
 
-you can also find useful information about the organisation and research
+You can also find useful information about the organisation and research
 at Steno Diabetes Center Aarhus in Region Midtjylland on our
 [website](https://www.stenoaarhus.dk/).
