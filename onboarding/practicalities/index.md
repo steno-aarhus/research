@@ -20,13 +20,28 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
-Printer
+Canteen
 
-:   Note the name of the printer from someone in your office. For
-    questions regarding the SDCA printer: ask Maria Siggaard
-    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). For questions
-    regarding the AU printer: ask Charlotte
-    Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
+:   There are 4 canteens at AUH. They are in the following locations:
+
+    -   Cafe Nord at J418
+    -   Cafe Syd at C416
+    -   Cafe Øst and kiosk at G206
+    -   Cafe Vest at K408
+
+    In addition, there is a small café with limited selection at
+    entrance A, which is open 8-14.RM Printer
+
+:   RM printer is available on Plan 3 (Niche A301-016 or A301-022) Note
+    the name of the printer from someone in your office. For questions
+    regarding the SDCA printer: ask Maria Siggaard
+    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}).
+
+AU Printer
+
+:   AU printer AUH-A401-113-C-1-MFP at prt11.uni.au.dk (room A401-113)
+    For questions regarding the AU printer: ask Charlotte Rosholm
+    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
 
 Microsoft Office templates (for RM)
 
@@ -37,9 +52,11 @@ Microsoft Office templates (for RM)
 
 Office supplies
 
-:   You can find office supplies in the copy room on Plan 3 at SDCA in
-    Forum. If something you need isn't there, contact Julie Knudsen at
-    [julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}.
+:   SDCA has a stock of office supplies in the copy room on Plan 3
+    (Niche A301-016). If something you need isn't there, contact Julie
+    Knudsen at
+    [julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}. There is
+    also a larger AUH common depot at Intersection (Krydspunkt) G101.
 
 Letters and other mail
 
