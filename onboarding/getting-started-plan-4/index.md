@@ -1,11 +1,11 @@
 ---
-title: "Welcome to Level 4 SDCA "
+title: "Welcome to Level 4 SDCA"
 description: Material for onboarding on Level 4 SDCA.
 order: 2
 date: "2024-01-30"
 date-modified: last-modified
 author:
-    # Order alphabetical by last name
+  # Order alphabetical by last name
   - name: Lotte Holmbo Arentoft
     affiliations: 
       - ref: sdca
@@ -23,16 +23,15 @@ A warm welcome to you as a new employee at Steno Diabetes Center Aarhus.
 We are located in beautiful surroundings in Forum, Aarhus University
 Hospital (AUH).
 
-On level 4 there is laboratory research, as well as office facilities,
-meeting- and lunchrooms.
+On Level 4 there is laboratory research, as well as office facilities,
+meeting, and lunchrooms.
 
 In this material you can find answers to a lot of questions regarding
-SDCA and especially plan 4.
+SDCA and especially Level 4.
 
 ## Location overview
 
-![A room overview of Plan
-4](https://github.com/steno-aarhus/research/blob/plan4-intro/images/plan-4-room-numbers.png)
+![A room overview of Plan 4](/images/plan-4-room-numbers.png)
 
 In the app "AUH Find vej" you can get help to finding your way around
 the entire hospital.
@@ -41,9 +40,9 @@ the entire hospital.
 
 Contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) who
-registers you in BSK and gives you access. The acces card itself is
+registers you in BSK and gives you access. The access card itself is
 picked up in the Photo Box (Krydspunkt J110, lokale J116-106), where you
-will also have your picture taken. Granting access to special locations
+will also have your picture taken. To gain access to special locations
 (e.g. Cell culture) contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
 
@@ -64,10 +63,12 @@ or Lene Trudsø
 The individual groups themselves ensure the distribution of racks in
 freezers.
 
-**NOTE:** Our 150 degree freezer quickly raise in temperature and must
-be closed quickly. Therefore, there must be control over where to find
-your things and it must be noted on the writing pad when you have opened
-the freezer (name, date, and time).
+::: callout-important
+Our 150 degree freezer quickly raise in temperature and must be closed
+quickly. Therefore, there must be control over where to find your things
+and it must be noted on the writing pad when you have opened the freezer
+(name, date, and time).
+:::
 
 There is a large cold room (A401-154). In it, material is placed in
 plastic boxes and then put on shelves assigned to the research group to
@@ -83,28 +84,34 @@ or use a region computer with a region ID and access card.
 If you need help getting started contact: Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) or Julie
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}). In
-case of technical problems contact: ServiceDesk Sundheds It: 784 12345
+case of technical problems contact: ServiceDesk Sundheds IT: 784 12345
 
-Via Citrix you have access to all AUH systems: - AUH intra with eg.
-News, Information from the canteen, Information from the Technical
-Department, Information about breakdowns, working environment, etc. It
-is also possible to search for departments and employees. - RM mail -
-book meeting rooms via Pronester (read more
-[here](https://steno-aarhus.github.io/research/support/booking-rooms/)) -
-order Technical help via Dalux - [Guide (in
-Danish)](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Vejledning-bestilling-teknisk-hj%C3%A6lp.pdf) -
-order consumabels via RM indkøb - order chemical waste collection -
-[Guide](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Waste-Management.pdf) -
-search for missing packages -
-[Guide](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Instruks-til-TrackTrace-frems%C3%B8gning.pdf) -
-and much more... - You may also benefit from the FAQ via the links below
-on the AUH intranet website:
-https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/faq/
-and
-https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/praktisk-information/
+Via Citrix you have access to all AUH systems:
 
-(NOTE -- if you cannot use the links directly, then copy it and paste it
-when you are logged in via citrix and have opened Microsoft Edge)
+-   AUH intra with eg. News, Information from the canteen, Information
+    from the Technical Department, Information about breakdowns, working
+    environment, etc. It is also possible to search for departments and
+    employees.
+-   RM mail
+-   Book meeting rooms via Pronester (read more
+    [here](/support/booking-rooms/))
+-   Order Technical help via Dalux. See the [guide (in
+    Danish)](/files/vejledning-bestilling-teknisk-hjaelp.pdf)
+-   Order consumables via RM indkøb
+-   Order chemical waste collection, see the
+    [Guide](/files/waste-management.pdf)
+-   Search for missing packages, see the
+    [guide](/files/instruks-til-tracktrace-fremsogning.pdf)
+-   You may also benefit from the FAQ via the links below on the AUH
+    intranet website (only accessible via Citrix login)
+    [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/faq/)
+    and
+    [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/praktisk-information/)
+
+::: callout-note
+If you cannot use the links directly, then copy it and paste it when you
+are logged in via Citrix and have opened Microsoft Edge.
+:::
 
 ## Delivery of mails and packages
 
@@ -119,9 +126,8 @@ more, you must turn the sign again.
 
 You have the responsibility to keep an eye on whether your
 package/letter have arrived. If you are missing a package you can search
-for it in RM indkøb via citrix. Read the [Guide to Track and Trace in RM
-indkøb (in
-Danish)](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Instruks-til-TrackTrace-frems%C3%B8gning.pdf)
+for it in RM indkøb via Citrix. Read the [Guide to Track and Trace in RM
+indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 
 ### Delivery address for packages and letters:
 
@@ -129,7 +135,7 @@ Danish)](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Instruk
 | A403-SDCA Forskning
 | Carl Krebs Vej 36
 | 8200 Aarhus N
-| Att: YOUR NAVN
+| Att: YOUR NAME
 
 ### Address for Visitors:
 
@@ -142,8 +148,10 @@ Remember that your name must be stated when ordering.
 
 ## Pipe-mail (Rør-post)
 
-There can be sent pipe-mail from - Plan 2 A201-028 (hallway) - Plan 3
-A301-040 (niche)
+There can be sent pipe-mail from:
+
+-   Plan 2 A201-028 (hallway)
+-   Plan 3 A301-040 (niche)
 
 ## "Fællesrummet" (Lunchroom)
 
@@ -162,7 +170,11 @@ door.
 ## Uniforms/workwear
 
 Uniforms and/or workwear, as well as towels, can be picked up at the
-Uniform Depot: - C120-112 - G114-109 - J105-182
+Uniform Depot:
+
+-   C120-112
+-   G114-109
+-   J105-182
 
 All uniforms at the hospital are, for hygiene reasons, only with short
 sleeves. It is not possible to get uniforms with long sleeves. Thin
@@ -174,20 +186,23 @@ AUH has a uniform etiquette that you must follow. You can read about it
 [here](https://www.hr.rm.dk/api/newesdhblock/downloadfile?agendapath=%5c%5crmapps0221.onerm.dk%5ccms01-ext%5cesdh%20data%5crm_internet%5cdagsordener%5cregions-medudvalget%202020%5c10-09-2020%5caaben_dagsorden&appendixid=282598).
 
 If you are wearing a lab coat over your private clothes, this must be
-removed before leaving level 4. Washing: put your uniform in the blue
+removed before leaving Level 4. Washing: put your uniform in the blue
 clothes trolley, in room A401-144.
 
 ## Changing rooms
 
-SDCA has changing facilities on level 4 room A401-145 (women) and, on
-level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with
+SDCA has changing facilities on Level 4 room A401-145 (women) and, on
+Level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with
 bathing facilities. Contact Julie Knudsen,
 ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) about
 lockers in the changing rooms.
 
 ## Rooms for Chemical storage
 
-We have two chemical rooms on level 4: - A401-118 - A401-135
+We have two chemical rooms on level 4:
+
+-   A401-118
+-   A401-135
 
 There is an LAF bench in both chemical rooms with a precise balance. In
 room A401-118 there is also a pH-meter and a magnetic stirrer.
@@ -195,11 +210,10 @@ room A401-118 there is also a pH-meter and a magnetic stirrer.
 ## BRIK Cabinets
 
 There are BRIK Cabinets on level 4 in various laboratories and in the
-corridors. The items in the cabinets are for everybody to use. See [BRIK
-cabinet
-guide](https://github.com/steno-aarhus/research/blob/plan4-intro/files/BRIK-cabinets-%20availability.xlsx)
-for location, instructions, and content. Inquiries regarding adding
-other materials in the BRIK Cabinets: contact Henriette Kristoffersen
+corridors. The items in the cabinets are for everybody to use. See the
+[BRIK cabinet guide](/files/brik-cabinets-availability.xlsx) for
+location, instructions, and content. Inquiries regarding adding other
+materials in the BRIK Cabinets: contact Henriette Kristoffersen
 ([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}). Other purchases are
 the responsibility of the individual groups themselves.
 
@@ -208,26 +222,31 @@ the responsibility of the individual groups themselves.
 In the offices there is a waste bin for paper, which is emptied by the
 service staff and a bin for residual waste, which you must empty
 yourself. You can place the residual waste in the waste bin in room
-A401-172. - Cardboard boxes are folded and placed in the cage in room
-A401-172. - Glass waste is placed in cardboard box with blue garbage bag
-in room A401-172. - Used batteries are placed in a special container in
-room A401-172 - Plastic is collected for recycling by the following
-sorting: - *Hard plastic non-hazardous* in room lab A401-104, A401-130
-and in cell lab A401-122+A401-123 - *Hard plastic non-hazardous*, is
-plastic that has not been in contact with hazardous chemicals or is
-infectious. For example, bottles for media, PBS, sterile water, pipette
-boxes, etc. However, bottles must be rinsed before being placed in the
-waste container and the lid and bottle keep apart. - *Hard plastic
-hazardous* in room A401-172. - *Hard plastic hazardous* is hard plastic
-that has been in contact with hazardous chemistry, however, here there
-are exceptions. On the waste bin you can be seen which ones are allowed
-to be put in the waste container. Be aware before putting anything in
-the container. - *Soft plastic non-hazardous* in Lab 401-106, Lab
-A401-130, as well as room A401-172. - Soft plastic is plastic such as
-bubble wrap, plastic bags, etc.
+A401-172.
 
-See also [guide for Waste
-Management](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Waste-Management.pdf).
+-   Cardboard boxes are folded and placed in the cage in room A401-172.
+-   Glass waste is placed in cardboard box with blue garbage bag in room
+    A401-172.
+-   Used batteries are placed in a special container in room A401-172
+-   Plastic is collected for recycling by the following sorting:
+    -   *Hard plastic non-hazardous* in room lab A401-104, A401-130 and
+        in cell lab A401-122+A401-123
+    -   *Hard plastic non-hazardous*, is plastic that has not been in
+        contact with hazardous chemicals or is infectious. For example,
+        bottles for media, PBS, sterile water, pipette boxes, etc.
+        However, bottles must be rinsed before being placed in the waste
+        container and the lid and bottle keep apart. - *Hard plastic
+        hazardous* in room A401-172.
+    -   *Hard plastic hazardous* is hard plastic that has been in
+        contact with hazardous chemistry, however, here there are
+        exceptions. On the waste bin you can be seen which ones are
+        allowed to be put in the waste container. Be aware before
+        putting anything in the container.
+    -   *Soft plastic non-hazardous* in Lab 401-106, Lab A401-130, as
+        well as room A401-172.
+    -   Soft plastic is plastic such as bubble wrap, plastic bags, etc.
+
+See also [guide for Waste Management](/files/waste-management.pdf).
 
 ## Chemical waste
 
@@ -240,8 +259,7 @@ well as approximately the amount and waste group.
 ## Ordering dry ice
 
 Order via the Purchasing Department (Indkøbsafdelingen), AUH -- use the
-[dry ice order form (in
-Danish)](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Bestilling-af-is.pdf).
+[dry ice order form (in Danish)](/files/bestilling-af-is.pdf).
 
 ## Wet-Ice
 
@@ -276,19 +294,29 @@ attention to what is put in fume Hoods from Wednesday to Thursday.
 
 Please note that there may be different rules in the different
 laboratories on level 4 and you must have a thorough instruction before
-starting work. Instructions must be given on: - Waste management -
-Chemical waste - Glove use - Washing utensils - Safety - Fume Hoods
+starting work. Instructions must be given on:
+
+-   Waste management
+-   Chemical waste
+-   Glove use
+-   Washing utensils
+-   Safety
+-   Fume Hoods
 
 ## Use of laboratory equipment
 
 When using/borrowing other people's equipment, permission must always be
 asked and there must be thorough instruction in the use, regardless of
 what is to be borrowed. The equipment will be marked with a color system
-and name of an equipment responsible. - Green = Use without asking (e.g.
-Wet-ice) - Yellow = Ask responsible person about the possibility of
-borrowing the equipment. (e.g. EVOS) - Red = This equipment is not
-available for use The individual research groups, at level 4, decide for
-themselves what colour their own equipment should be.
+and name of an equipment responsible.
+
+-   Green = Use without asking (e.g. Wet-ice)
+-   Yellow = Ask responsible person about the possibility of borrowing
+    the equipment. (e.g. EVOS)
+-   Red = This equipment is not available for use
+
+The individual research groups, at level 4, decide for themselves what
+colour their own equipment should be.
 
 ## Cell Culture Lab
 
@@ -298,10 +326,8 @@ room A401-122 and A401-123 and 1 Cell Culture room at J J101-120.
 You must be instructed in workflow and GMO rules before you can work in
 the cell labs.
 
-Read the [GMO safety
-rules](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Safety-rules-GMO-Cell-lab.pdf)
-and [general rules for cell
-labs](https://github.com/steno-aarhus/research/blob/plan4-intro/files/Rules-Cell-Labs.pdf).
+Read the [GMO safety rules](/files/safety-rules-gmo-cell-lab.pdf) and
+[general rules for cell labs](/files/rules-cell-labs.pdf).
 
 If you wish to work in a cell lab, please contact: Lotte Holmbo Arentoft
 ([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk){email})
