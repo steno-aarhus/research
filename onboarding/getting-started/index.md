@@ -81,5 +81,5 @@ If you have questions about your salary or contract, its best to ask
 whoever administers yours or your supervisor's grants. That would be
 Maria Siggaard ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if
 employment is at RM or Charlotte Rosholm
-([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harrit ([henriette.jaquet@au.dk](mailto:henriette.jaquet@au.dk){.email}) if
+([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harrit ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}) if
 employment is at AU.
