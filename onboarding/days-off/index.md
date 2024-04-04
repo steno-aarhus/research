@@ -27,7 +27,7 @@ Calling in sick for yourself or a dependent (like your child)
     For postdocs at SDCA, email Inger Hornbech
     ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for
     registration if you have an RM employment or Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@au.dk](mailto:henriette.jaquet@au.dk){.email}) if
+    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}) if
     you are employed at AU. Ultimately, contact whoever administers
     yours or your supervisor's grants.
 
@@ -42,6 +42,6 @@ Maternity/paternity leave and other leaves
 
 :   Central Denmark Region employment: ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). AU employment: please contact Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet ([henriette.jaquet@au.dk](mailto:henriette.jaquet@au.dk){.email}).
+    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}).
     Please refer to the one who administers yours or your supervisor's
     grants.
