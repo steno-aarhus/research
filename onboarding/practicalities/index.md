@@ -30,7 +30,9 @@ Canteen
     -   Cafe Vest at K408
 
     In addition, there is a small café with limited selection at
-    entrance A, which is open 8-14.RM Printer
+    entrance A, which is open 8-14.
+    
+RM Printer
 
 :   RM printer is available on Plan 3 (Niche A301-016 or A301-022) Note
     the name of the printer from someone in your office. For questions
