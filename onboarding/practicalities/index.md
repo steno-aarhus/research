@@ -36,8 +36,8 @@ RM Printer
 
 :   RM printer is available on Plan 3 (Niche A301-016 or A301-022) Note
     the name of the printer from someone in your office. For questions
-    regarding the SDCA printer: ask Maria Siggaard
-    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}).
+    regarding the SDCA printer: ask Julie Knudsen
+    ([julie.knudsen@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
 
 AU Printer
 
