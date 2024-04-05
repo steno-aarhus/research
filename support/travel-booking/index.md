@@ -118,7 +118,7 @@ Travel agency Egencia can be reached by phone at 7070 8202 or e-mail:
 [customer_service\@egencia.dk](mailto:customer_service@egencia.dk){.email}
 
 ::: callout-warning
-**Please note that you are not allowed to use Ryanair or Uber.**
+**Please note that you are not allowed to use Uber.**
 
 **Regarding GoMore:**
 
