@@ -1,5 +1,5 @@
 No specific agreements with hotels have been made, but the amount per
-night per country for 2023 is listed in the table below:
+night per country for 2024 is listed in the table below:
 
 | Country                | Amount        |
 |------------------------|---------------|
