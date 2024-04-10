@@ -23,3 +23,19 @@ Tel. 9352 2568, email: cro@clin.au.dk
 **Henriette Jaquet**, Research administrator
 Tlf. 9350 8859, mail: Henriette.Jaquet@clin.au.dk
 **Tasks:** Administration of research founding related to AU and external founding
+
+|   Picture      | Name  | position       |  Contact   | Tasks   |
+|------------------------|-----|----------|-------------|-------------------|
+|  ![Maria Siggaard](https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/maria-sigaard_ude2.jpg) |  **Maria Siggaard** | Research secretary and PA for Head of research, Niels Jessen |Tel. 2370 7062, email: marsig@rm.dk | **Tasks:** Onboarding, Research Fish,  |
+|                 |       |       |
+|                  |       |       |
+|                 |       |         |
+|                  |       |        |
+
+
+|            |                                  | 
+|----------|-------------------------|
+| ![Maria Siggaard](https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/maria-sigaard_ude2.jpg)| **Maria Siggaard**, Research secretary and PA for Head of research, Niels Jessen. Tel. 2370 7062, email: marsig@rm.dk **Tasks:** Onboarding, Research Fish,    |
+|           |       |          
+|           |       |      
+|           |       | 
