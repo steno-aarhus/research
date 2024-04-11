@@ -344,4 +344,4 @@ Read the [GMO safety rules](/files/safety-rules-gmo-cell-lab.pdf) and
 [general rules for cell labs](/files/rules-cell-labs.pdf).
 
 If you wish to work in a cell lab, please contact: Lotte Holmbo Arentoft
-([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk){email})
+([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk))
