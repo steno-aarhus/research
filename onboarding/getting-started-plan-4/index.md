@@ -14,9 +14,7 @@ metadata-files:
 ---
 
 ::: callout-important
-Please read through the [Getting Started](../getting-started/index.md)
-document for all employees of AU and AUH before reading through this
-Level 4 specific document.
+This document is specific to SDCA employees working on Level 4 in Forum. For more onboarding information please read through the [SDCA Onboarding documents for all employees](/onboarding.md).
 :::
 
 A warm welcome to you as a new employee at Steno Diabetes Center Aarhus.
@@ -113,6 +111,14 @@ If you cannot use the links directly, then copy it and paste it when you
 are logged in via Citrix and have opened Microsoft Edge.
 :::
 
+## AU Printer
+
+Read about the AU printer under [General practicalities](/onboarding/practicalities/index.md)
+
+## Office supplies/materials
+
+Read about Office supplies and more under [General practicalities](/onboarding/practicalities/index.md)
+
 ## Delivery of mails and packages
 
 At the lifts at A403 there is a trolley on which packages are placed on
@@ -137,6 +143,8 @@ indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 | 8200 Aarhus N
 | Att: YOUR NAME
 
+Remember that your name must be stated when ordering.
+
 ### Address for Visitors:
 
 | SDCA Forskning, plan 4
@@ -144,7 +152,9 @@ indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 | Indgang A
 | 8200 Aarhus N
 
-Remember that your name must be stated when ordering.
+## Parking
+
+Read about Parking at AUH [here](/onboarding/parking-at-auh/index.md).
 
 ## Pipe-mail (Rør-post)
 
@@ -152,6 +162,10 @@ There can be sent pipe-mail from:
 
 -   Plan 2 A201-028 (hallway)
 -   Plan 3 A301-040 (niche)
+
+## Canteen
+
+Read about the canteens at AUH under [General practicalities](/onboarding/practicalities/index.md)
 
 ## "Fællesrummet" (Lunchroom)
 
