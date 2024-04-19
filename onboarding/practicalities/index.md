@@ -78,3 +78,14 @@ MUS talks
 :   MUS talks depend on one's terms of employment. Ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if you have questions
     regarding this.
+
+Free rooms (Frirum)
+
+:   At SDCA we have a number of free rooms that no one can book and used
+    on a first-come-first-served basis. These rooms are intended for
+    smaller in-person meetings and online meetings. Everyone can use the
+    room. These rooms are not intended to be extra office spaces or be
+    used for whole-day collaborations. If this is your need, please book
+    a meeting room that fits the number of people attending or sit in
+    the areas around the lunch room on level 3 or 4.
+
