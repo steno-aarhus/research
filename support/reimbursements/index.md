@@ -1,18 +1,22 @@
 # Procedures for reimbursement of transport and other expenses from AUH funds
-Forhold omkring tjenesterejser, mødebefordring, kurser, uddannelse m.v. - AUH intranet (rm.dk) (Conditions around business trips, transport to meetings, courses, training, etc.)
+
+If you are employed by AUH, you can read about the [conditions around business trips, transport to meetings, courses, training, etc.](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/) on the AUH intranet(rm.dk)
 
 ## Persons with paid employment via Region Midtjylland
-Expenses related to driving to and from meetings must be created by the user themselves via the "MinLøn" app on their phone. NOTE: receipts must be attached as pictures.
-Indberetning af befordring i kørselsapp (Min Løn Kørsel og Min Løn Udlæg) - Medarbejder.rm.dk (guide to the app – in Danish)
-If it concerns other expenses (such as meals or accommodation), the user (or secretary) must fill in the form **"Refusion af udlæg øvrige og kursus"**, which is on the AUH Intranet under the tab "[Min side](http://auh.intranet.rm.dk/min-side/)".
+Reimbursements of expenses related to driving to and from meetings must be created by the user themselves via the "MinLøn" app on their phone.
+Guide to the app (in Danish): [Indberetning i MinLøn appen - Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/) 
+NOTE: receipts must be attached as pictures.
+
+Reimbusements of other expenses such as plane tickets, bustickets, meals or accommodation, must be done through the form **"Refusion af udlæg øvrige og kursus"**, which is on the AUH Intranet under the tab "[Min side](http://auh.intranet.rm.dk/min-side/)".
 Guide to the form [Refusion af udlæg øvrige og kursus](files/Reimbursement via Min Side.pdf)
 
-## Persons with unpaid employment at RM (region ID)
-Both driving and other expenses are reimbursed via the form on "[Min side](http://auh.intranet.rm.dk/min-side/)". Contact Julie Knudsen [Julie.Knudsen@rm.dk](mailto:julie.knudsen@rm.dk) if you have questions.
+## Persons with unpaid employment at RM (region ID and Citrix access)
+Both driving and other expenses are reimbursed via the form on "[Min side](http://auh.intranet.rm.dk/min-side/)". Please indicate how you have calculated the price 
+Contact Julie Knudsen [Julie.Knudsen@rm.dk](mailto:julie.knudsen@rm.dk) if you have questions.
 
 ## Other external parties (such as speakers)
-Suppliers can create an invoice through virk.dk. Information needed: ...
-A secretary can create a form on behalf of external parties via "min side". It requires that you have the person's CPR number. And it is important to write under "Bemærkning" that the person is external.
+Suppliers can create an invoice through virk.dk.
+If it is not possible to send an invoice, contact Julie Knudsen [Julie.Knudsen@rm.dk](mailto:julie.knudsen@rm.dk) or Inger Hornbech [Inger.Hornbech@rm.dk](mailto:inger.hornbech@rm.dk). They can fill out the "min side" form on behalf of external parties, if they have the person's CPR number.
 
 ## Foreigners without a CPR number
-Contact Julie Knudsen or Inger Hornbech. They will create a profile for the person in the system so that it will be possible to fill in the form on "Min side".
+Contact Julie Knudsen [Julie.Knudsen@rm.dk](mailto:julie.knudsen@rm.dk) or Inger Hornbech [Inger.Hornbech@rm.dk](mailto:inger.hornbech@rm.dk).
