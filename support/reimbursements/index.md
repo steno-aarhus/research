@@ -8,10 +8,13 @@ Guide to the app (in Danish): [Indberetning i MinLøn appen - Medarbejder.rm.dk]
 NOTE: receipts must be attached as pictures.
 
 Reimbusements of other expenses such as plane tickets, bustickets, meals or accommodation, must be done through the form **"Refusion af udlæg øvrige og kursus"**, which is on the AUH Intranet under the tab "[Min side](http://auh.intranet.rm.dk/min-side/)".
-Guide to the form [Refusion af udlæg øvrige og kursus](files/Reimbursement-via-Min-Side.pdf)
+
+Guide to the form [Refusion af udlæg øvrige og kursus](/files/Reimbursement-via-Min-Side.pdf)
 
 ## Persons with unpaid employment at RM (region ID and Citrix access)
-Both driving and other expenses are reimbursed via the form on "[Min side](http://auh.intranet.rm.dk/min-side/)". Please indicate how you have calculated the price 
+Both driving and other expenses are reimbursed via the **"Refusion af udlæg øvrige og kursus"** form on "[Min side](http://auh.intranet.rm.dk/min-side/)". [Guide to the form](/files/Reimbursement-via-Min-Side.pdf)
+
+Concerning driving expenses: Please indicate how you have calculated the price - 
 Contact Julie Knudsen [Julie.Knudsen@rm.dk](mailto:julie.knudsen@rm.dk) if you have questions.
 
 ## Other external parties (such as speakers)
