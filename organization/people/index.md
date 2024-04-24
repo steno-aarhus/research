@@ -1,38 +1,97 @@
-## SDCA Research Administrative team
+---
+title: "People at SDCA"
+description: Profiles, titles, and contact information for people at SDCA.
+date: "2024-04-24"
+date-modified: last-modified
+author:
+  - name: Julie Knudsen
+    affiliations:
+      - ref: sdca
+metadata-files: 
+  - ../../_affiliations.yml
+---
 
-<img src="https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/maria-sigaard_ude2.jpg" alt="image" style="width:300px;height:auto;">
+## SDCA research administrative team
 
-| **Maria Siggaard**, Research secretary and PA for Head of research, Niels Jessen
-| Tel. 2370 7062, email: marsig@rm.dk
-| **Tasks:** Onboarding, Research Fish,
+::: columns
+::: column
+![](https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/maria-sigaard_ude2.jpg){.profile-pic}
 
-<img src="https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/julie_katholm_knudsen" alt="image" style="width:300px;height:auto;">
+Maria Siggaard
 
-| **Julie Marie Katholm Knudsen**, Research secretary
-| Tel. 5197 6101, email: Julie.Knudsen@rm.dk
-| **Tasks:** Events, purchase of equipment, IT-support (RM), Github.
+:   Research secretary and PA for Head of research, Niels Jessen
 
-<img src="https://www.stenoaarhus.dk/siteassets/8.-kontakt/tvars/inger_hornbech" alt="image" style="width:300px;height:auto;">
+    -   Telephone: 2370 7062
+    -   Email: [marsig\@rm.dk](mailto:marsig@rm.dk){.email}
+    -   Tasks: Onboarding, Research Fish
+:::
 
-| **Inger Hornbech**, Research secretary
-| Tel. 2370 9089, email: Inger.Hornbech@rm.dk
-| **Tasks:** Onboarding PhD Students, allocation of office space etc.
+::: column
+![](/images/people/julie_katholm_knudsen.jpeg){.profile-pic}
 
-<img src="https://www.stenoaarhus.dk/siteassets/3.1-research/resource-areas/steno-trials/helle_thomassen_bonnesenimg_4667_fb.jpg" alt="image" style="width:300px;height:auto;">
+Julie Marie Katholm Knudsen
 
-| **Helle Thomassen Bonnesen**, Research administrator  
-| Tel. 4049 8357, email: hellbonn@rm.dk
-| **Tasks:** Administration of research founding related to RM/Steno Trails
+:   Research secretary
 
-<img src="https://pure.au.dk/portal/files-asset/117876794/Charlotte_Rosholm_MR_R9A6858WEB.jpg?w=160&f=webp" alt="image" style="width:auto;height:200px;">
+    -   Telephone: 5197 6101
+    -   Email:
+        [Julie.Knudsen\@rm.dk](mailto:Julie.Knudsen@rm.dk){.email}
+    -   Tasks: Events, purchase of equipment, IT-support (RM), Github.
+:::
+:::
 
-| **Charlotte Gimbel Rosholm**, Research administrator
-| Tel. 9352 2568, email: cro@clin.au.dk
-| **Tasks:** Administration of research founding related to RM and AU
+::: columns
+::: column
+![](/images/people/inger_hornbech.jpeg){.profile-pic}
 
-<img src="https://ipure8.au.dk/current/photos/bdce7651-f0f9-49bb-bd6d-608e8ef6adfb-new.jpg" alt="image" style="width:auto;height:200px;">
+Inger Hornbech
 
-| **Henriette Jaquet**, Research administrator
-| Tlf. 9350 8859, mail: Henriette.Jaquet@clin.au.dk
-| **Tasks:** Administration of research founding related to AU and external founding
+:   Research secretary
 
+    -   Telephone: 2370 9089
+    -   Email:
+        [Inger.Hornbech\@rm.dk](mailto:Inger.Hornbech@rm.dk){.email}
+    -   Tasks: Onboarding PhD Students, allocation of office space etc.
+:::
+
+::: column
+![](https://www.stenoaarhus.dk/siteassets/3.1-research/resource-areas/steno-trials/helle_thomassen_bonnesenimg_4667_fb.jpg){.profile-pic}
+
+Helle Thomassen Bonnesen
+
+:   Research administrator
+
+    -   Telephone: 4049 8357
+    -   Email: [hellbonn\@rm.dk](mailto:hellbonn@rm.dk){.email}
+    -   Tasks: Administration of research founding related to RM/Steno
+        Trails
+:::
+:::
+
+::: columns
+::: column
+![](https://pure.au.dk/portal/files-asset/117876794/Charlotte_Rosholm_MR_R9A6858WEB.jpg){.profile-pic}
+
+Charlotte Gimbel Rosholm
+
+:   Research administrator
+
+    -   Telephone: 9352 2568
+    -   Email: [cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}
+    -   Tasks: Administration of research founding related to RM and AU
+:::
+
+::: column
+![](https://ipure8.au.dk/current/photos/bdce7651-f0f9-49bb-bd6d-608e8ef6adfb-new.jpg){.profile-pic}
+
+Henriette Jaquet
+
+:   Research administrator
+
+    -   Telephone: 9350 8859
+    -   Email:
+        [Henriette.Jaquet\@clin.au.dk](mailto:Henriette.Jaquet@clin.au.dk){.email}
+    -   Tasks: Administration of research founding related to AU and
+        external founding
+:::
+:::
