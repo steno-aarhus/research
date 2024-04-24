@@ -32,7 +32,11 @@ website:
       - icon: globe
         href: directory.qmd
 
-format: sdca-theme-html
+format: 
+  sdca-theme-html:
+    theme: 
+      - sdca-theme-html
+      - style.scss
 
 editor:
   markdown:

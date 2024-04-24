@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+.profile-pic {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+    object-fit: cover;
+}
