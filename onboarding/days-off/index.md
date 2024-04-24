@@ -22,8 +22,7 @@ metadata-files:
 
 Calling in sick for yourself or a dependent (like your child)
 
-:   Sick days are generally very easy to ask for, though does depend on
-    your terms of employment. For PhD students, email your supervisor.
+:   Depends on your terms of employment. For PhD students, email your supervisor.
     For postdocs at SDCA, email Inger Hornbech
     ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for
     registration if you have an RM employment or Charlotte Rosholm
