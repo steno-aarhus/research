@@ -22,13 +22,13 @@ metadata-files:
 
 Calling in sick for yourself or a dependent (like your child)
 
-:   Depends on your terms of employment. For PhD students, email your supervisor.
-    For postdocs at SDCA, email Inger Hornbech
-    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for
-    registration if you have an RM employment or Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}) if
-    you are employed at AU. Ultimately, contact whoever administers
-    yours or your supervisor's grants.
+:   Depends on your terms of employment. 
+        - **For PhD students:** email your supervisor.
+        - **For postdocs at SDCA:** email Inger Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) 
+        - **For RM employment:** email Inger Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email})  
+        - **For employed at AU**: Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
+    
+    Ultimately, contact whoever administer yours or your supervisor's grants.
 
 Holidays and "omsorgsdage"
 
