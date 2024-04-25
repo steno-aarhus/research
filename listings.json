@@ -1,7 +1,18 @@
 [
   {
+    "listing": "/CONTRIBUTING.html",
+    "items": [
+      "/contributing/guiding-principles.html",
+      "/contributing/guide-to-github.html",
+      "/contributing/navigating-github.html",
+      "/contributing/adding-content.html",
+      "/contributing/writing-markdown.html"
+    ]
+  },
+  {
     "listing": "/organization.html",
     "items": [
+      "/organization/people/index.html",
       "/organization/research-groups/index.html",
       "/organization/sdca-management/index.html"
     ]
@@ -16,6 +27,7 @@
       "/support/funding-application/index.html",
       "/support/running-meetings/index.html",
       "/support/poster-printing/index.html",
+      "/support/reimbursements/index.html",
       "/support/requesting-data/index.html",
       "/support/study-setup/index.html",
       "/support/verdensrummet/index.html"
@@ -33,16 +45,6 @@
       "/onboarding/meetings-and-events/index.html",
       "/onboarding/parking-at-auh/index.html",
       "/onboarding/days-off/index.html"
-    ]
-  },
-  {
-    "listing": "/CONTRIBUTING.html",
-    "items": [
-      "/contributing/guiding-principles.html",
-      "/contributing/guide-to-github.html",
-      "/contributing/navigating-github.html",
-      "/contributing/adding-content.html",
-      "/contributing/writing-markdown.html"
     ]
   }
 ]
