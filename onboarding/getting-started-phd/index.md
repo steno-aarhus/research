@@ -137,13 +137,3 @@ Research in Steno's medical research lab
     Doc](https://docs.google.com/document/d/1lDdepk2NY-dnNnWQub4AyW05jRmxOnox6H6_gQUah6Q/edit#)
     (in Danish) you can look over.
 
-## Learn more about SDCA!
-
-Did you know that Steno Diabetes Center Aarhus is a young organization
-that started in 2018? You'll find background information and some
-practical information in the Emento app. To get access you will need a
-login. Please contact Inger Hornbech.
-
-You can also find useful information about the organisation and research
-at Steno Diabetes Center Aarhus in Region Midtjylland on our
-[website](https://www.stenoaarhus.dk/).
