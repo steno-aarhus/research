@@ -17,6 +17,9 @@ business trips, transport to meetings, courses, training,
 etc.](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/)
 on the AUH intranet.
 
+For EASD specific reimbursements, contact Julie Knudsen
+([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
+
 ## Persons with paid employment via Region Midtjylland
 
 Reimbursements of expenses related to driving to and from meetings must
