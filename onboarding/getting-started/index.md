@@ -67,6 +67,7 @@ Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) to
 get your question (hopefully) answered.
 
 ## Getting started
+
 At the very least, you will probably need to get an **access/ID card**
 for entering AUH and Forum.
 
@@ -80,10 +81,22 @@ for entering AUH and Forum.
     driver's license).
 
 ## Employment
+
 If you have questions about your salary or contract, its best to ask
 whoever administers yours or your supervisor's grants. That would be
 Maria Siggaard ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if
 employment is at RM or Charlotte Rosholm
+
+## Learn more about SDCA!
+
+Did you know that Steno Diabetes Center Aarhus is a young organization
+that started in 2018? You'll find background information and some
+practical information in the Emento app. To get access you will need a
+login. Please contact Inger Hornbech.
+
+You can also find useful information about the organisation and research
+at Steno Diabetes Center Aarhus in Region Midtjylland on our
+[website](https://www.stenoaarhus.dk/).
 ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet
 Harrit
 ([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
