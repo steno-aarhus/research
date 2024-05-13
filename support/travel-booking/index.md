@@ -158,7 +158,8 @@ kurser, uddannelse m.v. - AUH intranet
 (rm.dk)](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/).
 
 ### Reimbursement of travel expenses
-For reimbursement of your travel expenses please read the [reimbursement overview page](https://steno-aarhus.github.io/research/support/reimbursements/).
+
+For reimbursement of your travel expenses please read the [reimbursement overview page](/support/reimbursements/index.md).
 :::
 
 ## Contacts
