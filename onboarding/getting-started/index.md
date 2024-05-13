@@ -30,27 +30,33 @@ Denmark.
 As a new member of our research team, there is a lot of things you need
 learn about the organization, the culture (both research and social) and
 a lot of practical stuff. The page here is thought of as your initial
-entry point, where you can get an overview. This is also an atlas for
+entry point, where you can get an overview.
+
+This website is also an atlas for
 you to return to when you need to look up specific information.
 
-To get an introduction to the research team and this document you will
-be teamed up with an experienced member from research. It is your
-supervisor's responsibility to find you a "buddy." Please ask your
-supervisor if this is not already in place.
+## Getting started
+To give an introduction to the research team and the onboarding documents some supervisors team up new employees with an experienced member from research - a "buddy".
+Other supervisors choose to give the introduction themselves.
+It is your supervisor's responsibility to find you a "buddy", if they are not available to give the introduction themselves. Please ask your
+supervisor about it if you need futher onboarding to SDCA.
 
-Your buddy will walk you through the relevant tables below and give you
-an overview of all the topics that you need to be aware of. The agenda
-for the meeting is:
+## Onboarding
+Either your supervisor or your "buddy" will walk you through the relevant onboarding pages and give you
+an overview of the topics that you need to be aware of.
+
+We suggest that you use this meeting agenda:
 
 1.  Introduce yourselves
-2.  Go through the table below
+2.  Go through the onboarding pages and give an overview of where to find other relevant information
 3.  Take a tour around the research facility
-4.  Arrange follow-up talk
+4.  Arrange a follow-up talk
 
 The purpose of the follow-up talk is to catch up on how you have settled
 in. If you have any specific questions you can also ask them. As the
-final thing, you and your buddy will evaluate the introduction. You will
-be given responsibility to update this website if you have encountered
+final thing, you and your buddy will evaluate the introduction. 
+
+It is your responsibility to update this website if you have encountered
 any information that was not up to date and you should add any other
 information you would have liked the page to contain. This is a very
 important step because it ensures that this material is always current
@@ -66,7 +72,7 @@ to add this information. Then email either Inger Hornbech
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) to
 get your question (hopefully) answered.
 
-## Getting started
+## Access to Forum
 
 At the very least, you will probably need to get an **access/ID card**
 for entering AUH and Forum.
