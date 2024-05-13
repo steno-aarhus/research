@@ -165,5 +165,3 @@ If this document doesn't answer your questions, contact Inger Hornbech
 at AUH or Charlotte Rosholm
 ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) for those at AU.
 
-For EASD specific reimbursements, contact Julie Knudsen
-([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
