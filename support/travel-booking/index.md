@@ -1,6 +1,6 @@
 ---
 title: "Booking for travel"
-description: Steps to take to book for work-related travel that ensure quick reimbursement.
+description: Steps to take to book for work-related travel.
 date: "2023-04-14"
 date-modified: last-modified
 author:
@@ -156,6 +156,9 @@ check out this link (only accessible on AUH internet connections or
 through Citrix): [Forhold omkring tjenesterejser, mødebefordring,
 kurser, uddannelse m.v. - AUH intranet
 (rm.dk)](https://auh.intranet.rm.dk/personale/kursus-tjenesterejser-og-moeder/).
+
+### Reimbursement of travel expenses
+For reimbursement of your travel expenses please read the [reimbursement overview page](https://steno-aarhus.github.io/research/support/reimbursements/).
 :::
 
 ## Contacts
