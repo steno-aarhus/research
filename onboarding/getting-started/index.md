@@ -20,7 +20,7 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
-## Welcome!!
+## Welcome!
 
 We have high ambitions at SDCA. We believe that people with diabetes can
 have a good life. And our aim is, through our research, to improve life
@@ -66,6 +66,7 @@ to add this information. Then email either Inger Hornbech
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) to
 get your question (hopefully) answered.
 
+## Getting started
 At the very least, you will probably need to get an **access/ID card**
 for entering AUH and Forum.
 
@@ -78,6 +79,7 @@ for entering AUH and Forum.
     from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g.
     driver's license).
 
+## Employment
 If you have questions about your salary or contract, its best to ask
 whoever administers yours or your supervisor's grants. That would be
 Maria Siggaard ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if
