@@ -29,23 +29,24 @@ Denmark.
 
 As a new member of our research team, there is a lot of things you need
 learn about the organization, the culture (both research and social) and
-a lot of practical stuff. The page here is thought of as your initial
+a lot of practical stuff. This website is thought of as your initial
 entry point, where you can get an overview.
-
-This website is also an atlas for
+The website is also an atlas for
 you to return to when you need to look up specific information.
 
 ## Getting started
+
 To give an introduction to the research team and the onboarding documents some supervisors team up new employees with an experienced member from research - a "buddy".
 Other supervisors choose to give the introduction themselves.
 It is your supervisor's responsibility to find you a "buddy", if they are not available to give the introduction themselves. Please ask your
-supervisor about it if you need futher onboarding to SDCA.
+supervisor about it if you have further questions.
 
-## Onboarding
+### Onboarding
+
 Either your supervisor or your "buddy" will walk you through the relevant onboarding pages and give you
 an overview of the topics that you need to be aware of.
 
-We suggest that you use this meeting agenda:
+We suggest that you use this agenda for the onboarding:
 
 1.  Introduce yourselves
 2.  Go through the onboarding pages and give an overview of where to find other relevant information
@@ -54,13 +55,17 @@ We suggest that you use this meeting agenda:
 
 The purpose of the follow-up talk is to catch up on how you have settled
 in. If you have any specific questions you can also ask them. As the
-final thing, you and your buddy will evaluate the introduction. 
+final thing, we encourage you to evaluate the introduction. 
+
+### Help us keep the information up to date
 
 It is your responsibility to update this website if you have encountered
 any information that was not up to date and you should add any other
 information you would have liked the page to contain. This is a very
 important step because it ensures that this material is always current
 and helps the next new team member.
+
+There are [instructions for how to contribute](https://steno-aarhus.github.io/research/CONTRIBUTING.html) available under the Contributing tab.
 
 Read through this website, especially the "Onboarding" section, which is
 targeted to new employees. If you have a question that isn't answered
@@ -72,7 +77,7 @@ to add this information. Then email either Inger Hornbech
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) to
 get your question (hopefully) answered.
 
-## Access to Forum
+### Access to Forum
 
 At the very least, you will probably need to get an **access/ID card**
 for entering AUH and Forum.
@@ -91,9 +96,8 @@ for entering AUH and Forum.
 If you have questions about your salary or contract, its best to ask
 whoever administers yours or your supervisor's grants. That would be
 Maria Siggaard ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if
-employment is at RM or Charlotte Rosholm (mailto:cro@clin.au.dk){.email}) or Henriette Jaquet
-Harrit
-([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
+employment is at RM or Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet
+Harrit ([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
 if employment is at AU.
 
 ## Learn more about SDCA!
@@ -106,4 +110,3 @@ login. Please contact Inger Hornbech.
 You can also find useful information about the organisation and research
 at Steno Diabetes Center Aarhus in Region Midtjylland on our
 [website](https://www.stenoaarhus.dk/).
-([cro\@clin.au.dk]
