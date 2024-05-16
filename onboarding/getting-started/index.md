@@ -65,7 +65,7 @@ information you would have liked the page to contain. This is a very
 important step because it ensures that this material is always current
 and helps the next new team member.
 
-There are [instructions for how to contribute](https://steno-aarhus.github.io/research/CONTRIBUTING.html) available under the Contributing tab.
+There are [instructions for how to contribute](/CONTRIBUTING.md) available under the Contributing tab.
 
 Read through this website, especially the "Onboarding" section, which is
 targeted to new employees. If you have a question that isn't answered
