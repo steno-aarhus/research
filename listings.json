@@ -10,11 +10,17 @@
     ]
   },
   {
-    "listing": "/organization.html",
+    "listing": "/onboarding.html",
     "items": [
-      "/organization/people/index.html",
-      "/organization/research-groups/index.html",
-      "/organization/sdca-management/index.html"
+      "/onboarding/getting-started/index.html",
+      "/onboarding/getting-started-phd/index.html",
+      "/onboarding/getting-started-plan-4/index.html",
+      "/onboarding/general-conduct/index.html",
+      "/onboarding/practicalities/index.html",
+      "/onboarding/it-basics/index.html",
+      "/onboarding/meetings-and-events/index.html",
+      "/onboarding/parking-at-auh/index.html",
+      "/onboarding/days-off/index.html"
     ]
   },
   {
@@ -34,17 +40,11 @@
     ]
   },
   {
-    "listing": "/onboarding.html",
+    "listing": "/organization.html",
     "items": [
-      "/onboarding/getting-started/index.html",
-      "/onboarding/getting-started-phd/index.html",
-      "/onboarding/getting-started-plan-4/index.html",
-      "/onboarding/general-conduct/index.html",
-      "/onboarding/practicalities/index.html",
-      "/onboarding/it-basics/index.html",
-      "/onboarding/meetings-and-events/index.html",
-      "/onboarding/parking-at-auh/index.html",
-      "/onboarding/days-off/index.html"
+      "/organization/people/index.html",
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
     ]
   }
 ]
