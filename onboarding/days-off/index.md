@@ -1,6 +1,6 @@
 ---
-title: "Sick days, holidays, and time off"
-description: Taking days off for being sick, for parental leave, holidays, and any other reasons.
+title: "General employment information"
+description: Information in relation to your employment, e.g. insurance, holidays, sick days, MUS talks
 author:
     # Order alphabetical by last name
   - name: Luke W. Johnston
@@ -20,11 +20,30 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
+Insurance
+
+:   All employees are covered by both the Consolidated Workers’ Compensation Act and the Consolidated Working Environment Act. For this reason, it is important to define when a person is considered an employee.
+    Read more on [AUs employee website](https://medarbejdere.au.dk/en/administration/hr/recruitment-and-employment/insurance/insurance/) or contact [AU HR, Employment Law](https://medarbejdere.au.dk/en/administration/overview-of-au-administration/au-hr/employment-law/).
+
+Visiting students/interns/trainees are not covered by AUs or RMs insurance
+
+:   Generally speaking, interns/trainees are not covered by the Consolidated Workers’ Compensation Act. However, there are a number of exceptions.
+    Please read more about insurance and other aspects of international internships on the AU websites:
+    [Student traineeships at AU](https://international.au.dk/education/admissions/student-traineeships-at-au)
+    [Information for hosts for international interns](https://medarbejdere.au.dk/en/administration/international/hosting-student-interns/)
+    If you have questions in regard to an internship through Aarhus University, please contact the institute you belong to (under AU Health)
+    
+    If you have questions in regard to an insternship or another affiliation at SDCA, please contact [auh.research.stenoaarhus@rm.dk](mailto:auh.research.stenoaarhus@rm.dk).
+
+    
 MUS talks
 
 :   MUS talks depend on one's terms of employment. Ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if you have questions
     regarding this.
+
+## Sick days, holidays, and time off
+*Taking days off for being sick, for parental leave, holidays, and any other reasons.*
 
 Calling in sick for yourself or a dependent (like your child)
 
