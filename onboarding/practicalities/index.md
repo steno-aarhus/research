@@ -75,15 +75,14 @@ MasterCard
     [apply](https://medarbejdere.au.dk/en/administration/finance/travel-booking/policy-for-credit-card-at-aarhus-university/)
     for an employee MasterCard.
 
-MUS talks
+Meeting rooms
 
-:   MUS talks depend on one's terms of employment. Ask Maria Siggaard
-    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if you have questions
-    regarding this.
+:   You can find an overview of meeting rooms at SDCA [here]().
+    Read the guide for booking meeting rooms [here]().
 
-Free rooms (Frirum)
+Frirum (Free rooms)
 
-:   At SDCA we have a number of free rooms that no one can book and used
+:   At SDCA we have a number of rooms that no one can book and used
     on a first-come-first-served basis. These rooms are intended for
     smaller in-person meetings and online meetings. Everyone can use the
     room. These rooms are not intended to be extra office spaces or be
