@@ -23,7 +23,7 @@ Maria Siggaard
 
     -   Telephone: 2370 7062
     -   Email: [marsig\@rm.dk](mailto:marsig@rm.dk){.email}
-    -   Tasks: Onboarding, Research Fish
+    -   Tasks: PA to the Head of Research; Niels Jessen, coordination of the research area across SDCA, HR, Research Fish
 :::
 
 ::: column
