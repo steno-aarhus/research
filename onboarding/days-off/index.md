@@ -20,6 +20,12 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
+MUS talks
+
+:   MUS talks depend on one's terms of employment. Ask Maria Siggaard
+    ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if you have questions
+    regarding this.
+
 Calling in sick for yourself or a dependent (like your child)
 
 :   Depends on your terms of employment. 
