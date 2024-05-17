@@ -77,8 +77,8 @@ MasterCard
 
 Meeting rooms
 
-:   You can find an overview of meeting rooms at SDCA [here]().
-    Read the guide for booking meeting rooms [here]().
+:   You can find an overview of meeting rooms at SDCA [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/plantegninger-indretning/).
+    Read the guide for booking meeting rooms [here](https://steno-aarhus.github.io/research/support/booking-rooms/).
 
 Frirum (Free rooms)
 
