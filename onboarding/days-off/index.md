@@ -22,17 +22,16 @@ metadata-files:
 
 Insurance
 
-:   All employees are covered by both the Consolidated Workers’ Compensation Act and the Consolidated Working Environment Act. For this reason, it is important to define when a person is considered an employee.
+:   All employees are covered by both the Consolidated Workers’ Compensation Act and the Consolidated Working Environment Act, when performing a task at your place of employment. For this reason, it is important to define when a person is considered an "employee".
     Read more on [AUs employee website](https://medarbejdere.au.dk/en/administration/hr/recruitment-and-employment/insurance/insurance/) or contact [AU HR, Employment Law](https://medarbejdere.au.dk/en/administration/overview-of-au-administration/au-hr/employment-law/).
 
 Visiting students/interns/trainees are not covered by AUs or RMs insurance
 
-:   Generally speaking, interns/trainees are not covered by the Consolidated Workers’ Compensation Act. However, there are a number of exceptions.
+:   Generally speaking, interns/trainees are **not** covered by the Consolidated Workers’ Compensation Act. (However, there are a number of exceptions.)
+    Because the starting point is that interns are not covered, It is important that the interns themselves clarify with their insurance company whether they are already covered during their time at SDCA – or if they need to take out an extra insurance policy.
     Please read more about insurance and other aspects of international internships on the AU websites:
-    [Student traineeships at AU](https://international.au.dk/education/admissions/student-traineeships-at-au)
-    [Information for hosts for international interns](https://medarbejdere.au.dk/en/administration/international/hosting-student-interns/)
+    [Student traineeships at AU](https://international.au.dk/education/admissions/student-traineeships-at-au) and [Information for hosts for international interns](https://medarbejdere.au.dk/en/administration/international/hosting-student-interns/)
     If you have questions in regard to an internship through Aarhus University, please contact the institute you belong to (under AU Health)
-    
     If you have questions in regard to an insternship or another affiliation at SDCA, please contact [auh.research.stenoaarhus@rm.dk](mailto:auh.research.stenoaarhus@rm.dk).
 
     
@@ -51,7 +50,7 @@ Calling in sick for yourself or a dependent (like your child)
         - **For PhD students:** email your supervisor.
         - **For postdocs at SDCA:** email Inger Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) 
         - **For RM employment:** email Inger Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email})  
-        - **For employed at AU**: Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
+        - **For AU employment:** Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet Harris ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
     
     Ultimately, contact whoever administer yours or your supervisor's grants.
 
@@ -64,7 +63,7 @@ Holidays and "omsorgsdage"
 
 Maternity/paternity leave and other leaves
 
-:   Central Denmark Region employment: ask Maria Siggaard
+:   RM employment: ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). AU employment: please contact Charlotte Rosholm
     ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette Jaquet ([henriette.jaquet@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}).
     Please refer to the one who administers yours or your supervisor's
