@@ -22,10 +22,10 @@ metadata-files:
 
 Insurance
 
-:   All employees are covered by both the Consolidated Workers’ Compensation Act and the Consolidated Working Environment Act, when performing a task at your place of employment. For this reason, it is important to define when a person is considered an "employee".
-    Read more on [AUs employee website](https://medarbejdere.au.dk/en/administration/hr/recruitment-and-employment/insurance/insurance/) or contact [AU HR, Employment Law](https://medarbejdere.au.dk/en/administration/overview-of-au-administration/au-hr/employment-law/).
+:   Employees are covered by both the Consolidated Workers’ Compensation Act (Arbejdsskadesikringsloven) and the Consolidated Working Environment Act (Arbejdsmiljøloven), when performing a task at their place of employment. For this reason, it is important to define when a person is considered an "employee".
+    Read more about the definitions on [STAFF.AU.DK](https://medarbejdere.au.dk/en/administration/hr/recruitment-and-employment/insurance/insurance/) or contact [AU HR, Employment Law](https://medarbejdere.au.dk/en/administration/overview-of-au-administration/au-hr/employment-law/).
 
-Visiting students/interns/trainees are not covered by AUs or RMs insurance
+Interns/trainees/visiting students are not covered by AUs or RMs insurance
 
 :   Generally speaking, interns/trainees are **not** covered by the Consolidated Workers’ Compensation Act. (However, there are a number of exceptions.)
     Because the starting point is that interns are not covered, It is important that the interns themselves clarify with their insurance company whether they are already covered during their time at SDCA – or if they need to take out an extra insurance policy.
@@ -34,7 +34,6 @@ Visiting students/interns/trainees are not covered by AUs or RMs insurance
     If you have questions in regard to an internship through Aarhus University, please contact the institute you belong to (under AU Health)
     If you have questions in regard to an insternship or another affiliation at SDCA, please contact [auh.research.stenoaarhus@rm.dk](mailto:auh.research.stenoaarhus@rm.dk).
 
-    
 MUS talks
 
 :   MUS talks depend on one's terms of employment. Ask Maria Siggaard
