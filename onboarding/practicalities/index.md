@@ -31,13 +31,13 @@ Canteen
 
     In addition, there is a small café with limited selection at
     entrance A, which is open 8-14.
-    
+
 RM Printer
 
 :   RM printer is available on Plan 3 (Niche A301-016 or A301-022) Note
     the name of the printer from someone in your office. For questions
     regarding the SDCA printer: ask Julie Knudsen
-    ([julie.knudsen@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
+    ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
 
 AU Printer
 
@@ -77,16 +77,18 @@ MasterCard
 
 Meeting rooms
 
-:   You can find an overview of meeting rooms at SDCA [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/plantegninger-indretning/).
-    Read the guide for booking meeting rooms [here](https://steno-aarhus.github.io/research/support/booking-rooms/).
+:   You can find an overview of meeting rooms at SDCA
+    [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/forum/plantegninger-indretning/).
+    Read the guide for booking meeting rooms
+    [here](/support/booking-rooms/index.md).
 
 Frirum (Free rooms)
 
-:   At SDCA we have a number of rooms that no one can book and used
-    on a first-come-first-served basis. These rooms are intended for
-    smaller in-person meetings and online meetings. Everyone can use the
-    room. These rooms are not intended to be extra office spaces or be
-    used for whole-day collaborations. If this is your need, please book
-    a meeting room that fits the number of people attending or sit in
-    the areas around the lunch room on level 3 or 4.
+:   At SDCA we have a number of rooms that no one can book and used on a
+    first-come-first-served basis. These rooms are intended for smaller
+    in-person meetings and online meetings. Everyone can use the room.
+    These rooms are not intended to be extra office spaces or be used
+    for whole-day collaborations. If this is your need, please book a
+    meeting room that fits the number of people attending or sit in the
+    areas around the lunch room on level 3 or 4.
 
