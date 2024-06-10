@@ -15,7 +15,7 @@ metadata-files:
 
 ::: columns
 ::: column
-![](https://www.stenoaarhus.dk/siteassets/8.-kontakt/stab/maria-sigaard_ude2.jpg){.profile-pic}
+![](https://www.stenoaarhus.dk/globalassets/generel-overflytning/steno-fagfolk---overflytning/kontakt/medarbejdere/stab/maria-sigaard_ude2.jpg){.profile-pic}
 
 Maria Siggaard
 
@@ -55,7 +55,7 @@ Inger Hornbech
 :::
 
 ::: column
-![](https://www.stenoaarhus.dk/siteassets/3.1-research/resource-areas/steno-trials/helle_thomassen_bonnesenimg_4667_fb.jpg){.profile-pic}
+![](https://www.stenoaarhus.dk/globalassets/generel-overflytning/steno-fagfolk---overflytning/z-old-blokke/3.1-research/resource-areas/steno-trials/helle_thomassen_bonnesenimg_4667_fb.jpg){.profile-pic}
 
 Helle Thomassen Bonnesen
 
