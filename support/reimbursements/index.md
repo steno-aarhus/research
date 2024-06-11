@@ -35,8 +35,8 @@ meals or accommodation, must be done through the digital form
 Intranet under the tab "[Min
 side](http://auh.intranet.rm.dk/min-side/)".
 
-[Guide to the form "Refusion af udlæg øvrige og
-kursus"](/files/reimbursement-min-side.pdf) (in English).
+Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
+if you have questions.
 
 ## Persons with unpaid employment at RM (region ID and Citrix access)
 
@@ -45,8 +45,6 @@ udlæg øvrige og kursus"** form on "[Min
 side](http://auh.intranet.rm.dk/min-side/)". Concerning driving
 expenses: please indicate how you have calculated the price (eg.
 adresses, km and rate pr. km). 
-
-[Guide to the form](/files/reimbursement-min-side.pdf) (in English).
 
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
 if you have questions.
