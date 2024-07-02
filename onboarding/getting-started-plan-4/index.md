@@ -97,7 +97,7 @@ Via Citrix you have access to all AUH systems:
     Danish)](/files/vejledning-bestilling-teknisk-hjaelp.pdf)
 -   Order consumables via RM indkøb
 -   Order chemical waste collection, see the
-    [Guide](/files/waste-management.docx)
+    [Guide](/files/waste-management.pdf)
 -   Search for missing packages, see the
     [guide](/files/instruks-til-tracktrace-fremsogning.pdf)
 -   You may also benefit from the FAQ via the links below on the AUH
