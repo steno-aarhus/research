@@ -274,7 +274,7 @@ available on the trolley (in Danish). **Pay attention to waste
 groups!!** Remember to write what is in the chemical waste container, as
 well as approximately the amount and waste group.
 
-Order chemical waste collection, see the [Guide](/files/waste-management.docx).
+Order chemical waste collection, see the [Guide](/files/waste-management.pdf).
 
 ## Ordering dry ice
 
