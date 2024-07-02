@@ -106,11 +106,6 @@ Via Citrix you have access to all AUH systems:
     and
     [here](https://auh.intranet.rm.dk/om-auh/afdelinger/afdelinger-s-a/steno-diabetes-center-aarhus/praktisk-information/)
 
-::: callout-note
-If you cannot use the links directly, then copy it and paste it when you
-are logged in via Citrix and have opened Microsoft Edge.
-:::
-
 ## AU Printer
 
 Read about the AU printer under [General practicalities](/onboarding/practicalities/index.md)
@@ -141,7 +136,7 @@ indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 | A403-SDCA Forskning
 | Carl Krebs Vej 36
 | 8200 Aarhus N
-| Att: YOUR NAME\
+| Att: YOUR NAME<br>
 
 Remember that your name must be stated when ordering.
 
@@ -192,9 +187,10 @@ Uniform Depot:
 
 All uniforms at the hospital are, for hygiene reasons, only with short
 sleeves. It is not possible to get uniforms with long sleeves. Thin
-disposable uniforms with long sleeves or protective sleeves to pull up
+disposable coats with long sleeves or protective sleeves to pull up
 over the arms are available. However, these are not found at the Uniform
-Depots, but in the cell labs A401-122 and A401-123.
+Depots, but in cabinet 404 (disposable coats and sleeves) and more protective   
+sleeves in cabinet 444 in the BRIK system (please see under BRIK for more information).
 
 AUH has a uniform etiquette that you must follow. You can read about it
 [here](https://www.hr.rm.dk/api/newesdhblock/downloadfile?agendapath=%5c%5crmapps0221.onerm.dk%5ccms01-ext%5cesdh%20data%5crm_internet%5cdagsordener%5cregions-medudvalget%202020%5c10-09-2020%5caaben_dagsorden&appendixid=282598).
@@ -219,7 +215,15 @@ We have two chemical rooms on level 4:
 -   A401-135
 
 There is an LAF bench in both chemical rooms with a precise balance. In
-room A401-118 there is also a pH-meter and a magnetic stirrer.
+room A401-118 there is also a pH-meter and a magnetic stirrer.<br>
+
+You must be conscious and responsible when working with chemicals.
+You are responsible for checking up on the chemicals and handling them correctly.
+All chemicals must be handled according to their hazard label.
+When handling chemicals with hazard label, always use gloves and work in fume hood
+or LAF bench and there must be awareness about chemical waste management.
+Make sure that there is a Chemical Risk Assessment in your protocol before
+using any of the Hazard-labelt chemicals.
 
 ## BRIK Cabinets
 
@@ -272,7 +276,7 @@ well as approximately the amount and waste group.
 
 ## Ordering dry ice
 
-Order via the Purchasing Department (Indkøbsafdelingen), AUH -- use the
+You can pickup dry ice from A101-113, level 1 or order via the Purchasing Department (Indkøbsafdelingen), AUH -- use the
 [dry ice order form (in Danish)](/files/bestilling-af-is.pdf).
 
 ## Wet-Ice
@@ -311,11 +315,13 @@ laboratories on level 4 and you must have a thorough instruction before
 starting work. Instructions must be given on:
 
 -   Waste management
+-   Chemical Risk Assessment
 -   Chemical waste
 -   Glove use
 -   Washing utensils
 -   Safety
 -   Fume Hoods
+-   LAF Bench
 
 ## Use of laboratory equipment
 
