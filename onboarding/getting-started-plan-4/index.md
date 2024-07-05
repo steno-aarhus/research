@@ -14,7 +14,9 @@ metadata-files:
 ---
 
 ::: callout-important
-This document is specific to SDCA employees working on Level 4 in Forum. For more onboarding information please read through the [SDCA Onboarding documents for all employees](/onboarding.md).
+This document is specific to SDCA employees working on Level 4 in Forum.
+For more onboarding information please read through the [SDCA Onboarding
+documents for all employees](/onboarding.md).
 :::
 
 A warm welcome to you as a new employee at Steno Diabetes Center Aarhus.
@@ -97,7 +99,7 @@ Via Citrix you have access to all AUH systems:
     Danish)](/files/vejledning-bestilling-teknisk-hjaelp.pdf)
 -   Order consumables via RM indkøb
 -   Order chemical waste collection, see the
-    [Guide](/files/waste-management.pdf)
+    [Guide](/files/chemical-waste-management.pdf)
 -   Search for missing packages, see the
     [guide](/files/instruks-til-tracktrace-fremsogning.pdf)
 -   You may also benefit from the FAQ via the links below on the AUH
@@ -108,11 +110,13 @@ Via Citrix you have access to all AUH systems:
 
 ## AU Printer
 
-Read about the AU printer under [General practicalities](/onboarding/practicalities/index.md)
+Read about the AU printer under [General
+practicalities](/onboarding/practicalities/index.md)
 
 ## Office supplies/materials
 
-Read about Office supplies and more under [General practicalities](/onboarding/practicalities/index.md)
+Read about Office supplies and more under [General
+practicalities](/onboarding/practicalities/index.md)
 
 ## Delivery of mails and packages
 
@@ -160,7 +164,8 @@ There can be sent pipe-mail from:
 
 ## Canteen
 
-Read about the canteens at AUH under [General practicalities](/onboarding/practicalities/index.md)
+Read about the canteens at AUH under [General
+practicalities](/onboarding/practicalities/index.md)
 
 ## "Fællesrummet" (Lunchroom)
 
@@ -187,10 +192,12 @@ Uniform Depot:
 
 All uniforms at the hospital are, for hygiene reasons, only with short
 sleeves. It is not possible to get uniforms with long sleeves. Thin
-disposable coats with long sleeves or protective sleeves to pull up
-over the arms are available. However, these are not found at the Uniform
-Depots, but in cabinet 404 (disposable coats and sleeves) and more protective   
-sleeves in cabinet 444 in the BRIK system (please see under BRIK for more information).
+disposable coats with long sleeves or protective sleeves to pull up over
+the arms are available. However, these are not found at the Uniform
+Depots, but in cabinet 404 (disposable coats and sleeves) and more
+protective\
+sleeves in cabinet 444 in the BRIK system (please see under BRIK for
+more information).
 
 AUH has a uniform etiquette that you must follow. You can read about it
 [here](https://www.hr.rm.dk/api/newesdhblock/downloadfile?agendapath=%5c%5crmapps0221.onerm.dk%5ccms01-ext%5cesdh%20data%5crm_internet%5cdagsordener%5cregions-medudvalget%202020%5c10-09-2020%5caaben_dagsorden&appendixid=282598).
@@ -217,21 +224,22 @@ We have two chemical rooms on level 4:
 There is an LAF bench in both chemical rooms with a precise balance. In
 room A401-118 there is also a pH-meter and a magnetic stirrer.<br>
 
-You must be conscious and responsible when working with chemicals.
-You are responsible for checking up on the chemicals and handling them correctly.
-All chemicals must be handled according to their hazard label.
-When handling chemicals with hazard label, always use gloves and work in fume hood
-or LAF bench and there must be awareness about chemical waste management.
-Make sure that there is a Chemical Risk Assessment in your protocol before
-using any of the Hazard-labelt chemicals.
+You must be conscious and responsible when working with chemicals. You
+are responsible for checking up on the chemicals and handling them
+correctly. All chemicals must be handled according to their hazard
+label. When handling chemicals with hazard label, always use gloves and
+work in fume hood or LAF bench and there must be awareness about
+chemical waste management. Make sure that there is a Chemical Risk
+Assessment in your protocol before using any of the Hazard-labelt
+chemicals.
 
 ## BRIK Cabinets
 
 There are BRIK Cabinets on level 4 in various laboratories and in the
 corridors. The items in the cabinets are for everybody to use. See the
-[BRIK cabinet guide](/files/brik-cabinets-availability.xlsx) for
-location, instructions, and content. Inquiries regarding adding other
-materials in the BRIK Cabinets: contact Henriette Kristoffersen
+[BRIK cabinet guide](/files/brik-cabinets.xlsx) for location,
+instructions, and content. Inquiries regarding adding other materials in
+the BRIK Cabinets: contact Henriette Kristoffersen
 ([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}). Other purchases are
 the responsibility of the individual groups themselves.
 
@@ -274,10 +282,14 @@ available on the trolley (in Danish). **Pay attention to waste
 groups!!** Remember to write what is in the chemical waste container, as
 well as approximately the amount and waste group.
 
+See also [guide for Chemical Waste
+Management](/files/chemical-waste-management.pdf).
+
 ## Ordering dry ice
 
-You can pickup dry ice from A101-113, level 1 or order via the Purchasing Department (Indkøbsafdelingen), AUH -- use the
-[dry ice order form (in Danish)](/files/bestilling-af-is.pdf).
+You can pickup dry ice from A101-113, level 1 or order via the
+Purchasing Department (Indkøbsafdelingen), AUH -- use the [dry ice order
+form (in Danish)](/files/bestilling-af-is.pdf).
 
 ## Wet-Ice
 
@@ -351,3 +363,4 @@ Read the [GMO safety rules](/files/safety-rules-gmo-cell-lab.pdf) and
 
 If you wish to work in a cell lab, please contact: Lotte Holmbo Arentoft
 ([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk))
+
