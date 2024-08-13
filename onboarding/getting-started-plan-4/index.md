@@ -40,9 +40,11 @@ the entire hospital.
 
 Contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) who
-registers you in BSK and gives you access.<br>
+registers you in BSK and gives you access.
+
 The access card itself is picked up in the Photo Box (Krydspunkt J110, lokale J116-106), where you
-will also have your picture taken.<br>
+will also have your picture taken.
+
 To gain access to special locations (e.g. Cell culture) contact Inger Hornbech
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
 
@@ -122,7 +124,8 @@ practicalities](/onboarding/practicalities/index.md)
 
 At the lifts at A403 there is a trolley on which packages are placed on
 arrival at level 4. Letters are placed in holders on the wall -- here
-you can both receive and send mail.<br>
+you can both receive and send mail.
+
 Freezer and/or refrigerated packages
 are placed in FRYS 1 (room A401-116) in the freezer/refrigerator to the
 left of the door, respectively. The small sign on the outside of the
@@ -141,8 +144,9 @@ indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 | A403-SDCA Forskning
 | Carl Krebs Vej 36
 | 8200 Aarhus N
-| Att: YOUR NAME<br>
-<br>
+| Att: YOUR NAME
+
+
 
 Remember that your name must be stated when ordering.
 
@@ -193,7 +197,8 @@ Uniform Depot:
 -   J105-182
 
 All uniforms at the hospital are, for hygiene reasons, only with short
-sleeves.<br>
+sleeves.
+
 It is not possible to get uniforms with long sleeves, but thin
 disposable coats with long sleeves or protective sleeves to pull up over
 the arms are available. However, these are not found at the Uniform
@@ -206,8 +211,8 @@ AUH has a uniform etiquette that you must follow. You can read about it
 [here](https://www.hr.rm.dk/api/newesdhblock/downloadfile?agendapath=%5c%5crmapps0221.onerm.dk%5ccms01-ext%5cesdh%20data%5crm_internet%5cdagsordener%5cregions-medudvalget%202020%5c10-09-2020%5caaben_dagsorden&appendixid=282598).
 
 If you are wearing a lab coat over your private clothes, this must be
-removed before leaving Level 4. <br> 
-<br>
+removed before leaving Level 4.
+
 Used Uniforms/workwear must be placed in the blue
 clothes trolley, in room A401-144.
 
@@ -215,7 +220,8 @@ clothes trolley, in room A401-144.
 
 SDCA has changing facilities on Level 4 room A401-145 (women) and, on
 Level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with
-bathing facilities.<br>
+bathing facilities.
+
 Contact Julie Knudsen,
 ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) about
 lockers in the changing rooms.
@@ -227,45 +233,42 @@ We have two Chemical rooms on level 4:
 -   A401-118
 -   A401-135
 
-There is an LAF bench in both Chemical rooms with a precise balance.<br>
-In room A401-118 there is also a pH-meter and a magnetic stirrer.<br>
+Here are some guidelines and things to consider:
 
-You must be conscious and responsible when working with Chemicals.<br>
-You are responsible for checking up on the Chemicals and handling them
-correctly.<br>
-All Chemicals must be handled according to their Hazard Label.<br>
-
-When handling Chemicals with Hazard Label, always use gloves and
-work in fume hood or LAF bench. <br>
-Always be aware about Chemical waste management.<br>
-
-Make sure that there is a Chemical Risk
+- There is an LAF bench in both Chemical rooms with a precise balance.
+- In room A401-118 there is also a pH-meter and a magnetic stirrer.
+- You must be conscious and responsible when working with Chemicals.
+- You are responsible for checking up on the Chemicals and handling them correctly.
+- All Chemicals must be handled according to their Hazard Label.
+- When handling Chemicals with Hazard Label, always use gloves and
+work in fume hood or LAF bench.
+- Always be aware about Chemical waste management.
+- Make sure that there is a Chemical Risk
 Assessment in your protocol before using any of the Hazard Labelt
-Chemicals.<br>
-<br>
-Be aware that ventilation checks of fire dampers are ongoing from 6.00-6.30 every Thursday, which means that fume
-hood / LAF benches do not work during that period.<br>
-Therefore, pay attention to what is placed in fume Hoods from Wednesday to Thursday. 
+Chemicals.
+- Be aware that ventilation checks of fire dampers are ongoing from 6.00-6.30 every Thursday, which means that fume
+hood / LAF benches do not work during that period. Therefore, pay attention to what is placed in fume Hoods from Wednesday to Thursday. 
 
 ## BRIK Cabinets
 
 There are BRIK Cabinets on level 4 in various laboratories and in the
-corridors.<br>
+corridors.
 The items in the cabinets are for everybody to use. See the
 [BRIK cabinet guide](/files/brik-cabinets.xlsx) for location,
-instructions, and content.<br>
+instructions, and content.
 Inquiries regarding adding other materials in
 the BRIK Cabinets, contact Henriette Kristoffersen
-([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}). <br>
+([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}).
 Other purchases are the responsibility of the individual groups themselves.
 
 ## Waste management
 
 In the offices there is a waste bin for paper, which is emptied by the
 service staff and a bin for residual waste, which you must empty
-yourself.<br> 
+yourself.
+
 You can place the residual waste in the waste bin in room
-A401-172.<br>
+A401-172.
 
 Waste fractions:
 -   Cardboard boxes are folded and placed in the cage in room A401-172.
@@ -280,38 +283,38 @@ Waste fractions:
         bottles for media, PBS, sterile water, pipette boxes, etc.
         However, bottles must be rinsed before being placed in the waste
         container and the lid and bottle keep apart.
-    - *Hard plastic hazardous* in room A401-172.<br>
+    - *Hard plastic hazardous* in room A401-172.
         *Hard plastic hazardous* is hard plastic that has been in
         contact with hazardous chemistry, however, here there are
         exceptions. On the waste bin you can be seen which ones are
         allowed to be put in the waste container. Be aware before
         putting anything in the container.
     -   *Soft plastic non-hazardous* in Lab 401-106, Lab A401-130, as
-        well as room A401-172.<br>
-       Soft plastic is plastic such as bubble wrap, plastic bags, etc.<br>
+        well as room A401-172.
+       Soft plastic is plastic such as bubble wrap, plastic bags, etc.
        
 In the Citrix RM system, you can enter Microsoft Edge and at the page for RM
-you can use a help function to search for different waste fractions.<br>
-This guide is only in Danish.<br>
-You will find it by > Hjælp til > affaldshåndtering > Affaldshåndbogen      
+you can use a help function to search for different waste fractions.
+This guide is only in Danish.
+You will find it by `> Hjælp til > affaldshåndtering > Affaldshåndbogen`    
 
 See also [Guide for Waste Management](/files/waste-management.pdf).
 
 ## Chemical waste
 
-In the Chemical storage room A401-172 you can place the Chemical waste at the button in the cabinet with ventilation. <br>
-Pick up MUST be booked before placing the chemical waste. <br>
-Instructions are available on the trolley (in Danish).<br>
-**Pay attention to waste
-groups!!** <br>
-Remember to mark the Chemical waste container with fraction, name and department.
+- In the Chemical storage room A401-172 you can place the Chemical waste at the button in the cabinet with ventilation.
+- Pick up MUST be booked before placing the chemical waste.
+- Instructions are available on the trolley (in Danish).
+- **Pay attention to waste
+groups!!**
+- Remember to mark the Chemical waste container with fraction, name and department.
 
 See also [Guide for Chemical Waste
 Management](/files/chemical-waste-management.pdf).
 
 ## Dry-Ice (pick up or order)
 
-You can pickup dry ice from room A101-113, level 1<br>
+You can pickup dry ice from room A101-113, level 1
 or you can order via the Purchasing Department (Indkøbsafdelingen), AUH - use the [dry ice order
 form (in Danish)](/files/bestilling-af-is.pdf).
 
@@ -321,11 +324,11 @@ You can pick up wet-ice in room A401-128
 
 ## Autoclave
 
-There is one small Wet-Autoclave and two Dry-Autoclaves in room A401-166 <br>
-The Wet-Autoclave can be used for small instruments e.g. <br>
+There is one small Wet-Autoclave and two Dry-Autoclaves in room A401-166
+The Wet-Autoclave can be used for small instruments e.g.
 
 One Dry-Autoclave is reserved for cell culture bottles etc. and will be
-started approximately every other day. <br>
+started approximately every other day.
 The second Dry-Autoclave can be used for both sterilization and for "burning" glassware for RNA/DNA
 work.
 
@@ -339,18 +342,19 @@ Rooms (A401-118 and A401- 135).
 Fire hose can be found in "Fællesrummet".
 
 In case of fire, the stairwells act as escape routes, the fire should be
-kept out of there for min. 2 hours.<br>
-All doors are fire-doors and they close automatically upon fire.<br>
-All locked doors open so you can get in and out without access cards. <br>
+kept out of there for min. 2 hours.
+All doors are fire-doors and they close automatically upon fire.
+All locked doors open so you can get in and out without access cards.
 Be aware that ventilation checks of fire dampers are ongoing from 6.00-6.30 every Thursday, which means that fume
-hood / LAF benches do not work during that period.<br>
+hood / LAF benches do not work during that period.
 Therefore, pay attention to what is placed in fume Hoods from Wednesday to Thursday.
 
 ## Workflow in laboratories
 
 Please note that there may be different rules in the different
 laboratories on level 4 and you must have a thorough instruction before
-starting work.<br>
+starting work.
+
 Instructions must be given on:
 
 -   Waste management
@@ -361,16 +365,16 @@ Instructions must be given on:
 -   Safety
 -   Fume Hoods
 -   LAF Bench
-<br>
 Be aware that ventilation checks of fire dampers are ongoing from 6.00-6.30 every Thursday, which means that fume
-hood / LAF benches do not work during that period.<br>
+hood / LAF benches do not work during that period.
 Therefore, pay attention to what is placed in fume Hoods from Wednesday to Thursday
 
 ## Use of laboratory equipment
 
 When using/borrowing other people's equipment, permission must always be
 asked and there must be thorough instruction in the use, regardless of
-what is to be borrowed.<br>
+what is to be borrowed.
+
 The equipment will be marked with a color system
 and name of an equipment responsible.
 
@@ -384,7 +388,7 @@ colour their own equipment should be.
 
 ## Cell Culture Lab
 
-We have 3 Cell Culture Rooms, that are GMO Class I classified. <br>
+We have 3 Cell Culture Rooms, that are GMO Class I classified.
 Two romms at level 4 - room A401-122 and A401-123 and one Cell Culture room at J J101-120.
 
 You must be instructed in workflow and GMO rules before you can work in
