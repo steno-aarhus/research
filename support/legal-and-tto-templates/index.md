@@ -26,7 +26,8 @@ on the [Samarbejde, organisation og strategi
 SDCA specific templates are being worked on and will be available for
 download later.
 
-![Example of a common template.](/images/legal-template.png)
+![Example of a common
+template.](/images/legal-template.png){fig-alt="Image of an example template used for legal purposes."}
 
 Other Region Midt Word templates for collaboration and data sharing are
 available here (in Danish): [Skabeloner til oplysningspligt og samtykke

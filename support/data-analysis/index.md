@@ -82,7 +82,7 @@ author:
     control
 
 ![Flow chart to get help with your coding
-problems](flowchart-getting-help.jpg)
+problems](flowchart-getting-help.jpg){fig-alt="Flow chart showing some steps to take to get help with your coding problems."}
 
 ## Further reading:
 

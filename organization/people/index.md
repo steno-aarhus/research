@@ -15,7 +15,8 @@ metadata-files:
 
 ::: columns
 ::: column
-![](https://www.stenoaarhus.dk/globalassets/generel-overflytning/steno-fagfolk---overflytning/kontakt/medarbejdere/stab/maria-sigaard_ude2.jpg){.profile-pic}
+![](/images/people/maria-siggaard.jpeg){.profile-pic
+fig-alt="Profile picture of Maria Siggaard"}
 
 Maria Siggaard
 
@@ -23,11 +24,13 @@ Maria Siggaard
 
     -   Telephone: 2370 7062
     -   Email: [marsig\@rm.dk](mailto:marsig@rm.dk){.email}
-    -   Tasks: PA to the Head of Research; Niels Jessen, coordination of the research area across SDCA, HR, Research Fish
+    -   Tasks: PA to the Head of Research; Niels Jessen, coordination of
+        the research area across SDCA, HR, Research Fish
 :::
 
 ::: column
-![](/images/people/julie_katholm_knudsen.jpeg){.profile-pic}
+![](/images/people/julie-katholm-knudsen.jpeg){.profile-pic
+fig-alt="Profile picture of Julie Marie Katholm Knudsen"}
 
 Julie Marie Katholm Knudsen
 
@@ -42,7 +45,8 @@ Julie Marie Katholm Knudsen
 
 ::: columns
 ::: column
-![](/images/people/inger_hornbech.jpeg){.profile-pic}
+![](/images/people/inger-hornbech.jpeg){.profile-pic
+fig-alt="Profile picture of Inger Hornbech"}
 
 Inger Hornbech
 
@@ -55,7 +59,8 @@ Inger Hornbech
 :::
 
 ::: column
-![](https://www.stenoaarhus.dk/globalassets/generel-overflytning/steno-fagfolk---overflytning/z-old-blokke/3.1-research/resource-areas/steno-trials/helle_thomassen_bonnesenimg_4667_fb.jpg){.profile-pic}
+![](/images/people/helle-thomassen-bonnesen.jpeg){.profile-pic
+fig-alt="Profile picture of Helle Thomassen Bonnesen"}
 
 Helle Thomassen Bonnesen
 
@@ -70,7 +75,8 @@ Helle Thomassen Bonnesen
 
 ::: columns
 ::: column
-![](https://pure.au.dk/portal/files-asset/117876794/Charlotte_Rosholm_MR_R9A6858WEB.jpg){.profile-pic}
+![](/images/people/charlotte-rosholm.jpeg){.profile-pic
+fig-alt="Profile picture of Charlotte Gimbel Rosholm"}
 
 Charlotte Gimbel Rosholm
 
@@ -82,7 +88,8 @@ Charlotte Gimbel Rosholm
 :::
 
 ::: column
-![](https://ipure8.au.dk/current/photos/bdce7651-f0f9-49bb-bd6d-608e8ef6adfb-new.jpg){.profile-pic}
+![](/images/people/henriette-jaquet.jpeg){.profile-pic
+fig-alt="Profile picture of Henriette Jaquet"}
 
 Henriette Jaquet
 

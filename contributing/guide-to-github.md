@@ -18,7 +18,8 @@ access**, so don't add anything private or confidential.
 2.  Go to the SDCA Research GitHub
     [repository](https://github.com/steno-aarhus/research/).
 
-    ![SDCA GitHub main page.](../images/sdca-repo.png)
+    ![SDCA GitHub main
+    page.](../images/sdca-repo.png){fig-alt="Screenshot of part of the SDCA Research GitHub repository."}
 
 3.  Send your username to administrator Luke Johnston so he can add you
     as a team member.
@@ -39,19 +40,21 @@ access**, so don't add anything private or confidential.
     After you edit the files in the "copy" (branch), you can request
     your changes get included into the main branch.
 
-![Creating a new personal branch.](../images/create-new-branch.png)
+![Creating a new personal
+branch.](../images/create-new-branch.png){fig-alt="Screenshot of creating a new branch on the SDCA Research GitHub page."}
 
 2.  If you want to add a new file, rather than modify and existing one,
     go to "Create new file":
 
 ![Adding a new file to your personal
-branch.](../images/add-new-file.png)
+branch.](../images/add-new-file.png){fig-alt="Screenshot of adding a new file to the SDCA Research GitHub page."}
 
 3.  Give your file a name, for instance `guide-to-github.md` (only small
     characters and use `-` for spaces). Use `.md` as the file extension,
     which stands for "Markdown".
 
-![Naming the newly created file.](../images/naming-new-file.png)
+![Naming the newly created
+file.](../images/naming-new-file.png){fig-alt="Screenshot of naming the new file on the SDCA Research GitHub page."}
 
 4.  Start writing your content in Markdown. You can find support on how
     to write using Markdown in this [tutorial](writing-markdown.md).
@@ -66,17 +69,17 @@ branch.](../images/add-new-file.png)
     something to your memory.
 
 ![Commit the new file into the Git
-history.](../images/commit-new-file.png)
+history.](../images/commit-new-file.png){fig-alt="Screenshot of committing the new file to the Git history on the SDCA Research GitHub page."}
 
 6.  Now you can find your file in the research folder on your personal
     branch. You can continue writing either on this file or others by
     clicking the 'Edit' button of the file.
 
 ![Finding your newly created file in the
-repository.](../images/new-file-in-history.png)
+repository.](../images/new-file-in-history.png){fig-alt="Screenshot of the newly committed file in the Git repository history on the SDCA Research GitHub page."}
 
-![Editting the newly created file, or other
-files.](../images/editting-file.png)
+![Editing the newly created file, or other
+files.](../images/editing-file.png){fig-alt="Screenshot of editing the newly created file in the Git repository history on the SDCA Research GitHub page."}
 
 7.  Once you are finished with what you want to add or modify, the next
     step is to get the content on the website. To do that, you'll need
@@ -88,7 +91,8 @@ files.](../images/editting-file.png)
     that it get merged into the main branch. It also allows for people
     to comment on your changes before they get merged.
 
-![Creating a pull request.](../images/create-pull-request.png)
+![Creating a pull
+request.](../images/create-pull-request.png){fig-alt="Screenshot of creating a pull request on the SDCA Research GitHub page."}
 
 8.  Once you've selected to make a pull request of your branch, you need
     to write a title describing what you are adding or changing and why.
@@ -98,6 +102,6 @@ files.](../images/editting-file.png)
     suggestion for change.
 
 ![Finish with submitting the pull
-request.](../images/submit-pull-request.png)
+request.](../images/submit-pull-request.png){fig-alt="Screenshot of submitting a pull request on the SDCA Research GitHub page."}
 
 And that's the basics!

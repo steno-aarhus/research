@@ -31,7 +31,8 @@ SDCA and especially Level 4.
 
 ## Location overview
 
-![A room overview of Plan 4](/images/plan-4-room-numbers.png)
+![A room overview of Plan
+4](/images/plan-4-room-numbers.png){fig-alt="Image of an map overview of all the rooms on the fourth floor of SDCA."}
 
 In the app "AUH Find vej" you can get help to finding your way around
 the entire hospital.
@@ -392,3 +393,4 @@ Read the [GMO safety rules](/files/safety-rules-gmo-cell-lab.pdf) and
 
 If you wish to work in a cell lab, please contact, Lotte Holmbo Arentoft
 ([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk))
+

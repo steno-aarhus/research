@@ -7,6 +7,7 @@ about:
     template: jolla
     image-width: 35em
     image-shape: rounded
+    image-alt: "Design image of a microscope pointed at a sample."
     links:
       - text: "Onboarding"
         href: "https://steno-aarhus.github.io/research/onboarding.html"
