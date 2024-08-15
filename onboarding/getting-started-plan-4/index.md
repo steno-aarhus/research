@@ -3,7 +3,7 @@ title: "Welcome to Level 4 SDCA"
 description: Material for onboarding on Level 4 SDCA.
 order: 2
 date: "2024-01-30"
-date-modified: last-modified
+date-modified: "2024-08-15"
 author:
   # Order alphabetical by last name
   - name: Lotte Holmbo Arentoft
@@ -140,20 +140,20 @@ indkøb (in Danish)](/files/instruks-til-tracktrace-fremsogning.pdf).
 
 ### Delivery address for packages and letters:
 
-| Aarhus Universitetshospital
-| A403-SDCA Forskning
-| Carl Krebs Vej 36
-| 8200 Aarhus N
-| Att: YOUR NAME
+Aarhus Universitetshospital\
+A403-SDCA Forskning\
+Carl Krebs Vej 36\
+8200 Aarhus N\
+Att: YOUR NAME
 
 Remember that your name must be stated when ordering.
 
 ### Address for Visitors:
 
-| SDCA Forskning, plan 4
-| Palle Juul Jensens Boulevard 11
-| Indgang A
-| 8200 Aarhus N
+SDCA Forskning, plan 4\
+Palle Juul Jensens Boulevard 11\
+Indgang A\
+8200 Aarhus N
 
 ## Parking
 
@@ -354,10 +354,12 @@ Instructions must be given on:
 -   Washing utensils
 -   Safety
 -   Fume Hoods
--   LAF Bench Be aware that ventilation checks of fire dampers are
-    ongoing from 6.00-6.30 every Thursday, which means that fume hood /
-    LAF benches do not work during that period. Therefore, pay attention
-    to what is placed in fume Hoods from Wednesday to Thursday
+-   LAF Bench
+
+Be aware that ventilation checks of fire dampers are ongoing from
+6.00-6.30 every Thursday, which means that fume hood / LAF benches do
+not work during that period. Therefore, pay attention to what is placed
+in fume Hoods from Wednesday to Thursday
 
 ## Use of laboratory equipment
 
