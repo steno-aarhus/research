@@ -13,4 +13,4 @@ metadata-files:
   - ../../_affiliations.yml
 ---
 
-# Introduction
+## Introduction
