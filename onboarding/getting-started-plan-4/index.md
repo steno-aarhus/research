@@ -75,8 +75,7 @@ and it must be noted on the writing pad when you have opened the freezer
 
 There is a large cold room (A401-154). In it, material is placed in
 plastic boxes and then put on shelves assigned to the research group to
-which one belongs.\
-Contact Henriette Kristoffersen
+which one belongs. Contact Henriette Kristoffersen
 ([henrikris\@rm.dk](mailto:henrikris@rm.dk){.email}) to order the
 necessary boxes.
 
@@ -125,8 +124,8 @@ practicalities](/onboarding/practicalities/index.md)
 ## Delivery of mails and packages
 
 At the lifts at A403 there is a trolley on which packages are placed on
-arrival at level 4. Letters are placed in holders on the wall - here
-you can both receive and send mail.
+arrival at level 4. Letters are placed in holders on the wall - here you
+can both receive and send mail.
 
 Freezer and/or refrigerated packages are placed in FRYS 1 (room
 A401-116) in the freezer/refrigerator to the left of the door,
@@ -182,8 +181,7 @@ practicalities](/onboarding/practicalities/index.md)
 
 ## Lockers for small bags
 
-There are bag lockers in the niche A401-018.\
-If you want to keep the key
+There are bag lockers in the niche A401-018. If you want to keep the key
 and use the locker over several days, add a label with your name and
 mail/phone to the door.
 
@@ -201,14 +199,13 @@ AUH has a uniform etiquette that you must follow. You can read about it
 If you are wearing a lab coat over your private clothes, this must be
 removed before leaving Level 4.
 
-Used Uniforms/workwear must be placed in
-the blue clothes trolley, in room A401-144.
+Used Uniforms/workwear must be placed in the blue clothes trolley, in
+room A401-144.
 
 All uniforms at the hospital are, for hygiene reasons, only with short
 sleeves. It is not possible to get uniforms with long sleeves, but thin
 disposable coats with long sleeves or protective sleeves to pull up over
-the arms are available.\
-However, these are not found at the Uniform
+the arms are available. However, these are not found at the Uniform
 Depots, but in cabinet 404 (disposable coats and sleeves) and more
 protective sleeves in cabinet 444 in the BRIK system (please see under
 BRIK for more information).
@@ -217,8 +214,7 @@ BRIK for more information).
 
 SDCA has changing facilities on Level 4 room A401-145 (women) and, on
 Level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with
-bathing facilities.\
-Contact Julie Knudsen,
+bathing facilities. Contact Julie Knudsen,
 ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) about
 lockers in the changing rooms.
 
@@ -250,14 +246,14 @@ Here are some guidelines and things to consider:
 ## BRIK Cabinets
 
 There are BRIK Cabinets on level 4 in various laboratories and in the
-corridors.\
-The items in the cabinets are for everybody to use. See the
+corridors. The items in the cabinets are for everybody to use. See the
 [BRIK cabinet guide](/files/brik-cabinets.xlsx) for location,
-instructions, and content.\
-Inquiries regarding adding other materials in
-the BRIK Cabinets, contact Henriette Kristoffersen
-([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}).\
-Other purchases are the responsibility of the individual groups themselves.
+instructions, and content.
+
+Inquiries regarding adding other materials in the BRIK Cabinets, contact
+Henriette Kristoffersen
+([henrikis\@rm.dk](mailto:henrikis@rm.dk){.email}). Other purchases are
+the responsibility of the individual groups themselves.
 
 ## Waste management
 
@@ -303,7 +299,8 @@ See also [Guide for Waste Management](/files/waste-management.pdf).
 -   In the Chemical storage room A401-172 you can place the Chemical
     waste at the button in the cabinet with ventilation.
 -   Pick up MUST be booked before placing the chemical waste.
--   Instructions for booking Pick up are available on the trolley (in Danish).
+-   Instructions for booking Pick up are available on the trolley (in
+    Danish).
 -   **Pay attention to waste groups!!**
 -   Remember to mark the Chemical waste container with fraction, name
     and department.
@@ -343,10 +340,10 @@ kept out of there for min. 2 hours. All doors are fire-doors and they
 close automatically upon fire. All locked doors open so you can get in
 and out without access cards.
 
-Be aware that ventilation checks of fire
-dampers are ongoing from 6.00-6.30 every Thursday, which means that fume
-hood / LAF benches do not work during that period. Therefore, pay
-attention to what is placed in fume Hoods from Wednesday to Thursday.
+Be aware that ventilation checks of fire dampers are ongoing from
+6.00-6.30 every Thursday, which means that fume hood / LAF benches do
+not work during that period. Therefore, pay attention to what is placed
+in fume Hoods from Wednesday to Thursday.
 
 ## Workflow in laboratories
 
@@ -401,4 +398,3 @@ Read the [GMO safety rules](/files/safety-rules-gmo-cell-lab.pdf) and
 
 If you wish to work in a cell lab, please contact, Lotte Holmbo Arentoft
 ([lotte.arentoft\@clin.au.dk](mailto:lotte.arentoft@clin.au.dk))
-
