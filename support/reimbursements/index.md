@@ -51,14 +51,13 @@ if you have questions.
 
 ## Other external parties (such as speakers)
 
-Suppliers can create an invoice through virk.dk. If it is not possible
+If you do not have an employment at AUH you must create an invoice through [virk.dk](https://virk.dk/myndigheder/stat/ERST/selvbetjening/NemHandel_Fakturablanket/). You will need your MitID and the EAN number that the expense should be reimbursed from. If it is not possible
 to send an invoice, contact Julie Knudsen
 [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk) or Inger Hornbech
-[Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk). They can fill out
-the "min side" form on behalf of external parties, if they have the
-person's CPR number.
+[Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk).
 
 ## Foreigners without a CPR number
 
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
 or Inger Hornbech [Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk).
+They will need your Name, Address, E-mail, Name of bank, Iban and Swift/BIC code to reimburse you.
