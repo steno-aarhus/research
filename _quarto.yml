@@ -5,6 +5,10 @@ website:
   title: "SDCA Research"
   site-url: "https://steno-aarhus.github.io/research/"
   repo-url: "https://github.com/steno-aarhus/research"
+  page-footer:
+    center:
+      - text: "Accessibility statement"
+        href: https://www.was.digst.dk/steno-aarhus-github-io-research-
   navbar:
     pinned: true
     left:
