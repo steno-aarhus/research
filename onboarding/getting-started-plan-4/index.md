@@ -127,6 +127,8 @@ At the lifts at A403 there is a trolley on which packages are placed on
 arrival at level 4. Letters are placed in holders on the wall - here you
 can both receive and send mail.
 
+Please note that letters are only picked up/dropped off on Tuesday and Friday, whereas packages are delivered daily.
+
 Freezer and/or refrigerated packages are placed in FRYS 1 (room
 A401-116) in the freezer/refrigerator to the left of the door,
 respectively. The small sign on the outside of the door to FRYS 1 will
