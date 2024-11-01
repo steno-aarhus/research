@@ -27,7 +27,8 @@ be created by the user themselves via the "MinLøn" app on their phone.
 
 Guide to the app (in Danish): [Indberetning i MinLøn appen -
 Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/).
-NOTE: receipts must be attached as pictures.
+> [!NOTE]
+> receipts can only be attached as pictures (and not as documents)
 
 Reimbusements of other expenses such as plane tickets, bus tickets,
 meals or accommodation, must be done through the digital form
