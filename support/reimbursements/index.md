@@ -22,12 +22,15 @@ For EASD specific reimbursements, contact Julie Knudsen
 
 ## Persons with paid employment via Region Midtjylland
 
-Reimbursements of expenses related to driving to and from meetings must
+Reimbursements of expenses related to driving to and from meetings (including parking and ferry ticket) must
 be created by the user themselves via the "MinLøn" app on their phone.
 
 Guide to the app (in Danish): [Indberetning i MinLøn appen -
 Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/).
-NOTE: receipts must be attached as pictures.
+
+::: callout-note
+Receipts can only be attached as pictures (and not as documents).
+:::
 
 Reimbusements of other expenses such as plane tickets, bus tickets,
 meals or accommodation, must be done through the digital form
@@ -46,12 +49,16 @@ side](http://auh.intranet.rm.dk/min-side/)". Concerning driving
 expenses: please indicate how you have calculated the price (eg.
 adresses, km and rate pr. km). 
 
+::: callout-important
+Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise any milage reimbursements will be rejected by Accounting.
+:::
+
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
 if you have questions.
 
 ## Other external parties (such as speakers)
 
-If you do not have an employment at AUH you must create an invoice through [virk.dk](https://virk.dk/myndigheder/stat/ERST/selvbetjening/NemHandel_Fakturablanket/). You will need your MitID and the EAN number that the expense should be reimbursed from. If it is not possible
+If you do not have an active employment at AUH you must create an invoice through [virk.dk](https://virk.dk/myndigheder/stat/ERST/selvbetjening/NemHandel_Fakturablanket/). You will need your MitID and the EAN number that the expense should be reimbursed from. If it is not possible
 to send an invoice, contact Julie Knudsen
 [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk) or Inger Hornbech
 [Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk).
