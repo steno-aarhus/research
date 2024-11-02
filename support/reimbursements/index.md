@@ -27,8 +27,10 @@ be created by the user themselves via the "MinLøn" app on their phone.
 
 Guide to the app (in Danish): [Indberetning i MinLøn appen -
 Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/).
-> [!NOTE]
-> receipts can only be attached as pictures (and not as documents)
+
+::: callout-note
+Receipts can only be attached as pictures (and not as documents).
+:::
 
 Reimbusements of other expenses such as plane tickets, bus tickets,
 meals or accommodation, must be done through the digital form
@@ -46,8 +48,10 @@ udlæg øvrige og kursus"** form on "[Min
 side](http://auh.intranet.rm.dk/min-side/)". Concerning driving
 expenses: please indicate how you have calculated the price (eg.
 adresses, km and rate pr. km). 
-> [!IMPORTANT]
-> Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise any milage reimbursements will be rejected by Accounting.
+
+::: callout-important
+Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise any milage reimbursements will be rejected by Accounting.
+:::
 
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
 if you have questions.
