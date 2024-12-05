@@ -1,9 +1,8 @@
-docs/
 .Rproj.user
-_site
-README.html
-_ignore
-public
-.Rbuildignore
 .Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+.DS_Store
+_site
 /.quarto/
