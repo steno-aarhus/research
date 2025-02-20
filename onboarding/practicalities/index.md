@@ -42,8 +42,8 @@ RM Printer
 AU Printer
 
 :   AU printer AUH-A401-113-C-1-MFP at prt11.uni.au.dk (room A401-113)
-    For questions regarding the AU printer: ask Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}).
+    For questions regarding the AU printer: ask AU IT
+    ([anderssteen@au.dk](mailto:anderssteen@au.dk){.email}).
 
 Microsoft Office templates (for RM)
 
