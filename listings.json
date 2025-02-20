@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/organization.html",
+    "items": [
+      "/organization/people/index.html",
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
+    ]
+  },
+  {
     "listing": "/CONTRIBUTING.html",
     "items": [
       "/contributing/guiding-principles.html",
@@ -37,14 +45,6 @@
       "/onboarding/it-basics/index.html",
       "/onboarding/meetings-and-events/index.html",
       "/onboarding/parking-at-auh/index.html"
-    ]
-  },
-  {
-    "listing": "/organization.html",
-    "items": [
-      "/organization/people/index.html",
-      "/organization/research-groups/index.html",
-      "/organization/sdca-management/index.html"
     ]
   }
 ]
