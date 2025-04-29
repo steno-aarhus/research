@@ -1,0 +1,54 @@
+---
+title: "GitHub"
+---
+
+## Needs
+
+Reasons to use GitHub
+
+Based on the above, our recommendation is that when it is not possible to make the pages web accessible, the simplest and cheapest way is to use 
+
+
+Is free to use, they have the highest degree of operational reliability, and they are updated and monitored continuously.
+
+Have a high degree of user-friendliness.
+
+At the same time, GitHub is part of the common digital tool for both researchers employed in the region and at Aarhus University.
+The content will thus be presented in the users' own digital universe, and the GitHub pages are easy to find and communicate through.
+
+It empowers researchers to create their own content and share it with the world. It is a very simple and easy way to create a website, and it is free.
+
+## Potential consequences
+
+Time commitment:
+
+- Learning
+
+High level of operational reliability (no back up and IT help if the pages go down)
+
+Because researchers are increasingly using GitHub to share their research and work, as well as to collaborate with others, if there are issues, they are already using the tools that they use in their research. So the time and resources spent on minimal...
+
+## Security
+
+Security is a major concern for most organizations nowadays. 
+
+In a situation where there are many attacks on the digital infrastructure in Denmark and the rest of Europe, it is worth securing your knowledge and communication as best as possible. Here, our recommendation is to move content to GitHub pages.
+
+In our Steno Aarhus organization, we by default protect the main repository content from being deleted and it can only be directly changed by users assigned to the repository. This allows for a very high level of security and protection against attacks.
+
+Can't do:
+
+- Like any other web application or service, GitHub is vulnerable to social engineering attacks like phishing or other attacks that target the user. Users are generally the weakest link in the security chain.
+
+## Hosting websites
+
+GitHub Pages is a static site hosting service that takes files from a GitHub repository and publishes them as a website. It only takes HTML files and puts them so that people can access them from a URL. It does nothing more than that. 
+
+You can however use GitHub to use another tool to *build* a website from your files in your repository. In our case, we use [Quarto](https://quarto.org/) to build a website from our [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) files.
+
+GitHub is a website used by millions of people around the world, that supports a vast network of software, developers, users, and organizations. 
+It is extremely stable, reliable, and fast. It almost never has any downtime. GitHub also has teams of people working to protect from attacks, which they experience regularly but are able to defend against easily. Even in the face of dedicated and direct attacks, GitHub is still able to continue functioning normally. So websites hosted on GitHub will remain there even with these attacks. 
+
+Websites hosted by GitHub are static HTML files, meaning they are just plain HTML files and have no backend connection to a database. That means that they cannot randomly go down. Even if a contributor makes a mistake in writing the Markdown files and the Quarto tool can't re-generate the updated website without fixing things, the existing website still is up. It only gets updated when a completed re-generation of the HTML files happens. If it isn't completed, nothing changes on the website.
+
+
