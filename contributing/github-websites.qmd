@@ -18,8 +18,10 @@ If you would like to get a GitHub website set up for your project under
 3.  Send your GitHub username and theu name of your project to one of
     the `steno-aarhus` administrators (e.g., Luke Johnston,
     lwjohnst\@gmail.com, or Signe Kirk Brødbæk, signekb\@clin.au.dk).
-    Then, we'll set up the website for you on GitHub in a [repository]()
-    in the [`steno-aarhus` organisation]().
+    Then, we'll set up the website for you on GitHub in a
+    [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+    in the [`steno-aarhus`
+    organisation](https://github.com/steno-aarhus).
 
 Since we'll set up the website for you, you don't need to worry about
 the technical details of how to set up a GitHub website. The only things
@@ -173,5 +175,5 @@ regards to your GitHub website, please reach out to either Luke Johnston
 or Signe Kirk Brødbæk by writing an
 [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart#opening-a-blank-issue)
 in your website repository on GitHub. Please tag us using `@` in the
-issue,`@lwjohnst86` or `@signekb`. Then, we'll get a notification
-and get back to you when we can.
+issue,`@lwjohnst86` or `@signekb`. Then, we'll get a notification and
+get back to you when we can.
