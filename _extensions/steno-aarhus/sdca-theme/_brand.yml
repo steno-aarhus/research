@@ -1,0 +1,41 @@
+meta: 
+  name: 
+    full: Steno Diabetes Center Aarhus
+    short: Steno Aarhus
+  link:
+    github: https://github.com/steno-aarhus
+
+color:
+  palette:
+   rm-red: "#990032"
+  primary: rm-red
+
+typography:
+  fonts:
+    - family: noto sans
+      source: "bunny"
+      # 500 and 600 weights are used implicitly. E.g., 500 for bold text, 600 for table headers
+      weight: [300, 500, 600] 
+    - family: poppins
+      source: "bunny"
+      weight: 400
+    - family: roboto mono
+      source: "bunny"
+  base:
+    family: noto sans
+    weight: 300
+  headings: 
+    family: poppins
+  monospace: roboto mono
+
+defaults:
+  bootstrap:
+    rules: |
+        .profile-picture {
+          display: inline-block;
+          border-radius: 50%;
+          object-fit: cover;
+          width: 200px;
+          height: 200px;
+          text-align: center;
+        }
