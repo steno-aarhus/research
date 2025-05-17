@@ -13,6 +13,10 @@ website:
     pinned: true
     left:
       - text: "About"
+        menu:
+          - href: about/index.md
+          - href: about/github.md
+          - href: about/websites.md
         href: about.md
       - text: "Common docs"
         menu:
