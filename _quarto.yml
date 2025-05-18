@@ -5,6 +5,11 @@ website:
   title: "SDCA Research"
   site-url: "https://steno-aarhus.github.io/research/"
   repo-url: "https://github.com/steno-aarhus/research"
+  body-footer: |
+    ::: {.callout-note appearance="default"}
+    This website and the documents contained within are aimed at researchers,
+    PhD students, staff, and external collaborators.
+    :::
   page-footer:
     center:
       - text: "Accessibility statement"
