@@ -8,16 +8,6 @@
     ]
   },
   {
-    "listing": "/CONTRIBUTING.html",
-    "items": [
-      "/contributing/guiding-principles.html",
-      "/contributing/guide-to-github.html",
-      "/contributing/navigating-github.html",
-      "/contributing/adding-content.html",
-      "/contributing/writing-markdown.html"
-    ]
-  },
-  {
     "listing": "/support.html",
     "items": [
       "/support/travel-booking/index.html",
@@ -31,6 +21,16 @@
       "/support/requesting-data/index.html",
       "/support/study-setup/index.html",
       "/support/verdensrummet/index.html"
+    ]
+  },
+  {
+    "listing": "/CONTRIBUTING.html",
+    "items": [
+      "/contributing/guiding-principles.html",
+      "/contributing/guide-to-github.html",
+      "/contributing/navigating-github.html",
+      "/contributing/adding-content.html",
+      "/contributing/writing-markdown.html"
     ]
   },
   {
