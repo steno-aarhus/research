@@ -21,8 +21,7 @@ website:
         menu:
           - href: about/index.md
           - href: about/github.md
-          - href: about/websites.md
-        href: about.md
+          - href: about/quarto.md
       - text: "Common docs"
         menu:
           - text: "Onboarding"
