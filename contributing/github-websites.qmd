@@ -15,18 +15,20 @@ If you would like to get a GitHub website set up for your project under
 2.  Decide on a name for your project. This should be a short,
     descriptive name without spaces. For example `prodiap` or
     `on-limit`.
-3.  Send your GitHub username and the name of your project to one of
-    the `steno-aarhus` administrators, e.g., Luke Johnston
-    ([lwjohnst\@clin.au.dk](mailto:lwjohnst@clin.au.dk){.email}) or Signe Kirk Brødbæk ([signekb\@clin.au.dk](mailto:signekb@clin.au.dk){.email}).
-    Then, we'll set up the website for you on GitHub in a
+3.  Send your GitHub username and the name of your project to one of the
+    `steno-aarhus` administrators, e.g., Luke Johnston
+    ([lwjohnst\@clin.au.dk](mailto:lwjohnst@clin.au.dk){.email}) or
+    Signe Kirk Brødbæk
+    ([signekb\@clin.au.dk](mailto:signekb@clin.au.dk){.email}). Then,
+    we'll set up the website for you on GitHub in a
     [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
     in the [`steno-aarhus`
     organisation](https://github.com/steno-aarhus).
 
 Since we'll set up the website for you, you don't need to worry about
 the technical details of how to set up a GitHub website. The only things
-you need to do are [Navigating GitHub](#navigating-github) and
-[Adding content](#adding-content-to-website).
+you need to do are [Navigating GitHub](#navigating-github) and [Adding
+content](#adding-content-to-website).
 
 If you would like a more complex website with multiple pages, you might
 want to add them in the navigation bar at the top of the website (see
@@ -35,14 +37,16 @@ section below on [Multi-page websites](#multi-page).
 ## :compass: Navigating GitHub {#navigating-github}
 
 To add content to a GitHub website, you first need to be able to
-navigate GitHub and know some of the basics of how GitHub works.
-For a quick introduction to GitHub, check out the [navigating a GitHub repository](/contributing/navigating-github.md) guide. 
+navigate GitHub and know some of the basics of how GitHub works. For a
+quick introduction to GitHub, check out the [navigating a GitHub
+repository](/contributing/navigating-github.md) guide.
 
 ::: callout-tip
 ## Want to learn more about GitHub?
 
-If you want to learn more about GitHub, we recommend this
-[Introduction to GitHub](https://github-intro.rostools.org/) workshop. All the material is on the website and you can work through it at your own pace.
+If you want to learn more about GitHub, we recommend this [Introduction
+to GitHub](https://github-intro.rostools.org/) workshop. All the
+material is on the website and you can work through it at your own pace.
 It's designed to be a gentle 3-hour introduction to GitHub, and it
 covers the basics of how to add, edit, and delete files and folders on
 GitHub.
@@ -119,8 +123,8 @@ including the navigation settings.
 In your `_quarto.yml` file, you will see a section called `navbar`. This
 is where you can add your new page. You can do this by adding a new
 section under the `navbar` configuration. For example, if you want to
-add a page called "Om projektet" in a file named `about.md`, you need
-to add the following three lines to the `navbar` section of your
+add a page called "Om projektet" in a file named `about.md`, you need to
+add the following three lines to the `navbar` section of your
 `_quarto.yml` file:
 
 ``` {.yaml filename="_quarto.yml"}
@@ -137,8 +141,9 @@ bar, and `href` is the link to your new page, which should include the
 name of the file.
 
 You can also add other pages to the navigation bar in the same way. If
-you for example wanted to add a page called "Om os" in a file called `about-us.md`, you would add the
-following lines just below the previous lines:
+you for example wanted to add a page called "Om os" in a file called
+`about-us.md`, you would add the following lines just below the previous
+lines:
 
 ``` {.yaml filename="_quarto.yml"}
     - text: "Om os"  
