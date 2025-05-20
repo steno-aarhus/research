@@ -7,20 +7,25 @@ contributes:
     html:
       toc: true
       from: markdown+emoji
-      theme:
-          - litera
-          - theme.scss
     
   project:
     project:
       type: website
-  
     website:
       repo-branch: main
       repo-actions: [edit, issue, source]
       search:
         location: navbar
-        type: overlay
+        type: textbox
+      navbar:
+        pinned: true
+        tools:
+        - icon: github
+          href: "https://github.com/steno-aarhus/"
+          aria-label: "GitHub icon: Link to SDCA GitHub organization page"
+        - icon: globe
+          href: directory.qmd
+          aria-label: "Globe icon: Link to directory page of other SDCA websites"
       page-footer:
         center:
           - text: "License: CC BY 4.0"
@@ -31,5 +36,5 @@ contributes:
             href: https://steno-aarhus.github.io/research/CODE_OF_CONDUCT.html
           
     reference-location: margin
-
+    brand: _brand.yml
 
