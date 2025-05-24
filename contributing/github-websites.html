@@ -6,11 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Luke W. Johnston">
-<meta name="dcterms.date" content="2025-05-24">
-<meta name="description" content="How to book rooms for meetings in the Forum building at AUH.">
+<meta name="description" content="A guide on making and editing websites in the steno-aarhus GitHub organisation.">
 
-<title>Booking meeting rooms at Forum – SDCA Research</title>
+<title>Basics of GitHub websites – SDCA Research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +21,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-0b2fd15dd946020b8df1c08279635968.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-1b1cbc55f72cee8509700cf8ad790f67.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-0b2fd15dd946020b8df1c08279635968.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1b1cbc55f72cee8509700cf8ad790f67.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">SDCA Research</span>
     </a>
   </div>
@@ -90,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -99,15 +132,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-common-docs">    
         <li>
-    <a class="dropdown-item" href="../../onboarding.html">
+    <a class="dropdown-item" href="../onboarding.html">
  <span class="dropdown-text">Onboarding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../support.html">
+    <a class="dropdown-item" href="../support.html">
  <span class="dropdown-text">Support</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../organization.html">
+    <a class="dropdown-item" href="../organization.html">
  <span class="dropdown-text">Organization</span></a>
   </li>  
     </ul>
@@ -118,11 +151,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-contributing">    
         <li>
-    <a class="dropdown-item" href="../../CONTRIBUTING.html">
+    <a class="dropdown-item" href="../CONTRIBUTING.html">
  <span class="dropdown-text">Guidelines</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../CODE_OF_CONDUCT.html">
+    <a class="dropdown-item" href="../CODE_OF_CONDUCT.html">
  <span class="dropdown-text">Code of Conduct</span></a>
   </li>  
     </ul>
@@ -133,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
     <a href="https://github.com/steno-aarhus/" title="" class="quarto-navigation-tool px-1" aria-label="GitHub icon: Link to SDCA GitHub organization page"><i class="bi bi-github"></i></a>
     <a href="https://steno-aarhus.github.io" title="" class="quarto-navigation-tool px-1" aria-label="Globe icon: Link to the Steno Aarhus GitHub landing webpage for all other Steno Aarhus projects"><i class="bi bi-globe"></i></a>
     <a href="https://twitter.com/StenoAarhusRes" title="" class="quarto-navigation-tool px-1" aria-label="Twitter icon: Link to SDCA Twitter page"><i class="bi bi-twitter"></i></a>
-    <a href="../../directory.html" title="Website Directory" class="quarto-navigation-tool px-1" aria-label="Globe icon: Link to directory page of other SDCA websites"><i class="bi bi-globe"></i></a>
+    <a href="../directory.html" title="Website Directory" class="quarto-navigation-tool px-1" aria-label="Globe icon: Link to directory page of other SDCA websites"><i class="bi bi-globe"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -142,51 +175,42 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link active" data-scroll-target="#getting-started">Getting started</a></li>
+  <li><a href="#navigating-github" id="toc-navigating-github" class="nav-link" data-scroll-target="#navigating-github"><span class="emoji" data-emoji="compass">🧭</span> Navigating GitHub</a></li>
+  <li><a href="#adding-content-to-website" id="toc-adding-content-to-website" class="nav-link" data-scroll-target="#adding-content-to-website"><span class="emoji" data-emoji="pencil2">✏️</span> Adding content to a GitHub website</a></li>
+  <li><a href="#learn-from-others" id="toc-learn-from-others" class="nav-link" data-scroll-target="#learn-from-others"><span class="emoji" data-emoji="books">📚</span> Learn from others</a>
+  <ul class="collapse">
+  <li><a href="#find-the-link-of-another-steno-aarhus-github-website" id="toc-find-the-link-of-another-steno-aarhus-github-website" class="nav-link" data-scroll-target="#find-the-link-of-another-steno-aarhus-github-website">Find the link of another <code>steno-aarhus</code> GitHub website</a></li>
+  <li><a href="#copy-content-from-another-steno-aarhus-website" id="toc-copy-content-from-another-steno-aarhus-website" class="nav-link" data-scroll-target="#copy-content-from-another-steno-aarhus-website">Copy content from another <code>steno-aarhus</code> website</a></li>
+  </ul></li>
+  <li><a href="#multi-page" id="toc-multi-page" class="nav-link" data-scroll-target="#multi-page">Multi-page websites</a></li>
+  <li><a href="#asking-for-help" id="toc-asking-for-help" class="nav-link" data-scroll-target="#asking-for-help"><span class="emoji" data-emoji="raising_hand_woman">🙋‍♀️</span> Asking for help</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/contributing/github-websites.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/contributing/github-websites.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Booking meeting rooms at Forum</h1>
+<h1 class="title">Basics of GitHub websites</h1>
 </div>
 
 <div>
   <div class="description">
-    <p>How to book rooms for meetings in the Forum building at AUH.</p>
+    <p>A guide on making and editing websites in the <code>steno-aarhus</code> GitHub organisation.</p>
   </div>
 </div>
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author">Luke W. Johnston </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://stenoaarhus.dk">
-            Steno Diabetes Center Aarhus
-            </a>
-          </p>
-        <p class="affiliation">
-            Department of Clinical Medicine, Aarhus University
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">May 24, 2025</p>
-    </div>
-  </div>
+    
   
     
   </div>
@@ -196,27 +220,122 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-warning callout-titled">
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting started</h2>
+<p>If you would like to get a GitHub website set up for your project under <code>steno-aarhus</code> on GitHub, you first need to do the following:</p>
+<ol type="1">
+<li>Create a <a href="github.com">GitHub account</a>, if you don’t have one already.</li>
+<li>Decide on a name for your project. This should be a short, descriptive name without spaces. For example <code>prodiap</code> or <code>on-limit</code>.</li>
+<li>Send your GitHub username and the name of your project to one of the <code>steno-aarhus</code> administrators, e.g., Luke Johnston (<a href="mailto:lwjohnst@clin.au.dk" class="email">lwjohnst@clin.au.dk</a>) or Signe Kirk Brødbæk (<a href="mailto:signekb@clin.au.dk" class="email">signekb@clin.au.dk</a>). Then, we’ll set up the website for you on GitHub in a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">repository</a> in the <a href="https://github.com/steno-aarhus"><code>steno-aarhus</code> organisation</a>.</li>
+</ol>
+<p>Since we’ll set up the website for you, you don’t need to worry about the technical details of how to set up a GitHub website. The only things you need to do are <a href="#navigating-github">Navigating GitHub</a> and <a href="#adding-content-to-website">Adding content</a>.</p>
+<p>If you would like a more complex website with multiple pages, you might want to add them in the navigation bar at the top of the website (see section below on <a href="#multi-page">Multi-page websites</a>.</p>
+</section>
+<section id="navigating-github" class="level2">
+<h2 class="anchored" data-anchor-id="navigating-github"><span class="emoji" data-emoji="compass">🧭</span> Navigating GitHub</h2>
+<p>To add content to a GitHub website, you first need to be able to navigate GitHub and know some of the basics of how GitHub works. For a quick introduction to GitHub, check out the <a href="../contributing/navigating-github.html">navigating a GitHub repository</a> guide.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Warning
+Want to learn more about GitHub?
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧</p>
+<p>If you want to learn more about GitHub, we recommend this <a href="https://github-intro.rostools.org/">Introduction to GitHub</a> workshop. All the material is on the website and you can work through it at your own pace. It’s designed to be a gentle 3-hour introduction to GitHub, and it covers the basics of how to add, edit, and delete files and folders on GitHub.</p>
 </div>
 </div>
-<p>Booking rooms in Forum is fairly easy <em>if you know how to do it</em>. But it is not a straight forward way to find out.</p>
-<p>If you have a Region email and have Outlook installed, the easiest approach to booking rooms is through the Outlook calendar. But not everyone has Outlook or don’t want to use multiple calendars, like if they are employed at Aarhus University but with an affiliation with the Region.</p>
-<p>The next way of booking rooms is through the <a href="https://citrix.rm.dk">Citrix</a>, which you can only access if you have MitID. After you log into Citrix, use the Search button on the top right corner to look for <code>Pronestor</code>.</p>
-<p>When it shows itself on the screen, click the icon for Pronestor. After it opens up, you should see a list of dates. Select the date you want to book by clicking the button “Ny mødebestilling”. You’ll be given a list of rooms to book. Select the start time (“start”) and end time (“slut”) at the top, then click the room that is available. Afterwards, continue by clicking the “Check ud” at the top.</p>
-<p>That’s it, you’ve booked the room!</p>
-<p>There are also several “frirum” (free rooms), which are small meeting rooms that cannot be booked and are available if they are empty. There is usually one available at all times.</p>
+</section>
+<section id="adding-content-to-website" class="level2">
+<h2 class="anchored" data-anchor-id="adding-content-to-website"><span class="emoji" data-emoji="pencil2">✏️</span> Adding content to a GitHub website</h2>
+<p>The <code>steno-aarhus</code> websites are built using <a href="https://quarto.org/">Quarto</a> and the content is written in a format called <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>.</p>
+<p><strong>Markdown</strong> is a lightweight markup language that allows you to format text using plain text syntax. It is widely used for writing documentation, and other types of content. Markdown is easy to read and write, and it can be converted to HTML (for websites) and other formats (like PDFs).</p>
+<p>Since we’re using Quarto, the files you write your website content in will be in either the <code>.qmd</code> (the <code>q</code> in <code>qmd</code> stands for <em>Quarto</em> Markdown) or <code>.md</code> format (which stands for “Markdown”). These file formats mean you can write your content using Markdown. To learn how to write in Markdown, check out our <a href="../contributing/writing-markdown.html">guide</a> or the <a href="https://quarto.org/docs/authoring/markdown-basics.html">Quarto documentation</a>.</p>
+</section>
+<section id="learn-from-others" class="level2">
+<h2 class="anchored" data-anchor-id="learn-from-others"><span class="emoji" data-emoji="books">📚</span> Learn from others</h2>
+<p>You can go to <a href="https://github.com/steno-aarhus">steno-aarhus</a> on GitHub and take a look at other GitHub websites. This is an easy way to see how the files are structured and how the content is written. And because the websites are on GitHub, you can copy and paste all you want.</p>
+<p>Let’s look at how to do this.</p>
+<section id="find-the-link-of-another-steno-aarhus-github-website" class="level3">
+<h3 class="anchored" data-anchor-id="find-the-link-of-another-steno-aarhus-github-website">Find the link of another <code>steno-aarhus</code> GitHub website</h3>
+<p>When you have found another website on the <code>steno-aarhus</code> page linked above, click it to see its repository. On the right side of the page, there should be a link to the website.</p>
+</section>
+<section id="copy-content-from-another-steno-aarhus-website" class="level3">
+<h3 class="anchored" data-anchor-id="copy-content-from-another-steno-aarhus-website">Copy content from another <code>steno-aarhus</code> website</h3>
+<p>If you have found something on a <code>steno-aarhus</code> website that you would like to copy, for example someone has added a video to their website and you want to do the same, follow these steps:</p>
+<ol type="1">
+<li>Go to the page on the website where content you want to copy is shown.</li>
+<li>On the right side of the page, click “View source”. This takes you to the page’s source code (i.e., the plain text behind the website that you want to copy). This will show you the Markdown content and any code chunks that were used to generate the output</li>
+<li>Locate the relevant parts and copy and paste it into your own <code>.md</code> file.</li>
+<li>Edit the content to fit your own needs.</li>
+<li>Save the file and commit the changes to your GitHub repository.</li>
+<li>Done! <span class="emoji" data-emoji="raised_hands">🙌</span></li>
+</ol>
+</section>
+</section>
+<section id="multi-page" class="level2">
+<h2 class="anchored" data-anchor-id="multi-page">Multi-page websites</h2>
+<p>If you want multiple pages on your GitHub website, you can add them in the navigation bar at the top of the website. This will allow you to easily navigate between different pages on your website.</p>
+<p>To add a page to the navigation bar, you first need to create a new <code>.md</code> file in your website’s GitHub repository. See <a href="#navigating-github">Navigating GitHub</a> for how to do this.</p>
+<p>Then, you can add the new page to the navigation bar. For To add it, you need to edit the <code>_quarto.yml</code> file in your website’s GitHub repository. This file contains the configuration settings for your Quarto project, including the navigation settings.</p>
+<p>In your <code>_quarto.yml</code> file, you will see a section called <code>navbar</code>. This is where you can add your new page. You can do this by adding a new section under the <code>navbar</code> configuration. For example, if you want to add a page called “Om projektet” in a file named <code>about.md</code>, you need to add the following three lines to the <code>navbar</code> section of your <code>_quarto.yml</code> file:</p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>_quarto.yml</strong></pre>
+</div>
+<div class="sourceCode" id="cb1" data-filename="_quarto.yml"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">navbar</span><span class="kw">:</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">pinned</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">left</span><span class="kw">:</span><span class="co"> # add links to the left side of the navigation bar</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Om projektet"</span><span class="at">  </span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> about.md </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><code>left</code> is the section of the navigation bar where you want to add your new page. <code>text</code> is the text that will be displayed in the navigation bar, and <code>href</code> is the link to your new page, which should include the name of the file.</p>
+<p>You can also add other pages to the navigation bar in the same way. If you for example wanted to add a page called “Om os” in a file called <code>about-us.md</code>, you would add the following lines just below the previous lines:</p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>_quarto.yml</strong></pre>
+</div>
+<div class="sourceCode" id="cb2" data-filename="_quarto.yml"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Om os"</span><span class="at">  </span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> about-us.md </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Where “Om os” is the text that will be displayed in the navigation bar, and <code>about-us.md</code> is name of the file with the page content.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If your file is in a subfolder, you need to include the path to the file in the <code>href</code> section. For example, if your file is in a folder called <code>pages</code>, you would write <code>href: "pages/about.md"</code>.</p>
+</div>
+</div>
+<p>Adding these two pages results in the following <code>left</code> section under <code>navbar</code> in your <code>_quarto.yml</code> file:</p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>_quarto.yml</strong></pre>
+</div>
+<div class="sourceCode" id="cb3" data-filename="_quarto.yml"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">navbar</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">pinned</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">left</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Om projektet"</span><span class="at">  </span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> about.md </span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Om os"</span><span class="at">  </span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> about-us.md </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>And this will add two new pages with the text “Om projektet” and “Om os” to the navigation bar at the top of your website.</p>
+<p>See the <a href="https://quarto.org/docs/websites/website-navigation.html#top-navigation">Quarto documentation</a> for more information on how to set up navigation in your Quarto project.</p>
+</section>
+<section id="asking-for-help" class="level2">
+<h2 class="anchored" data-anchor-id="asking-for-help"><span class="emoji" data-emoji="raising_hand_woman">🙋‍♀️</span> Asking for help</h2>
+<p>If you have any questions or need help with anything more specific in regards to your GitHub website, please reach out to either Luke Johnston or Signe Kirk Brødbæk by writing an <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart#opening-a-blank-issue">Issue</a> in your website repository on GitHub. Please tag us using <code>@</code> in the issue, <code>@lwjohnst86</code> or <code>@signekb</code>. Then, we’ll get a notification and get back to you when we can.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -647,7 +766,7 @@ Warning
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/support/booking-rooms/index.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/support/booking-rooms/index.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/contributing/github-websites.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/contributing/github-websites.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
