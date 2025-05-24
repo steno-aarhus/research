@@ -202,15 +202,15 @@ it isn't too complicated to learn the basics, it is still a complex tool
 with a lot of functionality. That means it can take time to become
 familiar and comfortable with it.
 
-The advantage of GitHub vs a dedicated website hosting service is that,
-if a research learns Git and GitHub, they can easily incorporate that
-into their own workflow and research. If they learn another tool, that
-knowledge and skill will only apply to that tool and not translate to
-improving their research workflow. So learning Git and GitHub in this
-case is an investment that has multiple sources of return, such as
-improving collaborative practices, improving reproducibility and
-transparency, and simplify the process of sharing their work with
-others.
+The advantage of GitHub compared to a dedicated website hosting service
+is that, if a researcher learns Git and GitHub, they can easily
+incorporate that knowledge into their own workflow and research. If they
+learn a website-specific tool, that knowledge and skill will only apply
+to that tool and not translate to improving their research workflow. So
+learning Git and GitHub in this case is an investment that has multiple
+sources of return, such as improving collaboration, improving
+reproducibility and transparency, and simplifying the process of sharing
+their work with others.
 
 Plus, many groups across Steno Aarhus are already using GitHub (e.g. the
 epidemiology group) and we have workshops and documentation to train
