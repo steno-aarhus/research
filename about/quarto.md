@@ -13,7 +13,7 @@ hosted on GitHub.
 Creating websites is an increasingly common need for researchers as they
 are expected or required to make more of an effort to communicate their
 research, share with others, and be more visible to others. These are
-some situations where researchers highly benefit or even need a website:
+some situations where researchers highly benefit from or even need a website:
 
 -   When making a software tool for a statistical method, the software
     will be much more likely used if there is a website that describes
@@ -74,7 +74,7 @@ by researchers. This means that researchers can easily create and edit
 the content of the website. Markdown is widely used on the internet for
 things like forums, blogs, or social media posts. And because Quarto
 uses Markdown, which is a plain text format, it is easy to use with
-GitHub and is easy to build automated scripts to run checks on the
+GitHub making it easy to build automated scripts to run checks on the
 files.
 
 Quarto includes many built-in accessibility features, such as adding
@@ -94,7 +94,7 @@ When it comes to web accessibility, this means that the pages in GitHub
 cannot be built to comply with the Web Accessibility Act.
 
 Like all website tools or services, Quarto on it's own can't incorporate
-all aspects of accessibility. Many things require manual human input.
+all aspects of accessibility. Many things require manual editing.
 Things we at Steno Aarhus do to help improve accessibility is:
 
 -   We use a custom theme that is designed to be as compliant as
@@ -142,7 +142,7 @@ have do the following:
     edit and submit that edit as a pull request to be merged into the
     main content. This pull request workflow is one of the main reasons
     open source software is so successful and secure, because anyone who
-    sees a problem can fix it.
+    sees a problem can help to fix it.
 
 ## Conclusion
 
