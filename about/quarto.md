@@ -13,7 +13,8 @@ hosted on GitHub.
 Creating websites is an increasingly common need for researchers as they
 are expected or required to make more of an effort to communicate their
 research, share with others, and be more visible to others. These are
-some situations where researchers highly benefit from or even need a website:
+some situations where researchers highly benefit from or even need a
+website:
 
 -   When making a software tool for a statistical method, the software
     will be much more likely used if there is a website that describes
@@ -85,17 +86,13 @@ the website.
 
 ## Accessibility
 
-Accessibility is an important topic for us (e.g. Luke, a maintainer of
-the Steno Aarhus GitHub repositories, has some colour-blindess). But
-it's also an incredibly complicated area that is difficult or
-near-impossible to address all possible accessibility aspects.
-
-When it comes to web accessibility, this means that the pages in GitHub
-cannot be built to comply with the Web Accessibility Act.
+Accessibility is an important topic for us. But it's also an incredibly
+complicated area that is difficult or near-impossible to address all
+possible accessibility aspects.
 
 Like all website tools or services, Quarto on it's own can't incorporate
-all aspects of accessibility. Many things require manual editing.
-Things we at Steno Aarhus do to help improve accessibility is:
+all aspects of accessibility. Many things require manual editing. Things
+we at Steno Aarhus do to help improve accessibility is:
 
 -   We use a custom theme that is designed to be as compliant as
     possible with the web accessibility
