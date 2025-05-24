@@ -65,11 +65,11 @@ write, and it can be converted to HTML (for websites) and other formats
 (like PDFs).
 
 Since we're using Quarto, the files you write your website content in
-will be in the `.qmd` format (The `q` in `qmd` stands for *Quarto*
-Markdown). This is a Quarto file format that allows you to write in
-Markdown and include images, videos, code chunks, and other content.
-
-To learn how to write in Markdown, check out the [Quarto
+will be in either the `.qmd` (the `q` in `qmd` stands for *Quarto*
+Markdown) or `.md` format (which stands for "Markdown"). These file
+formats mean you can write your content using Markdown. To learn how to
+write in Markdown, check out our [guide](writing-markdown.md) or the
+[Quarto
 documentation](https://quarto.org/docs/authoring/markdown-basics.html).
 
 ## :books: Learn from others
