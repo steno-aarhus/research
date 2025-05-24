@@ -39,3 +39,8 @@ defaults:
           height: 200px;
           text-align: center;
         }
+
+        .btn {
+          font-family: poppins;
+          font-weight: 400;
+        }
