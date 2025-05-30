@@ -29,7 +29,7 @@ Endocrinology and Diabetes Academy](https://ddeacademy.dk/).
 
 As researchers at Steno Diabetes Center Aarhus, we need a platform where
 we can share procedures, guidelines, host project websites, and put
-documents that we collaboratively work on. Preferably, we want a tool
+documents that we collaborate on. Preferably, we want a tool
 that researchers are already using or will likely use in the near
 future, and we want a tool that integrates easily into how we already
 work. We would rather not have to teach and learn a tool that is only
@@ -78,7 +78,7 @@ tracking, like issue and task tracking, pull requests for collaboration,
 project management, and the ability to host files for a website. GitHub
 is the [most
 popular](https://hutte.io/trails/git-based-development-statistics/) Git
-hosting platform, is it owned by Microsoft, and is used by millions of
+hosting platform, is owned by Microsoft, and is used by millions of
 people around the world every day. It hosts software and documentation
 used in all areas of life, from healthcare to finance to security to the
 functioning of the internet itself.
@@ -146,7 +146,7 @@ Some security practices we use for the Steno Aarhus GitHub organization:
 Having said that, no system is truly secure. No organisation or service
 can protect against social engineering attacks like phishing or other
 attacks that target the user. Users are generally the weakest link in
-the security chain. We can't control that aside from limit access and
+the security chain. We can't control that aside from limiting access and
 educate users. This requires educating and training users on basic
 security practices.
 
@@ -183,8 +183,8 @@ Quarto on our [Quarto](quarto.md) page.
 The advantage of using GitHub Pages for this is that because the HTML
 files are simply copied static files, our websites are quick to load and
 won't go down unless GitHub itself goes down. Because they are static
-files that aren't connected to any database or backend there is no way
-to access or exploit anything. Which means by default they are secure.
+files that aren't connected to any database or backend, there is no way
+to access or exploit anything, making them secure by default.
 Even if a contributor makes a mistake in writing the Markdown files and
 the Quarto tool can't re-generate the updated website, the existing
 website stays online. It only gets updated when a completed

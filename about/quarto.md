@@ -37,8 +37,7 @@ Aside from the use cases above, there are also other needs:
     [GDPR](https://gdpr-info.eu/). While we don't fall under the [Danish
     web accessibility
     law](https://www.retsinformation.dk/eli/lta/2018/692) as the website
-    is not targeted to the general public, ensuring that more people can
-    be able to read or navigate the website in an accessible way is an
+    is not targeted to the general public, ensuring that more people are able to read or navigate the website in an accessible way is an
     ideal and goal we still have.
 -   We want the tool to be a tool that is commonly used by researchers
     in their own work, so they don't have to learn a whole other tool
@@ -54,9 +53,9 @@ reports, many researchers including at Steno Aarhus are already using
 it. So using Quarto to create a website is a more gentle learning
 experience than using a completely different tool.
 
-Quarto uses a widely used website theme generators called
+Quarto uses a widely used website theme generator called
 [Bootstrap](https://getbootstrap.com/) and includes fully-developed
-themes from [Bootswatch](https://bootswatch.com/). This means that is it
+themes from [Bootswatch](https://bootswatch.com/). This means that it is
 easy to create an engaging and fully functional website that is easy to
 navigate and use, thus already fulfilling many of the requirements for
 accessibility.
@@ -65,7 +64,7 @@ Since Quarto is a static HTML website generator, it doesn't include any
 dynamic content that would require a database, or running code in the
 browser with JavaScript, or other server-side processing. That means
 that from the start, it is secure, fast, reliable, and doesn't (can't)
-collect any data so does not have to worry about GDPR or other data
+collect any data, which in turn means that the user doesn't have to worry about GDPR or other data
 privacy issues.
 
 Quarto uses
@@ -90,9 +89,9 @@ Accessibility is an important topic for us. But it's also an incredibly
 complicated area that is difficult or near-impossible to address all
 possible accessibility aspects.
 
-Like all website tools or services, Quarto on it's own can't incorporate
+Like all website tools or services, Quarto on its own can't incorporate
 all aspects of accessibility. Many things require manual editing. Things
-we at Steno Aarhus do to help improve accessibility is:
+we at Steno Aarhus do to help improve accessibility are:
 
 -   We use a custom theme that is designed to be as compliant as
     possible with the web accessibility
@@ -118,7 +117,7 @@ we at Steno Aarhus do to help improve accessibility is:
 ## Legal requirements
 
 To abide as much as possible to the Danish web accessibility law, we
-have do the following:
+have to do the following:
 
 -   On all websites we create, we include a note on who the intended
     audience is for the website, so that we can be clear what the
@@ -143,7 +142,7 @@ have do the following:
 
 ## Conclusion
 
-We choose to use Quarto for making our Steno Aarhus websites. Quarto is
+We chose to use Quarto for making our Steno Aarhus websites. Quarto is
 a powerful and flexible tool for creating websites that is easy to use
 and accessible. It is a great choice for researchers who want to create
 a website for their research, as they are already likely using Quarto
