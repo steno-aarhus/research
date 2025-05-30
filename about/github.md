@@ -43,7 +43,7 @@ little friction as possible between a person wanting to add, change, or
 create something on a website and it going online in as little time as
 possible. That means, the person wanting to contribute should not need
 to coordinate with someone else, wait for someone else to do it, or that
-it take a long time for a change to be approved and put online. We want
+it takes a long time for a change to be approved and put online. We want
 to empower researchers.
 
 Because of this, GitHub is the best and optimal tool to use. We already
@@ -186,7 +186,7 @@ won't go down unless GitHub itself goes down. Because they are static
 files that aren't connected to any database or backend, there is no way
 to access or exploit anything, making them secure by default.
 Even if a contributor makes a mistake in writing the Markdown files and
-the Quarto tool can't re-generate the updated website, the existing
+the Quarto tool can't regenerate the updated website, the existing
 website stays online. It only gets updated when a completed
 re-generation of the HTML files happens. If it isn't completed, nothing
 changes on the website.
