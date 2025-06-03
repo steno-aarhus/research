@@ -111,31 +111,6 @@ we at Steno Aarhus do to help improve accessibility are:
     repositories to check for broken links and give a warning if there
     are any.
 
-## Legal requirements
-
-To abide as much as possible to the Danish web accessibility law, we
-have to do the following:
-
--   On all websites we create, we include a note on who the intended
-    audience is for the website, so that we can be clear what the
-    purposes of the websites are. For instance, the Danish web
-    accessibility law applies to websites targeted to the general
-    public, however our websites almost entirely target researchers,
-    collaborators, PhD students, and other professionals, as well as
-    participants of research studies.
-
--   We include an accessibility statement to the base Steno website at
-    <https://steno-aarhus.github.io/>. From this base, the statement can
-    apply to all subpages, such as this website at
-    <https://steno-aarhus.github.io/research/>. That way, any
-    sub-project can be covered by the same statement.
-
--   Because we use GitHub and write in Markdown, fixing a problem is
-    incredibly easy and quick. Anyone at Steno Aarhus is able to make an
-    edit and submit that edit as a pull request to be merged into the
-    main content. This pull request workflow is one of the main reasons
-    open source software is so successful and secure, because anyone who
-    sees a problem can help to fix it.
 
 ## Conclusion
 
