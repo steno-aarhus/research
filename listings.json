@@ -8,6 +8,20 @@
     ]
   },
   {
+    "listing": "/onboarding.html",
+    "items": [
+      "/onboarding/getting-started/index.html",
+      "/onboarding/getting-started-phd/index.html",
+      "/onboarding/getting-started-plan-4/index.html",
+      "/onboarding/general-conduct/index.html",
+      "/onboarding/employment/index.html",
+      "/onboarding/practicalities/index.html",
+      "/onboarding/it-basics/index.html",
+      "/onboarding/meetings-and-events/index.html",
+      "/onboarding/parking-at-auh/index.html"
+    ]
+  },
+  {
     "listing": "/CONTRIBUTING.html",
     "items": [
       "/contributing/guiding-principles.html",
@@ -32,20 +46,6 @@
       "/support/requesting-data/index.html",
       "/support/study-setup/index.html",
       "/support/verdensrummet/index.html"
-    ]
-  },
-  {
-    "listing": "/onboarding.html",
-    "items": [
-      "/onboarding/getting-started/index.html",
-      "/onboarding/getting-started-phd/index.html",
-      "/onboarding/getting-started-plan-4/index.html",
-      "/onboarding/general-conduct/index.html",
-      "/onboarding/employment/index.html",
-      "/onboarding/practicalities/index.html",
-      "/onboarding/it-basics/index.html",
-      "/onboarding/meetings-and-events/index.html",
-      "/onboarding/parking-at-auh/index.html"
     ]
   }
 ]
