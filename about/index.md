@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Overview"
 ---
 
 We are a group of researchers working within the Steno Diabetes Center
