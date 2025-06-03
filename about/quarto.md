@@ -18,9 +18,7 @@ website:
 
 -   When making a software tool for a statistical method, the software
     will be much more likely used if there is a website that describes
-    how to use it. And the documentation should be created in the same
-    folder or repository as the software itself as it makes it easier to
-    keep the documentation up to date.
+    how to use it.
 -   When collaborating with multiple people on a specific lab method,
     clinical procedure, or workflow, it is much easier to write the
     instructions and guidelines in a website format so that it is easier
@@ -31,15 +29,14 @@ website:
     program and other relevant information on a website can make it much
     easier for the event participants to find the information they need.
 
-Aside from the use cases above, there are also other needs:
+Aside from the use cases above, when creating websites there are some additional needs we need to, or at least would like to, fulfill:
 
 -   We need to follow the law, for instance around
     [GDPR](https://gdpr-info.eu/). While we don't fall under the [Danish
     web accessibility
     law](https://www.retsinformation.dk/eli/lta/2018/692) as the website
-    is not targeted to the general public, ensuring that more people are able to read or navigate the website in an accessible way is an
-    ideal and goal we still have.
--   We want the tool to be a tool that is commonly used by researchers
+    is not targeted to the general public, we still aim to ensure that more people are able to read or navigate the website in an accessible way.
+-   We want the tool we use to create websites to be a tool that is commonly used by researchers
     in their own work, so they don't have to learn a whole other tool
     just to create a website.
 -   The tool should be fairly easy to use.
@@ -64,7 +61,7 @@ Since Quarto is a static HTML website generator, it doesn't include any
 dynamic content that would require a database, or running code in the
 browser with JavaScript, or other server-side processing. That means
 that from the start, it is secure, fast, reliable, and doesn't (can't)
-collect any data, which in turn means that the user doesn't have to worry about GDPR or other data
+collect any data. As a result, the researcher doesn't have to worry about GDPR or other data
 privacy issues.
 
 Quarto uses
@@ -78,7 +75,7 @@ GitHub making it easy to build automated scripts to run checks on the
 files.
 
 Quarto includes many built-in accessibility features, such as adding
-alternative text to images, ARIA labels, and semantic HTML. And since it
+alternative text to images, ARIA labels, and semantic HTML. Since it
 generates static HTML files with no dynamic elements, it is much easier
 for screen readers and other assistive technologies to read and navigate
 the website.
@@ -86,7 +83,7 @@ the website.
 ## Accessibility
 
 Accessibility is an important topic for us. But it's also an incredibly
-complicated area that is difficult or near-impossible to address all
+complicated area, and it's difficult or near-impossible to address all
 possible accessibility aspects.
 
 Like all website tools or services, Quarto on its own can't incorporate
@@ -102,7 +99,7 @@ we at Steno Aarhus do to help improve accessibility are:
 
 -   We have guides that explain how to write Markdown files in a way
     that is as accessible as possible. The main things website authors
-    need to include are `fig-alt` for alternative text for images,
+    need to include are alternative text for images,
     turning on closed caption for videos (which is easy for e.g. YouTube
     videos), and writing Markdown in a consistent and structured way.
 
@@ -142,7 +139,7 @@ have to do the following:
 
 ## Conclusion
 
-We chose to use Quarto for making our Steno Aarhus websites. Quarto is
+We chose to use Quarto for making our Steno Aarhus websites, since it's
 a powerful and flexible tool for creating websites that is easy to use
 and accessible. It is a great choice for researchers who want to create
 a website for their research, as they are already likely using Quarto
