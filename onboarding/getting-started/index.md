@@ -85,7 +85,7 @@ for entering AUH and Forum.
 -   If you have an RM ID-card: You can get access to SDCA by emailing
     your User ID to Inger Hornbech or Julie Knudsen.
 -   If you don't have an RM ID-card: Inger or Julie will need your CPR
-    number and after that you will need to visit the card administration
+    number to create an User ID for you. After that you will need to create a password ([follow this guide](https://www.medarbejder.rm.dk/ansattelsesforhold/adgang-til-it-og-dore/ny-medarbejder-nyt-id-kort/)) and visit the card administration
     to have a photo taken, which is at Plan 1, Universitetstorvet i
     Nord, Krydspunkt 110, room J116-106. Opening hours are Mon to Fri
     from 07.30-09.30 & 10.00-12.00. Remember to bring photo ID (e.g.
