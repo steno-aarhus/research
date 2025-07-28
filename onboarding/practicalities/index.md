@@ -34,8 +34,7 @@ Canteen
 
 RM Printer
 
-:   RM printer is available on Plan 3 (Niche A301-016 or A301-022) Note
-    the name of the printer from someone in your office. For questions
+:   RM printers are available on Plan 3 (Niche A301-016 or A301-022). All AUH printers are set up with follow me print. To install the AUH printers [use this guide](https://regionmidtjylland.service-now.com/rmsp?id=kb_article_view&sysparm_article=KB0011923&sys_kb_id=85b9b875879a2e103ef898683cbb35b4). Nb! The printer names start with "1_RM_". For questions
     regarding the SDCA printer: ask Julie Knudsen
     ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
 
@@ -45,12 +44,9 @@ AU Printer
     For questions regarding the AU printer: ask AU IT
     ([anderssteen@au.dk](mailto:anderssteen@au.dk){.email}).
 
-Microsoft Office templates (for RM)
+Microsoft Office templates (for SDCA)
 
-:   All templates are found in the folder
-    `N:\Afdeling\AUHSTDIC\_Fælles\SDCA-dokumenter_Skabeloner`. This
-    (unfortunately) can so far only be accessed through the
-    ["Citrixportal"](https://citrixportal.rm.dk).
+:   All templates are found on the SDCA Sharepointsite (AUHSTDIC) in the folder _Fælles - [Skabeloner, logo og grafik](https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Skabeloner,%20logo%20og%20grafik?csf=1&web=1&e=UAFA7i).
 
 Office supplies
 
