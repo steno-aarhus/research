@@ -1,25 +1,25 @@
 No specific agreements with hotels have been made, but the amount per
-night per country for 2024 is listed in the table below:
+night per country for 2025 is listed in the table below:
 
 | Country                | Amount        |
 |------------------------|---------------|
-| Austria                | 135 EUR       |
-| Belgium                | 179 EUR       |
-| Canada                 | 372 CAD + tax |
-| Finland                | 150 EUR       |
-| France                 | 196 EUR       |
-| Germany                | 143 EUR       |
-| Great Britain          | 185 GBP       |
-| Greece                 | 109 EUR       |
-| Ireland                | 189 EUR       |
-| Iceland                | 35.721 ISK    |
-| Italy                  | 151 EUR       |
-| Luxembourg             | 178 EUR       |
-| Netherlands            | 174 EUR       |
-| New York/Washington DC | 341 USD + tax |
-| Norway                 | 1.955 NOK     |
-| Portugal               | 146 EUR       |
-| Switzerland            | 250 CHF       |
-| Spain                  | 159 EUR       |
-| Sweden                 | 1.884 SEK     |
-| USA                    | 211 USD + tax |
+| Austria                | 137 EUR       |
+| Belgium                | 178 EUR       |
+| Canada                 | 330 CAD + tax |
+| Finland                | 149 EUR       |
+| France                 | 194 EUR       |
+| Germany                | 165 EUR       |
+| Great Britain          | 177 GBP       |
+| Greece                 | 134 EUR       |
+| Ireland                | 178 EUR       |
+| Iceland                | 31.382 ISK    |
+| Italy                  | 166 EUR       |
+| Luxembourg             | 183 EUR       |
+| Netherlands            | 181 EUR       |
+| New York/Washington DC | 327 USD + tax |
+| Norway                 | 1.916 NOK     |
+| Portugal               | 148 EUR       |
+| Switzerland            | 239 CHF       |
+| Spain                  | 182 EUR       |
+| Sweden                 | 1.701 SEK     |
+| USA                    | 176 USD + tax |
