@@ -21,15 +21,13 @@ metadata-files:
 
 {{< include ../../includes/_wip.md >}}
 
+## Conferences and scientific events
 Check out the documentation on [travel
 booking](../../support/travel-booking/index.md) if the event requires
 traveling to attend.
 
-## Conferences and scientific events
-
 -   **European Association for the Study of Diabetes (EASD)**: Starts
-    end of Sept every year. A large European conference on diabetes.
-    Usually Steno sends most researchers. In English.
+    end of Sept every year. A large European conference on diabetes. In English.
 -   **American Diabetes Association (ADA)**: Usually in end of June
     every year. A large North American (USA-based) conference on
     diabetes. In English.
@@ -42,36 +40,33 @@ traveling to attend.
         Academy](https://ddeacademy.dk/)
     -   [Danish Cardiovascular Academy](https://dcacademy.dk/)
     -   [Danish Data Science Academy](https://ddsa.dk/)
+- **SDCA Research events**:
+    -   **Research Retreat**: Usually around May every year and is a two
+    day retreat at a conference center. (In English)
+    - **ADA highlights**: Usually in the week after the ADA conference. A group of SDCA researchers select presentations from the ADA conference and organize an ADA highlights event at SDCA.
 
-## Social events
-
-Some of the events are found in
-[here](https://www.stenoaarhus.dk/research/research-meetings/) as well
-as listed below.
-
--   **Research Retreat**: Usually around May-June every year and is two
-    days retreat at a conference center. In English.
--   **Christmas dinner**: Usually at the start of December. Often starts
-    after 15 hr and continues until late evening. In Danish.
--   **DHL-run**: To be added.
--   **Summer Party**: To be added.
-
-## Work events
+## Research meetings
 
 These include meetings, clubs, lectures, and other work-related
 activities and events. A detailed list of meetings is found on the
-[Research
-events](https://www.stenoaarhus.dk/research/research-meetings/) page of
+[Research meetings](https://www.stenoaarhus.dk/research/research-meetings/) page of
 the official SDCA website.
+
+## Social events
+
+-   **Summer Party**: Usually in June (just before summer holidays). (In Danish)
+-   **DHL-run**: Usually in August. Read more about the event on the [DHL website](https://dhlstafetten.dk/). (In Danish)
+-   **Christmas dinner**: Usually the first Friday in December. Often starts
+    after 15 hr and continues until late evening. (Primarily in Danish)
 
 ## Online activities
 
 Newsletters
 
-:   Steno News is published once a month (in Danish) and sent to
-    relevant mailgroups. You can also
-    [subscribe](https://www.stenoaarhus.dk/nyheder/nyhedsmail/) to the
-    newsletter.
+:   
+- **Steno News:** the newsletter for SDCA employees is published once a month (in Danish) and sent to relevant mailgroups.
+- **Steno Research News:** Niels Jessen sends out a newsletter (in English) for SDCA researchers every 2-3 months. (If you are employed in the SDCA Clinic they also send out a Clinic newsletter for the employees)
+- **SDCA newsletter:** You can also choose to [subscribe](https://www.stenoaarhus.dk/nyheder/nyhedsmail/) to the official SDCA newsletter.
 
 Slack
 
