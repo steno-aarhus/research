@@ -65,7 +65,7 @@ Newsletters
 
 :   
 - **Steno News:** the newsletter for SDCA employees is published once a month (in Danish) and sent to relevant mailgroups.
-- **Steno Research News:** Niels Jessen sends out a newsletter (in English) for SDCA researchers every 2-3 months. (If you are employed in the SDCA Clinic they also send out a Clinic newsletter for the employees)
+- **Steno Research News:** Niels Jessen sends out a newsletter (in English) for SDCA researchers every 2-3 months. (If you are employed in the SDCA Clinic they also send out a Clinic newsletter for their employees)
 - **SDCA newsletter:** You can also choose to [subscribe](https://www.stenoaarhus.dk/nyheder/nyhedsmail/) to the official SDCA newsletter.
 
 Slack
