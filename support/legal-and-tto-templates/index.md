@@ -29,7 +29,7 @@ download later.
 ![Example of a common
 template.](/images/legal-template.png){fig-alt="Image of an example template used for legal purposes."}
 
-Other Region Midt Word templates for collaboration and data sharing are
+Region Midt Word templates for collaboration and data sharing are
 available here (in Danish): [Skabeloner til oplysningspligt og samtykke
 til indsamling og behandling af
-personoplysninger](https://www.fagperson.sundhed.rm.dk/forskning/skabeloner-til-brug-i-falles-forskningsprojekter-region-midtjyllandaarhus-universitet/).
+personoplysninger](https://www.fagperson.sundhed.rm.dk/forskning-og-innovation/brug-af-persondata/skabeloner-til-brug-i-falles-forskningsprojekter-region-midtjyllandaarhus-universitet/).
