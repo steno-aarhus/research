@@ -62,23 +62,10 @@ Their guides are all available in either English or Danish.
 
 ### Region Midt
 
-Unlike Aarhus University, which is quite familiar and used to a diverse
-set of IT needs and international employees, the Region doesn't have as
-well developed and clear documentation for IT related topics.
-Documentation is also entirely in Danish.
-
-The infrastructure is designed around the user being connected to the
+## Citrix
+The Region infrastructure is designed around the user being connected to the
 regional network and working within a virtual workstation (Citrix),
-which can be access from any regional computer. While this basic setup
-is useful for clinicians that need to stay connected to their workflow
-as they move between physical computers during their daily work, it does
-not serve the needs of researchers and developers. While you can use
-Citrix and the software provided there, getting a so-called advanced
-setup and installing applications locally is most likely a much better
-choice. The following sections describe a) how to set up a Windows
-laptop for local use, b) general tips for using Citrix and the IT
-infrastructure.
-
+which can be accessed from any computer.
 ["Citrix"](https://citrix.rm.dk/) is a cloud-based workspace app to
 access all Region Midt's IT solutions. You can find [IT
 support](https://intranet.rm.dk/it/it-support/) and
@@ -93,6 +80,28 @@ Knudsen [julie.knudsen\@rm.dk](Julie.knudsen@rm.dk).
 If you are using a Region Midt computer, all programs need to be opened
 through the Citrix app. If you are working from another computer, you
 can get access through [https://citrix.rm.dk/](https://citrix.rm.dk).
+
+-   **Personal drives**: Regional employees have a personal OneDrive and a personal drive through "Stifinder" in
+    Citrix. Files saved to the personal drive in Citrix are rather difficult to
+    access, so we recommend using the OneDrive.
+    Data can also be saved on shared drives or other appropriate
+    sources (depends on your research team).
+-   **Shared drives**: SDCA has a regional SharePointsite called [AUHSTDIC](https://regionmidtjylland.sharepoint.com/sites/AUHSTDIC/Afdeling/Forms/AllItems.aspx) and several Teams SharePointsites. Ask your research team wich shared drives they use.
+    Like with the personal drive above, it depends on what kind
+    of information you need to save and share, whether you should use
+    a shared drive or instead use other sources.
+-   **Email and calendar**: You can open your email and calendar either
+    through Citrix or [office.com](https://www.office.com/login?es=UnauthClick&ru=%2f%3ffromcode%3dcmmiadtp424).
+
+**General tips for Citrix and the regional IT infrastructure**
+Help, support, and most other documents or services are almost
+completely only available through the ["Citrix"](https://citrix.rm.dk)
+webportal, which you need to log into with your Region ID. Details about
+how to gain access is found either
+[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
+(if outside the Region intranet, you will need to follow this
+[guide](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
+to activate two-factor authentication codes).
 
 **Printing**
 
@@ -123,6 +132,12 @@ Summary for English speakers:
     and password or keycard.
 
 **How to set up your Windows laptop for local use**
+While this basic setup is useful for clinicians that need to stay connected to their workflow
+as they move between physical computers during their daily work, it does
+not serve the needs of researchers and developers. While you can use
+Citrix and the software provided there, getting a so-called advanced
+setup and installing applications locally is most likely a much better
+choice.
 
 First, you need to do some shopping on the [Regional
 Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) -
@@ -192,39 +207,10 @@ much more stable, fast and flexible workstation, similar to those
 provided to AU employees. Therefore, the next section is less relevant
 for users using the above local setup.
 
-**General tips for Citrix and the regional IT infrastructure**
-
-Help, support, and most other documents or services are almost
-completely only available through the ["Citrix"](https://citrix.rm.dk)
-webportal, which you need to log into with your Region ID. Details about
-how to gain access is found either
-[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-(if outside the Region intranet, you will need to follow this
-[guide](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-to activate two-factor authentication codes).
-
--   **Personal drives**: Accessed by searching for "Stifinder" in
-    Citrix. Files saved to the Region personal drive are difficult to
-    access outside of Citrix and can't easily be shared with others who
-    do not have a Region ID. So we do not recommend using the Region
-    drives unless it is highly sensitive information. Data should
-    instead be saved on shared drives or through other appropriate
-    sources (depends on your research team).
--   **Shared drives**: Accessed by searching for "Stifinder Afdeling" in
-    Citrix. Like with the personal drive above, it depends on what kind
-    of information you need to save and share, whether you should use
-    the shared drive or instead use other sources. Like with the
-    personal drive above, unless you need to save and share information
-    that is highly sensitive, we recommend **not** to use the shared
-    drive and instead use other sources (like GitHub or the Aarhus
-    University shared drives).
--   **Email and calendar**: You can open your email and calendar either
-    through Citrix or by using [`post.rm.dk`](https://post.rm.dk/).
 :::
 
 Regardless of which institution is your administrative employer, if you
 work primarily at SDCA, there are a number of helpful template files and
-other resources found only in Citrix (by searching for "Stifinder
-Afdeling"). We hope to slowly make these files more easily available,
-but until then, you can find relevant ones by asking your colleagues.
+other resources available on the SDCA SharePointsite [AUHSTDIC](https://regionmidtjylland.sharepoint.com/sites/AUHSTDIC/Afdeling/Forms/AllItems.aspx).
+You can find relevant ones by asking your colleagues.
 
