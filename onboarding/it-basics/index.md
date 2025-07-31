@@ -62,24 +62,20 @@ Their guides are all available in either English or Danish.
 
 ### Region Midt
 
-## Citrix
-The Region infrastructure is designed around the user being connected to the
+The regional IT infrastructure is designed around the user being connected to the
 regional network and working within a virtual workstation (Citrix),
 which can be accessed from any computer.
 ["Citrix"](https://citrix.rm.dk/) is a cloud-based workspace app to
-access all Region Midt's IT solutions. You can find [IT
-support](https://intranet.rm.dk/it/it-support/) and
-[guides](https://intranet.rm.dk/it/Region-Midtjyllands-it-vejledninger/)
-on the Regions intranet. Help, support, documents or other services are
-almost only available through Citrix.
+access all Region Midt's IT solutions. If you are using a Region Midt computer, all programs need to be opened through the Citrix app.
+
+**Access**
 
 To access Citrix you need to have a Region ID and log in with your MitID
 or scan your access card. If you need help with this, please ask Julie
 Knudsen [julie.knudsen\@rm.dk](Julie.knudsen@rm.dk).
 
-If you are using a Region Midt computer, all programs need to be opened
-through the Citrix app. If you are working from another computer, you
-can get access through [https://citrix.rm.dk/](https://citrix.rm.dk). Read the guide on [how to install Citrix on a personal device](https://regionmidtjylland.sharepoint.com/:b:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/IT/How%20to%20access%20Citrix%20from%20a%20personal%20device.pdf?csf=1&web=1&e=xgQgSz).
+If you are working from another computer, you can get access through [https://citrix.rm.dk/](https://citrix.rm.dk). Read the guide on [how to install Citrix on a personal device](https://regionmidtjylland.sharepoint.com/:b:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/IT/How%20to%20access%20Citrix%20from%20a%20personal%20device.pdf?csf=1&web=1&e=xgQgSz).
+For further details about how to gain access from a personal device or outside of the region network, read about [working from home](https://www.medarbejder.rm.dk/hjemmearbejde/) or [remote access](https://intranet.rm.dk/it/it-support/fjernadgang/). 
 
 -   **Personal drives**: Regional employees have a personal OneDrive and a personal drive through "Stifinder" in
     Citrix. Files saved to the personal drive in Citrix are rather difficult to
@@ -89,19 +85,10 @@ can get access through [https://citrix.rm.dk/](https://citrix.rm.dk). Read the g
     a shared drive or instead use other sources. Ask your research team wich drives they use.
 -   **Email and calendar**: You can open your email and calendar either
     through Citrix or [Outlook.com](https://outlook.office.com/mail/).
--   **Office.com**: Access your OneDrive, SharePoint, Word, Excel etc. through [office.com](https://www.office.com/login?es=UnauthClick&ru=%2f%3ffromcode%3dcmmiadtp424) by logging in with your region email (regionID@**one**rm.dk) and your region password.
-
-**General tips for Citrix and the regional IT infrastructure**
-Help, support, and most other documents or services are almost
-completely only available through the ["Citrix"](https://citrix.rm.dk)
-webportal, which you need to log into with your Region ID. Details about
-how to gain access is found either
-[here](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-(if outside the Region intranet, you will need to follow this
-[guide](https://www.rm.dk/om-os/organisation/hjemmearbejde---for-medarbejdere/vejledning-til-fjernadgang-pa-sms/)
-to activate two-factor authentication codes).
+-   **Office.com**: Access OneDrive, SharePoint, Word, Excel etc. through [office.com](https://www.office.com/login?es=UnauthClick&ru=%2f%3ffromcode%3dcmmiadtp424) by logging in with your region email (regionID@**one**rm.dk) and your region password.
 
 **Printing**
+
 To use the Regional cloud printers you need to install them first:
 
 -   Open 'Indstillinger' (Settings) on your computer and go to 'Bluetooth og enheder' (Bluetooth and devices).
@@ -119,6 +106,11 @@ To use the Regional cloud printers you need to install them first:
 -   Now you can send documents to the printers. The document will be
     physically printed when you log on to one of the printers with your Region ID
     and password or keycard.
+
+**IT support and guides**
+
+You can find [IT support](https://intranet.rm.dk/it/it-support/) and [guides](https://intranet.rm.dk/it/Region-Midtjyllands-it-vejledninger/)
+on the Regions intranet. Help, support, documents or other services are almost only available through Citrix.
 
 **How to set up your Windows laptop for local use**
 While this basic setup is useful for clinicians that need to stay connected to their workflow
