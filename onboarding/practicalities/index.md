@@ -71,6 +71,30 @@ MasterCard
     [apply](https://medarbejdere.au.dk/en/administration/finance/travel-booking/policy-for-credit-card-at-aarhus-university/)
     for an employee MasterCard.
 
+Invoicing and banking details for SDCA
+
+:   If you must send invoicing details regarding an AU/AUH externally funded project, then you need to give the following information:
+
+**Invoicing and banking details for AU**
+| Aarhus Universitet
+| Institut for Klinisk Medicin, SDCA
+| Palle Juul-Jensens Boulevard 11, Bygning A
+| DK-8200 Aarhus N
+| CVR nr.: 31119103
+| Ean nr.: 5798000418820
+| REFERENCE TEXT: YOUR NAME AND PROJECT NUMBER
+
+**Invoicing and banking details for AUH**
+| Aarhus Universitetshospital Skejby, SDCA
+| Palle Juul-Jensens Boulevard 99
+| 8200 Aarhus N
+| CVR nr.: 29190925
+| SE: 29762929
+| Ean nr.: 5798002761498
+| REFERENCE TEXT: YOUR NAME AND PROJECT NUMBER
+
+If you are in doubt about the project number, then contact your research administrator (Henriette or Charlotte)
+
 Meeting rooms
 
 :   You can find an overview of meeting rooms at SDCA
