@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Eeva-Liisa Røssell Johansen">
+<meta name="dcterms.date" content="2025-09-01">
+<meta name="description" content="How to preregister a research project at OSF.">
 
-<title>Organizational Information about SDCA – SDCA Research</title>
+<title>Preregistration at Open Science Framework (OSF): A tutorial – SDCA Research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +26,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d78de413ccbe293bbb1fb27e26b409cd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-10060b78351dd3daf301351afa0efb0a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-d78de413ccbe293bbb1fb27e26b409cd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-10060b78351dd3daf301351afa0efb0a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,65 +68,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -136,7 +79,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">SDCA Research</span>
     </a>
   </div>
@@ -152,15 +95,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./about/index.html">
+    <a class="dropdown-item" href="../../about/index.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about/github.html">
+    <a class="dropdown-item" href="../../about/github.html">
  <span class="dropdown-text">GitHub</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about/quarto.html">
+    <a class="dropdown-item" href="../../about/quarto.html">
  <span class="dropdown-text">Quarto</span></a>
   </li>  
     </ul>
@@ -171,15 +114,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-common-docs">    
         <li>
-    <a class="dropdown-item" href="./onboarding.html">
+    <a class="dropdown-item" href="../../onboarding.html">
  <span class="dropdown-text">Onboarding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./support.html">
+    <a class="dropdown-item" href="../../support.html">
  <span class="dropdown-text">Support</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./organization.html">
+    <a class="dropdown-item" href="../../organization.html">
  <span class="dropdown-text">Organization</span></a>
   </li>  
     </ul>
@@ -190,11 +133,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-contributing">    
         <li>
-    <a class="dropdown-item" href="./CONTRIBUTING.html">
+    <a class="dropdown-item" href="../../CONTRIBUTING.html">
  <span class="dropdown-text">Guidelines</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./CODE_OF_CONDUCT.html">
+    <a class="dropdown-item" href="../../CODE_OF_CONDUCT.html">
  <span class="dropdown-text">Code of Conduct</span></a>
   </li>  
     </ul>
@@ -213,22 +156,56 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction-and-overview-of-osf" id="toc-introduction-and-overview-of-osf" class="nav-link active" data-scroll-target="#introduction-and-overview-of-osf">Introduction and overview of OSF</a></li>
+  <li><a href="#creating-a-preregistration-at-osf" id="toc-creating-a-preregistration-at-osf" class="nav-link" data-scroll-target="#creating-a-preregistration-at-osf">Creating a preregistration at OSF</a></li>
+  <li><a href="#contact-persons" id="toc-contact-persons" class="nav-link" data-scroll-target="#contact-persons">Contact persons</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/support/preregistration-osf/index.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/support/preregistration-osf/index.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Organizational Information about SDCA</h1>
+<h1 class="title">Preregistration at Open Science Framework (OSF): A tutorial</h1>
 </div>
 
+<div>
+  <div class="description">
+    How to preregister a research project at OSF.
+  </div>
+</div>
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Eeva-Liisa Røssell Johansen </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://www.stenoaarhus.dk/">
+            Steno Diabetes Center Aarhus
+            </a>
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
-    
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 1, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -238,55 +215,27 @@ window.Quarto = {
 </header>
 
 
-<p>If you have a question that isn’t answered here, open an <a href="https://github.com/steno-aarhus/research/issues/new">Issue</a> (needs a <a href="https://github.com/join">GitHub</a> account) to let us know that we need to add this information.</p>
+<p>If you need to preregister a research project based on observational data online to be able to upload an analysis plan, analysis code, or other files or pre-defined plans, you can do it at Open Science Framework (OSF): <a href="https://osf.io/registries/">OSF Registries</a>. If instead you are looking to register a clinical trial you should go to <a href="https://clinicaltrials.gov/">clinicaltrials.gov</a>—here we only consider OSF registrations. After registering at OSF, you can upload results and preprints if necessary as well as other things. In this way, OSF can be thought of as a public logbook for your research project.</p>
+<section id="introduction-and-overview-of-osf" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-and-overview-of-osf">Introduction and overview of OSF</h2>
+<p>To get an overview of OSF Registries, you can read more about the possibilities and how to create an account here (including videos with help and instructions): <a href="https://help.osf.io/">OSF Support</a></p>
+<p>For a more dedicated introduction to preregistrations and a video: <a href="https://help.osf.io/article/330-welcome-to-registrations">Welcome to Registrations &amp; Preregistrations! (Overview) - OSF Support</a></p>
+</section>
+<section id="creating-a-preregistration-at-osf" class="level2">
+<h2 class="anchored" data-anchor-id="creating-a-preregistration-at-osf">Creating a preregistration at OSF</h2>
+<p>First step for a preregistration is to select a template. You can read more about the different templates here: <a href="https://help.osf.io/article/229-select-a-registration-template">Select a Registration Template - OSF Support</a></p>
+<p>The general template “OSF Preregistration” will work for many projects. The template “Secondary Data Preregistration” is also useful, when data have previously been collected for other purposes.</p>
+<p>When making a preregistration, you can select a copyright license for the project. Other projects have previously used “CC-By Attribution 4.0 International”. With this license, others can use and refer to the content in the registration, as long as they credit/reference the original work. Read more about licensing here: <a href="https://help.osf.io/article/148-licensing">Licensing - OSF Support</a></p>
+<p>If you want to see an example of preregistration with analysis plan for a project based at Steno Diabetes Center Aarhus consider the following: <a href="https://osf.io/79usw/">OSF Registries | Effectiveness of the Check Your Health Preventive Programme Based on Register Data</a></p>
+</section>
+<section id="contact-persons" class="level2">
+<h2 class="anchored" data-anchor-id="contact-persons">Contact persons</h2>
+<p>This document was drafted by Eeva-Liisa Røssell Johansen (eevjoh@rm.dk) based on personal experience with OSF. Henrik Støvring (hersto@rm.dk) gave minor input to the document. If you have any questions regarding registration of a project, you are welcome to contact us.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1713916800000" data-listing-file-modified-sort="1757665594372" data-listing-date-modified-sort="1757665594000" data-listing-reading-time-sort="2" data-listing-word-count-sort="326">
-<a href="./organization/people/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-People at SDCA
-</h5>
-<div class="card-text listing-description delink">
-<p>Profiles, titles, and contact information for people at SDCA.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1757665594000" data-listing-file-modified-sort="1757665594372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
-<a href="./organization/research-groups/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Research groups at SDCA
-</h5>
-<div class="card-text listing-description delink">
-<p>The different research groups and topics at SDCA.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1757665594372" data-listing-reading-time-sort="1" data-listing-word-count-sort="108">
-<a href="./organization/sdca-management/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SDCA management structure
-</h5>
-<div class="card-text listing-description delink">
-<p>Structure of the management team at SDCA</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div><div class="callout callout-style-default callout-note callout-titled">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -727,7 +676,7 @@ Note
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/organization.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/organization.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/support/preregistration-osf/index.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/support/preregistration-osf/index.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

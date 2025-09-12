@@ -329,32 +329,74 @@
     "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nIf you need to print a poster, which service you use depends on where your funding comes from.\n\nFor AU funding, use their Printing Service.\nFor AUH funding, use their Grafisk Service (this is only viewable through the “Citrixportal” or if you are connected to the AUH network).\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
   },
   {
-    "objectID": "support/legal-and-tto-templates/index.html",
-    "href": "support/legal-and-tto-templates/index.html",
-    "title": "Common templates from TTO and Legal Office",
+    "objectID": "support/preregistration-osf/index.html",
+    "href": "support/preregistration-osf/index.html",
+    "title": "Preregistration at Open Science Framework (OSF): A tutorial",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nYou may have experienced delays in you projects and there is an increasing focus on the legal support at AU/RM. The region has recently released a set of templates for information and consent forms and at Steno we have several templates for collaboration agreements, data sharing etc. Read more (in Danish) about the templates from Region Midt on the Samarbejde, organisation og strategi (rm.dk). SDCA specific templates are being worked on and will be available for download later.\n\n\n\nExample of a common template.\n\n\nOther Region Midt Word templates for collaboration and data sharing are available here (in Danish): Skabeloner til oplysningspligt og samtykke til indsamling og behandling af personoplysninger.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+    "text": "If you need to preregister a research project based on observational data online to be able to upload an analysis plan, analysis code, or other files or pre-defined plans, you can do it at Open Science Framework (OSF): OSF Registries. If instead you are looking to register a clinical trial you should go to clinicaltrials.gov—here we only consider OSF registrations. After registering at OSF, you can upload results and preprints if necessary as well as other things. In this way, OSF can be thought of as a public logbook for your research project."
   },
   {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Contributing guidelines",
-    "section": "",
-    "text": "This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the CC-BY 4.0 License, and by contributing content any contributors agree to these terms. We also have a Code of Conduct that contributors agree to abide by."
+    "objectID": "support/preregistration-osf/index.html#introduction-and-overview-of-osf",
+    "href": "support/preregistration-osf/index.html#introduction-and-overview-of-osf",
+    "title": "Preregistration at Open Science Framework (OSF): A tutorial",
+    "section": "Introduction and overview of OSF",
+    "text": "Introduction and overview of OSF\nTo get an overview of OSF Registries, you can read more about the possibilities and how to create an account here (including videos with help and instructions): OSF Support\nFor a more dedicated introduction to preregistrations and a video: Welcome to Registrations & Preregistrations! (Overview) - OSF Support"
   },
   {
-    "objectID": "CONTRIBUTING.html#specific-guides",
-    "href": "CONTRIBUTING.html#specific-guides",
-    "title": "Contributing guidelines",
-    "section": "Specific guides",
-    "text": "Specific guides"
+    "objectID": "support/preregistration-osf/index.html#creating-a-preregistration-at-osf",
+    "href": "support/preregistration-osf/index.html#creating-a-preregistration-at-osf",
+    "title": "Preregistration at Open Science Framework (OSF): A tutorial",
+    "section": "Creating a preregistration at OSF",
+    "text": "Creating a preregistration at OSF\nFirst step for a preregistration is to select a template. You can read more about the different templates here: Select a Registration Template - OSF Support\nThe general template “OSF Preregistration” will work for many projects. The template “Secondary Data Preregistration” is also useful, when data have previously been collected for other purposes.\nWhen making a preregistration, you can select a copyright license for the project. Other projects have previously used “CC-By Attribution 4.0 International”. With this license, others can use and refer to the content in the registration, as long as they credit/reference the original work. Read more about licensing here: Licensing - OSF Support\nIf you want to see an example of preregistration with analysis plan for a project based at Steno Diabetes Center Aarhus consider the following: OSF Registries | Effectiveness of the Check Your Health Preventive Programme Based on Register Data"
   },
   {
-    "objectID": "organization/sdca-management/index.html",
-    "href": "organization/sdca-management/index.html",
-    "title": "SDCA management structure",
+    "objectID": "support/preregistration-osf/index.html#contact-persons",
+    "href": "support/preregistration-osf/index.html#contact-persons",
+    "title": "Preregistration at Open Science Framework (OSF): A tutorial",
+    "section": "Contact persons",
+    "text": "Contact persons\nThis document was drafted by Eeva-Liisa Røssell Johansen (eevjoh@rm.dk) based on personal experience with OSF. Henrik Støvring (hersto@rm.dk) gave minor input to the document. If you have any questions regarding registration of a project, you are welcome to contact us."
+  },
+  {
+    "objectID": "support/funding-application/index.html",
+    "href": "support/funding-application/index.html",
+    "title": "Funding applications",
     "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nPoul Michaelsen, Head of Corporate Management, Central Denmark Region\nMette Fjord Nielsen, Chief Nursing Officer, Hospitalsenhed Midt\nPia Ulv Helleland, CEO, Lemvig Municipality\nAnne-Mette Hvas, Dean, Health - Aarhus University\nSusanne Lauth, Chief Nursing Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nLinkedIn\nTwitter\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nThere are several sites to that list sources of funding:"
+  },
+  {
+    "objectID": "support/funding-application/index.html#grant-applications",
+    "href": "support/funding-application/index.html#grant-applications",
+    "title": "Funding applications",
+    "section": "Grant applications",
+    "text": "Grant applications\nWhen you apply for a grant, please be aware whether the grant should be administered at Aarhus University or at Aarhus University Hospital. You have to be very specific about this in the application.\nIf you need inspiration (an overview) for a budget, you can ask:\n\nCharlotte Rosholm\nHelle Thomassen Bonnesen\nHenriette Jaquet"
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Documentation and Resources for Supporting Research Activities",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel.\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\nPreregistration at Open Science Framework (OSF): A tutorial\n\n\nHow to preregister a research project at OSF.\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\nReimbursements through AUH\n\n\nProcedures for reimbursement of transport and other expenses from AUH funds.\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+  },
+  {
+    "objectID": "organization/research-groups/index.html",
+    "href": "organization/research-groups/index.html",
+    "title": "Research groups at SDCA",
+    "section": "",
+    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+  },
+  {
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Website Directory",
+    "section": "",
+    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "Onboarding Material for New Researchers at SDCA",
+    "section": "",
+    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\n\n\n\nWelcome and getting started as a PhD student\n\n\nMaterial for onboarding new PhD students at SDCA.\n\n\n\n\n\n\n\n\n\nWelcome to Level 4 SDCA\n\n\nMaterial for onboarding on Level 4 SDCA.\n\n\n\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\n\n\n\n\n\nGeneral employment information\n\n\nInformation in relation to your employment, e.g. insurance, holidays, sick days, MUS talks\n\n\n\n\n\n\n\n\n\nGeneral practicalities\n\n\nSome basic setup and practicalities, like office supplies.\n\n\n\n\n\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\n\n\n\n\n\nMeetings, courses, events, and social activities\n\n\nDetails on various social activities and events at or connected with SDCA and finding more information about them.\n\n\n\n\n\n\n\n\n\nParking at Aarhus University Hospital (AUH)\n\n\nInformation for parking at the hospital, as an AU or RM employee.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
   },
   {
     "objectID": "organization/people/index.html",
@@ -371,46 +413,32 @@
     "text": "Maria Siggaard\n\nResearch secretary and PA for Head of research, Niels Jessen\n\nTelephone: 2370 7062\nEmail: marsig@rm.dk\nTasks: PA to the Head of Research; Niels Jessen, coordination of the research area across SDCA, HR, Research Fish\n\n\n\n\n\n\nJulie Marie Katholm Knudsen\n\nResearch secretary\n\nTelephone: 5197 6101\nEmail: Julie.Knudsen@rm.dk\nTasks: Events, purchase of equipment, IT-support (RM), Github.\n\n\n\n\n\n\n\n\n\nInger Hornbech\n\nResearch secretary\n\nTelephone: 2370 9089\nEmail: Inger.Hornbech@rm.dk\nTasks: Onboarding PhD Students, allocation of office space etc.\n\n\n\n\n\n\nHelle Thomassen Bonnesen\n\nResearch administrator\n\nTelephone: 4049 8357\nEmail: hellbonn@rm.dk\nTasks: Administration of research founding related to RM/Steno Trails\n\n\n\n\n\n\n\n\n\nCharlotte Gimbel Rosholm\n\nResearch administrator\n\nTelephone: 9352 2568\nEmail: cro@clin.au.dk\nTasks: Administration of research founding related to RM and AU\n\n\n\n\n\n\nHenriette Jaquet\n\nResearch administrator\n\nTelephone: 9350 8859\nEmail: Henriette.Jaquet@clin.au.dk\nTasks: Administration of research founding related to AU and external founding"
   },
   {
-    "objectID": "onboarding.html",
-    "href": "onboarding.html",
-    "title": "Onboarding Material for New Researchers at SDCA",
+    "objectID": "organization/sdca-management/index.html",
+    "href": "organization/sdca-management/index.html",
+    "title": "SDCA management structure",
     "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nWelcome and getting started\n\n\nMaterial for onboarding new researchers at SDCA.\n\n\n\n\n\n\n\n\n\nWelcome and getting started as a PhD student\n\n\nMaterial for onboarding new PhD students at SDCA.\n\n\n\n\n\n\n\n\n\nWelcome to Level 4 SDCA\n\n\nMaterial for onboarding on Level 4 SDCA.\n\n\n\n\n\n\n\n\n\nGeneral Code of Conduct\n\n\nMaterial and resources for Conduct during events, meetings, and online spaces.\n\n\n\n\n\n\n\n\n\nGeneral employment information\n\n\nInformation in relation to your employment, e.g. insurance, holidays, sick days, MUS talks\n\n\n\n\n\n\n\n\n\nGeneral practicalities\n\n\nSome basic setup and practicalities, like office supplies.\n\n\n\n\n\n\n\n\n\nIT basics\n\n\nA general introduction to common IT topics when starting out.\n\n\n\n\n\n\n\n\n\nMeetings, courses, events, and social activities\n\n\nDetails on various social activities and events at or connected with SDCA and finding more information about them.\n\n\n\n\n\n\n\n\n\nParking at Aarhus University Hospital (AUH)\n\n\nInformation for parking at the hospital, as an AU or RM employee.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\nAs opposed to other clinical departments at Aarhus University Hospital (AUH), SDCA is headed by a board and our CEO Troels Krarup Hansen is responsible to this board.\nThe board at SDCA consists of:\n\nPoul Michaelsen, Head of Corporate Management, Central Denmark Region\nMette Fjord Nielsen, Chief Nursing Officer, Hospitalsenhed Midt\nPia Ulv Helleland, CEO, Lemvig Municipality\nAnne-Mette Hvas, Dean, Health - Aarhus University\nSusanne Lauth, Chief Nursing Officer, Aarhus University Hospital\nUlrik Meyer, Head of Programme, Novo Nordisk Foundation\n\nFor more information, please visit:\n\nhttps://www.stenoaarhus.dk/english/\nLinkedIn\nTwitter\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
   },
   {
-    "objectID": "directory.html",
-    "href": "directory.html",
-    "title": "Website Directory",
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing guidelines",
     "section": "",
-    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+    "text": "This document contains instructions for how to contribute to developing these documents. The content on this repository and website are licensed under the CC-BY 4.0 License, and by contributing content any contributors agree to these terms. We also have a Code of Conduct that contributors agree to abide by."
   },
   {
-    "objectID": "organization/research-groups/index.html",
-    "href": "organization/research-groups/index.html",
-    "title": "Research groups at SDCA",
-    "section": "",
-    "text": "Steno Diabetes Center Aarhus covers a wide range of research areas. A listing of all the research areas is listed in the main SDCA Research website. A patient-centered approach is achieved by research activities relevant to prevention and treatment of diabetes, or contribution to the understanding of the disease in humans. We build upon a well-established research environment and long-standing collaborations between Aarhus University, Aarhus University Hospital and other hospitals in the Central Region of Denmark.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
+    "objectID": "CONTRIBUTING.html#specific-guides",
+    "href": "CONTRIBUTING.html#specific-guides",
+    "title": "Contributing guidelines",
+    "section": "Specific guides",
+    "text": "Specific guides"
   },
   {
-    "objectID": "support.html",
-    "href": "support.html",
-    "title": "Documentation and Resources for Supporting Research Activities",
+    "objectID": "support/legal-and-tto-templates/index.html",
+    "href": "support/legal-and-tto-templates/index.html",
+    "title": "Common templates from TTO and Legal Office",
     "section": "",
-    "text": "If you have a question that isn’t answered here, open an Issue (needs a GitHub account) to let us know that we need to add this information.\n\n\n\n\n\n\n\n\n\n\n\nBooking for travel\n\n\nSteps to take to book for work-related travel.\n\n\n\n\n\n\n\n\n\nBooking meeting rooms at Forum\n\n\nHow to book rooms for meetings in the Forum building at AUH.\n\n\n\n\n\n\n\n\n\nCommon templates from TTO and Legal Office\n\n\nSome templates relevant for Legal and Technology Transfer Office (TTO).\n\n\n\n\n\n\n\n\n\nData analysis tips and help\n\n\nMaterial and resources for best practices, learning, and support for doing data analysis.\n\n\n\n\n\n\n\n\n\nFunding applications\n\n\nPlaces to find sources of funding.\n\n\n\n\n\n\n\n\n\nHow to run an effective meeting\n\n\nGuidelines and suggestions for running effective meetings.\n\n\n\n\n\n\n\n\n\nPrinting posters for events\n\n\nHow to print a poster for an event like a conference or meeting.\n\n\n\n\n\n\n\n\n\nReimbursements through AUH\n\n\nProcedures for reimbursement of transport and other expenses from AUH funds.\n\n\n\n\n\n\n\n\n\nRequesting access to various data sources\n\n\nMaterial for applying to various data sources, including the Danish registers.\n\n\n\n\n\n\n\n\n\nSetting up research projects: Administrative and legal demands\n\n\nResources for setting up research projects at SDCA, specifically with administrative and other legal demands.\n\n\n\n\n\n\n\n\n\nStream a local meeting from Verdensrummet\n\n\nWhenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
-  },
-  {
-    "objectID": "support/funding-application/index.html",
-    "href": "support/funding-application/index.html",
-    "title": "Funding applications",
-    "section": "",
-    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\nThere are several sites to that list sources of funding:"
-  },
-  {
-    "objectID": "support/funding-application/index.html#grant-applications",
-    "href": "support/funding-application/index.html#grant-applications",
-    "title": "Funding applications",
-    "section": "Grant applications",
-    "text": "Grant applications\nWhen you apply for a grant, please be aware whether the grant should be administered at Aarhus University or at Aarhus University Hospital. You have to be very specific about this in the application.\nIf you need inspiration (an overview) for a budget, you can ask:\n\nCharlotte Rosholm\nHelle Thomassen Bonnesen\nHenriette Jaquet"
+    "text": "Warning\n\n\n\n🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧\n\n\n\nYou may have experienced delays in you projects and there is an increasing focus on the legal support at AU/RM. The region has recently released a set of templates for information and consent forms and at Steno we have several templates for collaboration agreements, data sharing etc. Read more (in Danish) about the templates from Region Midt on the Samarbejde, organisation og strategi (rm.dk). SDCA specific templates are being worked on and will be available for download later.\n\n\n\nExample of a common template.\n\n\nOther Region Midt Word templates for collaboration and data sharing are available here (in Danish): Skabeloner til oplysningspligt og samtykke til indsamling og behandling af personoplysninger.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis website and the documents contained within are aimed at researchers, PhD students, staff, and external collaborators."
   },
   {
     "objectID": "support/booking-rooms/index.html",
