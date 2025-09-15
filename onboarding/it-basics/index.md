@@ -1,7 +1,8 @@
 ---
 title: "IT basics"
 description: A general introduction to common IT topics when starting out.
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen

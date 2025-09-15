@@ -2,7 +2,8 @@
 title: "People at SDCA"
 description: Profiles, titles, and contact information for people at SDCA.
 date: "2024-04-24"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
   - name: Julie Knudsen
     affiliations:

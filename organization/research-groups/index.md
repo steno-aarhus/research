@@ -2,7 +2,8 @@
 title: "Research groups at SDCA"
 description: |
   The different research groups and topics at SDCA.
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen

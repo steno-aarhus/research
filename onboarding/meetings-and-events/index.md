@@ -1,7 +1,8 @@
 ---
 title: Meetings, courses, events, and social activities
 description: Details on various social activities and events at or connected with SDCA and finding more information about them.
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Daniel B. Ibsen

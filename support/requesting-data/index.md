@@ -1,6 +1,7 @@
 ---
 title: "Requesting access to various data sources"
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 description: |
   Material for applying to various data sources, including the Danish registers.
 author:

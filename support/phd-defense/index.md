@@ -2,7 +2,8 @@
 title: "How to organize a PhD defense"
 description: Organizing a PhD defense and the steps involved.
 date: "2023-05-10"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 draft: true
 author:
     # Order alphabetical by last name
