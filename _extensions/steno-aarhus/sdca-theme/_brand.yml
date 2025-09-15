@@ -44,3 +44,7 @@ defaults:
           font-family: poppins;
           font-weight: 400;
         }
+
+        .callout-body {
+          font-weight: 300 !important;
+        }
