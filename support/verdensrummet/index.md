@@ -2,7 +2,8 @@
 title: "Stream a local meeting from Verdensrummet"
 description: Whenever running a meeting or event in Verdensrummet, you can stream it if you want by using this guide.
 date: "2023-05-01"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen

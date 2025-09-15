@@ -2,7 +2,8 @@
 title: "Reimbursements through AUH"
 description: "Procedures for reimbursement of transport and other expenses from AUH funds."
 date: "2024-04-24"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen

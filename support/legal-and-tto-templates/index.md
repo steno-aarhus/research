@@ -2,7 +2,8 @@
 title: "Common templates from TTO and Legal Office"
 description: Some templates relevant for Legal and Technology Transfer Office (TTO).
 date: "2023-04-14"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen

@@ -2,7 +2,8 @@
 title: "Printing posters for events"
 description: How to print a poster for an event like a conference or meeting.
 date: "2023-06-26"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Luke W. Johnston

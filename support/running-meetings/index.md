@@ -1,6 +1,7 @@
 ---
 title: "How to run an effective meeting"
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 description: |
   Guidelines and suggestions for running effective meetings.
 author:
