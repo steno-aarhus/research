@@ -38,8 +38,8 @@ website:
             href: CODE_OF_CONDUCT.md
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/"
-        aria-label: "GitHub icon: Link to SDCA GitHub organization page"
+        href: "https://github.com/steno-aarhus/research"
+        aria-label: "GitHub icon: Link to the SDCA Research repository page"
       - icon: twitter
         href: "https://twitter.com/StenoAarhusRes"
         aria-label: "Twitter icon: Link to SDCA Twitter page"
