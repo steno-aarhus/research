@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Anders Aasted Isaksen">
+<meta name="description" content="A list of common challenges facing researchers new to working with R, DST’s servers or Parquet/DuckDB data and solutions to overcome these.">
 
-<title>Onboarding Material for New Researchers at SDCA – SDCA Research</title>
+<title>Common challenges and solutions to working with R and register data – SDCA Research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,29 +25,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed9ea70ab2ea33ae6a4b28468118f21d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-1a5c2ed273e2e2b932c98d7fd09e4101.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed9ea70ab2ea33ae6a4b28468118f21d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed9ea70ab2ea33ae6a4b28468118f21d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-1a5c2ed273e2e2b932c98d7fd09e4101.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed9ea70ab2ea33ae6a4b28468118f21d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-feb037e22e0d66626efe4cf54d636c7d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">SDCA Research</span>
     </a>
   </div>
@@ -157,15 +99,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./about/index.html">
+    <a class="dropdown-item" href="../../about/index.html">
  <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about/github.html">
+    <a class="dropdown-item" href="../../about/github.html">
  <span class="dropdown-text">GitHub</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about/quarto.html">
+    <a class="dropdown-item" href="../../about/quarto.html">
  <span class="dropdown-text">Quarto</span></a>
   </li>  
     </ul>
@@ -176,15 +118,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-common-docs">    
         <li>
-    <a class="dropdown-item" href="./onboarding.html">
+    <a class="dropdown-item" href="../../onboarding.html">
  <span class="dropdown-text">Onboarding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./support.html">
+    <a class="dropdown-item" href="../../support.html">
  <span class="dropdown-text">Support</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./organization.html">
+    <a class="dropdown-item" href="../../organization.html">
  <span class="dropdown-text">Organization</span></a>
   </li>  
     </ul>
@@ -195,11 +137,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-contributing">    
         <li>
-    <a class="dropdown-item" href="./CONTRIBUTING.html">
+    <a class="dropdown-item" href="../../CONTRIBUTING.html">
  <span class="dropdown-text">Guidelines</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./CODE_OF_CONDUCT.html">
+    <a class="dropdown-item" href="../../CODE_OF_CONDUCT.html">
  <span class="dropdown-text">Code of Conduct</span></a>
   </li>  
     </ul>
@@ -218,22 +160,48 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#aims" id="toc-aims" class="nav-link active" data-scroll-target="#aims">Aims</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/support/common-r-challenges/index.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/support/common-r-challenges/index.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Onboarding Material for New Researchers at SDCA</h1>
+<h1 class="title">Common challenges and solutions to working with R and register data</h1>
 </div>
 
+<div>
+  <div class="description">
+    <p>A list of common challenges facing researchers new to working with R, DST’s servers or Parquet/DuckDB data and solutions to overcome these.</p>
+  </div>
+</div>
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Anders Aasted Isaksen </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://stenoaarhus.dk">
+            Steno Diabetes Center Aarhus
+            </a>
+          </p>
+      </div>
+  </div>
 
 <div class="quarto-title-meta">
 
-    
+      
   
     
   </div>
@@ -243,133 +211,27 @@ window.Quarto = {
 </header>
 
 
-<p>If you have a question that isn’t answered here, open an <a href="https://github.com/steno-aarhus/research/issues/new">Issue</a> (needs a <a href="https://github.com/join">GitHub</a> account) to let us know that we need to add this information.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>🚧 This website and most of its contents are often updated or modified. Many documents are at various stages of completion. 🚧</p>
+</div>
+</div>
+<section id="aims" class="level2">
+<h2 class="anchored" data-anchor-id="aims">Aims</h2>
+<p>This document is a joint effort between junior (and slightly more senior) researchers working with R on the servers of Statistics Denmark. This guide was created to address frequently encountered challenges in a public space for everyone to benefit from—and contribute to. Many of these challenges are related to the register data infrastructure on Steno Aarhus’ project database on Statistics Denmark, e.g.&nbsp;how to utilise Parquet files and <code>DuckDB</code>/<code>duckplyr</code>—but all commonly encountered data processing/analysis challenges are within the scope of this guide.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="4" data-listing-word-count-sort="615">
-<a href="./onboarding/getting-started/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome and getting started
-</h5>
-<div class="card-text listing-description delink">
-<p>Material for onboarding new researchers at SDCA.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1682899200000" data-listing-file-modified-sort="1764320179601" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="921">
-<a href="./onboarding/getting-started-phd/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome and getting started as a PhD student
-</h5>
-<div class="card-text listing-description delink">
-<p>Material for onboarding new PhD students at SDCA.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1706572800000" data-listing-file-modified-sort="1764320179601" data-listing-date-modified-sort="1723680000000" data-listing-reading-time-sort="11" data-listing-word-count-sort="2156">
-<a href="./onboarding/getting-started-plan-4/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome to Level 4 SDCA
-</h5>
-<div class="card-text listing-description delink">
-<p>Material for onboarding on Level 4 SDCA.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
-<a href="./onboarding/general-conduct/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-General Code of Conduct
-</h5>
-<div class="card-text listing-description delink">
-<p>Material and resources for Conduct during events, meetings, and online spaces.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="3" data-listing-word-count-sort="530">
-<a href="./onboarding/employment/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-General employment information
-</h5>
-<div class="card-text listing-description delink">
-<p>Information in relation to your employment, e.g.&nbsp;insurance, holidays, sick days, MUS talks</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="3" data-listing-word-count-sort="457">
-<a href="./onboarding/practicalities/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-General practicalities
-</h5>
-<div class="card-text listing-description delink">
-<p>Some basic setup and practicalities, like office supplies.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="9" data-listing-word-count-sort="1638">
-<a href="./onboarding/it-basics/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-IT basics
-</h5>
-<div class="card-text listing-description delink">
-<p>A general introduction to common IT topics when starting out.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1764320179601" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
-<a href="./onboarding/meetings-and-events/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Meetings, courses, events, and social activities
-</h5>
-<div class="card-text listing-description delink">
-<p>Details on various social activities and events at or connected with SDCA and finding more information about them.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1681430400000" data-listing-file-modified-sort="1764320179601" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
-<a href="./onboarding/parking-at-auh/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Parking at Aarhus University Hospital (AUH)
-</h5>
-<div class="card-text listing-description delink">
-<p>Information for parking at the hospital, as an AU or RM employee.</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div><div class="callout callout-style-default callout-note callout-titled">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -811,7 +673,7 @@ Note
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/onboarding.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/onboarding.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/steno-aarhus/research/edit/main/support/common-r-challenges/index.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/steno-aarhus/research/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/steno-aarhus/research/blob/main/support/common-r-challenges/index.md" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
