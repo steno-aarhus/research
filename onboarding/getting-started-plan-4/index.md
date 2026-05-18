@@ -59,9 +59,8 @@ allocation of office space.
 
 If you are to be allocated freezer and refrigeration space, this must be
 agreed with Lenette Egelund Pedersen
-([lenette.pedersen\@clin.au.dk](mailto:lenette.pedersen@clin.au.dk){.email}),
-or Lene Trudsø
-([trudsoe\@clin.au.dk](mailto:trudsoe@clin.au.dk){.email}).
+([lenette.pedersen\@clin.au.dk](mailto:lenette.pedersen@clin.au.dk){.email}).
+
 
 The individual groups themselves ensure the distribution of racks in
 freezers.
@@ -271,23 +270,28 @@ Waste fractions:
 -   Glass waste is placed in cardboard box with blue garbage bag in room
     A401-172.
 -   Used batteries are placed in a special container in room A401-172
--   Plastic is collected for recycling by the following sorting:
-    -   *Hard plastic non-hazardous* in room lab A401-104, A401-130 and
-        in cell lab A401-122+A401-123. *Hard plastic non-hazardous*, is
-        plastic that has not been in contact with hazardous chemicals or
+-   Mix waste is a waste fraction where you collect 4 different waste for recycling. Mix waste containers are placed in A401-104 + 106 + 125 + 130 + 172 + Lunchroom. Recycle by the following sorting:
+       -   *Hard and soft plastic non-hazardous* in room lab A401-104, A401-130 and
+        in cell lab A401-122 + A401-123.
+        *Hard plastic non-hazardous*, is plastic that has not been in contact with hazardous chemicals or
         is infectious. For example, bottles for media, PBS, sterile
         water, pipette boxes, etc. However, bottles must be rinsed
         before being placed in the waste container and the lid and
         bottle keep apart.
+        *Soft plastic*, is plastic such as bubble
+        wrap, plastic bags, etc.
+     -  *Metal* is for example aluminium foil, metal-metal blister packs and metal cans.
+     -  *Food and Beverage* is for example milk and juice cartons.
+ - Please note that food and beverage are not allowed to be brought and/or consumed in the laboratories even though the food/beverage fraction picture is presented at the waste bin.   
+           
+ -   Hard plastic hazardous waste is collected for recycling by the following sorting:       
     -   *Hard plastic hazardous* in room A401-172. *Hard plastic
         hazardous* is hard plastic that has been in contact with
         hazardous chemistry, however, here there are exceptions. On the
         waste bin you can be seen which ones are allowed to be put in
         the waste container. Be aware before putting anything in the
         container.
-    -   *Soft plastic non-hazardous* in Lab 401-106, Lab A401-130, as
-        well as room A401-172. *Soft plastic*, is plastic such as bubble
-        wrap, plastic bags, etc.
+  
 
 In the Citrix RM system, you can enter Microsoft Edge and at the page
 for RM you can use a help function to search for different waste
