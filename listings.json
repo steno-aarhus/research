@@ -1,5 +1,24 @@
 [
   {
+    "listing": "/CONTRIBUTING.html",
+    "items": [
+      "/contributing/guiding-principles.html",
+      "/contributing/guide-to-github.html",
+      "/contributing/navigating-github.html",
+      "/contributing/adding-content.html",
+      "/contributing/writing-markdown.html",
+      "/contributing/github-websites.html"
+    ]
+  },
+  {
+    "listing": "/organization.html",
+    "items": [
+      "/organization/people/index.html",
+      "/organization/research-groups/index.html",
+      "/organization/sdca-management/index.html"
+    ]
+  },
+  {
     "listing": "/support.html",
     "items": [
       "/support/travel-booking/index.html",
@@ -18,17 +37,6 @@
     ]
   },
   {
-    "listing": "/CONTRIBUTING.html",
-    "items": [
-      "/contributing/guiding-principles.html",
-      "/contributing/guide-to-github.html",
-      "/contributing/navigating-github.html",
-      "/contributing/adding-content.html",
-      "/contributing/writing-markdown.html",
-      "/contributing/github-websites.html"
-    ]
-  },
-  {
     "listing": "/onboarding.html",
     "items": [
       "/onboarding/getting-started/index.html",
@@ -40,14 +48,6 @@
       "/onboarding/it-basics/index.html",
       "/onboarding/meetings-and-events/index.html",
       "/onboarding/parking-at-auh/index.html"
-    ]
-  },
-  {
-    "listing": "/organization.html",
-    "items": [
-      "/organization/people/index.html",
-      "/organization/research-groups/index.html",
-      "/organization/sdca-management/index.html"
     ]
   }
 ]
