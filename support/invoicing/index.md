@@ -1,6 +1,6 @@
 ---
 title: "Invoicing and banking details for SDCA"
-description: "Procedures for reimbursement of transport and other expenses from AUH funds"
+description: "Invoicing information for suppliers"
 date: "2025-07-25"
 date-modified: last-modified
 author:
