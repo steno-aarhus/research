@@ -51,9 +51,7 @@ Microsoft Office templates (for SDCA)
 Office supplies
 
 :   SDCA has a stock of office supplies in the copy room on Plan 3
-    (Niche A301-016). If something you need isn't there, contact Julie
-    Knudsen at
-    [julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}. There is
+    (Niche A301-016). If something you need isn't there, write it on the list or contact ([auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}). There is
     also a larger AUH common depot at Intersection (Krydspunkt) G101.
 
 Letters and other mail
