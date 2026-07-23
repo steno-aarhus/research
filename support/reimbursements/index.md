@@ -22,35 +22,29 @@ For EASD specific reimbursements, contact Julie Knudsen
 
 ## Persons with paid employment via Region Midtjylland
 
-Reimbursements of expenses related to driving to and from meetings (including parking and ferry ticket) must
+All reimbursements of expenses (including mileage) must
 be created by the user themselves via the "MinLøn" app on their phone.
+Guides to reimbursement are available here: [sharepoint.com/AUHSTDIC/Fælles/Vejledninger](https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/Refusion%20af%20udl%C3%A6g%20og%20k%C3%B8rsel%20(medarbejder)?csf=1&web=1&e=ZjSTcq) (In both Danish and English) 
 
-Guide to the app (in Danish): [Indberetning i MinLøn appen -
+Read more about the MinLøn app (in Danish): 
+- [Indberetning af kørsel i MinLøn appen -
 Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/).
-
-::: callout-note
-Receipts can only be attached as pictures (and not as documents).
-:::
-
-Reimbusements of other expenses such as plane tickets, bus tickets,
-meals or accommodation, must be done through the digital form
-**"Refusion af udlæg øvrige og kursus"**, which is available on the AUH
-Intranet under the tab "[Min
-side](http://auh.intranet.rm.dk/min-side/)".
+- [Udbetaling af udlæg via MinLøn appen - Medarbejder.rm.dk](https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/udbetaling-af-udlag-via-minlon-app/)
 
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
 if you have questions.
 
-## Persons with unpaid employment at RM (region ID and Citrix access)
+## Persons with unpaid employment at RM (AU employees and students)
 
 Both driving and other expenses are reimbursed via the **"Refusion af
-udlæg øvrige og kursus"** form on "[Min
+udlæg øvrige - AUH"** form on "[Min
 side](http://auh.intranet.rm.dk/min-side/)". Concerning driving
 expenses: please indicate how you have calculated the price (eg.
 adresses, km and rate pr. km). 
+Guide to reimbursement is available here: [sharepoint.com/AUHSTDIC/Fælles/Vejledninger](https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/Honorar%20og%20godtg%C3%B8relse%20til%20eksterne?csf=1&web=1&e=Ivz7jz)
 
 ::: callout-important
-Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise any milage reimbursements will be rejected by Accounting.
+Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise any reimbursements will be rejected by Accounting.
 :::
 
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk)
