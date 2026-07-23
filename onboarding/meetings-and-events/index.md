@@ -43,13 +43,13 @@ traveling to attend.
 - **SDCA Research events**:
     -   **Research Retreat**: Usually around May every year and is a two
     day retreat at a conference center. (In English)
-    - **ADA highlights**: Usually in the week after the ADA conference. A group of SDCA researchers select presentations from the ADA conference and organize an ADA highlights event at SDCA.
+    - **ADA highlights**: Usually on Thursday in the week after the ADA conference. A group of SDCA researchers select presentations from the ADA conference and organize an ADA highlights event at SDCA.
 
 ## Research meetings
 
 These include meetings, clubs, lectures, and other work-related
-activities and events. A detailed list of meetings is found on the
-[Research meetings](https://www.stenoaarhus.dk/research/research-meetings/) page of
+activities and events. A list of meetings can be found on the
+[Research meetings](https://www.stenoaarhus.dk/research/meetings-and-seminars/research-meetings/) page of
 the official SDCA website.
 
 ## Social events
@@ -67,10 +67,3 @@ Newsletters
 - **Steno News:** the newsletter for SDCA employees is published once a month (in Danish) and sent to relevant mailgroups.
 - **Steno Research News:** Niels Jessen sends out a newsletter (in English) for SDCA researchers every 2-3 months. (If you are employed in the SDCA Clinic they also send out a Clinic newsletter for their employees)
 - **SDCA newsletter:** You can also choose to [subscribe](https://www.stenoaarhus.dk/nyheder/nyhedsmail/) to the official SDCA newsletter.
-
-Slack
-
-:   You might know Slack? That's Steno Diabetes Center Aarhus's social
-    media. Here, you will be able to connect with people across SDCA.
-    Social and scientific events and lunch pack photos -- it's all there
-    under the Channels `#2_forskning` and `#6_events`.
