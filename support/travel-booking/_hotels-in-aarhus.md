@@ -1,10 +1,9 @@
 <!-- Update this file for making changes to hotel booking. -->
 
-SKI hotel agreements (which stands for Statens og Kommunernes
+The Region is obligated to use the SKI hotel agreements (which stands for Statens og Kommunernes
 Indkøbsservice -- translating to something like Purchase Service for the
-State and Municipalities) have been made for the period June 2023 to end
-December 2024. As these agreements are confidential only the hotel names
-and phone numbers are given here for the following hotels in Aarhus:
+State and Municipalities). These agreements are regularly renegotiated, but as
+a rule the following hotels in Aarhus should be used:
 
 -   **Aarhus N** (north, near the hospital):
     -   Zleep Hotel Aarhus Skejby, Tangen 45, Aarhus N, phone: 7023 5635
@@ -24,5 +23,5 @@ and phone numbers are given here for the following hotels in Aarhus:
     -   Scandic Aarhus Vest, Rytoften 3, Aarhus V, phone: 3348 0450
 
 If these hotels are all booked, then you can book at another hotel room
-as long as the maximum rate for a room per night is 1.448 DKK, base on
-2023 rates.
+as long as the maximum rate for a room per night is 1.844 DKK, based on
+2026 rates.
