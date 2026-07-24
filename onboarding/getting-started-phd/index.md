@@ -38,13 +38,6 @@ with SDCA.
 
 ## Communication and social
 
-Slack
-
-:   You might know Slack? That's Steno Diabetes Center Aarhus's social
-    media. Here, you will be able to connect with people across SDCA.
-    Social and scientific events and lunch pack photos -- it's all there
-    under the Channels `#2_forskning` and `#6_events`.
-
 Photos for the SDCA website
 
 :   Affiliated PhD students have profiles on our website: A photo and a
