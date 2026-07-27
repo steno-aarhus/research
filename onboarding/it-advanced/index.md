@@ -59,8 +59,7 @@ remotely installed on your machine by Serviceportal admins. You may be
 able to shorten this delay by filing a support ticket to remind the
 admins to install your applications after the first approval.
 
-1.  Request an advanced personal ("avanceret personlig") work laptop and
-    order it in the
+1.  Once you have recieved a RM laptop, you can request the advanced personal ("avanceret personlig") setup through the
     [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_cat_item_guide&sys_id=389e1446db7b3b009ec79532ca9619cc&sysparm_category=5cc7a91d8747b450d195ecec3fbb3555)
 
     -   This will install the Access Director software, which enables
@@ -72,7 +71,7 @@ admins to install your applications after the first approval.
 2.  Search the
     [Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555)
     for any software you might need and request a local installation and
-    access to these (e.g. MS Office, MS Teams, Adobe Acrobat etc.).
+    access to these (e.g. MS Office, Adobe Acrobat etc.).
 
     -   You can also search for and request a VPN installation via the
         Serviceportal.
