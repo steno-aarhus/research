@@ -36,7 +36,7 @@ Personal laptops set up with Citrix Workspace and access to programs offered by 
 It is also possible to get a computer without the Region Midt setup. In this case user has full administrative rights to the computer’s setup. 
 The Researcher computer setup is suited for researchers who mainly work outside of Citrix and require a lot of specialized software.
 These computers are usually bought for projects rather than employees.
-… and researchers who need a computer to work on a specific project. If the computer is paid for by project funds, then this computer category should be used.
+If the computer is paid for by project funds, then this computer category should be used.
 
 ## How to set up an Advanced Personal laptop for local use
 While Region Midt's basic setup is useful for clinicians that need to stay connected to their workflow
