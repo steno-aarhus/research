@@ -43,7 +43,7 @@ While Region Midt's basic setup is useful for clinicians that need to stay conne
 as they move between physical computers during their daily work, it does
 not always serve the needs of researchers and developers. While you can use
 Citrix and the software provided there, getting a so-called advanced
-setup and installing applications locally can be a better choice.
+setup can be a better choice.
 
 First, you need to do some shopping on the [Regional
 Serviceportal](https://regionmidtjylland.service-now.com/rmsp?id=rmsp_sc_category&sys_id=5cc7a91d8747b450d195ecec3fbb3555) -
