@@ -74,7 +74,7 @@ To access Citrix you need to have a Region ID and log in with your MitID
 or scan your access card. If you need help with this, please ask Julie
 Knudsen [julie.knudsen\@rm.dk](Julie.knudsen@rm.dk).
 
-If you are working from a computer that does not have Citrix installed, you can get access through [https://citrix.rm.dk/](https://citrix.rm.dk). Read the guide on [how to install Citrix on a personal device](https://regionmidtjylland.sharepoint.com/:b:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/IT/How%20to%20access%20Citrix%20from%20a%20personal%20device.pdf?csf=1&web=1&e=xgQgSz).
+If you are working from a computer that does not have Citrix installed, you can get access through [https://citrix.rm.dk/](https://citrix.rm.dk). Read the guide on [how to install Citrix on a personal device](https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/IT%20(print,%20Citrix%20og%20M365)/PC%20login%20(Citrix)?csf=1&web=1&e=RKbDlP).
 For further details about how to gain access from a personal device or outside of the region network, read about [working from home](https://www.medarbejder.rm.dk/hjemmearbejde/) or [remote access](https://intranet.rm.dk/it/it-support/fjernadgang/). 
 
 -   **Personal drives**: Regional employees have a personal OneDrive and a personal drive through "Stifinder" in
