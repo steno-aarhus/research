@@ -26,31 +26,25 @@ If you would like to get a GitHub website set up for your project under
     organisation](https://github.com/steno-aarhus).
 
 Since we'll set up the website for you, you don't need to worry about
-the technical details of how to set up a GitHub website. The only things
-you need to do are [Navigating GitHub](#navigating-github) and [Adding
-content](#adding-content-to-website).
+the technical details of how to set up a GitHub website. 
 
 If you would like a more complex website with multiple pages, you might
 want to add them in the navigation bar at the top of the website (see
-section below on [Multi-page websites](#multi-page).
+section below on [Multi-page websites](#multi-page)).
 
 ## :compass: Navigating GitHub {#navigating-github}
 
 To add content to a GitHub website, you first need to be able to
-navigate GitHub and know some of the basics of how GitHub works. For a
+navigate GitHub and know some of the basics of how Git and GitHub works. For a
 quick introduction to GitHub, check out the [navigating a GitHub
-repository](/contributing/navigating-github.md) guide.
+repository](/contributing/navigating-github.md) guide. 
 
-::: callout-tip
-## Want to learn more about GitHub?
-
-If you want to learn more about GitHub, we recommend this [Introduction
-to GitHub](https://github-intro.rostools.org/) workshop. All the
-material is on the website and you can work through it at your own pace.
+We recommend that you go through the content of the [Introduction
+to GitHub](https://github-intro.rostools.org/) workshop as well. All the
+material is on the website and you can go over it at your own pace.
 It's designed to be a gentle 3-hour introduction to GitHub, and it
 covers the basics of how to add, edit, and delete files and folders on
 GitHub.
-:::
 
 ## :pencil2: Adding content to a GitHub website {#adding-content-to-website}
 
