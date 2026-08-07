@@ -188,6 +188,21 @@ To test (some of the) the machine-checkable parts of a website's accessibility, 
 
 This will produce an accessibility report and flag potential issues that you can try to work through to improve your website's accessibility.
 
+## Useful resources
+
+Below is a listing of useful resources. Many of them are also mentioned above.
+
+### Git and GitHub
+
+- [Introduction to GitHub](https://github.com/rostools/github-intro): The content of a 3-hour workshop introducing Git and GitHub with short and simple exercises. 
+- [Git's](https://git-scm.com/) documentation
+- [GitHub's](https://docs.github.com/en) documentation.
+
+### Website development
+
+- [Quarto's](https://quarto.org/) documentation: Since we use Quarto for the websites, the main place to look for help is within their docs. E.g., [Markdown basics](https://quarto.org/docs/authoring/markdown-basics.html) and [Website navigation](https://quarto.org/docs/websites/website-navigation.html). 
+
+For more advanced development and to preview your website locally, you can download [VS Code](https://code.visualstudio.com/download?_exp_download=fb315fc982) and use the [Quarto CLI](https://quarto.org/docs/get-started/).
 
 ## Asking for help
 
