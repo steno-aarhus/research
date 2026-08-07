@@ -3,7 +3,19 @@ title: "Basics of GitHub websites"
 order: 6
 description: |
   A guide on making and editing websites in the `steno-aarhus` GitHub organisation.
+author:
+  - name: Signe Kirk Brødbæk
+    affiliations:
+      - ref: clin-au
+metadata-files: 
+  - ../_affiliations.yml
 ---
+
+::: callout-important
+While we can set up a website in the `steno-aarhus` GitHub organisation for you, and we can help you getting started, your website is your responsibility. This includes e.g., the content, structure, and [web accessibility](#web-accessibility). 
+
+See the list of [useful resources](#useful-resources) below.
+:::
 
 ## Getting started
 
@@ -26,33 +38,27 @@ If you would like to get a GitHub website set up for your project under
     organisation](https://github.com/steno-aarhus).
 
 Since we'll set up the website for you, you don't need to worry about
-the technical details of how to set up a GitHub website. The only things
-you need to do are [Navigating GitHub](#navigating-github) and [Adding
-content](#adding-content-to-website).
+the technical details of how to set up a GitHub website. 
 
 If you would like a more complex website with multiple pages, you might
 want to add them in the navigation bar at the top of the website (see
-section below on [Multi-page websites](#multi-page).
+section below on [Multi-page websites](#multi-page)).
 
-## :compass: Navigating GitHub {#navigating-github}
+## Navigating GitHub
 
 To add content to a GitHub website, you first need to be able to
-navigate GitHub and know some of the basics of how GitHub works. For a
+navigate GitHub and know some of the basics of how Git and GitHub works. For a
 quick introduction to GitHub, check out the [navigating a GitHub
-repository](/contributing/navigating-github.md) guide.
+repository](/contributing/navigating-github.md) guide. 
 
-::: callout-tip
-## Want to learn more about GitHub?
-
-If you want to learn more about GitHub, we recommend this [Introduction
-to GitHub](https://github-intro.rostools.org/) workshop. All the
-material is on the website and you can work through it at your own pace.
+We recommend that you go through the content of the [Introduction
+to GitHub](https://github-intro.rostools.org/) workshop as well. All the
+material is on the website and you can go over it at your own pace.
 It's designed to be a gentle 3-hour introduction to GitHub, and it
 covers the basics of how to add, edit, and delete files and folders on
 GitHub.
-:::
 
-## :pencil2: Adding content to a GitHub website {#adding-content-to-website}
+## Adding content to a GitHub website {#adding-content-to-website}
 
 The `steno-aarhus` websites are built using
 [Quarto](https://quarto.org/) and the content is written in a format
@@ -72,7 +78,7 @@ write in Markdown, check out our [guide](writing-markdown.md) or the
 [Quarto
 documentation](https://quarto.org/docs/authoring/markdown-basics.html).
 
-## :books: Learn from others
+## Learn from others
 
 You can go to [steno-aarhus](https://github.com/steno-aarhus) on GitHub
 and take a look at other GitHub websites. This is an easy way to see how
@@ -179,7 +185,38 @@ See the [Quarto
 documentation](https://quarto.org/docs/websites/website-navigation.html#top-navigation)
 for more information on how to set up navigation in your Quarto project.
 
-## :raising_hand_woman: Asking for help
+## Web accessibility 
+
+Web accessibility is the practice of designing websites in a way so people with disabilities can access and use them, giving more users equal access to information and functionality.
+
+Web accessibility is complex and many-folded, as exemplified by the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/).
+
+To test (some of the) the machine-checkable parts of a website's accessibility, you can use Google Chrome's [Lighthouse](https://developer.chrome.com/docs/lighthouse/) extension:
+
+1. Open Google Chrome
+2. Right click on the page and select "Inspect"
+3. In the navigation bar in the newly opened sidebar, click the "Lighthouse" tab. You might have to click the arrow to be able to see "Lighthouse".
+3. In the Lighthouse tab under "Categories" check "Accessibility". Then click the "Analyze page load" button.
+
+This will produce an accessibility report and flag potential issues that you can try to work through to improve your website's accessibility.
+
+## Useful resources
+
+Below is a listing of useful resources. Many of them are also mentioned above.
+
+### Git and GitHub
+
+- [Introduction to GitHub](https://github.com/rostools/github-intro): The content of a 3-hour workshop introducing Git and GitHub with short and simple exercises. 
+- [Git's](https://git-scm.com/) documentation
+- [GitHub's](https://docs.github.com/en) documentation.
+
+### Website development
+
+- [Quarto's](https://quarto.org/) documentation: Since we use Quarto for the websites, the main place to look for help is within their docs. E.g., [Markdown basics](https://quarto.org/docs/authoring/markdown-basics.html) and [Website navigation](https://quarto.org/docs/websites/website-navigation.html). 
+
+For more advanced development and to preview your website locally, you can download [VS Code](https://code.visualstudio.com/download?_exp_download=fb315fc982) and use the [Quarto CLI](https://quarto.org/docs/get-started/).
+
+## Asking for help
 
 If you have any questions or need help with anything more specific in
 regards to your GitHub website, please reach out to either Luke Johnston
