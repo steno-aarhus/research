@@ -27,7 +27,7 @@ metadata-files:
 
 2.  On the wired tablet controller choose: Video call and choose "Zoom"
     from the "Favourites" tab. The number that is called is
-    "109.105.112.236"
+    "**109.105.112.236**"
 
 3.  In the prompt that shows up on the screen, enter meeting ID and join
     the Zoom meeting. **Note:** *The user account has to be licensed to
@@ -61,7 +61,7 @@ metadata-files:
 
 3.	On the wired tablet controller choose: "Video call"
 
-4.	Choose "-Region Midt- Teams møde (SIP)" from the "Favourites" tab.
+4.	Choose "teams@meet.rm.dk" from the "Favourites" tab.
 
 5.	In the prompt that shows up on the screen, enter the video meeting ID (listed under "Deltag med en videomøde-enhed") followed by # and join the Teams meeting.
 
