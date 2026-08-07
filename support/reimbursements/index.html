@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -15,10 +15,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -41,14 +44,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-b2decb1deadbaa156a00df29d0031ec9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-65f4313a2293a1db25a196f505ddfda3.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-b2decb1deadbaa156a00df29d0031ec9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b540b6f04bd439ed7a1e576ece92db15.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-6a537fba8eaf0f87500e2e8a30aa56d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f47a3d8de2010d7a6be52ad8781adb71.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-f47a3d8de2010d7a6be52ad8781adb71.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-f47a3d8de2010d7a6be52ad8781adb71.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-7537071b88ac672bce5e83a24179a30c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-7537071b88ac672bce5e83a24179a30c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-7537071b88ac672bce5e83a24179a30c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -169,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#persons-with-paid-employment-via-region-midtjylland" id="toc-persons-with-paid-employment-via-region-midtjylland" class="nav-link active" data-scroll-target="#persons-with-paid-employment-via-region-midtjylland">Persons with paid employment via Region Midtjylland</a></li>
-  <li><a href="#persons-with-unpaid-employment-at-rm-region-id-and-citrix-access" id="toc-persons-with-unpaid-employment-at-rm-region-id-and-citrix-access" class="nav-link" data-scroll-target="#persons-with-unpaid-employment-at-rm-region-id-and-citrix-access">Persons with unpaid employment at RM (region ID and Citrix access)</a></li>
+  <li><a href="#persons-with-unpaid-employment-at-rm-au-employees-and-students" id="toc-persons-with-unpaid-employment-at-rm-au-employees-and-students" class="nav-link" data-scroll-target="#persons-with-unpaid-employment-at-rm-au-employees-and-students">Persons with unpaid employment at RM (AU employees and students)</a></li>
   <li><a href="#other-external-parties-such-as-speakers" id="toc-other-external-parties-such-as-speakers" class="nav-link" data-scroll-target="#other-external-parties-such-as-speakers">Other external parties (such as speakers)</a></li>
   <li><a href="#foreigners-without-a-cpr-number" id="toc-foreigners-without-a-cpr-number" class="nav-link" data-scroll-target="#foreigners-without-a-cpr-number">Foreigners without a CPR number</a></li>
   </ul>
@@ -227,27 +230,17 @@ ul.task-list li input[type="checkbox"] {
 <p>For EASD specific reimbursements, contact Julie Knudsen (<a href="mailto:julie.knudsen@rm.dk" class="email">julie.knudsen@rm.dk</a>).</p>
 <section id="persons-with-paid-employment-via-region-midtjylland" class="level2">
 <h2 class="anchored" data-anchor-id="persons-with-paid-employment-via-region-midtjylland">Persons with paid employment via Region Midtjylland</h2>
-<p>Reimbursements of expenses related to driving to and from meetings (including parking and ferry ticket) must be created by the user themselves via the “MinLøn” app on their phone.</p>
-<p>Guide to the app (in Danish): <a href="https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/">Indberetning i MinLøn appen - Medarbejder.rm.dk</a>.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Receipts can only be attached as pictures (and not as documents).</p>
-</div>
-</div>
-<p>Reimbusements of other expenses such as plane tickets, bus tickets, meals or accommodation, must be done through the digital form <strong>“Refusion af udlæg øvrige og kursus”</strong>, which is available on the AUH Intranet under the tab “<a href="http://auh.intranet.rm.dk/min-side/">Min side</a>”.</p>
+<p>All reimbursements of expenses (including mileage) must be created by the user themselves via the “MinLøn” app on their phone. Guides to reimbursement are available here: <a href="https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/Refusion%20af%20udl%C3%A6g%20og%20k%C3%B8rsel%20(medarbejder)?csf=1&amp;web=1&amp;e=ZjSTcq">sharepoint.com/AUHSTDIC/Fælles/Vejledninger</a> (In both Danish and English)</p>
+<p>Read more about the MinLøn app (in Danish):</p>
+<ul>
+<li><a href="https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/befordringsgodtgorelsen/indberetning-af-befordring-i-korselsapp-korsel-og-udlag/">Indberetning af kørsel i MinLøn appen: Medarbejder.rm.dk</a>.</li>
+<li><a href="https://www.medarbejder.rm.dk/ansattelsesforhold/lon-lonforhandling-og-overenskomst/lon-og-lonforhandling/udbetaling-af-udlag-via-minlon-app/">Udbetaling af udlæg via MinLøn appen: Medarbejder.rm.dk</a></li>
+</ul>
 <p>Contact Julie Knudsen <a href="mailto:julie.knudsen@rm.dk">Julie.Knudsen@rm.dk</a> if you have questions.</p>
 </section>
-<section id="persons-with-unpaid-employment-at-rm-region-id-and-citrix-access" class="level2">
-<h2 class="anchored" data-anchor-id="persons-with-unpaid-employment-at-rm-region-id-and-citrix-access">Persons with unpaid employment at RM (region ID and Citrix access)</h2>
-<p>Both driving and other expenses are reimbursed via the <strong>“Refusion af udlæg øvrige og kursus”</strong> form on “<a href="http://auh.intranet.rm.dk/min-side/">Min side</a>”. Concerning driving expenses: please indicate how you have calculated the price (eg. adresses, km and rate pr. km).</p>
+<section id="persons-with-unpaid-employment-at-rm-au-employees-and-students" class="level2">
+<h2 class="anchored" data-anchor-id="persons-with-unpaid-employment-at-rm-au-employees-and-students">Persons with unpaid employment at RM (AU employees and students)</h2>
+<p>Both driving and other expenses are reimbursed via the <strong>“Refusion af udlæg øvrige - AUH”</strong> form on “<a href="http://auh.intranet.rm.dk/min-side/">Min side</a>”. Concerning driving expenses: please indicate how you have calculated the price (eg. adresses, km and rate pr. km). Guide to reimbursement is available here: <a href="https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/Honorar%20og%20godtg%C3%B8relse%20til%20eksterne?csf=1&amp;web=1&amp;e=Ivz7jz">sharepoint.com/AUHSTDIC/Fælles/Vejledninger</a></p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -258,7 +251,7 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Under “Bemærkning” please write that your employment at AUH is unpaid! Otherwise any milage reimbursements will be rejected by Accounting.</p>
+<p>Under “Bemærkning” please write that your employment at AUH is unpaid! Otherwise any reimbursements will be rejected by Accounting.</p>
 </div>
 </div>
 <p>Contact Julie Knudsen <a href="mailto:julie.knudsen@rm.dk">Julie.Knudsen@rm.dk</a> if you have questions.</p>
