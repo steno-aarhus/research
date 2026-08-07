@@ -173,6 +173,22 @@ See the [Quarto
 documentation](https://quarto.org/docs/websites/website-navigation.html#top-navigation)
 for more information on how to set up navigation in your Quarto project.
 
+## Web accessibility 
+
+Web accessibility is the practice of designing websites in a way so people with disabilities can access and use them, giving more users equal access to information and functionality.
+
+Web accessibility is complex and many-folded, as exemplified by the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/).
+
+To test (some of the) the machine-checkable parts of a website's accessibility, you can use Google Chrome's [Lighthouse](https://developer.chrome.com/docs/lighthouse/) extension:
+
+1. Open Google Chrome
+2. Right click on the page and select "Inspect"
+3. In the navigation bar in the newly opened sidebar, click the "Lighthouse" tab. You might have to click the arrow to be able to see "Lighthouse".
+3. In the Lighthouse tab under "Categories" check "Accessibility". Then click the "Analyze page load" button.
+
+This will produce an accessibility report and flag potential issues that you can try to work through to improve your website's accessibility.
+
+
 ## Asking for help
 
 If you have any questions or need help with anything more specific in
