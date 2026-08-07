@@ -5,6 +5,12 @@ description: |
   A guide on making and editing websites in the `steno-aarhus` GitHub organisation.
 ---
 
+::: callout-important
+While we can set up a website in the `steno-aarhus` GitHub organisation for you, and we can help you getting started, your website is your responsibility. This includes e.g., the content, structure, and [web accessibility](#web-accessibility). 
+
+See the list of [useful resources](#useful-resources) below.
+:::
+
 ## Getting started
 
 If you would like to get a GitHub website set up for your project under
