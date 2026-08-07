@@ -3,6 +3,12 @@ title: "Basics of GitHub websites"
 order: 6
 description: |
   A guide on making and editing websites in the `steno-aarhus` GitHub organisation.
+author:
+  - name: Signe Kirk Brødbæk
+    affiliations:
+      - ref: clin-au
+metadata-files: 
+  - ../_affiliations.yml
 ---
 
 ::: callout-important
