@@ -1,7 +1,8 @@
 ---
 title: "General practicalities"
 description: Some basic setup and practicalities, like office supplies.
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen

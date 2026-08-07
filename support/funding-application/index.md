@@ -3,7 +3,8 @@ title: "Funding applications"
 description: |
   Places to find sources of funding.
 date: "2023-06-26"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Luke W. Johnston

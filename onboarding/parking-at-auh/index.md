@@ -2,7 +2,8 @@
 title: "Parking at Aarhus University Hospital (AUH)"
 description: Information for parking at the hospital, as an AU or RM employee.
 date: "2023-04-14"
-date-modified: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 author:
     # Order alphabetical by last name
   - name: Julie Knudsen

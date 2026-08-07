@@ -20,9 +20,6 @@ contributes:
       navbar:
         pinned: true
         tools:
-        - icon: github
-          href: "https://github.com/steno-aarhus/"
-          aria-label: "GitHub icon: Link to SDCA GitHub organization page"
         - icon: globe
           href: "https://steno-aarhus.github.io"
           aria-label: "Globe icon: Link to the Steno Aarhus GitHub landing webpage for all other Steno Aarhus projects"

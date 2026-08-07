@@ -1,6 +1,7 @@
 ---
 title: Booking meeting rooms at Forum
-date: last-modified
+# Update this whenever a change has been made.
+# date-modified: ""
 description: |
   How to book rooms for meetings in the Forum building at AUH.
 author:
