@@ -32,7 +32,7 @@ If you would like a more complex website with multiple pages, you might
 want to add them in the navigation bar at the top of the website (see
 section below on [Multi-page websites](#multi-page)).
 
-## :compass: Navigating GitHub {#navigating-github}
+## Navigating GitHub
 
 To add content to a GitHub website, you first need to be able to
 navigate GitHub and know some of the basics of how Git and GitHub works. For a
@@ -46,7 +46,7 @@ It's designed to be a gentle 3-hour introduction to GitHub, and it
 covers the basics of how to add, edit, and delete files and folders on
 GitHub.
 
-## :pencil2: Adding content to a GitHub website {#adding-content-to-website}
+## Adding content to a GitHub website {#adding-content-to-website}
 
 The `steno-aarhus` websites are built using
 [Quarto](https://quarto.org/) and the content is written in a format
@@ -66,7 +66,7 @@ write in Markdown, check out our [guide](writing-markdown.md) or the
 [Quarto
 documentation](https://quarto.org/docs/authoring/markdown-basics.html).
 
-## :books: Learn from others
+## Learn from others
 
 You can go to [steno-aarhus](https://github.com/steno-aarhus) on GitHub
 and take a look at other GitHub websites. This is an easy way to see how
@@ -173,7 +173,7 @@ See the [Quarto
 documentation](https://quarto.org/docs/websites/website-navigation.html#top-navigation)
 for more information on how to set up navigation in your Quarto project.
 
-## :raising_hand_woman: Asking for help
+## Asking for help
 
 If you have any questions or need help with anything more specific in
 regards to your GitHub website, please reach out to either Luke Johnston
