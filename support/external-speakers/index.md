@@ -9,6 +9,8 @@ author:
   - name: Julie Knudsen
     affiliations:
       - ref: sdca
+metadata-files: 
+  - ../../_affiliations.yml
 ---
 
 ## Payment of external parties for presentations, seminars, workshops etc.
