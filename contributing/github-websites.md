@@ -191,14 +191,7 @@ Web accessibility is the practice of designing websites in a way so people with 
 
 Web accessibility is complex and many-folded, as exemplified by the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/).
 
-To test (some of the) the machine-checkable parts of a website's accessibility, you can use Google Chrome's [Lighthouse](https://developer.chrome.com/docs/lighthouse/) extension:
-
-1. Open Google Chrome
-2. Right click on the page and select "Inspect"
-3. In the navigation bar in the newly opened sidebar, click the "Lighthouse" tab. You might have to click the arrow to be able to see "Lighthouse".
-3. In the Lighthouse tab under "Categories" check "Accessibility". Then click the "Analyze page load" button.
-
-This will produce an accessibility report and flag potential issues that you can try to work through to improve your website's accessibility.
+To test (some of the) the machine-checkable parts of a website's accessibility, use [QualWeb](https://digst.dk/tilsyn/webtilgaengelighed/vejledning/automatisk-tilgaengelighedstest-med-qualweb/).
 
 ## Useful resources
 
