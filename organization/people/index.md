@@ -26,7 +26,7 @@ Maria Siggaard
     -   Telephone: 2370 7062
     -   Email: [marsig\@rm.dk](mailto:marsig@rm.dk){.email}
     -   Tasks: PA to the Head of Research; Niels Jessen, coordination of
-        the research area across SDCA, HR, Research Fish
+        the research area across SDCA, HR
 :::
 
 ::: column
@@ -40,23 +40,23 @@ Julie Marie Katholm Knudsen
     -   Telephone: 5197 6101
     -   Email:
         [Julie.Knudsen\@rm.dk](mailto:Julie.Knudsen@rm.dk){.email}
-    -   Tasks: Events, purchase of equipment, IT-support (RM), Github.
+    -   Tasks: Events, IT-support (RM), Github, Research Fish
 :::
 :::
 
 ::: columns
 ::: column
-![](/images/people/inger-hornbech.jpeg){.profile-pic
-fig-alt="Profile picture of Inger Hornbech"}
+![](/images/people/gitte-schneider.jpeg){.profile-pic
+fig-alt="Profile picture of Gitte Schneider"}
 
-Inger Hornbech
+Gitte Schneider
 
 :   Research secretary
 
-    -   Telephone: 2370 9089
+    -   Telephone: 
     -   Email:
-        [Inger.Hornbech\@rm.dk](mailto:Inger.Hornbech@rm.dk){.email}
-    -   Tasks: Onboarding PhD Students, allocation of office space etc.
+        [GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}
+    -   Tasks: Onboarding PhD Students, Purchase of Equipment, events
 :::
 
 ::: column
@@ -88,18 +88,5 @@ Charlotte Gimbel Rosholm
     -   Tasks: Administration of research founding related to RM and AU
 :::
 
-::: column
-![](/images/people/henriette-jaquet.jpeg){.profile-pic
-fig-alt="Profile picture of Henriette Jaquet"}
-
-Henriette Jaquet
-
-:   Research administrator
-
-    -   Telephone: 9350 8859
-    -   Email:
-        [Henriette.Jaquet\@clin.au.dk](mailto:Henriette.Jaquet@clin.au.dk){.email}
-    -   Tasks: Administration of research founding related to AU and
-        external founding
 :::
 :::
