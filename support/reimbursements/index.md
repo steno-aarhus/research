@@ -47,11 +47,6 @@ Concerning driving expenses: please indicate how you have calculated the price
 (eg. adresses, km and rate pr. km). Guide to reimbursement is available here:
 [sharepoint.com/AUHSTDIC/Fælles/Vejledninger](https://regionmidtjylland.sharepoint.com/:f:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Vejledninger/Honorar%20og%20godtg%C3%B8relse%20til%20eksterne?csf=1&web=1&e=Ivz7jz)
 
-::: callout-important
-Under "Bemærkning" please write that your employment at AUH is unpaid! Otherwise
-any reimbursements will be rejected by Accounting.
-:::
-
 Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk) if you
 have questions.
 
@@ -61,13 +56,8 @@ If you do not have an active employment at AUH you must create an invoice
 through
 [virk.dk](https://virk.dk/myndigheder/stat/ERST/selvbetjening/NemHandel_Fakturablanket/).
 You will need your MitID and the EAN number that the expense should be
-reimbursed from. If it is not possible to send an invoice, contact Julie Knudsen
-[Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk) or Inger Hornbech
-[Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk).
+reimbursed from. If it is not possible to send an invoice, contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk).
 
 ## Foreigners without a CPR number
 
-Contact Julie Knudsen [Julie.Knudsen\@rm.dk](mailto:julie.knudsen@rm.dk) or
-Inger Hornbech [Inger.Hornbech\@rm.dk](mailto:inger.hornbech@rm.dk). They will
-need your Name, Address, E-mail, Name of bank, Iban and Swift/BIC code to
-reimburse you.
+Contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk)
