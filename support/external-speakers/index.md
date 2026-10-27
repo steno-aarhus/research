@@ -68,5 +68,4 @@ fees for a service purchased by SDCA.
 
 ### Help with invoicing/reimbursement
 
-Please contact Inger Hornbech (Inger.Hornbech@rm.dk) or Julie Knudsen
-(Julie.Knudsen@rm.dk)
+Please contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk)
