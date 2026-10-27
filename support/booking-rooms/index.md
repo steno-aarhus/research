@@ -26,9 +26,9 @@ Region.
 The next way of booking rooms is through the
 [Citrix](https://citrix.rm.dk), which you can only access if you have
 MitID. After you log into Citrix, use the Search button on the top right
-corner to look for `Pronestor`.
+corner to look for `Meetings`.
 
-When it shows itself on the screen, click the icon for Pronestor. After
+When it shows itself on the screen, click the icon for Meetings. After
 it opens up, you should see a list of dates. Select the date you want to
 book by clicking the button "Ny mødebestilling". You'll be given a list
 of rooms to book. Select the start time ("start") and end time ("slut")
