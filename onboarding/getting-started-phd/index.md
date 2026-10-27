@@ -27,8 +27,8 @@ that is partly affiliated. We aim to be very inclusive, but some
 activities will only apply to students with a certain affiliation, e.g.
 some staff activities for PhD-students situated locally. If you have any
 questions regarding this, please, do not hesitate to get in touch with
-Inger Hornbech
-([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
+Gitte Schneider
+([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}).
 
 ## Start-up guide
 
@@ -43,9 +43,9 @@ Photos for the SDCA website
 
 :   Affiliated PhD students have profiles on our website: A photo and a
     short description of the PhD project. Our colleague Claus Hastrup
-    can help out with the photo, please contact Inger for an appointment
+    can help out with the photo, please contact Gitte for an appointment
     with Claus, and fill in the project form and return it to
-    Inger.
+    Gitte.
 
 PhD network and facebook
 
@@ -91,7 +91,7 @@ Journal clubs
 SDCA Alumni Network
 
 :   When you end your PhD you will no longer be part of the PhD network,
-    but you may choose to join this network. Inger Hornbech will contact
+    but you may choose to join this network. Gitte Schneider will contact
     you about that when time comes.
 
 ## Physical access and space at Forum
@@ -108,7 +108,7 @@ Office space
     equipment, please talk to your supervisor (or contact Julie Knudsen
     at [Julie.Knudsen\@rm.dk](mailto:Julie.Knudsen@rm.dk){.email}). If
     you only come to Forum a few times, you might be able to get space,
-    but you will need to contact Inger Hornbech.
+    but you will need to contact Gitte Schneider.
 
 E-learning
 
@@ -118,12 +118,12 @@ E-learning
     -   Information security - physical security
     -   Basic Resuscitation, Level 1
     -   Hand hygiene - Break the chain of infection
-    -   Fire School.
+    -   Fire School (AUH and SDCA).
 
     You will get an email notification on your RM-mail account with
     guidance to how you conduct the courses. Please notice that the
     courses are held in Danish. If you have any questions related to the
-    E-learning courses please contact Inger Hornbech.
+    E-learning courses please contact Julie Knudsen.
 
 Research in Steno's medical research lab
 
