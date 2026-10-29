@@ -19,8 +19,7 @@ You must pay to park at AUH.
 
 ## Information regarding parking for RM employees
 
-If you are employed by Central Denmark Region please contact [Inger
-Hornbech](mailto:inger.hornbech@rm.dk){.email} if you need a parking
+If you are employed by Central Denmark Region please contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email} if you need a parking
 contract at AUH.
 
 ## Information regarding parking for AU employees and others

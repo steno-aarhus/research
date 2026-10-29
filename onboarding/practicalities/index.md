@@ -40,8 +40,7 @@ RM Printer
     this
     guide](https://regionmidtjylland.service-now.com/rmsp?id=kb_article_view&sysparm_article=KB0011923&sys_kb_id=85b9b875879a2e103ef898683cbb35b4).
     Nb! The printer names start with "1_RM\_". For questions regarding the SDCA
-    printer: ask Julie Knudsen
-    ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}).
+    printer: contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}.
 
 AU Printer
 
@@ -58,14 +57,12 @@ Microsoft Office templates (for SDCA)
 Office supplies
 
 :   SDCA has a stock of office supplies in the copy room on Plan 3 (Niche
-    A301-016). If something you need isn't there, write it on the list or
-    contact ([auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}).
+    A301-016). If something you need isn't there, contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}.
     There is also a larger AUH common depot at Intersection (Krydspunkt) G101.
 
 Letters and other mail
 
-:   For sending mail, contact Inger Hornbech
-    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
+:   For sending mail, contact [auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}.
 
 MasterCard
 
@@ -101,7 +98,7 @@ EAN nr.: 5798002761498\
 REFERENCE TEXT: YOUR NAME AND PROJECT NUMBER
 
 If you are in doubt about the project number, then contact your research
-administrator (Henriette or Charlotte)
+administrator.
 
 Meeting rooms
 

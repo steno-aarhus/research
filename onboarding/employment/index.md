@@ -66,15 +66,13 @@ MUS talks
 Calling in sick for yourself or a dependent (like your child)
 
 :   Depends on your terms of employment. - **For PhD students:** email
-    your supervisor. - **For postdocs at SDCA:** email Inger Hornbech
-    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) -
-    **For RM employment:** email Inger Hornbech
-    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email})\
+    your supervisor. - **For postdocs at SDCA:** email
+    ([auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}) -
+    **For RM employment:** email
+    ([auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email})\
     - **For AU employment:** Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette
-    Jaquet Harris
-    ([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email})
-
+    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email})
+    
     Ultimately, contact whoever administers your or your supervisor's
     grants.
 
@@ -82,17 +80,12 @@ Holidays and "omsorgsdage"
 
 :   The exact amount of holidays and time off you get depend on your
     terms of employment. For PhD students email your supervisor. For
-    postdocs and other researchers in SDCA, email Inger Hornbech for
-    registration if you have an RM employment or Charlotte Rosholm or
-    Henriette Jaquet if you have an AU employment.
+    postdocs and other researchers in SDCA, email ([auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email}) for
+    registration if you have an RM employment or Charlotte Rosholm if you have an AU employment.
 
 Maternity/paternity leave and other leaves
 
 :   RM employment: ask Maria Siggaard
     ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}). AU employment:
-    please contact Charlotte Rosholm
-    ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or Henriette
-    Jaquet
-    ([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}).
-    Please refer to the one who administers yours or your supervisor's
+    please contact the one who administers yours or your supervisor's
     grants.

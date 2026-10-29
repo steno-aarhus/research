@@ -39,19 +39,18 @@ the entire hospital.
 
 ## Access
 
-Contact Inger Hornbech
-([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) who
+Contact Gitte Schneider
+([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}) who
 registers you in BSK and gives you access.
 
 The access card itself is picked up in the Photo Box (Krydspunkt J110,
 lokale J116-106), where you will also have your picture taken.
 
-To gain access to special locations (e.g. Cell culture) contact Inger
-Hornbech ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}).
+To gain access to special locations (e.g. Cell culture) contact Gitte Schneider ([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}).
 
 ## Allocation of office space
 
-Contact Inger Hornbech
+Contact 
 ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for
 allocation of office space.
 
@@ -83,8 +82,8 @@ necessary boxes.
 You log on to Citrix from AU's computer, with your region ID and MitID
 or use a region computer with a region ID and access card.
 
-If you need help getting started contact: Inger Hornbech
-([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) or Julie
+If you need help getting started contact: Gitte Schneider
+([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}) or Julie
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}). In
 case of technical problems contact: ServiceDesk Sundheds IT: 784 12345
 
@@ -95,7 +94,7 @@ Via Citrix you have access to all AUH systems:
     breakdowns, Information about working environment, etc. It is also
     possible to search for departments and employees.
 -   RM mail
--   Book meeting rooms via Pronester (read more
+-   Book meeting rooms via Meetings (read more
     [here](/support/booking-rooms/))
 -   Order Technical help via Dalux. See the [Guide (in
     Danish)](/files/vejledning-bestilling-teknisk-hjaelp.pdf)
@@ -215,8 +214,8 @@ BRIK for more information).
 
 SDCA has changing facilities on Level 4 room A401-145 (women) and, on
 Level 1 (entrance A7), rooms A101-107 (women) and A101-100 (men) with
-bathing facilities. Contact Julie Knudsen,
-([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) about
+bathing facilities. Contact Gitte Schneider,
+([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}) about
 lockers in the changing rooms.
 
 ## Rooms for Chemical storage

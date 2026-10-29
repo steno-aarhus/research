@@ -29,11 +29,11 @@ responsible to this board.
 
 -   Poul Michaelsen, Head of Corporate Management, Central Denmark
     Region
--   Mette Fjord Nielsen, Chief Nursing Officer, Hospitalsenhed Midt
+-   Kim Houlind, Medical Director, Horsens Regional Hospital
 -   Pia Ulv Helleland, CEO, Lemvig Municipality
 -   Anne-Mette Hvas, Dean, Health - Aarhus University
--   Susanne Lauth, Chief Nursing Officer, Aarhus University Hospital
--   Ulrik Meyer, Head of Programme, Novo Nordisk Foundation
+-   Mette Bærentsen, Chief Nursing Officer, Aarhus University Hospital
+-   Marie-Louise Hartoft-Nielsen, Vice President, Novo Nordisk Foundation
 
 For more information, please visit:
 

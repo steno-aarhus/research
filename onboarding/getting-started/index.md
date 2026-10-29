@@ -73,8 +73,7 @@ Read through this website, especially the "Onboarding" section, which is
 targeted to new employees. If you have a question that isn't answered here, open
 an [Issue](https://github.com/steno-aarhus/research/issues/new) (needs a
 [GitHub](https://github.com/join) account) to let us know that we need to add
-this information. Then email either Inger Hornbech
-([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) or Julie Knudsen
+this information. Then email Julie Knudsen
 ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}) to get your
 question (hopefully) answered.
 
@@ -84,8 +83,8 @@ At the very least, you will probably need to get an **access/ID card** for
 entering AUH and Forum.
 
 - If you have an RM ID-card: You can get access to SDCA by emailing your User ID
-  to Inger Hornbech or Julie Knudsen.
-- If you don't have an RM ID-card: Inger or Julie will need your CPR number to
+  to Gitte Schneider.
+- If you don't have an RM ID-card: Gitte will need your CPR number to
   create an User ID for you. After that you will need to create a password
   ([follow this
   guide](https://www.medarbejder.rm.dk/ansattelsesforhold/adgang-til-it-og-dore/ny-medarbejder-nyt-id-kort/))
@@ -99,17 +98,15 @@ entering AUH and Forum.
 If you have questions about your salary or contract, its best to ask whoever
 administers yours or your supervisor's grants. That would be Maria Siggaard
 ([marsig\@rm.dk](mailto:marsig@rm.dk){.email}) if employment is at RM or
-Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) or
-Henriette Jaquet Harrit
-([henriette.jaquet\@clin.au.dk](mailto:henriette.jaquet@clin.au.dk){.email}) if
+Charlotte Rosholm ([cro\@clin.au.dk](mailto:cro@clin.au.dk){.email}) if
 employment is at AU.
 
 ## Learn more about SDCA!
 
 Did you know that Steno Diabetes Center Aarhus is a young organization that
 started in 2018? You'll find background information and some practical
-information in the Emento app. To get access you will need a login. Please
-contact Inger Hornbech.
+information in the Emento "_Guide" app. To get access you will need a login. Please
+contact Julie Knudsen.
 
 You can also find useful information about the organisation and research at
 Steno Diabetes Center Aarhus in Region Midtjylland on our
