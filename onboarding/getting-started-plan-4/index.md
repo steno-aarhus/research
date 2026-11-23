@@ -82,8 +82,7 @@ necessary boxes.
 You log on to Citrix from AU's computer, with your region ID and MitID
 or use a region computer with a region ID and access card.
 
-If you need help getting started contact: Gitte Schneider
-([GISCHN\@rm.dk](mailto:GISCHN@rm.dk){.email}) or Julie
+If you need help getting started contact Julie
 Knudsen ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}). In
 case of technical problems contact: ServiceDesk Sundheds IT: 784 12345
 
