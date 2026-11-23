@@ -37,9 +37,6 @@ with specific questions.
 -   Julie Knudsen
     ([julie.knudsen\@rm.dk](mailto:julie.knudsen@rm.dk){.email}):
     Research secretary
--   Inger Hornbech
-    ([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}):
-    Secretary
 -   Ole Emil Andersen
     ([oleemil\@clin.au.dk](mailto:oleemil@clin.au.dk){.email})
 -   Luke W. Johnston
