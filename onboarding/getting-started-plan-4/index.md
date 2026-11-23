@@ -51,7 +51,7 @@ To gain access to special locations (e.g. Cell culture) contact Gitte Schneider 
 ## Allocation of office space
 
 Contact 
-([inger.hornbech\@rm.dk](mailto:inger.hornbech@rm.dk){.email}) for
+[auh.sdca.teamshr@rm.dk](mailto:auh.sdca.teamshr@rm.dk){.email} for
 allocation of office space.
 
 ## Refrigeration and freezing space
